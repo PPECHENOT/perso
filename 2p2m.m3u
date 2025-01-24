@@ -1,0 +1,194 @@
+#EXTM3U url-tvg="http://2p2m.lescigales.org/tivi.xml"
+
+#EXTINF:-1 tvg-id="TF1" tvg-logo="https://2p2m.lescigales.org/logos/tf1.png" group-title="TNT",TF1
+http://king365-tv.com:2103/play/live.php?mac=00:1A:79:C1:A2:B3&stream=1149&extension=ts
+#EXTINF:-1 tvg-id="France2" tvg-logo="https://2p2m.lescigales.org/logos/france2.png" group-title="TNT",FRANCE 2
+http://king365-tv.com:2103/play/live.php?mac=00:1A:79:C1:A2:B3&stream=1150&extension=ts
+#EXTINF:-1 tvg-id="France3" tvg-logo="https://2p2m.lescigales.org/logos/france3.png" group-title="TNT",FRANCE 3
+http://king365-tv.com:2103/play/live.php?mac=00:1A:79:C1:A2:B3&stream=1151&extension=ts
+#EXTINF:-1 tvg-id="France4" tvg-logo="https://2p2m.lescigales.org/logos/france4.png" group-title="TNT",FRANCE 4
+http://king365-tv.com:2103/play/live.php?mac=00:1A:79:C1:A2:B3&stream=1152&extension=ts
+#EXTINF:-1 tvg-id="France5" tvg-logo="https://2p2m.lescigales.org/logos/france5.png" group-title="TNT",FRANCE 5
+http://king365-tv.com:2103/play/live.php?mac=00:1A:79:C1:A2:B3&stream=1153&extension=ts
+#EXTINF:-1 tvg-id="M6" tvg-logo="https://2p2m.lescigales.org/logos/m6.png" group-title="TNT",M6
+http://king365-tv.com:2103/play/live.php?mac=00:1A:79:C1:A2:B3&stream=1154&extension=ts
+#EXTINF:-1 tvg-id="Arte" tvg-logo="https://2p2m.lescigales.org/logos/arte.png" group-title="TNT",ARTE
+http://king365-tv.com:2103/play/live.php?mac=00:1A:79:C1:A2:B3&stream=37159&extension=ts
+#EXTINF:-1 tvg-id="C8" tvg-logo="https://2p2m.lescigales.org/logos/c8.png" group-title="TNT",C8
+http://king365-tv.com:2103/play/live.php?mac=00:1A:79:C1:A2:B3&stream=1640&extension=ts
+#EXTINF:-1 tvg-id="W9" tvg-logo="https://2p2m.lescigales.org/logos/w9.png" group-title="TNT",W9
+http://king365-tv.com:2103/play/live.php?mac=00:1A:79:C1:A2:B3&stream=1128&extension=ts
+#EXTINF:-1 tvg-id="TMC" tvg-logo="https://2p2m.lescigales.org/logos/tmc.png" group-title="TNT",TMC
+http://king365-tv.com:2103/play/live.php?mac=00:1A:79:C1:A2:B3&stream=1639&extension=ts
+#EXTINF:-1 tvg-id="TFX" tvg-logo="https://2p2m.lescigales.org/logos/tfx.png" group-title="TNT",TFX
+http://king365-tv.com:2103/play/live.php?mac=00:1A:79:C1:A2:B3&stream=1636&extension=ts
+#EXTINF:-1 tvg-id="NRJ12" tvg-logo="https://2p2m.lescigales.org/logos/nrj12.png" group-title="TNT",NRJ12
+http://king365-tv.com:2103/play/live.php?mac=00:1A:79:C1:A2:B3&stream=1637&extension=ts
+#EXTINF:-1 tvg-id="CStar" tvg-logo="https://2p2m.lescigales.org/logos/cstar.png" group-title="TNT",CSTAR
+http://king365-tv.com:2103/play/live.php?mac=00:1A:79:C1:A2:B3&stream=1949&extension=ts
+#EXTINF:-1 tvg-id="TF1SeriesFilms" tvg-logo="https://2p2m.lescigales.org/logos/tf1_series_films.png" group-title="TNT",TF1 SERIES FILMS
+http://king365-tv.com:2103/play/live.php?mac=00:1A:79:C1:A2:B3&stream=1224&extension=ts
+#EXTINF:-1 tvg-id="6ter" tvg-logo="https://2p2m.lescigales.org/logos/6ter.png" group-title="TNT",6TER
+http://king365-tv.com:2103/play/live.php?mac=00:1A:79:C1:A2:B3&stream=1950&extension=ts
+#EXTINF:-1 tvg-id="RMCStory" tvg-logo="https://2p2m.lescigales.org/logos/rmc_story.png" group-title="TNT",RMC STORY
+http://king365-tv.com:2103/play/live.php?mac=00:1A:79:C1:A2:B3&stream=1951&extension=ts
+#EXTINF:-1 tvg-id="Cherie25" tvg-logo="https://2p2m.lescigales.org/logos/cherie25.png" group-title="TNT",CHERIE 25
+http://king365-tv.com:2103/play/live.php?mac=00:1A:79:C1:A2:B3&stream=1919&extension=ts
+#EXTINF:-1 tvg-id="LCP" tvg-logo="https://2p2m.lescigales.org/logos/lcp.png" group-title="TNT",LCP
+http://king365-tv.com:2103/play/live.php?mac=00:1A:79:C1:A2:B3&stream=1148&extension=ts
+#EXTINF:-1 tvg-id="Gulli" tvg-logo="https://2p2m.lescigales.org/logos/gulli.png" group-title="TNT",GULLI
+http://king365-tv.com:2103/play/live.php?mac=00:1A:79:C1:A2:B3&stream=28&extension=ts
+
+#EXTINF:-1 tvg-id="CanalPlus" tvg-logo="https://2p2m.lescigales.org/logos/canal+.png" group-title="CINEMA",CANAL+
+http://king365-tv.com:2103/play/live.php?mac=00:1A:79:C1:A2:B3&stream=37169&extension=ts
+#EXTINF:-1 tvg-id="CanalPlusCinema" tvg-logo="https://2p2m.lescigales.org/logos/canal+_cinema(s).png" group-title="CINEMA",CANAL+ CINEMA(S)
+http://king365-tv.com:2103/play/live.php?mac=00:1A:79:C1:A2:B3&stream=12788&extension=ts
+#EXTINF:-1 tvg-id="CanalPlusBoxOffice" tvg-logo="https://2p2m.lescigales.org/logos/canal+_box_office.png" group-title="CINEMA",CANAL+ BOX OFFICE
+http://king365-tv.com:2103/play/live.php?mac=00:1A:79:C1:A2:B3&stream=97972&extension=ts
+#EXTINF:-1 tvg-id="CanalPlusGrandEcran" tvg-logo="https://2p2m.lescigales.org/logos/canal+_grand_ecran.png" group-title="CINEMA",CANAL+ GRAND ECRAN
+http://king365-tv.com:2103/play/live.php?mac=00:1A:79:C1:A2:B3&stream=37725&extension=ts
+#EXTINF:-1 tvg-id="OCS" tvg-logo="https://2p2m.lescigales.org/logos/cine+_ocs.png" group-title="CINEMA",CINE+ OCS
+http://king365-tv.com:2103/play/live.php?mac=00:1A:79:C1:A2:B3&stream=1914&extension=ts
+#EXTINF:-1 tvg-id="CinePlusFrisson" tvg-logo="https://2p2m.lescigales.org/logos/cine+_frisson.png" group-title="CINEMA",CINE+ FRISSON
+http://king365-tv.com:2103/play/live.php?mac=00:1A:79:C1:A2:B3&stream=1912&extension=ts
+#EXTINF:-1 tvg-id="CinePlusEmotion" tvg-logo="https://2p2m.lescigales.org/logos/cine+_emotion.png" group-title="CINEMA",CINE+ EMOTION
+http://king365-tv.com:2103/play/live.php?mac=00:1A:79:C1:A2:B3&stream=23180&extension=ts
+#EXTINF:-1 tvg-id="CinePlusFamily" tvg-logo="https://2p2m.lescigales.org/logos/cine+_family.png" group-title="CINEMA",CINE+ FAMILY
+http://king365-tv.com:2103/play/live.php?mac=00:1A:79:C1:A2:B3&stream=1913&extension=ts
+#EXTINF:-1 tvg-id="CinePlusFestival" tvg-logo="https://2p2m.lescigales.org/logos/cine+_festival.png" group-title="CINEMA",CINE+ FESTIVAL
+http://king365-tv.com:2103/play/live.php?mac=00:1A:79:C1:A2:B3&stream=1920&extension=ts
+#EXTINF:-1 tvg-id="CinePlusClassic" tvg-logo="https://2p2m.lescigales.org/logos/cine+_classic.png" group-title="CINEMA",CINE+ CLASSIC
+http://king365-tv.com:2103/play/live.php?mac=00:1A:79:C1:A2:B3&stream=1911&extension=ts
+#EXTINF:-1 tvg-id="TCM" tvg-logo="https://2p2m.lescigales.org/logos/tcm_cinema.png" group-title="CINEMA",TCM CINEMA
+http://king365-tv.com:2103/play/live.php?mac=00:1A:79:C1:A2:B3&stream=12083&extension=ts
+#EXTINF:-1 tvg-id="ParamountChannel" tvg-logo="https://2p2m.lescigales.org/logos/paramount_channel.png" group-title="CINEMA",PARAMOUNT CHANNEL
+http://king365-tv.com:2103/play/live.php?mac=00:1A:79:C1:A2:B3&stream=1962&extension=ts
+#EXTINF:-1 tvg-id="Action" tvg-logo="https://2p2m.lescigales.org/logos/action.png" group-title="CINEMA",ACTION
+http://king365-tv.com:2103/play/live.php?mac=00:1A:79:C1:A2:B3&stream=2548&extension=ts
+
+#EXTINF:-1 tvg-id="CanalPlusSeries" tvg-logo="https://2p2m.lescigales.org/logos/canal+_series.png" group-title="SERIES",CANAL+ SERIES
+http://king365-tv.com:2103/play/live.php?mac=00:1A:79:C1:A2:B3&stream=37170&extension=ts
+#EXTINF:-1 tvg-id="PolarPlus" tvg-logo="https://2p2m.lescigales.org/logos/polar+.png" group-title="SERIES",POLAR+
+http://king365-tv.com:2103/play/live.php?mac=00:1A:79:C1:A2:B3&stream=1807&extension=ts
+#EXTINF:-1 tvg-id="ComediePlus" tvg-logo="https://2p2m.lescigales.org/logos/comedie+.png" group-title="SERIES",COMEDIE+
+http://king365-tv.com:2103/play/live.php?mac=00:1A:79:C1:A2:B3&stream=1918&extension=ts
+#EXTINF:-1 tvg-id="13Rue" tvg-logo="https://2p2m.lescigales.org/logos/13eme_rue.png" group-title="SERIES",13EME RUE
+http://king365-tv.com:2103/play/live.php?mac=00:1A:79:C1:A2:B3&stream=1956&extension=ts
+#EXTINF:-1 tvg-id="Syfy" tvg-logo="https://2p2m.lescigales.org/logos/syfy.png" group-title="SERIES",SYFY
+http://king365-tv.com:2103/play/live.php?mac=00:1A:79:C1:A2:B3&stream=1954&extension=ts
+#EXTINF:-1 tvg-id="WarnerTV" tvg-logo="https://2p2m.lescigales.org/logos/warner_tv.png" group-title="SERIES",WARNER TV
+http://king365-tv.com:2103/play/live.php?mac=00:1A:79:C1:A2:B3&stream=2118&extension=ts
+#EXTINF:-1 tvg-id="SerieClub" tvg-logo="https://2p2m.lescigales.org/logos/serie_club.png" group-title="SERIES",SERIECLUB
+http://king365-tv.com:2103/play/live.php?mac=00:1A:79:C1:A2:B3&stream=1917&extension=ts
+#EXTINF:-1 tvg-id="TvBreizh" tvg-logo="https://2p2m.lescigales.org/logos/tvbreizh.png" group-title="SERIES",TV BREIZH
+http://king365-tv.com:2103/play/live.php?mac=00:1A:79:C1:A2:B3&stream=1959&extension=ts
+#EXTINF:-1 tvg-id="Teva" tvg-logo="https://2p2m.lescigales.org/logos/teva.png" group-title="SERIES",TEVA
+http://king365-tv.com:2103/play/live.php?mac=00:1A:79:C1:A2:B3&stream=2035&extension=ts
+#EXTINF:-1 tvg-id="ParisPremiere" tvg-logo="https://2p2m.lescigales.org/logos/paris_premiere.png" group-title="SERIES",PARIS PREMIERE
+http://king365-tv.com:2103/play/live.php?mac=00:1A:79:C1:A2:B3&stream=2036&extension=ts
+#EXTINF:-1 tvg-id="RTL9" tvg-logo="https://2p2m.lescigales.org/logos/rtl9.png" group-title="SERIES",RTL9
+http://king365-tv.com:2103/play/live.php?mac=00:1A:79:C1:A2:B3&stream=2038&extension=ts
+
+#EXTINF:-1 tvg-id="CanalPlusDocs" tvg-logo="https://2p2m.lescigales.org/logos/canal+_docs.png" group-title="CULTURE",CANAL+ DOCS
+http://king365-tv.com:2103/play/live.php?mac=00:1A:79:C1:A2:B3&stream=7015&extension=ts
+#EXTINF:-1 tvg-id="NationalGeographic" tvg-logo="https://2p2m.lescigales.org/logos/national_geographic.png" group-title="CULTURE",NATIONAL GEOGRAPHIC
+http://king365-tv.com:2103/play/live.php?mac=00:1A:79:C1:A2:B3&stream=1557&extension=ts
+#EXTINF:-1 tvg-id="NatGeoWild" tvg-logo="https://2p2m.lescigales.org/logos/nat_geo_wild.png" group-title="CULTURE",NAT GEO WILD
+http://king365-tv.com:2103/play/live.php?mac=00:1A:79:C1:A2:B3&stream=1556&extension=ts
+#EXTINF:-1 tvg-id="ScienceEtVieTV" tvg-logo="https://2p2m.lescigales.org/logos/science_et_vie_tv.png" group-title="CULTURE",SCIENCE & VIE
+http://king365-tv.com:2103/play/live.php?mac=00:1A:79:C1:A2:B3&stream=1840&extension=ts
+#EXTINF:-1 tvg-id="UshuaiaTV" tvg-logo="https://2p2m.lescigales.org/logos/ushuaia_tv.png" group-title="CULTURE",USHUAIA TV
+http://king365-tv.com:2103/play/live.php?mac=00:1A:79:C1:A2:B3&stream=1032&extension=ts
+#EXTINF:-1 tvg-id="HistoireTV" tvg-logo="https://2p2m.lescigales.org/logos/histoire_tv.png" group-title="CULTURE",HISTOIRE
+http://king365-tv.com:2103/play/live.php?mac=00:1A:79:C1:A2:B3&stream=1904&extension=ts
+#EXTINF:-1 tvg-id="TouteHistoire" tvg-logo="https://2p2m.lescigales.org/logos/toute_lhistoire.png" group-title="CULTURE",TOUTE L'HISTOIRE
+http://king365-tv.com:2103/play/live.php?mac=00:1A:79:C1:A2:B3&stream=20313&extension=ts
+#EXTINF:-1 tvg-id="MuseumTV" tvg-logo="https://noos.vip/images/eb0ea0bc6c91e1e8058ddddfa6192ce7.png" group-title="CULTURE",MUSEUM TV
+http://king365-tv.com:2103/play/live.php?mac=00:1A:79:C1:A2:B3&stream=13183&extension=ts
+
+#EXTINF:-1 tvg-id="RTS1" tvg-logo="https://2p2m.lescigales.org/logos/rts1.png" group-title="EUROPE",RTS 1
+http://king365-tv.com:2103/play/live.php?mac=00:1A:79:C1:A2:B3&stream=12061&extension=ts
+#EXTINF:-1 tvg-id="RTS2" tvg-logo="https://2p2m.lescigales.org/logos/rts2.png" group-title="EUROPE",RTS 2
+http://king365-tv.com:2103/play/live.php?mac=00:1A:79:C1:A2:B3&stream=12060&extension=ts
+#EXTINF:-1 tvg-id="LaUne" tvg-logo="http://2p2m.lescigales.org/logos/la_une.png" group-title="EUROPE",LA UNE
+http://king365-tv.com:2103/play/live.php?mac=00:1A:79:C1:A2:B3&stream=335&extension=ts
+#EXTINF:-1 tvg-id="LaTrois" tvg-logo="http://2p2m.lescigales.org/logos/la_trois.png" group-title="EUROPE",LA TROIS
+http://king365-tv.com:2103/play/live.php?mac=00:1A:79:C1:A2:B3&stream=37752&extension=ts
+
+#EXTINF:-1 tvg-id="LEquipe" tvg-logo="https://2p2m.lescigales.org/logos/lequipe.png" group-title="SPORT",L'EQUIPE
+https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/lequipe/la-chaine-l-equipe-en-direct-dm.m3u8
+#EXTINF:-1 tvg-id="CanalPlusSport" tvg-logo="https://2p2m.lescigales.org/logos/canal+_sport.png" group-title="SPORT",CANAL+ SPORT
+http://king365-tv.com:2103/play/live.php?mac=00:1A:79:C1:A2:B3&stream=12785&extension=ts
+#EXTINF:-1 tvg-id="CanalPlusSport360" tvg-logo="https://2p2m.lescigales.org/logos/canal+_sport_360.png" group-title="SPORT",CANAL+ SPORT 360
+http://king365-tv.com:2103/play/live.php?mac=00:1A:79:C1:A2:B3&stream=8720&extension=ts
+#EXTINF:-1 tvg-id="Eurosport1" tvg-logo="https://2p2m.lescigales.org/logos/eurosport1.png" group-title="SPORT",EUROSPORT 1
+http://king365-tv.com:2103/play/live.php?mac=00:1A:79:C1:A2:B3&stream=1846&extension=ts
+#EXTINF:-1 tvg-id="Eurosport2" tvg-logo="https://2p2m.lescigales.org/logos/eurosport2.png" group-title="SPORT",EUROSPORT 2
+http://king365-tv.com:2103/play/live.php?mac=00:1A:79:C1:A2:B3&stream=1847&extension=ts
+#EXTINF:-1 tvg-id="BeinSports1" tvg-logo="https://2p2m.lescigales.org/logos/bein_sports1.png" group-title="SPORT",BEIN SPORTS 1
+http://king365-tv.com:2103/play/live.php?mac=00:1A:79:C1:A2:B3&stream=1287&extension=ts
+#EXTINF:-1 tvg-id="BeinSports2" tvg-logo="https://2p2m.lescigales.org/logos/bein_sports2.png" group-title="SPORT",BEIN SPORTS 2
+http://king365-tv.com:2103/play/live.php?mac=00:1A:79:C1:A2:B3&stream=1286&extension=ts
+#EXTINF:-1 tvg-id="BeinSports3" tvg-logo="https://2p2m.lescigales.org/logos/bein_sports3.png" group-title="SPORT",BEIN SPORTS 3
+http://king365-tv.com:2103/play/live.php?mac=00:1A:79:C1:A2:B3&stream=1285&extension=ts
+#EXTINF:-1 tvg-id="SportEnFrance" tvg-logo="https://2p2m.lescigales.org/logos/sport_en_france.png" group-title="SPORT",SPORT EN FRANCE
+http://king365-tv.com:2103/play/live.php?mac=00:1A:79:C1:A2:B3&stream=37196&extension=ts
+#EXTINF:-1 tvg-id="GolfPlus" tvg-logo="https://2p2m.lescigales.org/logos/golf+.png" group-title="SPORT",GOLF+
+http://king365-tv.com:2103/play/live.php?mac=00:1A:79:C1:A2:B3&stream=19740&extension=ts
+#EXTINF:-1 tvg-id="SkySportsGolf" tvg-logo="https://2p2m.lescigales.org/logos/sky_sports_golf_uk.png" group-title="SPORT",SKY SPORTS GOLF
+http://king365-tv.com:2103/play/live.php?mac=00:1A:79:C1:A2:B3&stream=94020&extension=ts
+#EXTINF:-1 tvg-id="SkySportsMix" tvg-logo="https://2p2m.lescigales.org/logos/sky_sports_golf_uk.png" group-title="SPORT",SKY SPORTS MIX
+http://king365-tv.com:2103/play/live.php?mac=00:1A:79:C1:A2:B3&stream=669&extension=ts
+#EXTINF:-1 tvg-id="SSGolf" tvg-logo="https://2p2m.lescigales.org/logos/supersport_golf.png" group-title="SPORT",SUPERSPORTS GOLF 
+http://king365-tv.com:2103/play/live.php?mac=00:1A:79:C1:A2:B3&stream=113595&extension=ts
+#EXTINF:-1 tvg-id="VSportGolf" tvg-logo="https://2p2m.lescigales.org/logos/vsport_golf.png" group-title="SPORT",V SPORT GOLF
+http://king365-tv.com:2103/play/live.php?mac=00:1A:79:C1:A2:B3&stream=19688&extension=ts
+#EXTINF:-1 tvg-id="TheGolfChannel" tvg-logo="https://2p2m.lescigales.org/logos/nbc_golf_channel.png" group-title="SPORT",NBC GOLF
+http://king365-tv.com:2103/play/live.php?mac=00:1A:79:C1:A2:B3&stream=112076&extension=ts
+#EXTINF:-1 tvg-id="MovistarGolf" tvg-logo="https://2p2m.lescigales.org/logos/movistar_golf.png" group-title="SPORT",M+ GOLF
+http://king365-tv.com:2103/play/live.php?mac=00:1A:79:C1:A2:B3&stream=2203&extension=ts
+
+#EXTINF:-1 tvg-id="TF1" tvg-logo="https://2p2m.lescigales.org/logos/tf1.png" group-title="SECOURS",TF1
+https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/tf1plus/tf1.m3u8
+#EXTINF:-1 tvg-id="France2" tvg-logo="https://2p2m.lescigales.org/logos/france2.png" group-title="SECOURS",FRANCE 2
+https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/francetv/france2.m3u8
+#EXTINF:-1 tvg-id="France3" tvg-logo="https://2p2m.lescigales.org/logos/france3.png" group-title="SECOURS",FRANCE 3
+https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/francetv/france3.m3u8
+#EXTINF:-1 tvg-id="France4" tvg-logo="https://2p2m.lescigales.org/logos/france4.png" group-title="SECOURS",FRANCE 4
+https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/francetv/france4.m3u8
+#EXTINF:-1 tvg-id="France5" tvg-logo="https://2p2m.lescigales.org/logos/france5.png" group-title="SECOURS",FRANCE 5
+https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/francetv/france5.m3u8
+#EXTINF:-1 tvg-id="Arte" tvg-logo="https://2p2m.lescigales.org/logos/arte.png" group-title="SECOURS",ARTE
+https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/arte/arte.m3u8
+#EXTINF:-1 tvg-id="C8" tvg-logo="https://2p2m.lescigales.org/logos/c8.png" group-title="SECOURS",C8
+https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/canalplus/c8-dm.m3u8
+#EXTINF:-1 tvg-id="TF1SeriesFilms" tvg-logo="https://2p2m.lescigales.org/logos/tf1_series_films.png" group-title="SECOURS",TF1 SERIES FILMS
+https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/tf1plus/tf1-series-films.m3u8
+#EXTINF:-1 tvg-id="TFX" tvg-logo="https://2p2m.lescigales.org/logos/tfx.png" group-title="SECOURS",TFX
+https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/tf1plus/tfx.m3u8
+#EXTINF:-1 tvg-id="TMC" tvg-logo="https://2p2m.lescigales.org/logos/tmc.png" group-title="SECOURS",TMC
+https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/tf1plus/tmc.m3u8
+#EXTINF:-1 tvg-id="LCP" tvg-logo="https://2p2m.lescigales.org/logos/lcp.png" group-title="SECOURS",LCP
+https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/lcp/lcp-dm.m3u8
+#EXTINF:-1 tvg-id="CStar" tvg-logo="https://2p2m.lescigales.org/logos/cstar.png" group-title="SECOURS",CSTAR
+https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/canalplus/cstar-dm.m3u8
+#EXTINF:-1 tvg-id="Gulli" tvg-logo="https://2p2m.lescigales.org/logos/gulli.png" group-title="SECOURS",GULLI
+https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/m6plus/gulli.m3u8
+
+#EXTINF:-1 tvg-chno="100" tvg-id="" tvg-logo="https://i.imgur.com/imvOEt6.png" tvg-country="FR" group-title="SECOURS",France TV Docs
+https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/francetv/docs.m3u8
+#EXTINF:-1 tvg-chno="101" tvg-id="" tvg-logo="https://i.imgur.com/cbcIKCT.png" tvg-country="FR" group-title="SECOURS",France TV Séries
+https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/francetv/series.m3u8
+#EXTINF:-1 tvg-id="CanalPlus" tvg-logo="https://2p2m.lescigales.org/logos/canal+.png" group-title="SECOURS",CANAL+ CLAIR
+https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/canalplus/canalplusclair-hd.m3u8
+
+#EXTINF:-1 tvg-id="LEquipe" tvg-logo="https://2p2m.lescigales.org/logos/lequipe.png" group-title="SECOURS",L'EQUIPE
+https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/lequipe/la-chaine-l-equipe-en-direct-dm.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://2p2m.lescigales.org/logos/lequipelive1.png" group-title="SECOURS",L'EQUIPE LIVE 1
+https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/lequipe/l-equipe-live-1-dm.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://2p2m.lescigales.org/logos/lequipelive2.png" group-title="SECOURS",L'EQUIPE LIVE 2
+https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/lequipe/l-equipe-live-2-dm.m3u8
+#EXTINF:-1 tvg-id="JournalDuGolf" tvg-logo="https://2p2m.lescigales.org/logos/journal_du_golf.png" group-title="SECOURS",Journal du Golf
+https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/lequipe/journal-du-golf-tv-dm.m3u8
+#EXTINF:-1 tvg-id="SportEnFrance" tvg-logo="https://2p2m.lescigales.org/logos/sport_en_france.png" group-title="SECOURS",SPORT EN FRANCE
+https://sp1564435593.mytvchain.info/live/sp1564435593/index.m3u8
