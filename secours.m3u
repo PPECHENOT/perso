@@ -1,0 +1,81 @@
+#EXTM3U
+
+#EXTINF:-1 tvg-id="TF1" tvg-logo="https://ppechenot.github.io/perso/logos/tf1.png" group-title="GITHUB",TF1
+https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/tf1plus/tf1.m3u8
+#EXTINF:-1 tvg-id="France2" tvg-logo="https://ppechenot.github.io/perso/logos/france2.png" group-title="GITHUB",FRANCE 2
+https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/francetv/france2.m3u8
+#EXTINF:-1 tvg-id="France3" tvg-logo="https://ppechenot.github.io/perso/logos/france3.png" group-title="GITHUB",FRANCE 3
+https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/francetv/france3.m3u8
+#EXTINF:-1 tvg-id="France4" tvg-logo="https://ppechenot.github.io/perso/logos/france4.png" group-title="GITHUB",FRANCE 4
+https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/francetv/france4.m3u8
+#EXTINF:-1 tvg-id="France5" tvg-logo="https://ppechenot.github.io/perso/logos/france5.png" group-title="GITHUB",FRANCE 5
+https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/francetv/france5.m3u8
+#EXTINF:-1 tvg-id="Arte" tvg-logo="https://ppechenot.github.io/perso/logos/arte.png" group-title="GITHUB",ARTE
+https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/arte/arte.m3u8
+#EXTINF:-1 tvg-id="C8" tvg-logo="https://ppechenot.github.io/perso/logos/c8.png" group-title="GITHUB",C8
+https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/canalplus/c8-dm.m3u8
+#EXTINF:-1 tvg-id="TF1SeriesFilms" tvg-logo="https://ppechenot.github.io/perso/logos/tf1_series_films.png" group-title="GITHUB",TF1 SERIES FILMS
+https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/tf1plus/tf1-series-films.m3u8
+#EXTINF:-1 tvg-id="TFX" tvg-logo="https://ppechenot.github.io/perso/logos/tfx.png" group-title="GITHUB",TFX
+https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/tf1plus/tfx.m3u8
+#EXTINF:-1 tvg-id="TMC" tvg-logo="https://ppechenot.github.io/perso/logos/tmc.png" group-title="GITHUB",TMC
+https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/tf1plus/tmc.m3u8
+#EXTINF:-1 tvg-id="LCP" tvg-logo="https://ppechenot.github.io/perso/logos/lcp.png" group-title="GITHUB",LCP
+https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/lcp/lcp-dm.m3u8
+#EXTINF:-1 tvg-id="CStar" tvg-logo="https://ppechenot.github.io/perso/logos/cstar.png" group-title="GITHUB",CSTAR
+https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/canalplus/cstar-dm.m3u8
+#EXTINF:-1 tvg-id="Gulli" tvg-logo="https://ppechenot.github.io/perso/logos/gulli.png" group-title="GITHUB",GULLI
+https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/m6plus/gulli.m3u8
+
+#EXTINF:-1 tvg-chno="100" tvg-id="" tvg-logo="https://i.imgur.com/imvOEt6.png" tvg-country="FR" group-title="GITHUB",France TV Docs
+https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/francetv/docs.m3u8
+#EXTINF:-1 tvg-chno="101" tvg-id="" tvg-logo="https://i.imgur.com/cbcIKCT.png" tvg-country="FR" group-title="GITHUB",France TV Séries
+https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/francetv/series.m3u8
+#EXTINF:-1 tvg-id="CanalPlus" tvg-logo="https://ppechenot.github.io/perso/logos/canal+.png" group-title="GITHUB",CANAL+ CLAIR
+https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/canalplus/canalplusclair-hd.m3u8
+
+#EXTINF:-1 tvg-id="LEquipe" tvg-logo="https://ppechenot.github.io/perso/logos/lequipe.png" group-title="GITHUB",L'EQUIPE
+https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/lequipe/la-chaine-l-equipe-en-direct-dm.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://ppechenot.github.io/perso/logos/lequipelive1.png" group-title="GITHUB",L'EQUIPE LIVE 1
+https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/lequipe/l-equipe-live-1-dm.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://ppechenot.github.io/perso/logos/lequipelive2.png" group-title="GITHUB",L'EQUIPE LIVE 2
+https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/lequipe/l-equipe-live-2-dm.m3u8
+#EXTINF:-1 tvg-id="JournalDuGolf" tvg-logo="https://ppechenot.github.io/perso/logos/journal_du_golf.png" group-title="GITHUB",Journal du Golf
+https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/lequipe/journal-du-golf-tv-dm.m3u8
+
+#EXTINF:-1 tvg-id="NRJ12" tvg-logo="https://ppechenot.github.io/perso/logos/nrj12.png" group-title="OFF",NRJ12
+https://nrj12.nrjaudio.fm/hls/live/2038374/nrj_12/master.m3u8
+#EXTINF:-1 tvg-id="Arte" tvg-logo="https://ppechenot.github.io/perso/logos/arte.png" group-title="OFF",ARTE (HD)
+https://artesimulcast.akamaized.net/hls/live/2031003/artelive_fr/master_v720.m3u8
+
+#EXTINF:-1 tvg-id="Universcine" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/12/LOGO_UC_BLACK.png" group-title="OFF",UNIVERS CINE
+https://amg01259-lemeilleurducin-universcine-rakuten-bifrz.amagi.tv/hls/amagi_hls_data_rakutenAA-universcine-rakuten/CDN/master.m3u8
+#EXTINF:-1 tvg-id="RakutenTop" tvg-logo="https://ppechenot.github.io/perso/logos/rakuten_tv.png" group-title="OFF",RAKUTEN TOP FILMS
+https://rakuten-topfree-7-eu.rakuten.wurl.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="RakutenAction" tvg-logo="https://ppechenot.github.io/perso/logos/rakuten_tv.png" group-title="OFF",RAKUTEN ACTION
+https://rakuten-actionmovies-7-eu.rakuten.wurl.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="RakutenComedie" tvg-logo="https://ppechenot.github.io/perso/logos/rakuten_tv.png" group-title="OFF",RAKUTEN COMEDIES
+https://rakuten-comedymovies-7-eu.rakuten.wurl.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="RakutenDrame" tvg-logo="https://ppechenot.github.io/perso/logos/rakuten_tv.png" group-title="OFF",RAKUTEN DRAMES
+https://rakuten-tvshows-7-eu.rakuten.wurl.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="RakutenFrancais" tvg-logo="https://ppechenot.github.io/perso/logos/rakuten_tv.png" group-title="OFF",RAKUTEN FILMS FRANCAIS
+https://rakuten-films-francais-1-eu.rakuten.wurl.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="RakutenThriller" tvg-logo="https://ppechenot.github.io/perso/logos/rakuten_tv.png" group-title="OFF",RAKUTEN THRILLERS
+https://rakuten-thriller-7-eu.rakuten.wurl.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="RakutenRomance" tvg-logo="https://ppechenot.github.io/perso/logos/rakuten_tv.png" group-title="OFF",RAKUTEN ROMANCE
+https://rakuten-romance-7-eu.rakuten.wurl.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="RakutenCrime" tvg-logo="https://ppechenot.github.io/perso/logos/rakuten_tv.png" group-title="OFF",RAKUTEN CRIME
+https://rakuten-seriescrime-7-fr.lg.wurl.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="RakutenDocumentaire" tvg-logo="https://ppechenot.github.io/perso/logos/rakuten_tv.png" group-title="OFF",RAKUTEN DOCUMENTAIRES
+https://rakuten-spotlight-7-eu.rakuten.wurl.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="BBCDrama" tvg-logo="https://noos.vip/logo/FR/bbcdrama.png" group-title="OFF",BBC DRAMA
+https://bbceu-bbcdrama-1-fr.rakuten.wurl.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="MyTimeMovieNetwork" tvg-logo="https://noos.vip/logo/FR/mytime.png" group-title="OFF",MYTIME MOVIE NETWORK
+https://mytimemoviefrance-rakuten.amagi.tv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="SportEnFrance" tvg-logo="https://ppechenot.github.io/perso/logos/sport en france.png" group-title="OFF",SPORT EN FRANCE
+https://sp1564435593.mytvchain.info/live/sp1564435593/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://ppechenot.github.io/perso/logos/lequipelive1.png" group-title="OFF",L'EQUIPE LIVE 1
+https://d3awaj0f2u3w26.cloudfront.net/4/media.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://ppechenot.github.io/perso/logos/lequipelive2.png" group-title="OFF",L'EQUIPE LIVE 2
+https://d2l55nvfkhk4sg.cloudfront.net/4/media.m3u8
