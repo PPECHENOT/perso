@@ -62,7 +62,7 @@
   </channel>
   <channel id="LCP">
     <display-name lang="fr">LCP</display-name>
-    <icon src="https://ppechenot.github.io/perso/icons/la-chaine-parlementaire.png" />
+    <icon src="https://ppechenot.github.io/perso/icons/lcp.png" />
     <url>http://www.canalplus.com</url>
   </channel>
   <channel id="CStar">
@@ -77,7 +77,7 @@
   </channel>
   <channel id="TF1SeriesFilms">
     <display-name lang="fr">TF1 SERIES FILMS</display-name>
-    <icon src="https://ppechenot.github.io/perso/icons/tf1-series-films.png" />
+    <icon src="https://ppechenot.github.io/perso/icons/tf1_series_films.png" />
     <url>http://www.canalplus.com</url>
   </channel>
   <channel id="6ter">
@@ -87,17 +87,17 @@
   </channel>
   <channel id="RMCStory">
     <display-name lang="fr">RMC STORY</display-name>
-    <icon src="https://ppechenot.github.io/perso/icons/rmc-story.png" />
+    <icon src="https://ppechenot.github.io/perso/icons/rmc_story.png" />
     <url>http://www.canalplus.com</url>
   </channel>
   <channel id="Cherie25">
     <display-name lang="fr">CHERIE 25</display-name>
-    <icon src="https://ppechenot.github.io/perso/icons/cherie-25.png" />
+    <icon src="https://ppechenot.github.io/perso/icons/cherie25.png" />
     <url>http://www.canalplus.com</url>
   </channel>
   <channel id="ParisPremiere">
     <display-name lang="fr">PARIS PREMIERE</display-name>
-    <icon src="https://ppechenot.github.io/perso/icons/paris-premiere.png" />
+    <icon src="https://ppechenot.github.io/perso/icons/paris_premiere.png" />
     <url>http://www.canalplus.com</url>
   </channel>
   <channel id="TvBreizh">
@@ -107,7 +107,7 @@
   </channel>
   <channel id="RTL9">
     <display-name lang="fr">RTL9</display-name>
-    <icon src="https://ppechenot.github.io/perso/icons/rtl-9.png" />
+    <icon src="https://ppechenot.github.io/perso/icons/rtl9.png" />
     <url>http://www.canalplus.com</url>
   </channel>
   <channel id="ComediePlus">
