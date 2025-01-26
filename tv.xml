@@ -112,12 +112,12 @@
   </channel>
   <channel id="ComediePlus">
     <display-name lang="fr">COMEDIE+</display-name>
-    <icon src="https://ppechenot.github.io/perso/icons/comedieplus.png" />
+    <icon src="https://ppechenot.github.io/perso/icons/comedie+.png" />
     <url>http://www.canalplus.com</url>
   </channel>
   <channel id="PolarPlus">
     <display-name lang="fr">POLAR+</display-name>
-    <icon src="https://ppechenot.github.io/perso/icons/polar.png" />
+    <icon src="https://ppechenot.github.io/perso/icons/polar+.png" />
     <url>http://www.canalplus.com</url>
   </channel>
   <channel id="13Rue">
