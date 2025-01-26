@@ -147,7 +147,7 @@
   </channel>
   <channel id="CanalPlusCinema">
     <display-name lang="fr">CANAL+ CINEMA(S)</display-name>
-    <icon src="https://ppechenot.github.io/perso/icons/canal+_cinema(s).png" />
+    <icon src="https://ppechenot.github.io/perso/icons/canal+_cinema.png" />
     <url>http://www.canalplus.com</url>
   </channel>
   <channel id="CanalPlusBoxOffice">
