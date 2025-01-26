@@ -147,62 +147,62 @@
   </channel>
   <channel id="CanalPlusCinema">
     <display-name lang="fr">CANAL+ CINEMA(S)</display-name>
-    <icon src="https://ppechenot.github.io/perso/icons/canal-cinema.png" />
+    <icon src="https://ppechenot.github.io/perso/icons/canal+_cinema(s).png" />
     <url>http://www.canalplus.com</url>
   </channel>
   <channel id="CanalPlusBoxOffice">
     <display-name lang="fr">CANAL+ BOX OFFICE</display-name>
-    <icon src="" />
+    <icon src="https://ppechenot.github.io/perso/icons/canal+_box_office.png" />
     <url>http://www.canalplus.com</url>
   </channel>
   <channel id="CanalPlusSeries">
     <display-name lang="fr">CANAL+ SERIES</display-name>
-    <icon src="https://ppechenot.github.io/perso/icons/canalplus-series.png" />
+    <icon src="https://ppechenot.github.io/perso/icons/canal+_series.png" />
     <url>http://www.canalplus.com</url>
   </channel>
   <channel id="CanalPlusDocs">
     <display-name lang="fr">CANAL+ DOCS</display-name>
-    <icon src="https://ppechenot.github.io/perso/icons/canalplus-docs.png" />
+    <icon src="https://ppechenot.github.io/perso/icons/canal+_docs.png" />
     <url>http://www.canalplus.com</url>
   </channel>
   <channel id="CanalPlusGrandEcran">
     <display-name lang="fr">CANAL+ GRAND ECRAN</display-name>
-    <icon src="https://ppechenot.github.io/perso/icons/canalplus-grand-ecran.png" />
+    <icon src="https://ppechenot.github.io/perso/icons/canal+_grand_ecran.png" />
     <url>http://www.canalplus.com</url>
   </channel>
   <channel id="OCS">
     <display-name lang="fr">CINE+ OCS</display-name>
-    <icon src="" />
+    <icon src="https://ppechenot.github.io/perso/icons/cine+_ocs.png" />
     <url>http://www.canalplus.com</url>
   </channel>
   <channel id="CinePlusFrisson">
     <display-name lang="fr">CINE+ FRISSON</display-name>
-    <icon src="https://ppechenot.github.io/perso/icons/cine-frisson.png" />
+    <icon src="https://ppechenot.github.io/perso/icons/cine+_frisson.png" />
     <url>http://www.canalplus.com</url>
   </channel>
   <channel id="CinePlusEmotion">
     <display-name lang="fr">CINE+ EMOTION</display-name>
-    <icon src="https://ppechenot.github.io/perso/icons/cineplus-emotion.png" />
+    <icon src="https://ppechenot.github.io/perso/icons/cine+_emotion.png" />
     <url>http://www.canalplus.com</url>
   </channel>
   <channel id="CinePlusFamily">
     <display-name lang="fr">CINE+ FAMILY</display-name>
-    <icon src="" />
+    <icon src="https://ppechenot.github.io/perso/icons/cine+_family.png" />
     <url>http://www.canalplus.com</url>
   </channel>
   <channel id="CinePlusFestival">
     <display-name lang="fr">CINE+ FESTIVAL</display-name>
-    <icon src="" />
+    <icon src="https://ppechenot.github.io/perso/icons/cine+_festival.png" />
     <url>http://www.canalplus.com</url>
   </channel>
   <channel id="CinePlusClassic">
     <display-name lang="fr">CINE+ CLASSIC</display-name>
-    <icon src="https://ppechenot.github.io/perso/icons/cineplus-classic.png" />
+    <icon src="https://ppechenot.github.io/perso/icons/cine+_classic.png" />
     <url>http://www.canalplus.com</url>
   </channel>
   <channel id="TCM">
     <display-name lang="fr">TCM CINEMA</display-name>
-    <icon src="https://ppechenot.github.io/perso/icons/tcm-cinema.png" />
+    <icon src="https://ppechenot.github.io/perso/icons/tcm_cinema.png" />
     <url>http://www.canalplus.com</url>
   </channel>
   <channel id="ParamountChannel">
