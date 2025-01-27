@@ -2,152 +2,152 @@
 <tv generator-info-name="WebGrab+Plus/w MDB &amp; REX Postprocess -- version V5.0.1.0 -- Jan van Straaten" generator-info-url="http://www.webgrabplus.com">
   <channel id="TF1">
     <display-name lang="fr">TF1</display-name>
-    <icon src="http://2p2m.lescigales.org/icons/tf1.png" />
+    <icon src="https://ppechenot.github.io/perso/icons/tf1.png" />
     <url>http://www.canalplus.com</url>
   </channel>
   <channel id="France2">
     <display-name lang="fr">FRANCE 2</display-name>
-    <icon src="http://2p2m.lescigales.org/icons/france-2.png" />
+    <icon src="https://ppechenot.github.io/perso/icons/france2.png" />
     <url>http://www.canalplus.com</url>
   </channel>
   <channel id="France3">
     <display-name lang="fr">FRANCE 3</display-name>
-    <icon src="http://2p2m.lescigales.org/icons/france-3.png" />
+    <icon src="https://ppechenot.github.io/perso/icons/france3.png" />
     <url>http://www.canalplus.com</url>
   </channel>
   <channel id="France4">
     <display-name lang="fr">FRANCE 4</display-name>
-    <icon src="http://2p2m.lescigales.org/icons/france-4.png" />
+    <icon src="https://ppechenot.github.io/perso/icons/france4.png" />
     <url>http://www.canalplus.com</url>
   </channel>
   <channel id="France5">
     <display-name lang="fr">FRANCE 5</display-name>
-    <icon src="http://2p2m.lescigales.org/icons/france-5.png" />
+    <icon src="https://ppechenot.github.io/perso/icons/france5.png" />
     <url>http://www.canalplus.com</url>
   </channel>
   <channel id="M6">
     <display-name lang="fr">M6</display-name>
-    <icon src="http://2p2m.lescigales.org/icons/m6.png" />
+    <icon src="https://ppechenot.github.io/perso/icons/m6.png" />
     <url>http://www.canalplus.com</url>
   </channel>
   <channel id="Arte">
     <display-name lang="fr">ARTE</display-name>
-    <icon src="http://2p2m.lescigales.org/icons/arte.png" />
+    <icon src="https://ppechenot.github.io/perso/icons/arte.png" />
     <url>http://www.canalplus.com</url>
   </channel>
   <channel id="C8">
     <display-name lang="fr">C8</display-name>
-    <icon src="http://2p2m.lescigales.org/icons/c8.png" />
+    <icon src="https://ppechenot.github.io/perso/icons/c8.png" />
     <url>http://www.canalplus.com</url>
   </channel>
   <channel id="W9">
     <display-name lang="fr">W9</display-name>
-    <icon src="http://2p2m.lescigales.org/icons/w9.png" />
+    <icon src="https://ppechenot.github.io/perso/icons/w9.png" />
     <url>http://www.canalplus.com</url>
   </channel>
   <channel id="TMC">
     <display-name lang="fr">TMC</display-name>
-    <icon src="http://2p2m.lescigales.org/icons/tmc.png" />
+    <icon src="https://ppechenot.github.io/perso/icons/tmc.png" />
     <url>http://www.canalplus.com</url>
   </channel>
   <channel id="TFX">
     <display-name lang="fr">TFX</display-name>
-    <icon src="http://2p2m.lescigales.org/icons/tfx.png" />
+    <icon src="https://ppechenot.github.io/perso/icons/tfx.png" />
     <url>http://www.canalplus.com</url>
   </channel>
   <channel id="NRJ12">
     <display-name lang="fr">NRJ12</display-name>
-    <icon src="http://2p2m.lescigales.org/icons/nrj-12.png" />
+    <icon src="https://ppechenot.github.io/perso/icons/nrj12.png" />
     <url>http://www.canalplus.com</url>
   </channel>
   <channel id="LCP">
     <display-name lang="fr">LCP</display-name>
-    <icon src="http://2p2m.lescigales.org/icons/la-chaine-parlementaire.png" />
+    <icon src="https://ppechenot.github.io/perso/icons/lcp.png" />
     <url>http://www.canalplus.com</url>
   </channel>
   <channel id="CStar">
     <display-name lang="fr">CSTAR</display-name>
-    <icon src="http://2p2m.lescigales.org/icons/cstar.png" />
+    <icon src="https://ppechenot.github.io/perso/icons/cstar.png" />
     <url>http://www.canalplus.com</url>
   </channel>
   <channel id="Gulli">
     <display-name lang="fr">GULLI</display-name>
-    <icon src="http://2p2m.lescigales.org/icons/gulli.png" />
+    <icon src="https://ppechenot.github.io/perso/icons/gulli.png" />
     <url>http://www.canalplus.com</url>
   </channel>
   <channel id="TF1SeriesFilms">
     <display-name lang="fr">TF1 SERIES FILMS</display-name>
-    <icon src="http://2p2m.lescigales.org/icons/tf1-series-films.png" />
+    <icon src="https://ppechenot.github.io/perso/icons/tf1_series_films.png" />
     <url>http://www.canalplus.com</url>
   </channel>
   <channel id="6ter">
     <display-name lang="fr">6TER</display-name>
-    <icon src="http://2p2m.lescigales.org/icons/6ter.png" />
+    <icon src="https://ppechenot.github.io/perso/icons/6ter.png" />
     <url>http://www.canalplus.com</url>
   </channel>
   <channel id="RMCStory">
     <display-name lang="fr">RMC STORY</display-name>
-    <icon src="http://2p2m.lescigales.org/icons/rmc-story.png" />
+    <icon src="https://ppechenot.github.io/perso/icons/rmc_story.png" />
     <url>http://www.canalplus.com</url>
   </channel>
   <channel id="Cherie25">
     <display-name lang="fr">CHERIE 25</display-name>
-    <icon src="http://2p2m.lescigales.org/icons/cherie-25.png" />
+    <icon src="https://ppechenot.github.io/perso/icons/cherie_25.png" />
     <url>http://www.canalplus.com</url>
   </channel>
   <channel id="ParisPremiere">
     <display-name lang="fr">PARIS PREMIERE</display-name>
-    <icon src="http://2p2m.lescigales.org/icons/paris-premiere.png" />
+    <icon src="https://ppechenot.github.io/perso/icons/paris_premiere.png" />
     <url>http://www.canalplus.com</url>
   </channel>
   <channel id="TvBreizh">
     <display-name lang="fr">TV BREIZH</display-name>
-    <icon src="http://2p2m.lescigales.org/icons/tvbreizh.png" />
+    <icon src="https://ppechenot.github.io/perso/icons/tvbreizh.png" />
     <url>http://www.canalplus.com</url>
   </channel>
   <channel id="RTL9">
     <display-name lang="fr">RTL9</display-name>
-    <icon src="http://2p2m.lescigales.org/icons/rtl-9.png" />
+    <icon src="https://ppechenot.github.io/perso/icons/rtl9.png" />
     <url>http://www.canalplus.com</url>
   </channel>
   <channel id="ComediePlus">
     <display-name lang="fr">COMEDIE+</display-name>
-    <icon src="http://2p2m.lescigales.org/icons/comedieplus.png" />
+    <icon src="https://ppechenot.github.io/perso/icons/comedie+.png" />
     <url>http://www.canalplus.com</url>
   </channel>
   <channel id="PolarPlus">
     <display-name lang="fr">POLAR+</display-name>
-    <icon src="http://2p2m.lescigales.org/icons/polar.png" />
+    <icon src="https://ppechenot.github.io/perso/icons/polar+.png" />
     <url>http://www.canalplus.com</url>
   </channel>
   <channel id="13Rue">
     <display-name lang="fr">13EME RUE</display-name>
-    <icon src="https://www.programme-tv.net/imgre/fit/~2~channel~c7a8275787244ffe.png/30x30/quality/80/13eme-rue.png" />
+    <icon src="https://ppechenot.github.io/perso/icons/13eme_rue.png" />
     <url>http://www.programme-tv.net</url>
   </channel>
   <channel id="Syfy">
     <display-name lang="fr">SYFY</display-name>
-    <icon src="http://2p2m.lescigales.org/icons/syfy.png" />
+    <icon src="https://ppechenot.github.io/perso/icons/syfy.png" />
     <url>http://www.programme-tv.net</url>
   </channel>
   <channel id="SerieClub">
     <display-name lang="fr">SERIE CLUB</display-name>
-    <icon src="http://2p2m.lescigales.org/icons/serieclub.png" />
+    <icon src="https://ppechenot.github.io/perso/icons/serieclub.png" />
     <url>http://www.canalplus.com</url>
   </channel>
   <channel id="Teva">
     <display-name lang="fr">TEVA</display-name>
-    <icon src="http://2p2m.lescigales.org/icons/teva.png" />
+    <icon src="https://ppechenot.github.io/perso/icons/teva.png" />
     <url>http://www.canalplus.com</url>
   </channel>
   <channel id="CanalPlus">
     <display-name lang="fr">CANAL+</display-name>
-    <icon src="http://2p2m.lescigales.org/icons/canal.png" />
+    <icon src="https://ppechenot.github.io/perso/icons/canal+.png" />
     <url>http://www.canalplus.com</url>
   </channel>
   <channel id="CanalPlusCinema">
     <display-name lang="fr">CANAL+ CINEMA(S)</display-name>
-    <icon src="http://2p2m.lescigales.org/icons/canal-cinema.png" />
+    <icon src="https://ppechenot.github.io/perso/icons/canal+_cinema.png" />
     <url>http://www.canalplus.com</url>
   </channel>
   <channel id="CanalPlusBoxOffice">
@@ -157,172 +157,172 @@
   </channel>
   <channel id="CanalPlusSeries">
     <display-name lang="fr">CANAL+ SERIES</display-name>
-    <icon src="http://2p2m.lescigales.org/icons/canalplus-series.png" />
+    <icon src="https://ppechenot.github.io/perso/icons/canal+_series.png" />
     <url>http://www.canalplus.com</url>
   </channel>
   <channel id="CanalPlusDocs">
     <display-name lang="fr">CANAL+ DOCS</display-name>
-    <icon src="http://2p2m.lescigales.org/icons/canalplus-docs.png" />
+    <icon src="https://ppechenot.github.io/perso/icons/canal+_docs.png" />
     <url>http://www.canalplus.com</url>
   </channel>
   <channel id="CanalPlusGrandEcran">
     <display-name lang="fr">CANAL+ GRAND ECRAN</display-name>
-    <icon src="http://2p2m.lescigales.org/icons/canalplus-grand-ecran.png" />
+    <icon src="https://ppechenot.github.io/perso/icons/canal+_grand_ecran.png" />
     <url>http://www.canalplus.com</url>
   </channel>
   <channel id="OCS">
     <display-name lang="fr">CINE+ OCS</display-name>
-    <icon src="" />
+    <icon src="https://ppechenot.github.io/perso/icons/cine+_ocs.png" />
     <url>http://www.canalplus.com</url>
   </channel>
   <channel id="CinePlusFrisson">
     <display-name lang="fr">CINE+ FRISSON</display-name>
-    <icon src="http://2p2m.lescigales.org/icons/cine-frisson.png" />
+    <icon src="https://ppechenot.github.io/perso/icons/cine+_frisson.png" />
     <url>http://www.canalplus.com</url>
   </channel>
   <channel id="CinePlusEmotion">
     <display-name lang="fr">CINE+ EMOTION</display-name>
-    <icon src="http://2p2m.lescigales.org/icons/cineplus-emotion.png" />
+    <icon src="https://ppechenot.github.io/perso/icons/cine+_emotion.png" />
     <url>http://www.canalplus.com</url>
   </channel>
   <channel id="CinePlusFamily">
     <display-name lang="fr">CINE+ FAMILY</display-name>
-    <icon src="" />
+    <icon src="https://ppechenot.github.io/perso/icons/cine+_family.png" />
     <url>http://www.canalplus.com</url>
   </channel>
   <channel id="CinePlusFestival">
     <display-name lang="fr">CINE+ FESTIVAL</display-name>
-    <icon src="" />
+    <icon src="https://ppechenot.github.io/perso/icons/cine+_festival.png" />
     <url>http://www.canalplus.com</url>
   </channel>
   <channel id="CinePlusClassic">
     <display-name lang="fr">CINE+ CLASSIC</display-name>
-    <icon src="http://2p2m.lescigales.org/icons/cineplus-classic.png" />
+    <icon src="https://ppechenot.github.io/perso/icons/cine+_classic.png" />
     <url>http://www.canalplus.com</url>
   </channel>
   <channel id="TCM">
     <display-name lang="fr">TCM CINEMA</display-name>
-    <icon src="http://2p2m.lescigales.org/icons/tcm-cinema.png" />
+    <icon src="https://ppechenot.github.io/perso/icons/tcm_cinema.png" />
     <url>http://www.canalplus.com</url>
   </channel>
   <channel id="ParamountChannel">
     <display-name lang="fr">PARAMOUNT CHANNEL</display-name>
-    <icon src="http://2p2m.lescigales.org/icons/paramount-channel.png" />
+    <icon src="https://ppechenot.github.io/perso/icons/paramount_channel.png" />
     <url>http://www.canalplus.com</url>
   </channel>
   <channel id="Action">
     <display-name lang="fr">ACTION</display-name>
-    <icon src="http://2p2m.lescigales.org/icons/action.png" />
+    <icon src="https://ppechenot.github.io/perso/icons/action.png" />
     <url>http://www.canalplus.com</url>
   </channel>
   <channel id="WarnerTV">
     <display-name lang="fr">WARNER TV</display-name>
-    <icon src="" />
+    <icon src="https://ppechenot.github.io/perso/icons/warner_tv.png" />
     <url>http://www.canalplus.com</url>
   </channel>
   <channel id="NationalGeographic">
     <display-name lang="fr">NATIONAL GEOGRAPHIC</display-name>
-    <icon src="http://2p2m.lescigales.org/icons/national-geographic.png" />
+    <icon src="https://ppechenot.github.io/perso/icons/national_geographic.png" />
     <url>http://www.programme-tv.net</url>
   </channel>
   <channel id="NatGeoWild">
     <display-name lang="fr">NAT GEO WILD</display-name>
-    <icon src="http://2p2m.lescigales.org/icons/nat-geo-wild.png" />
+    <icon src="https://ppechenot.github.io/perso/icons/nat_geo_wild.png" />
     <url>http://www.programme-tv.net</url>
   </channel>
   <channel id="UshuaiaTV">
     <display-name lang="fr">USHUAIA TV</display-name>
-    <icon src="http://2p2m.lescigales.org/icons/ushuaia-tv.png" />
+    <icon src="https://ppechenot.github.io/perso/icons/ushuaia_tv.png" />
     <url>http://www.canalplus.com</url>
   </channel>
   <channel id="ScienceEtVieTV">
     <display-name lang="fr">SCIENCE ET VIE TV</display-name>
-    <icon src="http://2p2m.lescigales.org/icons/science-vie-tv.png" />
+    <icon src="https://ppechenot.github.io/perso/icons/science_et_vie_tv.png" />
     <url>http://www.canalplus.com</url>
   </channel>
   <channel id="HistoireTV">
     <display-name lang="fr">HISTOIRE TV</display-name>
-    <icon src="http://2p2m.lescigales.org/icons/histoire-tv.png" />
+    <icon src="https://ppechenot.github.io/perso/icons/histoire_tv.png" />
     <url>http://www.canalplus.com</url>
   </channel>
   <channel id="TouteHistoire">
     <display-name lang="fr">TOUTE L HISTOIRE</display-name>
-    <icon src="http://2p2m.lescigales.org/icons/toute-lhistoire.png" />
+    <icon src="https://ppechenot.github.io/perso/icons/toute_lhistoire.png" />
     <url>http://www.canalplus.com</url>
   </channel>
   <channel id="MuseumTV">
     <display-name lang="fr">MUSEUM TV</display-name>
-    <icon src="http://www.programme-television.org/logo_channels/35x35/chaine_1072.png" />
+    <icon src="https://ppechenot.github.io/perso/icons/museum_tv.png" />
     <url>http://www.programme-television.org</url>
   </channel>
   <channel id="RTS1">
     <display-name lang="fr">RTS 1</display-name>
-    <icon src="https://www.programme-tv.net/imgre/fit/~2~channel~86b9c7fb157c9a56.png/30x30/quality/80/rts-un.png" />
+    <icon src="https://ppechenot.github.io/perso/icons/rts1.png" />
     <url>http://www.programme-tv.net</url>
   </channel>
   <channel id="RTS2">
     <display-name lang="fr">RTS 2</display-name>
-    <icon src="https://www.programme-tv.net/imgre/fit/~2~channel~96e7582dedb5aa8e.png/30x30/quality/80/rts-deux.png" />
+    <icon src="https://ppechenot.github.io/perso/icons/rts2.png" />
     <url>http://www.programme-tv.net</url>
   </channel>
   <channel id="LaUne">
     <display-name lang="fr">LA UNE</display-name>
-    <icon src="https://www.programme-tv.net/imgre/fit/~2~channel~708347cc7c38df85.png/30x30/quality/80/la-une.png" />
+    <icon src="https://ppechenot.github.io/perso/icons/la_une.png" />
     <url>http://www.programme-tv.net</url>
   </channel>
   <channel id="LaTrois">
     <display-name lang="fr">LA TROIS</display-name>
-    <icon src="https://www.programme-tv.net/imgre/fit/~2~channel~8322190ce66276be.png/30x30/quality/80/la-trois.png" />
+    <icon src="https://ppechenot.github.io/perso/icons/la_trois.png" />
     <url>http://www.programme-tv.net</url>
   </channel>
   <channel id="LEquipe">
     <display-name lang="fr">L EQUIPE</display-name>
-    <icon src="https://www.programme-tv.net/imgre/fit/~2~channel~060edf53b072af43.png/30x30/quality/80/lequipe.png" />
+    <icon src="https://ppechenot.github.io/perso/icons/lequipe.png" />
     <url>http://www.programme-tv.net</url>
   </channel>
   <channel id="CanalPlusSport">
     <display-name lang="fr">CANAL+ SPORT</display-name>
-    <icon src="https://www.programme-tv.net/imgre/fit/~2~channel~2b97b0fb1264c28d.png/30x30/quality/80/canalplus-sport.png" />
+    <icon src="https://ppechenot.github.io/perso/icons/canal+_sport.png" />
     <url>http://www.programme-tv.net</url>
   </channel>
   <channel id="CanalPlusSport360">
     <display-name lang="fr">CANAL+ SPORT 360</display-name>
-    <icon src="https://www.programme-tv.net/imgre/fit/~2~channel~74191e017b0bc9d7.png/30x30/quality/80/canalplus-sport-360.png" />
+    <icon src="https://ppechenot.github.io/perso/icons/canal+_sport360.png" />
     <url>http://www.programme-tv.net</url>
   </channel>
   <channel id="Eurosport1">
     <display-name lang="fr">EUROSPORT 1</display-name>
-    <icon src="https://www.programme-tv.net/imgre/fit/~2~channel~277882f801bd3f7b.png/30x30/quality/80/eurosport-1.png" />
+    <icon src="https://ppechenot.github.io/perso/icons/eurosport1.png" />
     <url>http://www.programme-tv.net</url>
   </channel>
   <channel id="Eurosport2">
     <display-name lang="fr">EUROSPORT 2</display-name>
-    <icon src="https://www.programme-tv.net/imgre/fit/~2~channel~196acf0142c66a68.png/30x30/quality/80/eurosport-2.png" />
+    <icon src="https://ppechenot.github.io/perso/icons/eurosport2.png" />
     <url>http://www.programme-tv.net</url>
   </channel>
   <channel id="BeinSports1">
     <display-name lang="fr">BEIN SPORTS 1</display-name>
-    <icon src="https://www.programme-tv.net/imgre/fit/~2~channel~8884f09c3361af44.png/30x30/quality/80/bein-sports-1.png" />
+    <icon src="https://ppechenot.github.io/perso/icons/bein_sports1.png" />
     <url>http://www.programme-tv.net</url>
   </channel>
   <channel id="BeinSports2">
     <display-name lang="fr">BEIN SPORTS 2</display-name>
-    <icon src="https://www.programme-tv.net/imgre/fit/~2~channel~2fa633f39d6c3033.png/30x30/quality/80/bein-sports-2.png" />
+    <icon src="https://ppechenot.github.io/perso/icons/bein_sports2.png" />
     <url>http://www.programme-tv.net</url>
   </channel>
   <channel id="BeinSports3">
     <display-name lang="fr">BEIN SPORTS 3</display-name>
-    <icon src="https://www.programme-tv.net/imgre/fit/~2~channel~d5aee128665b32a9.png/30x30/quality/80/bein-sports-3.png" />
+    <icon src="https://ppechenot.github.io/perso/icons/bein_sports3.png" />
     <url>http://www.programme-tv.net</url>
   </channel>
   <channel id="GolfPlus">
     <display-name lang="fr">GOLF+</display-name>
-    <icon src="https://www.programme-tv.net/imgre/fit/~2~channel~222f4c51ddee1398.png/30x30/quality/80/golfplus.png" />
+    <icon src="https://ppechenot.github.io/perso/icons/golf+.png" />
     <url>http://www.programme-tv.net</url>
   </channel>
   <channel id="SportEnFrance">
     <display-name lang="fr">SPORT EN FRANCE</display-name>
-    <icon src="http://2p2m.lescigales.org/icons/sport-en-france.png" />
+    <icon src="https://ppechenot.github.io/perso/icons/sport_en_france.png" />
     <url>http://www.tv.orange.fr</url>
   </channel>
   <channel id="SkySportsGolf">
