@@ -152,7 +152,7 @@
   </channel>
   <channel id="CanalPlusBoxOffice">
     <display-name lang="fr">CANAL+ BOX OFFICE</display-name>
-    <icon src="" />
+    <icon src="https://ppechenot.github.io/perso/icons/canal+_box_office.png" />
     <url>http://www.canalplus.com</url>
   </channel>
   <channel id="CanalPlusSeries">
