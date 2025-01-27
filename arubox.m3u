@@ -1,151 +1,135 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="TF1" tvg-logo="https://2p2m.lescigales.org/logos/tf1.png" group-title="ARUBOX - TNT",TF1
+#EXTINF:-1 tvg-id="TF1" tvg-logo="https://ppechenot.github.io/perso/logos/tf1.png" group-title="ARUBOX - TNT",TF1
 http://arubox.pro:8080/carlo1234/carlo1234/3185
-#EXTINF:-1 tvg-id="France2" tvg-logo="https://2p2m.lescigales.org/logos/france2.png" group-title="ARUBOX - TNT",FRANCE 2
+#EXTINF:-1 tvg-id="France2" tvg-logo="https://ppechenot.github.io/perso/logos/france2.png" group-title="ARUBOX - TNT",FRANCE 2
 http://arubox.pro:8080/carlo1234/carlo1234/3188
-#EXTINF:-1 tvg-id="France3" tvg-logo="https://2p2m.lescigales.org/logos/france3.png" group-title="ARUBOX - TNT",FRANCE 3
+#EXTINF:-1 tvg-id="France3" tvg-logo="https://ppechenot.github.io/perso/logos/france3.png" group-title="ARUBOX - TNT",FRANCE 3
 http://arubox.pro:8080/carlo1234/carlo1234/3189
-#EXTINF:-1 tvg-id="France4" tvg-logo="https://2p2m.lescigales.org/logos/france4.png" group-title="ARUBOX - TNT",FRANCE 4
+#EXTINF:-1 tvg-id="France4" tvg-logo="https://ppechenot.github.io/perso/logos/france4.png" group-title="ARUBOX - TNT",FRANCE 4
 http://arubox.pro:8080/carlo1234/carlo1234/3190
-#EXTINF:-1 tvg-id="France5" tvg-logo="https://2p2m.lescigales.org/logos/france5.png" group-title="ARUBOX - TNT",FRANCE 5
+#EXTINF:-1 tvg-id="France5" tvg-logo="https://ppechenot.github.io/perso/logos/france5.png" group-title="ARUBOX - TNT",FRANCE 5
 http://arubox.pro:8080/carlo1234/carlo1234/3191
-#EXTINF:-1 tvg-id="M6" tvg-logo="https://2p2m.lescigales.org/logos/m6.png" group-title="ARUBOX - TNT",M6
+#EXTINF:-1 tvg-id="M6" tvg-logo="https://ppechenot.github.io/perso/logos/m6.png" group-title="ARUBOX - TNT",M6
 http://arubox.pro:8080/carlo1234/carlo1234/3299
-#EXTINF:-1 tvg-id="Arte" tvg-logo="https://2p2m.lescigales.org/logos/arte.png" group-title="ARUBOX - TNT",ARTE
+#EXTINF:-1 tvg-id="Arte" tvg-logo="https://ppechenot.github.io/perso/logos/arte.png" group-title="ARUBOX - TNT",ARTE
 http://arubox.pro:8080/carlo1234/carlo1234/3208
-#EXTINF:-1 tvg-id="C8" tvg-logo="https://2p2m.lescigales.org/logos/c8.png" group-title="ARUBOX - TNT",C8
+#EXTINF:-1 tvg-id="C8" tvg-logo="https://ppechenot.github.io/perso/logos/c8.png" group-title="ARUBOX - TNT",C8
 http://arubox.pro:8080/carlo1234/carlo1234/3323
-#EXTINF:-1 tvg-id="W9" tvg-logo="https://2p2m.lescigales.org/logos/w9.png" group-title="ARUBOX - TNT",W9
+#EXTINF:-1 tvg-id="W9" tvg-logo="https://ppechenot.github.io/perso/logos/w9.png" group-title="ARUBOX - TNT",W9
 http://arubox.pro:8080/carlo1234/carlo1234/3198
-#EXTINF:-1 tvg-id="TMC" tvg-logo="https://2p2m.lescigales.org/logos/tmc.png" group-title="ARUBOX - TNT",TMC
+#EXTINF:-1 tvg-id="TMC" tvg-logo="https://ppechenot.github.io/perso/logos/tmc.png" group-title="ARUBOX - TNT",TMC
 http://arubox.pro:8080/carlo1234/carlo1234/3204
-#EXTINF:-1 tvg-id="TFX" tvg-logo="https://2p2m.lescigales.org/logos/tfx.png" group-title="ARUBOX - TNT",TFX
+#EXTINF:-1 tvg-id="TFX" tvg-logo="https://ppechenot.github.io/perso/logos/tfx.png" group-title="ARUBOX - TNT",TFX
 http://arubox.pro:8080/carlo1234/carlo1234/3205
-#EXTINF:-1 tvg-id="NRJ12" tvg-logo="https://2p2m.lescigales.org/logos/nrj12.png" group-title="ARUBOX - TNT",NRJ12
+#EXTINF:-1 tvg-id="NRJ12" tvg-logo="https://ppechenot.github.io/perso/logos/nrj12.png" group-title="ARUBOX - TNT",NRJ12
 http://arubox.pro:8080/carlo1234/carlo1234/3293
-#EXTINF:-1 tvg-id="CStar" tvg-logo="https://2p2m.lescigales.org/logos/cstar.png" group-title="ARUBOX - TNT",CSTAR
+#EXTINF:-1 tvg-id="CStar" tvg-logo="https://ppechenot.github.io/perso/logos/cstar.png" group-title="ARUBOX - TNT",CSTAR
 http://arubox.pro:8080/carlo1234/carlo1234/3321
-#EXTINF:-1 tvg-id="TF1SeriesFilms" tvg-logo="https://2p2m.lescigales.org/logos/tf1_series_films.png" group-title="ARUBOX - TNT",TF1 SERIES FILMS
+#EXTINF:-1 tvg-id="TF1SeriesFilms" tvg-logo="https://ppechenot.github.io/perso/logos/tf1_series_films.png" group-title="ARUBOX - TNT",TF1 SERIES FILMS
 http://arubox.pro:8080/carlo1234/carlo1234/3186
-#EXTINF:-1 tvg-id="6ter" tvg-logo="https://2p2m.lescigales.org/logos/6ter.png" group-title="ARUBOX - TNT",6TER
+#EXTINF:-1 tvg-id="6ter" tvg-logo="https://ppechenot.github.io/perso/logos/6ter.png" group-title="ARUBOX - TNT",6TER
 http://arubox.pro:8080/carlo1234/carlo1234/3194
-#EXTINF:-1 tvg-id="RMCStory" tvg-logo="https://2p2m.lescigales.org/logos/rmc_story.png" group-title="ARUBOX - TNT",RMC STORY
+#EXTINF:-1 tvg-id="RMCStory" tvg-logo="https://ppechenot.github.io/perso/logos/rmc_story.png" group-title="ARUBOX - TNT",RMC STORY
 http://arubox.pro:8080/carlo1234/carlo1234/3184
-#EXTINF:-1 tvg-id="Cherie25" tvg-logo="https://2p2m.lescigales.org/logos/cherie25.png" group-title="ARUBOX - TNT",CHERIE 25
+#EXTINF:-1 tvg-id="Cherie25" tvg-logo="https://ppechenot.github.io/perso/logos/cherie25.png" group-title="ARUBOX - TNT",CHERIE 25
 http://arubox.pro:8080/carlo1234/carlo1234/3196
-#EXTINF:-1 tvg-id="LCP" tvg-logo="https://2p2m.lescigales.org/logos/lcp.png" group-title="ARUBOX - TNT",LCP
+#EXTINF:-1 tvg-id="LCP" tvg-logo="https://ppechenot.github.io/perso/logos/lcp.png" group-title="ARUBOX - TNT",LCP
 http://arubox.pro:8080/carlo1234/carlo1234/3327
-#EXTINF:-1 tvg-id="Gulli" tvg-logo="https://2p2m.lescigales.org/logos/gulli.png" group-title="ARUBOX - TNT",GULLI
+#EXTINF:-1 tvg-id="Gulli" tvg-logo="https://ppechenot.github.io/perso/logos/gulli.png" group-title="ARUBOX - TNT",GULLI
 http://arubox.pro:8080/carlo1234/carlo1234/3318
 
-#EXTINF:-1 tvg-id="CanalPlus" tvg-logo="https://2p2m.lescigales.org/logos/canal+.png" group-title="ARUBOX - CINEMA",CANAL+
+#EXTINF:-1 tvg-id="CanalPlus" tvg-logo="https://ppechenot.github.io/perso/logos/canal+.png" group-title="ARUBOX - CINEMA",CANAL+
 http://arubox.pro:8080/carlo1234/carlo1234/3240
-#EXTINF:-1 tvg-id="CanalPlusCinema" tvg-logo="https://2p2m.lescigales.org/logos/canal+_cinema(s).png" group-title="ARUBOX - CINEMA",CANAL+ CINEMA(S)
+#EXTINF:-1 tvg-id="CanalPlusCinema" tvg-logo="https://ppechenot.github.io/perso/logos/canal+_cinema(s).png" group-title="ARUBOX - CINEMA",CANAL+ CINEMA(S)
 http://arubox.pro:8080/carlo1234/carlo1234/3241
-#EXTINF:-1 tvg-id="OCS" tvg-logo="https://2p2m.lescigales.org/logos/cine+_ocs.png" group-title="ARUBOX - CINEMA",CINE+ OCS
+#EXTINF:-1 tvg-id="OCS" tvg-logo="https://ppechenot.github.io/perso/logos/cine+_ocs.png" group-title="ARUBOX - CINEMA",CINE+ OCS
 http://arubox.pro:8080/carlo1234/carlo1234/3233
-#EXTINF:-1 tvg-id="CinePlusFrisson" tvg-logo="https://2p2m.lescigales.org/logos/cine+_frisson.png" group-title="ARUBOX - CINEMA",CINE+ FRISSON
+#EXTINF:-1 tvg-id="CinePlusFrisson" tvg-logo="https://ppechenot.github.io/perso/logos/cine+_frisson.png" group-title="ARUBOX - CINEMA",CINE+ FRISSON
 http://arubox.pro:8080/carlo1234/carlo1234/3235
-#EXTINF:-1 tvg-id="CinePlusEmotion" tvg-logo="https://2p2m.lescigales.org/logos/cine+_emotion.png" group-title="ARUBOX - CINEMA",CINE+ EMOTION
+#EXTINF:-1 tvg-id="CinePlusEmotion" tvg-logo="https://ppechenot.github.io/perso/logos/cine+_emotion.png" group-title="ARUBOX - CINEMA",CINE+ EMOTION
 http://arubox.pro:8080/carlo1234/carlo1234/3237
-#EXTINF:-1 tvg-id="CinePlusFamily" tvg-logo="https://2p2m.lescigales.org/logos/cine+_family.png" group-title="ARUBOX - CINEMA",CINE+ FAMILY
+#EXTINF:-1 tvg-id="CinePlusFamily" tvg-logo="https://ppechenot.github.io/perso/logos/cine+_family.png" group-title="ARUBOX - CINEMA",CINE+ FAMILY
 http://arubox.pro:8080/carlo1234/carlo1234/3236
-#EXTINF:-1 tvg-id="CinePlusFestival" tvg-logo="https://2p2m.lescigales.org/logos/cine+_festival.png" group-title="ARUBOX - CINEMA",CINE+ FESTIVAL
+#EXTINF:-1 tvg-id="CinePlusFestival" tvg-logo="https://ppechenot.github.io/perso/logos/cine+_festival.png" group-title="ARUBOX - CINEMA",CINE+ FESTIVAL
 http://arubox.pro:8080/carlo1234/carlo1234/3238
-#EXTINF:-1 tvg-id="CinePlusClassic" tvg-logo="https://2p2m.lescigales.org/logos/cine+_classic.png" group-title="ARUBOX - CINEMA",CINE+ CLASSIC
+#EXTINF:-1 tvg-id="CinePlusClassic" tvg-logo="https://ppechenot.github.io/perso/logos/cine+_classic.png" group-title="ARUBOX - CINEMA",CINE+ CLASSIC
 http://arubox.pro:8080/carlo1234/carlo1234/3239
-#EXTINF:-1 tvg-id="ParamountChannel" tvg-logo="https://2p2m.lescigales.org/logos/paramount_channel.png" group-title="ARUBOX - CINEMA",PARAMOUNT CHANNEL
+#EXTINF:-1 tvg-id="ParamountChannel" tvg-logo="https://ppechenot.github.io/perso/logos/paramount_channel.png" group-title="ARUBOX - CINEMA",PARAMOUNT CHANNEL
 http://arubox.pro:8080/carlo1234/carlo1234/3227
-#EXTINF:-1 tvg-id="Action" tvg-logo="https://2p2m.lescigales.org/logos/action.png" group-title="ARUBOX - CINEMA",ACTION
+#EXTINF:-1 tvg-id="Action" tvg-logo="https://ppechenot.github.io/perso/logos/action.png" group-title="ARUBOX - CINEMA",ACTION
 http://arubox.pro:8080/carlo1234/carlo1234/3209
 
-#EXTINF:-1 tvg-id="CanalPlusSeries" tvg-logo="https://2p2m.lescigales.org/logos/canal+_series.png" group-title="ARUBOX - SERIES",CANAL+ SERIES
+#EXTINF:-1 tvg-id="CanalPlusSeries" tvg-logo="https://ppechenot.github.io/perso/logos/canal+_series.png" group-title="ARUBOX - SERIES",CANAL+ SERIES
 http://arubox.pro:8080/carlo1234/carlo1234/3242
-#EXTINF:-1 tvg-id="PolarPlus" tvg-logo="https://2p2m.lescigales.org/logos/polar+.png" group-title="ARUBOX - SERIES",POLAR+
+#EXTINF:-1 tvg-id="PolarPlus" tvg-logo="https://ppechenot.github.io/perso/logos/polar+.png" group-title="ARUBOX - SERIES",POLAR+
 http://arubox.pro:8080/carlo1234/carlo1234/3234
-#EXTINF:-1 tvg-id="ComediePlus" tvg-logo="https://2p2m.lescigales.org/logos/comedie+.png" group-title="ARUBOX - SERIES",COMEDIE+
+#EXTINF:-1 tvg-id="ComediePlus" tvg-logo="https://ppechenot.github.io/perso/logos/comedie+.png" group-title="ARUBOX - SERIES",COMEDIE+
 http://arubox.pro:8080/carlo1234/carlo1234/3322
-#EXTINF:-1 tvg-id="13Rue" tvg-logo="https://2p2m.lescigales.org/logos/13eme_rue.png" group-title="ARUBOX - SERIES",13EME RUE
+#EXTINF:-1 tvg-id="13Rue" tvg-logo="https://ppechenot.github.io/perso/logos/13eme_rue.png" group-title="ARUBOX - SERIES",13EME RUE
 http://arubox.pro:8080/carlo1234/carlo1234/3195
-#EXTINF:-1 tvg-id="Syfy" tvg-logo="https://2p2m.lescigales.org/logos/syfy.png" group-title="ARUBOX - SERIES",SYFY
+#EXTINF:-1 tvg-id="Syfy" tvg-logo="https://ppechenot.github.io/perso/logos/syfy.png" group-title="ARUBOX - SERIES",SYFY
 http://arubox.pro:8080/carlo1234/carlo1234/3199
-#EXTINF:-1 tvg-id="WarnerTV" tvg-logo="https://2p2m.lescigales.org/logos/warner_tv.png" group-title="ARUBOX - SERIES",WARNER TV
+#EXTINF:-1 tvg-id="WarnerTV" tvg-logo="https://ppechenot.github.io/perso/logos/warner_tv.png" group-title="ARUBOX - SERIES",WARNER TV
 http://arubox.pro:8080/carlo1234/carlo1234/66102
-#EXTINF:-1 tvg-id="SerieClub" tvg-logo="https://2p2m.lescigales.org/logos/serie_club.png" group-title="ARUBOX - SERIES",SERIECLUB
+#EXTINF:-1 tvg-id="SerieClub" tvg-logo="https://ppechenot.github.io/perso/logos/serie_club.png" group-title="ARUBOX - SERIES",SERIECLUB
 http://arubox.pro:8080/carlo1234/carlo1234/3304
-#EXTINF:-1 tvg-id="TvBreizh" tvg-logo="https://2p2m.lescigales.org/logos/tvbreizh.png" group-title="ARUBOX - SERIES",TV BREIZH
+#EXTINF:-1 tvg-id="TvBreizh" tvg-logo="https://ppechenot.github.io/perso/logos/tvbreizh.png" group-title="ARUBOX - SERIES",TV BREIZH
 http://arubox.pro:8080/carlo1234/carlo1234/3313
-#EXTINF:-1 tvg-id="ParisPremiere" tvg-logo="https://2p2m.lescigales.org/logos/paris_premiere.png" group-title="ARUBOX - SERIES",PARIS PREMIERE
+#EXTINF:-1 tvg-id="ParisPremiere" tvg-logo="https://ppechenot.github.io/perso/logos/paris_premiere.png" group-title="ARUBOX - SERIES",PARIS PREMIERE
 http://arubox.pro:8080/carlo1234/carlo1234/3187
-#EXTINF:-1 tvg-id="RTL9" tvg-logo="https://2p2m.lescigales.org/logos/rtl9.png" group-title="ARUBOX - SERIES",RTL9
+#EXTINF:-1 tvg-id="RTL9" tvg-logo="https://ppechenot.github.io/perso/logos/rtl9.png" group-title="ARUBOX - SERIES",RTL9
 http://arubox.pro:8080/carlo1234/carlo1234/3200
 
-#EXTINF:-1 tvg-id="NationalGeographic" tvg-logo="https://2p2m.lescigales.org/logos/national_geographic.png" group-title="ARUBOX - CULTURE",NATIONAL GEOGRAPHIC
+#EXTINF:-1 tvg-id="NationalGeographic" tvg-logo="https://ppechenot.github.io/perso/logos/national_geographic.png" group-title="ARUBOX - CULTURE",NATIONAL GEOGRAPHIC
 http://arubox.pro:8080/carlo1234/carlo1234/3211
-#EXTINF:-1 tvg-id="NatGeoWild" tvg-logo="https://2p2m.lescigales.org/logos/nat_geo_wild.png" group-title="ARUBOX - CULTURE",NAT GEO WILD
+#EXTINF:-1 tvg-id="NatGeoWild" tvg-logo="https://ppechenot.github.io/perso/logos/nat_geo_wild.png" group-title="ARUBOX - CULTURE",NAT GEO WILD
 http://arubox.pro:8080/carlo1234/carlo1234/3212
-#EXTINF:-1 tvg-id="ScienceEtVieTV" tvg-logo="https://2p2m.lescigales.org/logos/science_et_vie_tv.png" group-title="ARUBOX - CULTURE",SCIENCE & VIE
+#EXTINF:-1 tvg-id="ScienceEtVieTV" tvg-logo="https://ppechenot.github.io/perso/logos/science_et_vie_tv.png" group-title="ARUBOX - CULTURE",SCIENCE & VIE
 http://arubox.pro:8080/carlo1234/carlo1234/3214
-#EXTINF:-1 tvg-id="UshuaiaTV" tvg-logo="https://2p2m.lescigales.org/logos/ushuaia_tv.png" group-title="ARUBOX - CULTURE",USHUAIA TV
+#EXTINF:-1 tvg-id="UshuaiaTV" tvg-logo="https://ppechenot.github.io/perso/logos/ushuaia_tv.png" group-title="ARUBOX - CULTURE",USHUAIA TV
 http://arubox.pro:8080/carlo1234/carlo1234/3308
-#EXTINF:-1 tvg-id="HistoireTV" tvg-logo="https://2p2m.lescigales.org/logos/histoire_tv.png" group-title="ARUBOX - CULTURE",HISTOIRE
+#EXTINF:-1 tvg-id="HistoireTV" tvg-logo="https://ppechenot.github.io/perso/logos/histoire_tv.png" group-title="ARUBOX - CULTURE",HISTOIRE
 http://arubox.pro:8080/carlo1234/carlo1234/3223
-#EXTINF:-1 tvg-id="TouteHistoire" tvg-logo="https://2p2m.lescigales.org/logos/toute_lhistoire.png" group-title="ARUBOX - CULTURE",TOUTE L'HISTOIRE
+#EXTINF:-1 tvg-id="TouteHistoire" tvg-logo="https://ppechenot.github.io/perso/logos/toute_lhistoire.png" group-title="ARUBOX - CULTURE",TOUTE L'HISTOIRE
 http://arubox.pro:8080/carlo1234/carlo1234/3224
 
-#EXTINF:-1 tvg-id="RTS1" tvg-logo="https://2p2m.lescigales.org/logos/rts1.png" group-title="ARUBOX - EUROPE",RTS 1
+#EXTINF:-1 tvg-id="RTS1" tvg-logo="https://ppechenot.github.io/perso/logos/rts1.png" group-title="ARUBOX - EUROPE",RTS 1
 http://arubox.pro:8080/carlo1234/carlo1234/3201
 #EXTINF:-1 tvg-id="LaUne" tvg-logo="http://2p2m.lescigales.org/logos/la_une.png" group-title="ARUBOX - EUROPE",LA UNE
 http://arubox.pro:8080/carlo1234/carlo1234/250627
 
-#EXTINF:-1 tvg-id="LEquipe" tvg-logo="https://2p2m.lescigales.org/logos/lequipe.png" group-title="ARUBOX - SPORT",L'EQUIPE
+#EXTINF:-1 tvg-id="LEquipe" tvg-logo="https://ppechenot.github.io/perso/logos/lequipe.png" group-title="ARUBOX - SPORT",L'EQUIPE
 http://arubox.pro:8080/carlo1234/carlo1234/3192
 #EXTINF:-1 tvg-id="" tvg-name="LA CHAINE L'ÉQUIPE" tvg-logo="http://bluenetbox.net:8080/images/7e51a8930560bb2f77803aeef3bb529a.png" group-title="Sports FR",LA CHAINE L'ÉQUIPE
 http://arubox.pro:8080/carlo1234/carlo1234/242324
 #EXTINF:-1 tvg-id="" tvg-name="LA CHAINE L'ÉQUIPE EN DIRECT" tvg-logo="http://bluenetbox.net:8080/images/7f45750d83f53ea085ee1c6c2ceca88d.png" group-title="Sports FR",LA CHAINE L'ÉQUIPE EN DIRECT
 http://arubox.pro:8080/carlo1234/carlo1234/242325
-#EXTINF:-1 tvg-id="" tvg-logo="https://2p2m.lescigales.org/logos/lequipelive1.png" group-title="ARUBOX - SPORT",L'EQUIPE LIVE 1
+#EXTINF:-1 tvg-id="" tvg-logo="https://ppechenot.github.io/perso/logos/lequipelive1.png" group-title="ARUBOX - SPORT",L'EQUIPE LIVE 1
 http://arubox.pro:8080/carlo1234/carlo1234/242322
-#EXTINF:-1 tvg-id="" tvg-logo="https://2p2m.lescigales.org/logos/lequipelive2.png" group-title="ARUBOX - SPORT",L'EQUIPE LIVE 2
+#EXTINF:-1 tvg-id="" tvg-logo="https://ppechenot.github.io/perso/logos/lequipelive2.png" group-title="ARUBOX - SPORT",L'EQUIPE LIVE 2
 http://arubox.pro:8080/carlo1234/carlo1234/242323
-#EXTINF:-1 tvg-id="CanalPlusSport" tvg-logo="https://2p2m.lescigales.org/logos/canal+_sport.png" group-title="ARUBOX - SPORT",CANAL+ SPORT
+#EXTINF:-1 tvg-id="CanalPlusSport" tvg-logo="https://ppechenot.github.io/perso/logos/canal+_sport.png" group-title="ARUBOX - SPORT",CANAL+ SPORT
 http://arubox.pro:8080/carlo1234/carlo1234/3246
-#EXTINF:-1 tvg-id="CanalPlusSport360" tvg-logo="https://2p2m.lescigales.org/logos/canal+_sport_360.png" group-title="ARUBOX - SPORT",CANAL+ SPORT 360
+#EXTINF:-1 tvg-id="CanalPlusSport360" tvg-logo="https://ppechenot.github.io/perso/logos/canal+_sport_360.png" group-title="ARUBOX - SPORT",CANAL+ SPORT 360
 http://arubox.pro:8080/carlo1234/carlo1234/43576
-#EXTINF:-1 tvg-id="Eurosport1" tvg-logo="https://2p2m.lescigales.org/logos/eurosport1.png" group-title="ARUBOX - SPORT",EUROSPORT 1
+#EXTINF:-1 tvg-id="Eurosport1" tvg-logo="https://ppechenot.github.io/perso/logos/eurosport1.png" group-title="ARUBOX - SPORT",EUROSPORT 1
 http://arubox.pro:8080/carlo1234/carlo1234/3248
-#EXTINF:-1 tvg-id="Eurosport2" tvg-logo="https://2p2m.lescigales.org/logos/eurosport2.png" group-title="ARUBOX - SPORT",EUROSPORT 2
+#EXTINF:-1 tvg-id="Eurosport2" tvg-logo="https://ppechenot.github.io/perso/logos/eurosport2.png" group-title="ARUBOX - SPORT",EUROSPORT 2
 http://arubox.pro:8080/carlo1234/carlo1234/3249
-#EXTINF:-1 tvg-id="BeinSports1" tvg-logo="https://2p2m.lescigales.org/logos/bein_sports1.png" group-title="ARUBOX - SPORT",BEIN SPORTS 1
+#EXTINF:-1 tvg-id="BeinSports1" tvg-logo="https://ppechenot.github.io/perso/logos/bein_sports1.png" group-title="ARUBOX - SPORT",BEIN SPORTS 1
 http://arubox.pro:8080/carlo1234/carlo1234/3255
-#EXTINF:-1 tvg-id="BeinSports2" tvg-logo="https://2p2m.lescigales.org/logos/bein_sports2.png" group-title="ARUBOX - SPORT",BEIN SPORTS 2
+#EXTINF:-1 tvg-id="BeinSports2" tvg-logo="https://ppechenot.github.io/perso/logos/bein_sports2.png" group-title="ARUBOX - SPORT",BEIN SPORTS 2
 http://arubox.pro:8080/carlo1234/carlo1234/3256
-#EXTINF:-1 tvg-id="BeinSports3" tvg-logo="https://2p2m.lescigales.org/logos/bein_sports3.png" group-title="ARUBOX - SPORT",BEIN SPORTS 3
+#EXTINF:-1 tvg-id="BeinSports3" tvg-logo="https://ppechenot.github.io/perso/logos/bein_sports3.png" group-title="ARUBOX - SPORT",BEIN SPORTS 3
 http://arubox.pro:8080/carlo1234/carlo1234/3257
-#EXTINF:-1 tvg-id="GolfPlus" tvg-logo="https://2p2m.lescigales.org/logos/golf+.png" group-title="ARUBOX - SPORT",GOLF+
+#EXTINF:-1 tvg-id="GolfPlus" tvg-logo="https://ppechenot.github.io/perso/logos/golf+.png" group-title="ARUBOX - SPORT",GOLF+
 http://arubox.pro:8080/carlo1234/carlo1234/3275
 
-#EXTINF:-1 tvg-id="SkySportsGolf" tvg-logo="https://2p2m.lescigales.org/logos/sky_sports_golf_uk.png" group-title="ARUBOX - SPORT",SKY SPORTS GOLF
+#EXTINF:-1 tvg-id="SkySportsGolf" tvg-logo="https://ppechenot.github.io/perso/logos/sky_sports_golf_uk.png" group-title="ARUBOX - SPORT",SKY SPORTS GOLF
 http://arubox.pro:8080/carlo1234/carlo1234/56691
-#EXTINF:-1 tvg-id="SkySportsMix" tvg-logo="https://2p2m.lescigales.org/logos/sky_sports_golf_uk.png" group-title="ARUBOX - SPORT",SKY SPORTS MIX
+#EXTINF:-1 tvg-id="SkySportsMix" tvg-logo="https://ppechenot.github.io/perso/logos/sky_sports_golf_uk.png" group-title="ARUBOX - SPORT",SKY SPORTS MIX
 http://arubox.pro:8080/carlo1234/carlo1234/56689
-#EXTINF:-1 tvg-id="TheGolfChannel" tvg-logo="https://2p2m.lescigales.org/logos/nbc_golf_channel.png" group-title="ARUBOX - SPORT",NBC GOLF
+#EXTINF:-1 tvg-id="TheGolfChannel" tvg-logo="https://ppechenot.github.io/perso/logos/nbc_golf_channel.png" group-title="ARUBOX - SPORT",NBC GOLF
 http://arubox.pro:8080/carlo1234/carlo1234/1570
-#EXTINF:-1 tvg-id="MovistarGolf" tvg-logo="https://2p2m.lescigales.org/logos/movistar_golf.png" group-title="ARUBOX - SPORT",M+ GOLF
+#EXTINF:-1 tvg-id="MovistarGolf" tvg-logo="https://ppechenot.github.io/perso/logos/movistar_golf.png" group-title="ARUBOX - SPORT",M+ GOLF
 http://arubox.pro:8080/carlo1234/carlo1234/2108
-
-#EXTINF:-1 tvg-id="BeinSportsMax4" tvg-logo="https://2p2m.lescigales.org/logos/bein_sports_max.png" group-title="ARUBOX - LIVE",BEIN SPORTS MAX 4
-http://arubox.pro:8080/carlo1234/carlo1234/3258
-#EXTINF:-1 tvg-id="BeinSportsMax5" tvg-logo="https://2p2m.lescigales.org/logos/bein_sports_max.png" group-title="ARUBOX - LIVE",BEIN SPORTS MAX 5
-http://arubox.pro:8080/carlo1234/carlo1234/3259
-#EXTINF:-1 tvg-id="BeinSportsMax6" tvg-logo="https://2p2m.lescigales.org/logos/bein_sports_max.png" group-title="ARUBOX - LIVE",BEIN SPORTS MAX 6
-http://arubox.pro:8080/carlo1234/carlo1234/3260
-#EXTINF:-1 tvg-id="BeinSportsMax7" tvg-logo="https://2p2m.lescigales.org/logos/bein_sports_max.png" group-title="ARUBOX - LIVE",BEIN SPORTS MAX 7
-http://arubox.pro:8080/carlo1234/carlo1234/3261
-#EXTINF:-1 tvg-id="BeinSportsMax8" tvg-logo="https://2p2m.lescigales.org/logos/bein_sports_max.png" group-title="ARUBOX - LIVE",BEIN SPORTS MAX 8
-http://arubox.pro:8080/carlo1234/carlo1234/3262
-#EXTINF:-1 tvg-id="BeinSportsMax9" tvg-logo="https://2p2m.lescigales.org/logos/bein_sports_max.png" group-title="ARUBOX - LIVE",BEIN SPORTS MAX 9
-http://arubox.pro:8080/carlo1234/carlo1234/3263
-#EXTINF:-1 tvg-id="BeinSportsMax10" tvg-logo="https://2p2m.lescigales.org/logos/bein_sports_max.png" group-title="ARUBOX - LIVE",BEIN SPORTS MAX 10
-http://arubox.pro:8080/carlo1234/carlo1234/3264
-
