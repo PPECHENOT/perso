@@ -1,4 +1,5 @@
-#EXTM3U
+#EXTM3U url-tvg="https://ppechenot.github.io/perso/tivi.xml"
+
 #EXTINF:-1 tvg-id="TF1" tvg-logo="https://ppechenot.github.io/perso/logos/tf1.png" group-title="ARUBOX - TNT",TF1
 http://arubox.pro:8080/carlo1234/carlo1234/3185
 #EXTINF:-1 tvg-id="France2" tvg-logo="https://ppechenot.github.io/perso/logos/france2.png" group-title="ARUBOX - TNT",FRANCE 2
