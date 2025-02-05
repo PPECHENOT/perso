@@ -175,9 +175,9 @@ https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/canalplus/csta
 #EXTINF:-1 tvg-id="Gulli" tvg-logo="https://ppechenot.github.io/perso/logos/gulli.png" group-title="SECOURS",GULLI
 https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/m6plus/gulli.m3u8
 
-#EXTINF:-1 tvg-chno="100" tvg-id="" tvg-logo="https://i.imgur.com/imvOEt6.png" tvg-country="FR" group-title="SECOURS",France TV Docs
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/imvOEt6.png" tvg-country="FR" group-title="SECOURS",France TV Docs
 https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/francetv/docs.m3u8
-#EXTINF:-1 tvg-chno="101" tvg-id="" tvg-logo="https://i.imgur.com/cbcIKCT.png" tvg-country="FR" group-title="SECOURS",France TV Séries
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/cbcIKCT.png" tvg-country="FR" group-title="SECOURS",France TV Séries
 https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/francetv/series.m3u8
 #EXTINF:-1 tvg-id="CanalPlus" tvg-logo="https://ppechenot.github.io/perso/logos/canal+.png" group-title="SECOURS",CANAL+ CLAIR
 https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/canalplus/canalplusclair-hd.m3u8
