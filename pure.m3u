@@ -38,6 +38,8 @@ http://puip.xyz:8000/zUP9RC7fq2YNB8/u1QDAYRUjanFU7/9299
 http://puip.xyz:8000/zUP9RC7fq2YNB8/u1QDAYRUjanFU7/5956
 #EXTINF:-1 tvg-id="Gulli" tvg-logo="https://ppechenot.github.io/perso/logos/gulli.png" group-title="TNT",GULLI
 http://puip.xyz:8000/zUP9RC7fq2YNB8/u1QDAYRUjanFU7/5962
+#EXTINF:-1 tvg-id="France3" tvg-logo="https://ppechenot.github.io/perso/logos/france3.png" group-title="TNT",FRANCE 3 F-C
+http://puip.xyz:8000/zUP9RC7fq2YNB8/u1QDAYRUjanFU7/44736
 
 #EXTINF:-1 tvg-id="CanalPlus" tvg-logo="https://ppechenot.github.io/perso/logos/canal+.png" group-title="CINEMA",CANAL+
 http://puip.xyz:8000/zUP9RC7fq2YNB8/u1QDAYRUjanFU7/11

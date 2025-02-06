@@ -38,6 +38,8 @@ http://king365-tv.com:2103/play/live.php?mac=00:1A:79:4F:50:DD&stream=1919&exten
 http://king365-tv.com:2103/play/live.php?mac=00:1A:79:4F:50:DD&stream=1148&extension=ts
 #EXTINF:-1 tvg-id="Gulli" tvg-logo="https://ppechenot.github.io/perso/logos/gulli.png" group-title="TNT",GULLI
 http://king365-tv.com:2103/play/live.php?mac=00:1A:79:4F:50:DD&stream=28&extension=ts
+#EXTINF:-1 tvg-id="France3" tvg-logo="https://ppechenot.github.io/perso/logos/france3.png" group-title="TNT",FRANCE 3 F-C
+http://king365-tv.com:2103/play/live.php?mac=00:1A:79:4F:50:DD&stream=89002&extension=ts
 
 #EXTINF:-1 tvg-id="CanalPlus" tvg-logo="https://ppechenot.github.io/perso/logos/canal+.png" group-title="CINEMA",CANAL+
 http://king365-tv.com:2103/play/live.php?mac=00:1A:79:4F:50:DD&stream=37169&extension=ts
