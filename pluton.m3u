@@ -1,0 +1,149 @@
+#EXTM3U url-tvg="https://ppechenot.github.io/perso/tivi.xml"
+
+#EXTINF:-1 tvg-id="TF1" tvg-logo="https://ppechenot.github.io/perso/logos/tf1.png" group-title="TNT",TF1
+http://s1.pluton-pro.com:80/live/8251167017/8367683520/25270.ts
+#EXTINF:-1 tvg-id="France2" tvg-logo="https://ppechenot.github.io/perso/logos/france2.png" group-title="TNT",FRANCE 2
+http://s1.pluton-pro.com:80/live/8251167017/8367683520/25269.ts
+#EXTINF:-1 tvg-id="France3" tvg-logo="https://ppechenot.github.io/perso/logos/france3.png" group-title="TNT",FRANCE 3
+http://s1.pluton-pro.com:80/live/8251167017/8367683520/25268.ts
+#EXTINF:-1 tvg-id="France4" tvg-logo="https://ppechenot.github.io/perso/logos/france4.png" group-title="TNT",FRANCE 4
+http://s1.pluton-pro.com:80/live/8251167017/8367683520/25267.ts
+#EXTINF:-1 tvg-id="France5" tvg-logo="https://ppechenot.github.io/perso/logos/france5.png" group-title="TNT",FRANCE 5
+http://s1.pluton-pro.com:80/live/8251167017/8367683520/25266.ts
+#EXTINF:-1 tvg-id="M6" tvg-logo="https://ppechenot.github.io/perso/logos/m6.png" group-title="TNT",M6
+http://s1.pluton-pro.com:80/live/8251167017/8367683520/25263.ts
+#EXTINF:-1 tvg-id="Arte" tvg-logo="https://ppechenot.github.io/perso/logos/arte.png" group-title="TNT",ARTE
+http://s1.pluton-pro.com:80/live/8251167017/8367683520/25254.ts
+#EXTINF:-1 tvg-id="C8" tvg-logo="https://ppechenot.github.io/perso/logos/c8.png" group-title="TNT",C8
+http://s1.pluton-pro.com:80/live/8251167017/8367683520/25255.ts
+#EXTINF:-1 tvg-id="W9" tvg-logo="https://ppechenot.github.io/perso/logos/w9.png" group-title="TNT",W9
+http://s1.pluton-pro.com:80/live/8251167017/8367683520/25256.ts
+#EXTINF:-1 tvg-id="TMC" tvg-logo="https://ppechenot.github.io/perso/logos/tmc.png" group-title="TNT",TMC
+http://s1.pluton-pro.com:80/live/8251167017/8367683520/25257.ts
+#EXTINF:-1 tvg-id="TFX" tvg-logo="https://ppechenot.github.io/perso/logos/tfx.png" group-title="TNT",TFX
+http://s1.pluton-pro.com:80/live/8251167017/8367683520/25260.ts
+#EXTINF:-1 tvg-id="NRJ12" tvg-logo="https://ppechenot.github.io/perso/logos/nrj12.png" group-title="TNT",NRJ12
+http://sf.bleutv.net/live/restreamar1ott/197668546138/3303.ts
+#EXTINF:-1 tvg-id="CStar" tvg-logo="https://ppechenot.github.io/perso/logos/cstar.png" group-title="TNT",CSTAR
+http://s1.pluton-pro.com:80/live/8251167017/8367683520/25246.ts
+#EXTINF:-1 tvg-id="TF1SeriesFilms" tvg-logo="https://ppechenot.github.io/perso/logos/tf1_series_films.png" group-title="TNT",TF1 SERIES FILMS
+http://s1.pluton-pro.com:80/live/8251167017/8367683520/25261.ts
+#EXTINF:-1 tvg-id="6ter" tvg-logo="https://ppechenot.github.io/perso/logos/6ter.png" group-title="TNT",6TER
+http://s1.pluton-pro.com:80/live/8251167017/8367683520/25264.ts
+#EXTINF:-1 tvg-id="RMCStory" tvg-logo="https://ppechenot.github.io/perso/logos/rmc_story.png" group-title="TNT",RMC STORY
+http://sf.bleutv.net/live/restreamar1ott/197668546138/116464.ts
+#EXTINF:-1 tvg-id="Cherie25" tvg-logo="https://ppechenot.github.io/perso/logos/cherie25.png" group-title="TNT",CHERIE 25
+http://sf.bleutv.net/live/restreamar1ott/197668546138/3317.ts
+#EXTINF:-1 tvg-id="LCP" tvg-logo="https://ppechenot.github.io/perso/logos/lcp.png" group-title="TNT",LCP
+http://sf.bleutv.net/live/restreamar1ott/197668546138/105809.ts
+#EXTINF:-1 tvg-id="Gulli" tvg-logo="https://ppechenot.github.io/perso/logos/gulli.png" group-title="TNT",GULLI
+http://sf.bleutv.net/live/restreamar1ott/197668546138/232939.ts
+
+#EXTINF:-1 tvg-id="CanalPlus" tvg-logo="https://ppechenot.github.io/perso/logos/canal+.png" group-title="CINEMA",CANAL+
+http://s1.pluton-pro.com:80/live/8251167017/8367683520/25226.ts
+#EXTINF:-1 tvg-id="CanalPlusCinema" tvg-logo="https://ppechenot.github.io/perso/logos/canal+_cinema(s).png" group-title="CINEMA",CANAL+ CINEMA(S)
+http://sf.bleutv.net/live/restreamar1ott/197668546138/112.ts
+#EXTINF:-1 tvg-id="CanalPlusBoxOffice" tvg-logo="https://ppechenot.github.io/perso/logos/canal+_box_office.png" group-title="KING - CINEMA",CANAL+ BOX OFFICE
+http://king365-tv.com:2103/play/live.php?mac=00:1A:79:4F:50:DD&stream=97972&extension=ts
+#EXTINF:-1 tvg-id="CanalPlusGrandEcran" tvg-logo="https://ppechenot.github.io/perso/logos/canal+_grand_ecran.png" group-title="CINEMA",CANAL+ GRAND ECRAN
+http://sf.bleutv.net/live/restreamar1ott/197668546138/86236.ts
+#EXTINF:-1 tvg-id="OCS" tvg-logo="https://ppechenot.github.io/perso/logos/cine+_ocs.png" group-title="CINEMA",CINE+ OCS
+http://sf.bleutv.net/live/restreamar1ott/197668546138/123.ts
+#EXTINF:-1 tvg-id="CinePlusFrisson" tvg-logo="https://ppechenot.github.io/perso/logos/cine+_frisson.png" group-title="CINEMA",CINE+ FRISSON
+http://sf.bleutv.net/live/restreamar1ott/197668546138/127.ts
+#EXTINF:-1 tvg-id="CinePlusEmotion" tvg-logo="https://ppechenot.github.io/perso/logos/cine+_emotion.png" group-title="CINEMA",CINE+ EMOTION
+http://sf.bleutv.net/live/restreamar1ott/197668546138/129.ts
+#EXTINF:-1 tvg-id="CinePlusFamily" tvg-logo="https://ppechenot.github.io/perso/logos/cine+_family.png" group-title="CINEMA",CINE+ FAMILY
+http://sf.bleutv.net/live/restreamar1ott/197668546138/131.ts
+#EXTINF:-1 tvg-id="CinePlusFestival" tvg-logo="https://ppechenot.github.io/perso/logos/cine+_festival.png" group-title="CINEMA",CINE+ FESTIVAL
+http://sf.bleutv.net/live/restreamar1ott/197668546138/132.ts
+#EXTINF:-1 tvg-id="CinePlusClassic" tvg-logo="https://ppechenot.github.io/perso/logos/cine+_classic.png" group-title="CINEMA",CINE+ CLASSIC
+http://sf.bleutv.net/live/restreamar1ott/197668546138/135.ts
+#EXTINF:-1 tvg-id="TCM" tvg-logo="https://ppechenot.github.io/perso/logos/tcm_cinema.png" group-title="CINEMA",TCM CINEMA
+http://sf.bleutv.net/live/restreamar1ott/197668546138/62200.ts
+#EXTINF:-1 tvg-id="ParamountChannel" tvg-logo="https://ppechenot.github.io/perso/logos/paramount_channel.png" group-title="CINEMA",PARAMOUNT CHANNEL
+http://sf.bleutv.net/live/restreamar1ott/197668546138/139.ts
+#EXTINF:-1 tvg-id="Action" tvg-logo="https://ppechenot.github.io/perso/logos/action.png" group-title="CINEMA",ACTION
+http://sf.bleutv.net/live/restreamar1ott/197668546138/114.ts
+
+#EXTINF:-1 tvg-id="CanalPlusSeries" tvg-logo="https://ppechenot.github.io/perso/logos/canal+_series.png" group-title="SERIES",CANAL+ SERIES
+http://sf.bleutv.net/live/restreamar1ott/197668546138/107.ts
+#EXTINF:-1 tvg-id="PolarPlus" tvg-logo="https://ppechenot.github.io/perso/logos/polar+.png" group-title="SERIES",POLAR+
+http://sf.bleutv.net/live/restreamar1ott/197668546138/140.ts
+#EXTINF:-1 tvg-id="ComediePlus" tvg-logo="https://ppechenot.github.io/perso/logos/comedie+.png" group-title="SERIES",COMEDIE+
+http://s1.pluton-pro.com:80/live/8251167017/8367683520/25242.ts
+#EXTINF:-1 tvg-id="13Rue" tvg-logo="https://ppechenot.github.io/perso/logos/13eme_rue.png" group-title="SERIES",13EME RUE
+http://sf.bleutv.net/live/restreamar1ott/197668546138/233664.ts
+#EXTINF:-1 tvg-id="Syfy" tvg-logo="https://ppechenot.github.io/perso/logos/syfy.png" group-title="SERIES",SYFY
+http://sf.bleutv.net/live/restreamar1ott/197668546138/233872.ts
+#EXTINF:-1 tvg-id="WarnerTV" tvg-logo="https://ppechenot.github.io/perso/logos/warner_tv.png" group-title="SERIES",WARNER TV
+http://sf.bleutv.net/live/restreamar1ott/197668546138/148.ts
+#EXTINF:-1 tvg-id="SerieClub" tvg-logo="https://ppechenot.github.io/perso/logos/serie_club.png" group-title="SERIES",SERIECLUB
+http://sf.bleutv.net/live/restreamar1ott/197668546138/144.ts
+#EXTINF:-1 tvg-id="TvBreizh" tvg-logo="https://ppechenot.github.io/perso/logos/tvbreizh.png" group-title="SERIES",TV BREIZH
+http://sf.bleutv.net/live/restreamar1ott/197668546138/233880.ts
+#EXTINF:-1 tvg-id="Teva" tvg-logo="https://ppechenot.github.io/perso/logos/teva.png" group-title="SERIES",TEVA
+http://s1.pluton-pro.com:80/live/8251167017/8367683520/25258.ts
+#EXTINF:-1 tvg-id="ParisPremiere" tvg-logo="https://ppechenot.github.io/perso/logos/paris_premiere.png" group-title="SERIES",PARIS PREMIERE
+http://sf.bleutv.net/live/restreamar1ott/197668546138/233888.ts
+#EXTINF:-1 tvg-id="RTL9" tvg-logo="https://ppechenot.github.io/perso/logos/rtl9.png" group-title="SERIES",RTL9
+http://s1.pluton-pro.com:80/live/8251167017/8367683520/25259.ts
+
+#EXTINF:-1 tvg-id="CanalPlusDocs" tvg-logo="https://ppechenot.github.io/perso/logos/canal+_docs.png" group-title="CULTURE",CANAL+ DOCS
+http://sf.bleutv.net/live/restreamar1ott/197668546138/86235.ts
+#EXTINF:-1 tvg-id="NationalGeographic" tvg-logo="https://ppechenot.github.io/perso/logos/national_geographic.png" group-title="CULTURE",NATIONAL GEOGRAPHIC
+http://sf.bleutv.net/live/restreamar1ott/197668546138/37329.ts
+#EXTINF:-1 tvg-id="NatGeoWild" tvg-logo="https://ppechenot.github.io/perso/logos/nat_geo_wild.png" group-title="CULTURE",NAT GEO WILD
+http://sf.bleutv.net/live/restreamar1ott/197668546138/233969.ts
+#EXTINF:-1 tvg-id="ScienceEtVieTV" tvg-logo="https://ppechenot.github.io/perso/logos/science_et_vie_tv.png" group-title="CULTURE",SCIENCE & VIE
+http://sf.bleutv.net/live/restreamar1ott/197668546138/233981.ts
+#EXTINF:-1 tvg-id="UshuaiaTV" tvg-logo="https://ppechenot.github.io/perso/logos/ushuaia_tv.png" group-title="CULTURE",USHUAIA TV
+http://sf.bleutv.net/live/restreamar1ott/197668546138/37336.ts
+#EXTINF:-1 tvg-id="HistoireTV" tvg-logo="https://ppechenot.github.io/perso/logos/histoire_tv.png" group-title="CULTURE",HISTOIRE
+http://sf.bleutv.net/live/restreamar1ott/197668546138/233973.ts
+#EXTINF:-1 tvg-id="TouteHistoire" tvg-logo="https://ppechenot.github.io/perso/logos/toute_lhistoire.png" group-title="CULTURE",TOUTE L'HISTOIRE
+http://sf.bleutv.net/live/restreamar1ott/197668546138/37308.ts
+#EXTINF:-1 tvg-id="MuseumTV" tvg-logo="https://noos.vip/images/eb0ea0bc6c91e1e8058ddddfa6192ce7.png" group-title="CULTURE",MUSEUM TV
+http://s1.pluton-pro.com:80/live/8251167017/8367683520/25243.ts
+
+#EXTINF:-1 tvg-id="RTS1" tvg-logo="https://ppechenot.github.io/perso/logos/rts1.png" group-title="EUROPE",RTS 1
+http://s1.pluton-pro.com:80/live/8251167017/8367683520/25248.ts
+#EXTINF:-1 tvg-id="RTS2" tvg-logo="https://ppechenot.github.io/perso/logos/rts2.png" group-title="EUROPE",RTS 2
+http://s1.pluton-pro.com:80/live/8251167017/8367683520/25247.ts
+#EXTINF:-1 tvg-id="LaUne" tvg-logo="http://2p2m.lescigales.org/logos/la_une.png" group-title="EUROPE",LA UNE
+http://sf.bleutv.net/live/restreamar1ott/197668546138/235357.ts
+#EXTINF:-1 tvg-id="LaTrois" tvg-logo="http://2p2m.lescigales.org/logos/la_trois.png" group-title="EUROPE",LA TROIS
+http://sf.bleutv.net/live/restreamar1ott/197668546138/235361.ts
+
+#EXTINF:-1 tvg-id="LEquipe" tvg-logo="https://ppechenot.github.io/perso/logos/lequipe.png" group-title="SPORT",L'EQUIPE
+http://s1.pluton-pro.com:80/live/8251167017/8367683520/25236.ts
+#EXTINF:-1 tvg-id="CanalPlusSport" tvg-logo="https://ppechenot.github.io/perso/logos/canal+_sport.png" group-title="SPORT",CANAL+ SPORT
+http://sf.bleutv.net/live/restreamar1ott/197668546138/42014.ts
+#EXTINF:-1 tvg-id="CanalPlusSport360" tvg-logo="https://ppechenot.github.io/perso/logos/canal+_sport_360.png" group-title="SPORT",CANAL+ SPORT 360
+http://sf.bleutv.net/live/restreamar1ott/197668546138/42015.ts
+#EXTINF:-1 tvg-id="Eurosport1" tvg-logo="https://ppechenot.github.io/perso/logos/eurosport1.png" group-title="SPORT",EUROSPORT 1
+http://sf.bleutv.net/live/restreamar1ott/197668546138/341.ts
+#EXTINF:-1 tvg-id="Eurosport2" tvg-logo="https://ppechenot.github.io/perso/logos/eurosport2.png" group-title="SPORT",EUROSPORT 2
+http://sf.bleutv.net/live/restreamar1ott/197668546138/343.ts
+#EXTINF:-1 tvg-id="BeinSports1" tvg-logo="https://ppechenot.github.io/perso/logos/bein_sports1.png" group-title="SPORT",BEIN SPORTS 1
+http://sf.bleutv.net/live/restreamar1ott/197668546138/230946.ts
+#EXTINF:-1 tvg-id="BeinSports2" tvg-logo="https://ppechenot.github.io/perso/logos/bein_sports2.png" group-title="SPORT",BEIN SPORTS 2
+http://sf.bleutv.net/live/restreamar1ott/197668546138/330.ts
+#EXTINF:-1 tvg-id="BeinSports3" tvg-logo="https://ppechenot.github.io/perso/logos/bein_sports3.png" group-title="SPORT",BEIN SPORTS 3
+http://sf.bleutv.net/live/restreamar1ott/197668546138/74452.ts
+#EXTINF:-1 tvg-id="SportEnFrance" tvg-logo="https://ppechenot.github.io/perso/logos/sport_en_france.png" group-title="SPORT",SPORT EN FRANCE
+http://sf.bleutv.net/live/restreamar1ott/197668546138/89556.ts
+#EXTINF:-1 tvg-id="GolfPlus" tvg-logo="https://ppechenot.github.io/perso/logos/golf+.png" group-title="SPORT",GOLF+
+http://sf.bleutv.net/live/restreamar1ott/197668546138/382.ts
+#EXTINF:-1 tvg-id="SkySportsGolf" tvg-logo="https://ppechenot.github.io/perso/logos/sky_sports_golf_uk.png" group-title="KING - SPORT",SKY SPORTS GOLF
+http://king365-tv.com:2103/play/live.php?mac=00:1A:79:4F:50:DD&stream=94020&extension=ts
+#EXTINF:-1 tvg-id="SkySportsMix" tvg-logo="https://ppechenot.github.io/perso/logos/sky_sports_golf_uk.png" group-title="KING - SPORT",SKY SPORTS MIX
+http://king365-tv.com:2103/play/live.php?mac=00:1A:79:4F:50:DD&stream=669&extension=ts
+#EXTINF:-1 tvg-id="SSGolf" tvg-logo="https://ppechenot.github.io/perso/logos/supersport_golf.png" group-title="KING - SPORT",SUPERSPORTS GOLF 
+http://king365-tv.com:2103/play/live.php?mac=00:1A:79:4F:50:DD&stream=113595&extension=ts
+#EXTINF:-1 tvg-id="VSportGolf" tvg-logo="https://ppechenot.github.io/perso/logos/vsport_golf.png" group-title="KING - SPORT",V SPORT GOLF
+http://king365-tv.com:2103/play/live.php?mac=00:1A:79:4F:50:DD&stream=19688&extension=ts
+#EXTINF:-1 tvg-id="TheGolfChannel" tvg-logo="https://ppechenot.github.io/perso/logos/nbc_golf_channel.png" group-title="KING - SPORT",NBC GOLF
+http://king365-tv.com:2103/play/live.php?mac=00:1A:79:4F:50:DD&stream=112076&extension=ts
+#EXTINF:-1 tvg-id="MovistarGolf" tvg-logo="https://ppechenot.github.io/perso/logos/movistar_golf.png" group-title="SPORT",M+ GOLF
+http://sf.bleutv.net/live/restreamar1ott/197668546138/83562.ts
