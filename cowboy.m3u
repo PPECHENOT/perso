@@ -43,7 +43,7 @@ http://sf.bleutv.net/live/restreamar1ott/197668546138/232939.ts
 http://cowboytv.xyz:80/live/alfred1/alfred1/683992.ts
 #EXTINF:-1 tvg-id="CanalPlusCinema" tvg-logo="https://ppechenot.github.io/perso/logos/canal+_cinema(s).png" group-title="CINEMA",CANAL+ CINEMA(S)
 http://cowboytv.xyz:80/live/alfred1/alfred1/684251.ts
-#EXTINF:-1 tvg-id="CanalPlusBoxOffice" tvg-logo="https://ppechenot.github.io/perso/logos/canal+_box_office.png" group-title="KING - CINEMA",CANAL+ BOX OFFICE
+#EXTINF:-1 tvg-id="CanalPlusBoxOffice" tvg-logo="https://ppechenot.github.io/perso/logos/canal+_box_office.png" group-title="CINEMA",CANAL+ BOX OFFICE
 http://cowboytv.xyz:80/live/alfred1/alfred1/684253.ts
 #EXTINF:-1 tvg-id="CanalPlusGrandEcran" tvg-logo="https://ppechenot.github.io/perso/logos/canal+_grand_ecran.png" group-title="CINEMA",CANAL+ GRAND ECRAN
 http://cowboytv.xyz:80/live/alfred1/alfred1/684249.ts
