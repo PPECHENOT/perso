@@ -110,9 +110,9 @@ http://4kgoott.com:8880/play/live.php?mac=00:1A:79:F0:85:C4&stream=8022&extensio
 http://4kgoott.com:8880/play/live.php?mac=00:1A:79:F0:85:C4&stream=518555&extension=ts
 #EXTINF:-1 tvg-id="RTS2" tvg-logo="https://ppechenot.github.io/perso/logos/rts2.png" group-title="EUROPE",RTS 2
 http://4kgoott.com:8880/play/live.php?mac=00:1A:79:F0:85:C4&stream=518551&extension=ts
-#EXTINF:-1 tvg-id="LaUne" tvg-logo="http://2p2m.lescigales.org/logos/la_une.png" group-title="EUROPE",LA UNE
+#EXTINF:-1 tvg-id="LaUne" tvg-logo="https://ppechenot.github.io/perso/logos/la_une.png" group-title="EUROPE",LA UNE
 http://4kgoott.com:8880/play/live.php?mac=00:1A:79:F0:85:C4&stream=277&extension=ts
-#EXTINF:-1 tvg-id="LaTrois" tvg-logo="http://2p2m.lescigales.org/logos/la_trois.png" group-title="EUROPE",LA TROIS
+#EXTINF:-1 tvg-id="LaTrois" tvg-logo="https://ppechenot.github.io/perso/logos/la_trois.png" group-title="EUROPE",LA TROIS
 http://4kgoott.com:8880/play/live.php?mac=00:1A:79:F0:85:C4&stream=279&extension=ts
 
 #EXTINF:-1 tvg-id="LEquipe" tvg-logo="https://ppechenot.github.io/perso/logos/lequipe.png" group-title="SPORT",L'EQUIPE

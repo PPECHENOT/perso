@@ -112,9 +112,9 @@ http://king365-tv.com:2103/play/live.php?mac=00:1A:79:4F:50:DD&stream=13183&exte
 http://king365-tv.com:2103/play/live.php?mac=00:1A:79:4F:50:DD&stream=12061&extension=ts
 #EXTINF:-1 tvg-id="RTS2" tvg-logo="https://ppechenot.github.io/perso/logos/rts2.png" group-title="EUROPE",RTS 2
 http://king365-tv.com:2103/play/live.php?mac=00:1A:79:4F:50:DD&stream=12060&extension=ts
-#EXTINF:-1 tvg-id="LaUne" tvg-logo="http://2p2m.lescigales.org/logos/la_une.png" group-title="EUROPE",LA UNE
+#EXTINF:-1 tvg-id="LaUne" tvg-logo="https://ppechenot.github.io/perso/logos/la_une.png" group-title="EUROPE",LA UNE
 http://king365-tv.com:2103/play/live.php?mac=00:1A:79:4F:50:DD&stream=335&extension=ts
-#EXTINF:-1 tvg-id="LaTrois" tvg-logo="http://2p2m.lescigales.org/logos/la_trois.png" group-title="EUROPE",LA TROIS
+#EXTINF:-1 tvg-id="LaTrois" tvg-logo="https://ppechenot.github.io/perso/logos/la_trois.png" group-title="EUROPE",LA TROIS
 http://king365-tv.com:2103/play/live.php?mac=00:1A:79:4F:50:DD&stream=37752&extension=ts
 
 #EXTINF:-1 tvg-id="LEquipe" tvg-logo="https://ppechenot.github.io/perso/logos/lequipe.png" group-title="SPORT",L'EQUIPE

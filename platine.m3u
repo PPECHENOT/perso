@@ -112,9 +112,9 @@ http://platineiptv.pro:8789/play/live.php?mac=00:1A:79:64:7A:8A&stream=13714&ext
 http://platineiptv.pro:8789/play/live.php?mac=00:1A:79:64:7A:8A&stream=13705&extension=ts
 #EXTINF:-1 tvg-id="RTS2" tvg-logo="https://ppechenot.github.io/perso/logos/rts2.png" group-title="EUROPE",RTS 2
 http://platineiptv.pro:8789/play/live.php?mac=00:1A:79:64:7A:8A&stream=13706&extension=ts
-#EXTINF:-1 tvg-id="LaUne" tvg-logo="http://2p2m.lescigales.org/logos/la_une.png" group-title="EUROPE",LA UNE
+#EXTINF:-1 tvg-id="LaUne" tvg-logo="https://ppechenot.github.io/perso/logos/la_une.png" group-title="EUROPE",LA UNE
 http://platineiptv.pro:8789/play/live.php?mac=00:1A:79:64:7A:8A&stream=29821&extension=ts
-#EXTINF:-1 tvg-id="LaTrois" tvg-logo="http://2p2m.lescigales.org/logos/la_trois.png" group-title="EUROPE",LA TROIS
+#EXTINF:-1 tvg-id="LaTrois" tvg-logo="https://ppechenot.github.io/perso/logos/la_trois.png" group-title="EUROPE",LA TROIS
 http://platineiptv.pro:8789/play/live.php?mac=00:1A:79:64:7A:8A&stream=14148&extension=ts
 
 #EXTINF:-1 tvg-id="LEquipe" tvg-logo="https://ppechenot.github.io/perso/logos/lequipe.png" group-title="SPORT",L'EQUIPE

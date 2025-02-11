@@ -96,7 +96,7 @@ http://arubox.pro:8080/carlo1234/carlo1234/3224
 
 #EXTINF:-1 tvg-id="RTS1" tvg-logo="https://ppechenot.github.io/perso/logos/rts1.png" group-title="EUROPE",RTS 1
 http://arubox.pro:8080/carlo1234/carlo1234/3201
-#EXTINF:-1 tvg-id="LaUne" tvg-logo="http://2p2m.lescigales.org/logos/la_une.png" group-title="EUROPE",LA UNE
+#EXTINF:-1 tvg-id="LaUne" tvg-logo="https://ppechenot.github.io/perso/logos/la_une.png" group-title="EUROPE",LA UNE
 http://arubox.pro:8080/carlo1234/carlo1234/250627
 
 #EXTINF:-1 tvg-id="LEquipe" tvg-logo="https://ppechenot.github.io/perso/logos/lequipe.png" group-title="SPORT",L'EQUIPE
