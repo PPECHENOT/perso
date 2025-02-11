@@ -35,9 +35,11 @@ http://cowboytv.xyz:80/live/alfred1/alfred1/684196.ts
 #EXTINF:-1 tvg-id="Cherie25" tvg-logo="https://ppechenot.github.io/perso/logos/cherie25.png" group-title="TNT",CHERIE 25
 http://cowboytv.xyz:80/live/alfred1/alfred1/684194.ts
 #EXTINF:-1 tvg-id="LCP" tvg-logo="https://ppechenot.github.io/perso/logos/lcp.png" group-title="TNT",LCP
-http://sf.bleutv.net/live/restreamar1ott/197668546138/105809.ts
+http://cowboytv.xyz:80/live/alfred1/alfred1/684302.ts
 #EXTINF:-1 tvg-id="Gulli" tvg-logo="https://ppechenot.github.io/perso/logos/gulli.png" group-title="TNT",GULLI
-http://sf.bleutv.net/live/restreamar1ott/197668546138/232939.ts
+http://cowboytv.xyz:80/live/alfred1/alfred1/684465.ts
+#EXTINF:-1 tvg-id="France3" tvg-logo="https://ppechenot.github.io/perso/logos/france3.png" group-title="TNT",FRANCE 3 F-C
+http://cowboytv.xyz:80/live/alfred1/alfred1/684358.ts
 
 #EXTINF:-1 tvg-id="CanalPlus" tvg-logo="https://ppechenot.github.io/perso/logos/canal+.png" group-title="CINEMA",CANAL+
 http://cowboytv.xyz:80/live/alfred1/alfred1/683992.ts
@@ -92,60 +94,68 @@ http://cowboytv.xyz:80/live/alfred1/alfred1/684182.ts
 http://cowboytv.xyz:80/live/alfred1/alfred1/684161.ts
 
 #EXTINF:-1 tvg-id="CanalPlusDocs" tvg-logo="https://ppechenot.github.io/perso/logos/canal+_docs.png" group-title="CULTURE",CANAL+ DOCS
-http://sf.bleutv.net/live/restreamar1ott/197668546138/86235.ts
+http://cowboytv.xyz:80/live/alfred1/alfred1/684422.ts
 #EXTINF:-1 tvg-id="NationalGeographic" tvg-logo="https://ppechenot.github.io/perso/logos/national_geographic.png" group-title="CULTURE",NATIONAL GEOGRAPHIC
-http://sf.bleutv.net/live/restreamar1ott/197668546138/37329.ts
+http://cowboytv.xyz:80/live/alfred1/alfred1/684406.ts
 #EXTINF:-1 tvg-id="NatGeoWild" tvg-logo="https://ppechenot.github.io/perso/logos/nat_geo_wild.png" group-title="CULTURE",NAT GEO WILD
-http://sf.bleutv.net/live/restreamar1ott/197668546138/233969.ts
+http://cowboytv.xyz:80/live/alfred1/alfred1/684404.ts
 #EXTINF:-1 tvg-id="ScienceEtVieTV" tvg-logo="https://ppechenot.github.io/perso/logos/science_et_vie_tv.png" group-title="CULTURE",SCIENCE & VIE
-http://sf.bleutv.net/live/restreamar1ott/197668546138/233981.ts
+http://cowboytv.xyz:80/live/alfred1/alfred1/684390.ts
 #EXTINF:-1 tvg-id="UshuaiaTV" tvg-logo="https://ppechenot.github.io/perso/logos/ushuaia_tv.png" group-title="CULTURE",USHUAIA TV
-http://sf.bleutv.net/live/restreamar1ott/197668546138/37336.ts
+http://cowboytv.xyz:80/live/alfred1/alfred1/684402.ts
 #EXTINF:-1 tvg-id="HistoireTV" tvg-logo="https://ppechenot.github.io/perso/logos/histoire_tv.png" group-title="CULTURE",HISTOIRE
-http://sf.bleutv.net/live/restreamar1ott/197668546138/233973.ts
+http://cowboytv.xyz:80/live/alfred1/alfred1/684388.ts
 #EXTINF:-1 tvg-id="TouteHistoire" tvg-logo="https://ppechenot.github.io/perso/logos/toute_lhistoire.png" group-title="CULTURE",TOUTE L'HISTOIRE
-http://sf.bleutv.net/live/restreamar1ott/197668546138/37308.ts
+http://cowboytv.xyz:80/live/alfred1/alfred1/684386.ts
 #EXTINF:-1 tvg-id="MuseumTV" tvg-logo="https://noos.vip/images/eb0ea0bc6c91e1e8058ddddfa6192ce7.png" group-title="CULTURE",MUSEUM TV
-http://s1.pluton-pro.com:80/live/8251167017/8367683520/25243.ts
+http://cowboytv.xyz:80/live/alfred1/alfred1/684327.ts
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/imvOEt6.png" tvg-country="FR",France TV Docs
+http://cowboytv.xyz:80/live/alfred1/alfred1/684375.ts
 
 #EXTINF:-1 tvg-id="RTS1" tvg-logo="https://ppechenot.github.io/perso/logos/rts1.png" group-title="EUROPE",RTS 1
-http://s1.pluton-pro.com:80/live/8251167017/8367683520/25248.ts
+http://cowboytv.xyz:80/live/alfred1/alfred1/639056.ts
 #EXTINF:-1 tvg-id="RTS2" tvg-logo="https://ppechenot.github.io/perso/logos/rts2.png" group-title="EUROPE",RTS 2
-http://s1.pluton-pro.com:80/live/8251167017/8367683520/25247.ts
+http://cowboytv.xyz:80/live/alfred1/alfred1/639054.ts
 #EXTINF:-1 tvg-id="LaUne" tvg-logo="http://2p2m.lescigales.org/logos/la_une.png" group-title="EUROPE",LA UNE
-http://sf.bleutv.net/live/restreamar1ott/197668546138/235357.ts
+http://cowboytv.xyz:80/live/alfred1/alfred1/689293.ts
 #EXTINF:-1 tvg-id="LaTrois" tvg-logo="http://2p2m.lescigales.org/logos/la_trois.png" group-title="EUROPE",LA TROIS
-http://sf.bleutv.net/live/restreamar1ott/197668546138/235361.ts
+http://cowboytv.xyz:80/live/alfred1/alfred1/689284.ts
 
 #EXTINF:-1 tvg-id="LEquipe" tvg-logo="https://ppechenot.github.io/perso/logos/lequipe.png" group-title="SPORT",L'EQUIPE
-http://s1.pluton-pro.com:80/live/8251167017/8367683520/25236.ts
+http://cowboytv.xyz:80/live/alfred1/alfred1/684743.ts
+#EXTINF:-1 tvg-id="" tvg-logo="https://ppechenot.github.io/perso/logos/lequipelive1.png",L'EQUIPE LIVE 1
+http://cowboytv.xyz:80/live/alfred1/alfred1/684742.ts
+#EXTINF:-1 tvg-id="" tvg-logo="https://ppechenot.github.io/perso/logos/lequipelive2.png",L'EQUIPE LIVE 2
+http://cowboytv.xyz:80/live/alfred1/alfred1/684740.ts
 #EXTINF:-1 tvg-id="CanalPlusSport" tvg-logo="https://ppechenot.github.io/perso/logos/canal+_sport.png" group-title="SPORT",CANAL+ SPORT
-http://sf.bleutv.net/live/restreamar1ott/197668546138/42014.ts
+http://cowboytv.xyz:80/live/alfred1/alfred1/684754.ts
 #EXTINF:-1 tvg-id="CanalPlusSport360" tvg-logo="https://ppechenot.github.io/perso/logos/canal+_sport_360.png" group-title="SPORT",CANAL+ SPORT 360
-http://sf.bleutv.net/live/restreamar1ott/197668546138/42015.ts
+http://cowboytv.xyz:80/live/alfred1/alfred1/684752.ts
 #EXTINF:-1 tvg-id="Eurosport1" tvg-logo="https://ppechenot.github.io/perso/logos/eurosport1.png" group-title="SPORT",EUROSPORT 1
-http://sf.bleutv.net/live/restreamar1ott/197668546138/341.ts
+http://cowboytv.xyz:80/live/alfred1/alfred1/684735.ts
 #EXTINF:-1 tvg-id="Eurosport2" tvg-logo="https://ppechenot.github.io/perso/logos/eurosport2.png" group-title="SPORT",EUROSPORT 2
-http://sf.bleutv.net/live/restreamar1ott/197668546138/343.ts
+http://cowboytv.xyz:80/live/alfred1/alfred1/684733.ts
 #EXTINF:-1 tvg-id="BeinSports1" tvg-logo="https://ppechenot.github.io/perso/logos/bein_sports1.png" group-title="SPORT",BEIN SPORTS 1
-http://sf.bleutv.net/live/restreamar1ott/197668546138/230946.ts
+http://cowboytv.xyz:80/live/alfred1/alfred1/684776.ts
 #EXTINF:-1 tvg-id="BeinSports2" tvg-logo="https://ppechenot.github.io/perso/logos/bein_sports2.png" group-title="SPORT",BEIN SPORTS 2
-http://sf.bleutv.net/live/restreamar1ott/197668546138/330.ts
+http://cowboytv.xyz:80/live/alfred1/alfred1/684773.ts
 #EXTINF:-1 tvg-id="BeinSports3" tvg-logo="https://ppechenot.github.io/perso/logos/bein_sports3.png" group-title="SPORT",BEIN SPORTS 3
-http://sf.bleutv.net/live/restreamar1ott/197668546138/74452.ts
+http://cowboytv.xyz:80/live/alfred1/alfred1/684770.ts
 #EXTINF:-1 tvg-id="SportEnFrance" tvg-logo="https://ppechenot.github.io/perso/logos/sport_en_france.png" group-title="SPORT",SPORT EN FRANCE
-http://sf.bleutv.net/live/restreamar1ott/197668546138/89556.ts
+http://cowboytv.xyz:80/live/alfred1/alfred1/684723.ts
 #EXTINF:-1 tvg-id="GolfPlus" tvg-logo="https://ppechenot.github.io/perso/logos/golf+.png" group-title="SPORT",GOLF+
-http://sf.bleutv.net/live/restreamar1ott/197668546138/382.ts
-#EXTINF:-1 tvg-id="SkySportsGolf" tvg-logo="https://ppechenot.github.io/perso/logos/sky_sports_golf_uk.png" group-title="KING - SPORT",SKY SPORTS GOLF
-http://king365-tv.com:2103/play/live.php?mac=00:1A:79:4F:50:DD&stream=94020&extension=ts
-#EXTINF:-1 tvg-id="SkySportsMix" tvg-logo="https://ppechenot.github.io/perso/logos/sky_sports_golf_uk.png" group-title="KING - SPORT",SKY SPORTS MIX
-http://king365-tv.com:2103/play/live.php?mac=00:1A:79:4F:50:DD&stream=669&extension=ts
-#EXTINF:-1 tvg-id="SSGolf" tvg-logo="https://ppechenot.github.io/perso/logos/supersport_golf.png" group-title="KING - SPORT",SUPERSPORTS GOLF 
-http://king365-tv.com:2103/play/live.php?mac=00:1A:79:4F:50:DD&stream=113595&extension=ts
-#EXTINF:-1 tvg-id="VSportGolf" tvg-logo="https://ppechenot.github.io/perso/logos/vsport_golf.png" group-title="KING - SPORT",V SPORT GOLF
-http://king365-tv.com:2103/play/live.php?mac=00:1A:79:4F:50:DD&stream=19688&extension=ts
-#EXTINF:-1 tvg-id="TheGolfChannel" tvg-logo="https://ppechenot.github.io/perso/logos/nbc_golf_channel.png" group-title="KING - SPORT",NBC GOLF
-http://king365-tv.com:2103/play/live.php?mac=00:1A:79:4F:50:DD&stream=112076&extension=ts
+http://cowboytv.xyz:80/live/alfred1/alfred1/684703.ts
+#EXTINF:-1 tvg-id="JournalDuGolf" tvg-logo="https://ppechenot.github.io/perso/logos/journal_du_golf.png",Journal du Golf
+http://cowboytv.xyz:80/live/alfred1/alfred1/684736.ts
+#EXTINF:-1 tvg-id="SkySportsGolf" tvg-logo="https://ppechenot.github.io/perso/logos/sky_sports_golf_uk.png" group-title="SPORT",SKY SPORTS GOLF
+http://cowboytv.xyz:80/live/alfred1/alfred1/276921.ts
+#EXTINF:-1 tvg-id="SkySportsMix" tvg-logo="https://ppechenot.github.io/perso/logos/sky_sports_golf_uk.png" group-title="SPORT",SKY SPORTS MIX
+http://cowboytv.xyz:80/live/alfred1/alfred1/276915.ts
+#EXTINF:-1 tvg-id="SSGolf" tvg-logo="https://ppechenot.github.io/perso/logos/supersport_golf.png" group-title="SPORT",SUPERSPORTS GOLF 
+http://cowboytv.xyz:80/live/alfred1/alfred1/62940.ts
+#EXTINF:-1 tvg-id="VSportGolf" tvg-logo="https://ppechenot.github.io/perso/logos/vsport_golf.png" group-title="SPORT",V SPORT GOLF
+http://cowboytv.xyz:80/live/alfred1/alfred1/286749.ts
+#EXTINF:-1 tvg-id="TheGolfChannel" tvg-logo="https://ppechenot.github.io/perso/logos/nbc_golf_channel.png" group-title="SPORT",NBC GOLF
+http://cowboytv.xyz:80/live/alfred1/alfred1/268965.ts
 #EXTINF:-1 tvg-id="MovistarGolf" tvg-logo="https://ppechenot.github.io/perso/logos/movistar_golf.png" group-title="SPORT",M+ GOLF
-http://sf.bleutv.net/live/restreamar1ott/197668546138/83562.ts
+http://cowboytv.xyz:80/live/alfred1/alfred1/663568.ts
