@@ -105,7 +105,7 @@ http://platineiptv.pro:8789/play/live.php?mac=00:1A:79:64:7A:8A&stream=13692&ext
 http://platineiptv.pro:8789/play/live.php?mac=00:1A:79:64:7A:8A&stream=13731&extension=ts
 #EXTINF:-1 tvg-id="TouteHistoire" tvg-logo="https://ppechenot.github.io/perso/logos/toute_lhistoire.png" group-title="CULTURE",TOUTE L'HISTOIRE
 http://platineiptv.pro:8789/play/live.php?mac=00:1A:79:64:7A:8A&stream=13832&extension=ts
-#EXTINF:-1 tvg-id="MuseumTV" tvg-logo="https://noos.vip/images/eb0ea0bc6c91e1e8058ddddfa6192ce7.png" group-title="CULTURE",MUSEUM TV
+#EXTINF:-1 tvg-id="MuseumTV" tvg-logo="https://ppechenot.github.io/perso/logos/museum_tv.png" group-title="CULTURE",MUSEUM TV
 http://platineiptv.pro:8789/play/live.php?mac=00:1A:79:64:7A:8A&stream=13714&extension=ts
 
 #EXTINF:-1 tvg-id="RTS1" tvg-logo="https://ppechenot.github.io/perso/logos/rts1.png" group-title="EUROPE",RTS 1
