@@ -91,7 +91,7 @@ http://king365-tv.com:2103/play/live.php?mac=00:1A:79:4F:50:DD&stream=2036&exten
 #EXTINF:-1 tvg-id="RTL9" tvg-logo="https://ppechenot.github.io/perso/logos/rtl9.png" group-title="SERIES",RTL9
 http://king365-tv.com:2103/play/live.php?mac=00:1A:79:4F:50:DD&stream=2038&extension=ts
 #EXTINF:-1 tvg-id="PolarPlus" tvg-logo="https://ppechenot.github.io/perso/logos/polar+.png" group-title="SERIES",POLAR+ TEST
-http://1234up.com:8080/live/uzk1jcC96yD6PMSN/kzXKY9UMgQ/9677.ts
+http://1234up.com:8080/play/live.php?mac=00:1A:79:BF:4E:5B&stream=9677&extension=ts
 
 #EXTINF:-1 tvg-id="CanalPlusDocs" tvg-logo="https://ppechenot.github.io/perso/logos/canal+_docs.png" group-title="CULTURE",CANAL+ DOCS
 http://king365-tv.com:2103/play/live.php?mac=00:1A:79:4F:50:DD&stream=7015&extension=ts
