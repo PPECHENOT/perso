@@ -14,16 +14,12 @@ http://platineiptv.pro:8789/play/live.php?mac=00:1A:79:64:7A:8A&stream=13736&ext
 http://platineiptv.pro:8789/play/live.php?mac=00:1A:79:64:7A:8A&stream=13726&extension=ts
 #EXTINF:-1 tvg-id="Arte" tvg-logo="https://ppechenot.github.io/perso/logos/arte.png" group-title="TNT",ARTE
 http://platineiptv.pro:8789/play/live.php?mac=00:1A:79:64:7A:8A&stream=13788&extension=ts
-#EXTINF:-1 tvg-id="C8" tvg-logo="https://ppechenot.github.io/perso/logos/c8.png" group-title="TNT",C8
-http://platineiptv.pro:8789/play/live.php?mac=00:1A:79:64:7A:8A&stream=13823&extension=ts
 #EXTINF:-1 tvg-id="W9" tvg-logo="https://ppechenot.github.io/perso/logos/w9.png" group-title="TNT",W9
 http://platineiptv.pro:8789/play/live.php?mac=00:1A:79:64:7A:8A&stream=13690&extension=ts
 #EXTINF:-1 tvg-id="TMC" tvg-logo="https://ppechenot.github.io/perso/logos/tmc.png" group-title="TNT",TMC
 http://platineiptv.pro:8789/play/live.php?mac=00:1A:79:64:7A:8A&stream=13696&extension=ts
 #EXTINF:-1 tvg-id="TFX" tvg-logo="https://ppechenot.github.io/perso/logos/tfx.png" group-title="TNT",TFX
 http://platineiptv.pro:8789/play/live.php?mac=00:1A:79:64:7A:8A&stream=13716&extension=ts
-#EXTINF:-1 tvg-id="NRJ12" tvg-logo="https://ppechenot.github.io/perso/logos/nrj12.png" group-title="TNT",NRJ12
-http://platineiptv.pro:8789/play/live.php?mac=00:1A:79:64:7A:8A&stream=13717&extension=ts
 #EXTINF:-1 tvg-id="CStar" tvg-logo="https://ppechenot.github.io/perso/logos/cstar.png" group-title="TNT",CSTAR
 http://platineiptv.pro:8789/play/live.php?mac=00:1A:79:64:7A:8A&stream=13749&extension=ts
 #EXTINF:-1 tvg-id="TF1SeriesFilms" tvg-logo="https://ppechenot.github.io/perso/logos/tf1_series_films.png" group-title="TNT",TF1 SERIES FILMS
@@ -100,7 +96,7 @@ http://platineiptv.pro:8789/play/live.php?mac=00:1A:79:64:7A:8A&stream=13719&ext
 #EXTINF:-1 tvg-id="ScienceEtVieTV" tvg-logo="https://ppechenot.github.io/perso/logos/science_et_vie_tv.png" group-title="CULTURE",SCIENCE & VIE
 http://platineiptv.pro:8789/play/live.php?mac=00:1A:79:64:7A:8A&stream=13704&extension=ts
 #EXTINF:-1 tvg-id="UshuaiaTV" tvg-logo="https://ppechenot.github.io/perso/logos/ushuaia_tv.png" group-title="CULTURE",USHUAIA TV
-http://platineiptv.pro:8789/play/live.php?mac=00:1A:79:64:7A:8A&stream=47540&extension=ts
+http://platineiptv.pro:8789/play/live.php?mac=00:1A:79:64:7A:8A&stream=13692&extension=ts
 #EXTINF:-1 tvg-id="HistoireTV" tvg-logo="https://ppechenot.github.io/perso/logos/histoire_tv.png" group-title="CULTURE",HISTOIRE
 http://platineiptv.pro:8789/play/live.php?mac=00:1A:79:64:7A:8A&stream=13731&extension=ts
 #EXTINF:-1 tvg-id="TouteHistoire" tvg-logo="https://ppechenot.github.io/perso/logos/toute_lhistoire.png" group-title="CULTURE",TOUTE L'HISTOIRE

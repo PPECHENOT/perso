@@ -14,16 +14,12 @@ http://puip.xyz:8000/zUP9RC7fq2YNB8/u1QDAYRUjanFU7/4250
 http://puip.xyz:8000/zUP9RC7fq2YNB8/u1QDAYRUjanFU7/361
 #EXTINF:-1 tvg-id="Arte" tvg-logo="https://ppechenot.github.io/perso/logos/arte.png" group-title="TNT",ARTE
 http://puip.xyz:8000/zUP9RC7fq2YNB8/u1QDAYRUjanFU7/5964
-#EXTINF:-1 tvg-id="C8" tvg-logo="https://ppechenot.github.io/perso/logos/c8.png" group-title="TNT",C8
-http://puip.xyz:8000/zUP9RC7fq2YNB8/u1QDAYRUjanFU7/5357
 #EXTINF:-1 tvg-id="W9" tvg-logo="https://ppechenot.github.io/perso/logos/w9.png" group-title="TNT",W9
 http://puip.xyz:8000/zUP9RC7fq2YNB8/u1QDAYRUjanFU7/4251
 #EXTINF:-1 tvg-id="TMC" tvg-logo="https://ppechenot.github.io/perso/logos/tmc.png" group-title="TNT",TMC
 http://puip.xyz:8000/zUP9RC7fq2YNB8/u1QDAYRUjanFU7/4252
 #EXTINF:-1 tvg-id="TFX" tvg-logo="https://ppechenot.github.io/perso/logos/tfx.png" group-title="TNT",TFX
 http://puip.xyz:8000/zUP9RC7fq2YNB8/u1QDAYRUjanFU7/4253
-#EXTINF:-1 tvg-id="NRJ12" tvg-logo="https://ppechenot.github.io/perso/logos/nrj12.png" group-title="TNT",NRJ12
-http://puip.xyz:8000/zUP9RC7fq2YNB8/u1QDAYRUjanFU7/4254
 #EXTINF:-1 tvg-id="CStar" tvg-logo="https://ppechenot.github.io/perso/logos/cstar.png" group-title="TNT",CSTAR
 http://puip.xyz:8000/zUP9RC7fq2YNB8/u1QDAYRUjanFU7/5438
 #EXTINF:-1 tvg-id="TF1SeriesFilms" tvg-logo="https://ppechenot.github.io/perso/logos/tf1_series_films.png" group-title="TNT",TF1 SERIES FILMS
@@ -151,3 +147,5 @@ http://puip.xyz:8000/zUP9RC7fq2YNB8/u1QDAYRUjanFU7/417840
 http://puip.xyz:8000/zUP9RC7fq2YNB8/u1QDAYRUjanFU7/104551
 #EXTINF:-1 tvg-id="MovistarGolf" tvg-logo="https://ppechenot.github.io/perso/logos/movistar_golf.png" group-title="SPORT",M+ GOLF
 http://puip.xyz:8000/zUP9RC7fq2YNB8/u1QDAYRUjanFU7/11120
+#EXTINF:-1 tvg-id="GolfPlus" tvg-logo="https://ppechenot.github.io/perso/logos/golf+.png" group-title="SPORT",GOLF+ TEST M3U
+https://ppechenot.github.io/perso/pure-golfplus.m3u8

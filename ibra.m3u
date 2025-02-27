@@ -14,16 +14,12 @@ http://4kgoott.com:8880/play/live.php?mac=00:1A:79:F0:85:C4&stream=1505&extensio
 http://4kgoott.com:8880/play/live.php?mac=00:1A:79:F0:85:C4&stream=9562&extension=ts
 #EXTINF:-1 tvg-id="Arte" tvg-logo="https://ppechenot.github.io/perso/logos/arte.png" group-title="TNT",ARTE
 http://4kgoott.com:8880/play/live.php?mac=00:1A:79:F0:85:C4&stream=1513&extension=ts
-#EXTINF:-1 tvg-id="C8" tvg-logo="https://ppechenot.github.io/perso/logos/c8.png" group-title="TNT",C8
-http://4kgoott.com:8880/play/live.php?mac=00:1A:79:F0:85:C4&stream=2704&extension=ts
 #EXTINF:-1 tvg-id="W9" tvg-logo="https://ppechenot.github.io/perso/logos/w9.png" group-title="TNT",W9
 http://4kgoott.com:8880/play/live.php?mac=00:1A:79:F0:85:C4&stream=15027extension=ts
 #EXTINF:-1 tvg-id="TMC" tvg-logo="https://ppechenot.github.io/perso/logos/tmc.png" group-title="TNT",TMC
 http://4kgoott.com:8880/play/live.php?mac=00:1A:79:F0:85:C4&stream=1506&extension=ts
 #EXTINF:-1 tvg-id="TFX" tvg-logo="https://ppechenot.github.io/perso/logos/tfx.png" group-title="TNT",TFX
 http://4kgoott.com:8880/play/live.php?mac=00:1A:79:F0:85:C4&stream=1508&extension=ts
-#EXTINF:-1 tvg-id="NRJ12" tvg-logo="https://ppechenot.github.io/perso/logos/nrj12.png" group-title="TNT",NRJ12
-http://4kgoott.com:8880/play/live.php?mac=00:1A:79:F0:85:C4&stream=1510&extension=ts
 #EXTINF:-1 tvg-id="CStar" tvg-logo="https://ppechenot.github.io/perso/logos/cstar.png" group-title="TNT",CSTAR
 http://4kgoott.com:8880/play/live.php?mac=00:1A:79:F0:85:C4&stream=1090&extension=ts
 #EXTINF:-1 tvg-id="TF1SeriesFilms" tvg-logo="https://ppechenot.github.io/perso/logos/tf1_series_films.png" group-title="TNT",TF1 SERIES FILMS
@@ -81,7 +77,7 @@ http://4kgoott.com:8880/play/live.php?mac=00:1A:79:F0:85:C4&stream=8810&extensio
 #EXTINF:-1 tvg-id="SerieClub" tvg-logo="https://ppechenot.github.io/perso/logos/serie_club.png" group-title="SERIES",SERIECLUB
 http://4kgoott.com:8880/play/live.php?mac=00:1A:79:F0:85:C4&stream=228017&extension=ts
 #EXTINF:-1 tvg-id="TvBreizh" tvg-logo="https://ppechenot.github.io/perso/logos/tvbreizh.png" group-title="SERIES",TV BREIZH
-http://4kgoott.com:8880/play/live.php?mac=00:1A:79:F0:85:C4&stream=54571&extension=ts
+http://4kgoott.com:8880/play/live.php?mac=00:1A:79:F0:85:C4&stream=2566&extension=ts
 #EXTINF:-1 tvg-id="Teva" tvg-logo="https://ppechenot.github.io/perso/logos/teva.png" group-title="SERIES",TEVA
 http://4kgoott.com:8880/play/live.php?mac=00:1A:79:F0:85:C4&stream=189&extension=ts
 #EXTINF:-1 tvg-id="ParisPremiere" tvg-logo="https://ppechenot.github.io/perso/logos/paris_premiere.png" group-title="SERIES",PARIS PREMIERE
@@ -98,7 +94,7 @@ http://4kgoott.com:8880/play/live.php?mac=00:1A:79:F0:85:C4&stream=1909&extensio
 #EXTINF:-1 tvg-id="ScienceEtVieTV" tvg-logo="https://ppechenot.github.io/perso/logos/science_et_vie_tv.png" group-title="CULTURE",SCIENCE & VIE
 http://4kgoott.com:8880/play/live.php?mac=00:1A:79:F0:85:C4&stream=288&extension=ts
 #EXTINF:-1 tvg-id="UshuaiaTV" tvg-logo="https://ppechenot.github.io/perso/logos/ushuaia_tv.png" group-title="CULTURE",USHUAIA TV
-http://4kgoott.com:8880/play/live.php?mac=00:1A:79:F0:85:C4&stream=54551&extension=ts
+http://4kgoott.com:8880/play/live.php?mac=00:1A:79:F0:85:C4&stream=272&extension=ts
 #EXTINF:-1 tvg-id="HistoireTV" tvg-logo="https://ppechenot.github.io/perso/logos/histoire_tv.png" group-title="CULTURE",HISTOIRE
 http://4kgoott.com:8880/play/live.php?mac=00:1A:79:F0:85:C4&stream=2573&extension=ts
 #EXTINF:-1 tvg-id="TouteHistoire" tvg-logo="https://ppechenot.github.io/perso/logos/toute_lhistoire.png" group-title="CULTURE",TOUTE L'HISTOIRE
@@ -138,10 +134,10 @@ http://4kgoott.com:8880/play/live.php?mac=00:1A:79:F0:85:C4&stream=117404&extens
 #EXTINF:-1 tvg-id="SkySportsMix" tvg-logo="https://ppechenot.github.io/perso/logos/sky_sports_golf_uk.png" group-title="SPORT",SKY SPORTS MIX
 http://4kgoott.com:8880/play/live.php?mac=00:1A:79:F0:85:C4&stream=117397&extension=ts
 #EXTINF:-1 tvg-id="SSGolf" tvg-logo="https://ppechenot.github.io/perso/logos/supersport_golf.png" group-title="SPORT",SUPERSPORTS GOLF 
-http://4kgoott.com:8880/play/live.php?mac=00:1A:79:F0:85:C4&stream=418684&extension=ts
+http://4kgoott.com:8880/play/live.php?mac=00:1A:79:F0:85:C4&stream=418864&extension=ts
 #EXTINF:-1 tvg-id="VSportGolf" tvg-logo="https://ppechenot.github.io/perso/logos/vsport_golf.png" group-title="SPORT",V SPORT GOLF
-http://4kgoott.com:8880/play/live.php?mac=00:1A:79:F0:85:C4&stream=519277&extension=ts
+http://4kgoott.com:8880/play/live.php?mac=00:1A:79:F0:85:C4&stream=518686&extension=ts
 #EXTINF:-1 tvg-id="TheGolfChannel" tvg-logo="https://ppechenot.github.io/perso/logos/nbc_golf_channel.png" group-title="SPORT",NBC GOLF
 http://4kgoott.com:8880/play/live.php?mac=00:1A:79:F0:85:C4&stream=116938&extension=ts
 #EXTINF:-1 tvg-id="MovistarGolf" tvg-logo="https://ppechenot.github.io/perso/logos/movistar_golf.png" group-title="SPORT",M+ GOLF
-http://4kgoott.com:8880/play/live.php?mac=00:1A:79:F0:85:C4&stream=47371&extension=ts
+http://4kgoott.com:8880/play/live.php?mac=00:1A:79:F0:85:C4&stream=462632&extension=ts
