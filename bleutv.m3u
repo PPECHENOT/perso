@@ -134,7 +134,7 @@ http://sf.bleutv.net/live/restreamar1ott/197668546138/74452.ts
 #EXTINF:-1 tvg-id="SportEnFrance" tvg-logo="https://ppechenot.github.io/perso/logos/sport_en_france.png" group-title="SPORT",SPORT EN FRANCE
 http://sf.bleutv.net/live/restreamar1ott/197668546138/89556.ts
 #EXTINF:-1 tvg-id="GolfPlus" tvg-logo="https://ppechenot.github.io/perso/logos/golf+.png" group-title="SPORT",GOLF+
-http://sf.bleutv.net/live/restreamar1ott/197668546138/382.ts
+http://myquebec.net/play/live.php?mac=00:1A:79:CF:76:C3&stream=1832&extension=ts
 #EXTINF:-1 tvg-id="SkySportsGolf" tvg-logo="https://ppechenot.github.io/perso/logos/sky_sports_golf_uk.png" group-title="KING - SPORT",SKY SPORTS GOLF
 http://king365-tv.com:2103/play/live.php?mac=00:1A:79:4F:50:DD&stream=94020&extension=ts
 #EXTINF:-1 tvg-id="SkySportsMix" tvg-logo="https://ppechenot.github.io/perso/logos/sky_sports_golf_uk.png" group-title="KING - SPORT",SKY SPORTS MIX
