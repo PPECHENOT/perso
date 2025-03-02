@@ -1,11 +1,11 @@
 #EXTM3U url-tvg="https://ppechenot.github.io/perso/tivi.xml"
 
 #EXTINF:-1 tvg-id="TF1" tvg-logo="https://ppechenot.github.io/perso/logos/tf1.png" group-title="TNT",TF1
-http://sf.bleutv.net/live/restreamar1ott/197668546138/89568.ts
+http://myquebec.net/play/live.php?mac=00:1A:79:CF:76:C3&stream=1693&extension=ts
 #EXTINF:-1 tvg-id="France2" tvg-logo="https://ppechenot.github.io/perso/logos/france2.png" group-title="TNT",FRANCE 2
-http://sf.bleutv.net/live/restreamar1ott/197668546138/89448.ts
+http://myquebec.net/play/live.php?mac=00:1A:79:CF:76:C3&stream=123481&extension=ts
 #EXTINF:-1 tvg-id="France3" tvg-logo="https://ppechenot.github.io/perso/logos/france3.png" group-title="TNT",FRANCE 3
-http://sf.bleutv.net/live/restreamar1ott/197668546138/3283.ts
+http://myquebec.net/play/live.php?mac=00:1A:79:CF:76:C3&stream=123581&extension=ts
 #EXTINF:-1 tvg-id="France4" tvg-logo="https://ppechenot.github.io/perso/logos/france4.png" group-title="TNT",FRANCE 4
 http://sf.bleutv.net/live/restreamar1ott/197668546138/89459.ts
 #EXTINF:-1 tvg-id="France5" tvg-logo="https://ppechenot.github.io/perso/logos/france5.png" group-title="TNT",FRANCE 5
