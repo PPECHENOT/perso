@@ -7,9 +7,9 @@ http://myquebec.net/play/live.php?mac=00:1A:79:CF:76:C3&stream=123481&extension=
 #EXTINF:-1 tvg-id="France3" tvg-logo="https://ppechenot.github.io/perso/logos/france3.png" group-title="TNT",FRANCE 3
 http://myquebec.net/play/live.php?mac=00:1A:79:CF:76:C3&stream=123581&extension=ts
 #EXTINF:-1 tvg-id="France4" tvg-logo="https://ppechenot.github.io/perso/logos/france4.png" group-title="TNT",FRANCE 4
-http://sf.bleutv.net/live/restreamar1ott/197668546138/89459.ts
+http://myquebec.net/play/live.php?mac=00:1A:79:CF:76:C3&stream=123582&extension=ts
 #EXTINF:-1 tvg-id="France5" tvg-logo="https://ppechenot.github.io/perso/logos/france5.png" group-title="TNT",FRANCE 5
-http://sf.bleutv.net/live/restreamar1ott/197668546138/3285.ts
+http://myquebec.net/play/live.php?mac=00:1A:79:CF:76:C3&stream=1708&extension=ts
 #EXTINF:-1 tvg-id="M6" tvg-logo="https://ppechenot.github.io/perso/logos/m6.png" group-title="TNT",M6
 http://sf.bleutv.net/live/restreamar1ott/197668546138/3287.ts
 #EXTINF:-1 tvg-id="Arte" tvg-logo="https://ppechenot.github.io/perso/logos/arte.png" group-title="TNT",ARTE
