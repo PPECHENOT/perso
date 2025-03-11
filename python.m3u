@@ -65,7 +65,7 @@ http://4kgoott.com:8880/play/live.php?mac=00:1A:79:F0:85:C4&stream=1886&extensio
 #EXTINF:-1 tvg-id="CanalPlusSeries" tvg-logo="https://ppechenot.github.io/perso/logos/canal+_series.png" group-title="SERIES",CANAL+ SERIES
 http://4kgoott.com:8880/play/live.php?mac=00:1A:79:F0:85:C4&stream=1885&extension=ts
 #EXTINF:-1 tvg-id="PolarPlus" tvg-logo="https://ppechenot.github.io/perso/logos/polar+.png" group-title="SERIES",POLAR+
-http://4kgoott.com:8880/play/live.php?mac=00:1A:79:F0:85:C4&stream=683&extension=ts
+http://4kgoott.com:8880/play/live.php?mac=00:1A:79:F0:85:C4&stream=54629&extension=ts
 #EXTINF:-1 tvg-id="ComediePlus" tvg-logo="https://ppechenot.github.io/perso/logos/comedie+.png" group-title="SERIES",COMEDIE+
 http://4kgoott.com:8880/play/live.php?mac=00:1A:79:F0:85:C4&stream=1890&extension=ts
 #EXTINF:-1 tvg-id="13Rue" tvg-logo="https://ppechenot.github.io/perso/logos/13eme_rue.png" group-title="SERIES",13EME RUE
@@ -94,7 +94,7 @@ http://4kgoott.com:8880/play/live.php?mac=00:1A:79:F0:85:C4&stream=1909&extensio
 #EXTINF:-1 tvg-id="ScienceEtVieTV" tvg-logo="https://ppechenot.github.io/perso/logos/science_et_vie_tv.png" group-title="CULTURE",SCIENCE & VIE
 http://4kgoott.com:8880/play/live.php?mac=00:1A:79:F0:85:C4&stream=288&extension=ts
 #EXTINF:-1 tvg-id="UshuaiaTV" tvg-logo="https://ppechenot.github.io/perso/logos/ushuaia_tv.png" group-title="CULTURE",USHUAIA TV
-http://4kgoott.com:8880/play/live.php?mac=00:1A:79:F0:85:C4&stream=272&extension=ts
+http://4kgoott.com:8880/play/live.php?mac=00:1A:79:F0:85:C4&stream=54551&extension=ts
 #EXTINF:-1 tvg-id="HistoireTV" tvg-logo="https://ppechenot.github.io/perso/logos/histoire_tv.png" group-title="CULTURE",HISTOIRE
 http://4kgoott.com:8880/play/live.php?mac=00:1A:79:F0:85:C4&stream=2573&extension=ts
 #EXTINF:-1 tvg-id="TouteHistoire" tvg-logo="https://ppechenot.github.io/perso/logos/toute_lhistoire.png" group-title="CULTURE",TOUTE L'HISTOIRE
