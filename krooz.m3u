@@ -1,8 +1,5 @@
 #EXTM3U url-tvg="https://ppechenot.github.io/perso/tivi.xml"
 
-#EXTINF:-1 tvg-id="France2" tvg-logo="https://ppechenot.github.io/perso/logos/france2.png" group-title="TNT",FRANCE 2 TEST
-http://s1.pluton-pro.com:80/live/8251167017/8367683520/25269.ts
-
 #EXTINF:-1 tvg-id="TF1" tvg-logo="https://ppechenot.github.io/perso/logos/tf1.png" group-title="TNT",TF1
 http://krooztv.live/live/luke/luke/684154.ts
 #EXTINF:-1 tvg-id="France2" tvg-logo="https://ppechenot.github.io/perso/logos/france2.png" group-title="TNT",FRANCE 2
