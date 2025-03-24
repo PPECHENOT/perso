@@ -30,10 +30,10 @@ http://1234up.com:8080/live/uzk1jcC96yD6PMSN/kzXKY9UMgQ/9647.ts
 http://1234up.com:8080/live/uzk1jcC96yD6PMSN/kzXKY9UMgQ/9648.ts
 #EXTINF:-1 tvg-id="Cherie25" tvg-logo="https://ppechenot.github.io/perso/logos/cherie25.png" group-title="TNT",CHERIE 25
 http://1234up.com:8080/live/uzk1jcC96yD6PMSN/kzXKY9UMgQ/9650.ts
-#EXTINF:-1 tvg-id="LCP" tvg-logo="https://ppechenot.github.io/perso/logos/lcp.png" group-title="PURE - TNT",LCP
-http://tv.pure-onetv.com/live/V59vUmonuVep/aM7ZXzhw0s/51139.ts
-#EXTINF:-1 tvg-id="Gulli" tvg-logo="https://ppechenot.github.io/perso/logos/gulli.png" group-title="PURE - TNT",GULLI
-http://tv.pure-onetv.com/live/V59vUmonuVep/aM7ZXzhw0s/9538.ts
+#EXTINF:-1 tvg-id="LCP" tvg-logo="https://ppechenot.github.io/perso/logos/lcp.png" group-title="TNT",LCP
+http://1234up.com:8080/live/uzk1jcC96yD6PMSN/kzXKY9UMgQ/10135.ts
+#EXTINF:-1 tvg-id="Gulli" tvg-logo="https://ppechenot.github.io/perso/logos/gulli.png" group-title="TNT",GULLI
+http://1234up.com:8080/live/uzk1jcC96yD6PMSN/kzXKY9UMgQ/696962.ts
 
 #EXTINF:-1 tvg-id="CanalPlus" tvg-logo="https://ppechenot.github.io/perso/logos/canal+.png" group-title="CINEMA",CANAL+
 http://1234up.com:8080/live/uzk1jcC96yD6PMSN/kzXKY9UMgQ/9653.ts
@@ -102,14 +102,14 @@ http://1234up.com:8080/live/uzk1jcC96yD6PMSN/kzXKY9UMgQ/9672.ts
 #EXTINF:-1 tvg-id="MuseumTV" tvg-logo="https://noos.vip/images/eb0ea0bc6c91e1e8058ddddfa6192ce7.png" group-title="CULTURE",MUSEUM TV
 http://1234up.com:8080/live/uzk1jcC96yD6PMSN/kzXKY9UMgQ/9756.ts
 
-#EXTINF:-1 tvg-id="RTS1" tvg-logo="https://ppechenot.github.io/perso/logos/rts1.png" group-title="KING - EUROPE",RTS 1
-http://king365-tv.com:2103/play/live.php?mac=00:1A:79:4F:50:DD&stream=12061&extension=ts
-#EXTINF:-1 tvg-id="RTS2" tvg-logo="https://ppechenot.github.io/perso/logos/rts2.png" group-title="KING - EUROPE",RTS 2
-http://king365-tv.com:2103/play/live.php?mac=00:1A:79:4F:50:DD&stream=12060&extension=ts
-#EXTINF:-1 tvg-id="LaUne" tvg-logo="http://ppechenot.github.io/perso/logos/la_une.png" group-title="PURE - EUROPE",LA UNE
-http://tv.pure-onetv.com/live/V59vUmonuVep/aM7ZXzhw0s/70200.ts
-#EXTINF:-1 tvg-id="LaTrois" tvg-logo="http://ppechenot.github.io/perso/logos/la_trois.png" group-title="PURE - EUROPE",LA TROIS
-http://tv.pure-onetv.com/live/V59vUmonuVep/aM7ZXzhw0s/17063.ts
+#EXTINF:-1 tvg-id="RTS1" tvg-logo="https://ppechenot.github.io/perso/logos/rts1.png" group-title="EUROPE",RTS 1
+http://1234up.com:8080/live/uzk1jcC96yD6PMSN/kzXKY9UMgQ/648487.ts
+#EXTINF:-1 tvg-id="RTS2" tvg-logo="https://ppechenot.github.io/perso/logos/rts2.png" group-title="EUROPE",RTS 2
+http://1234up.com:8080/live/uzk1jcC96yD6PMSN/kzXKY9UMgQ/648489.ts
+#EXTINF:-1 tvg-id="LaUne" tvg-logo="http://ppechenot.github.io/perso/logos/la_une.png" group-title="EUROPE",LA UNE
+http://1234up.com:8080/live/uzk1jcC96yD6PMSN/kzXKY9UMgQ/259048.ts
+#EXTINF:-1 tvg-id="LaTrois" tvg-logo="http://ppechenot.github.io/perso/logos/la_trois.png" group-title="EUROPE",LA TROIS
+http://1234up.com:8080/live/uzk1jcC96yD6PMSN/kzXKY9UMgQ/646708.ts
 
 #EXTINF:-1 tvg-id="LEquipe" tvg-logo="https://ppechenot.github.io/perso/logos/lequipe.png" group-title="SPORT",L'EQUIPE
 http://1234up.com:8080/live/uzk1jcC96yD6PMSN/kzXKY9UMgQ/716252.ts
@@ -131,15 +131,13 @@ http://1234up.com:8080/live/uzk1jcC96yD6PMSN/kzXKY9UMgQ/9705.ts
 http://1234up.com:8080/live/uzk1jcC96yD6PMSN/kzXKY9UMgQ/716251.ts
 #EXTINF:-1 tvg-id="GolfPlus" tvg-logo="https://ppechenot.github.io/perso/logos/golf+.png" group-title="SPORT",GOLF+
 http://1234up.com:8080/live/uzk1jcC96yD6PMSN/kzXKY9UMgQ/9715.ts
+#EXTINF:-1 tvg-id="JournalDuGolf" tvg-logo="https://ppechenot.github.io/perso/logos/journal_du_golf.png",Journal du Golf
+http://1234up.com:8080/live/uzk1jcC96yD6PMSN/kzXKY9UMgQ/632268.ts
 #EXTINF:-1 tvg-id="SkySportsGolf" tvg-logo="https://ppechenot.github.io/perso/logos/sky_sports_golf_uk.png" group-title="KING - SPORT",SKY SPORTS GOLF
-http://king365-tv.com:2103/play/live.php?mac=00:1A:79:4F:50:DD&stream=94020&extension=ts
+http://1234up.com:8080/live/uzk1jcC96yD6PMSN/kzXKY9UMgQ/646088.ts
 #EXTINF:-1 tvg-id="SkySportsMix" tvg-logo="https://ppechenot.github.io/perso/logos/sky_sports_golf_uk.png" group-title="KING - SPORT",SKY SPORTS MIX
-http://king365-tv.com:2103/play/live.php?mac=00:1A:79:4F:50:DD&stream=669&extension=ts
-#EXTINF:-1 tvg-id="SSGolf" tvg-logo="https://ppechenot.github.io/perso/logos/supersport_golf.png" group-title="KING - SPORT",SUPERSPORTS GOLF 
-http://king365-tv.com:2103/play/live.php?mac=00:1A:79:4F:50:DD&stream=113595&extension=ts
-#EXTINF:-1 tvg-id="VSportGolf" tvg-logo="https://ppechenot.github.io/perso/logos/vsport_golf.png" group-title="KING - SPORT",V SPORT GOLF
-http://king365-tv.com:2103/play/live.php?mac=00:1A:79:4F:50:DD&stream=19688&extension=ts
-#EXTINF:-1 tvg-id="TheGolfChannel" tvg-logo="https://ppechenot.github.io/perso/logos/nbc_golf_channel.png" group-title="KING - SPORT",NBC GOLF
-http://king365-tv.com:2103/play/live.php?mac=00:1A:79:4F:50:DD&stream=112076&extension=ts
-#EXTINF:-1 tvg-id="MovistarGolf" tvg-logo="https://ppechenot.github.io/perso/logos/movistar_golf.png" group-title="KING - SPORT",M+ GOLF
-http://dmtn.tv/play/live.php?mac=00:1A:79:76:3C:F6&stream=342129&extension=ts
+http://1234up.com:8080/live/uzk1jcC96yD6PMSN/kzXKY9UMgQ/646100.ts
+#EXTINF:-1 tvg-id="MovistarGolf" tvg-logo="https://ppechenot.github.io/perso/logos/movistar_golf.png" group-title="SPORT",M+ GOLF
+http://1234up.com:8080/live/uzk1jcC96yD6PMSN/kzXKY9UMgQ/14268.ts
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="SPORT",ZIGGO GOLF
+http://1234up.com:8080/live/uzk1jcC96yD6PMSN/kzXKY9UMgQ/14168.ts
