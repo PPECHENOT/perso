@@ -105,7 +105,7 @@ http://krooztv.live/live/luke/luke/684388.ts
 http://krooztv.live/live/luke/luke/684386.ts
 #EXTINF:-1 tvg-id="MuseumTV" tvg-logo="https://ppechenot.github.io/perso/logos/museum_tv.png" group-title="CULTURE",MUSEUM TV
 http://krooztv.live/live/luke/luke/684327.ts
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/imvOEt6.png" tvg-country="FR",France TV Docs
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/imvOEt6.png" group-title="CULTURE",France TV Docs
 http://krooztv.live/live/luke/luke/684375.ts
 
 #EXTINF:-1 tvg-id="RTS1" tvg-logo="https://ppechenot.github.io/perso/logos/rts1.png" group-title="EUROPE",RTS 1
@@ -119,9 +119,9 @@ http://krooztv.live/live/luke/luke/689284.ts
 
 #EXTINF:-1 tvg-id="LEquipe" tvg-logo="https://ppechenot.github.io/perso/logos/lequipe.png" group-title="SPORT",L'EQUIPE
 http://krooztv.live/live/luke/luke/684743.ts
-#EXTINF:-1 tvg-id="" tvg-logo="https://ppechenot.github.io/perso/logos/lequipelive1.png",L'EQUIPE LIVE 1
+#EXTINF:-1 tvg-id="" tvg-logo="https://ppechenot.github.io/perso/logos/lequipelive1.png" group-title="SPORT",L'EQUIPE LIVE 1
 http://krooztv.live/live/luke/luke/684742.ts
-#EXTINF:-1 tvg-id="" tvg-logo="https://ppechenot.github.io/perso/logos/lequipelive2.png",L'EQUIPE LIVE 2
+#EXTINF:-1 tvg-id="" tvg-logo="https://ppechenot.github.io/perso/logos/lequipelive2.png" group-title="SPORT",L'EQUIPE LIVE 2
 http://krooztv.live/live/luke/luke/684740.ts
 #EXTINF:-1 tvg-id="CanalPlusSport" tvg-logo="https://ppechenot.github.io/perso/logos/canal+_sport.png" group-title="SPORT",CANAL+ SPORT
 http://krooztv.live/live/luke/luke/684754.ts
@@ -141,7 +141,7 @@ http://krooztv.live/live/luke/luke/684770.ts
 http://krooztv.live/live/luke/luke/684723.ts
 #EXTINF:-1 tvg-id="GolfPlus" tvg-logo="https://ppechenot.github.io/perso/logos/golf+.png" group-title="SPORT",GOLF+
 http://krooztv.live/live/luke/luke/684703.ts
-#EXTINF:-1 tvg-id="JournalDuGolf" tvg-logo="https://ppechenot.github.io/perso/logos/journal_du_golf.png",Journal du Golf
+#EXTINF:-1 tvg-id="JournalDuGolf" tvg-logo="https://ppechenot.github.io/perso/logos/journal_du_golf.png" group-title="SPORT",Journal du Golf
 http://krooztv.live/live/luke/luke/684736.ts
 #EXTINF:-1 tvg-id="SkySportsGolf" tvg-logo="https://ppechenot.github.io/perso/logos/sky_sports_golf_uk.png" group-title="SPORT",SKY SPORTS GOLF
 http://krooztv.live/live/luke/luke/276921.ts
