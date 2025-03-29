@@ -86,7 +86,7 @@ http://krooztv.live/live/luke/luke/684170.ts
 http://krooztv.live/live/luke/luke/684115.ts
 #EXTINF:-1 tvg-id="RTL9" tvg-logo="https://ppechenot.github.io/perso/logos/rtl9.png" group-title="SERIES",RTL9
 http://krooztv.live/live/luke/luke/684182.ts
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/cbcIKCT.png" tvg-country="FR",France TV Séries
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/cbcIKCT.png" group-title="SERIES",France TV Séries
 http://krooztv.live/live/luke/luke/684161.ts
 
 #EXTINF:-1 tvg-id="CanalPlusDocs" tvg-logo="https://ppechenot.github.io/perso/logos/canal+_docs.png" group-title="CULTURE",CANAL+ DOCS
