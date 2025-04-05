@@ -1,0 +1,156 @@
+#EXTM3U url-tvg="https://ppechenot.github.io/perso/tivi.xml
+
+#EXTINF:-1 tvg-id="TF1" tvg-logo="https://ppechenot.github.io/perso/logos/tf1.png" group-title="TNT",TF1
+http://mytvonlineflix.com:8080/live/KsPa6CmfaagZ/WMcUtE7SbXCp/38651.ts
+#EXTINF:-1 tvg-id="France2" tvg-logo="https://ppechenot.github.io/perso/logos/france2.png" group-title="TNT",FRANCE 2
+http://mytvonlineflix.com:8080/live/KsPa6CmfaagZ/WMcUtE7SbXCp/7.ts
+#EXTINF:-1 tvg-id="France3" tvg-logo="https://ppechenot.github.io/perso/logos/france3.png" group-title="TNT",FRANCE 3
+http://mytvonlineflix.com:8080/live/KsPa6CmfaagZ/WMcUtE7SbXCp/9.ts
+#EXTINF:-1 tvg-id="France4" tvg-logo="https://ppechenot.github.io/perso/logos/france4.png" group-title="TNT",FRANCE 4
+http://mytvonlineflix.com:8080/live/KsPa6CmfaagZ/WMcUtE7SbXCp/11.ts
+#EXTINF:-1 tvg-id="France5" tvg-logo="https://ppechenot.github.io/perso/logos/france5.png" group-title="TNT",FRANCE 5
+http://mytvonlineflix.com:8080/live/KsPa6CmfaagZ/WMcUtE7SbXCp/13.ts
+#EXTINF:-1 tvg-id="M6" tvg-logo="https://ppechenot.github.io/perso/logos/m6.png" group-title="TNT",M6
+http://mytvonlineflix.com:8080/live/KsPa6CmfaagZ/WMcUtE7SbXCp/17.ts
+#EXTINF:-1 tvg-id="Arte" tvg-logo="https://ppechenot.github.io/perso/logos/arte.png" group-title="TNT",ARTE
+http://mytvonlineflix.com:8080/live/KsPa6CmfaagZ/WMcUtE7SbXCp/21.ts
+#EXTINF:-1 tvg-id="W9" tvg-logo="https://ppechenot.github.io/perso/logos/w9.png" group-title="TNT",W9
+http://mytvonlineflix.com:8080/live/KsPa6CmfaagZ/WMcUtE7SbXCp/31.ts
+#EXTINF:-1 tvg-id="TMC" tvg-logo="https://ppechenot.github.io/perso/logos/tmc.png" group-title="TNT",TMC
+http://mytvonlineflix.com:8080/live/KsPa6CmfaagZ/WMcUtE7SbXCp/35.ts
+#EXTINF:-1 tvg-id="TFX" tvg-logo="https://ppechenot.github.io/perso/logos/tfx.png" group-title="TNT",TFX
+http://mytvonlineflix.com:8080/live/KsPa6CmfaagZ/WMcUtE7SbXCp/41.ts
+#EXTINF:-1 tvg-id="CStar" tvg-logo="https://ppechenot.github.io/perso/logos/cstar.png" group-title="TNT",CSTAR
+http://mytvonlineflix.com:8080/live/KsPa6CmfaagZ/WMcUtE7SbXCp/123934.ts
+#EXTINF:-1 tvg-id="TF1SeriesFilms" tvg-logo="https://ppechenot.github.io/perso/logos/tf1_series_films.png" group-title="TNT",TF1 SERIES FILMS
+http://mytvonlineflix.com:8080/live/KsPa6CmfaagZ/WMcUtE7SbXCp/43.ts
+#EXTINF:-1 tvg-id="6ter" tvg-logo="https://ppechenot.github.io/perso/logos/6ter.png" group-title="TNT",6TER
+http://mytvonlineflix.com:8080/live/KsPa6CmfaagZ/WMcUtE7SbXCp/23.ts
+#EXTINF:-1 tvg-id="RMCStory" tvg-logo="https://ppechenot.github.io/perso/logos/rmc_story.png" group-title="TNT",RMC STORY
+http://mytvonlineflix.com:8080/live/KsPa6CmfaagZ/WMcUtE7SbXCp/39.ts
+#EXTINF:-1 tvg-id="Cherie25" tvg-logo="https://ppechenot.github.io/perso/logos/cherie25.png" group-title="TNT",CHERIE 25
+http://mytvonlineflix.com:8080/live/KsPa6CmfaagZ/WMcUtE7SbXCp/27.ts
+#EXTINF:-1 tvg-id="LCP" tvg-logo="https://ppechenot.github.io/perso/logos/lcp.png" group-title="TNT",LCP
+http://mytvonlineflix.com:8080/live/KsPa6CmfaagZ/WMcUtE7SbXCp/45448.ts
+#EXTINF:-1 tvg-id="Gulli" tvg-logo="https://ppechenot.github.io/perso/logos/gulli.png" group-title="TNT",GULLI
+http://mytvonlineflix.com:8080/live/KsPa6CmfaagZ/WMcUtE7SbXCp/271.ts
+
+#EXTINF:-1 tvg-id="CanalPlus" tvg-logo="https://ppechenot.github.io/perso/logos/canal+.png" group-title="CINEMA",CANAL+
+http://mytvonlineflix.com:8080/live/KsPa6CmfaagZ/WMcUtE7SbXCp/115.ts
+#EXTINF:-1 tvg-id="CanalPlusCinema" tvg-logo="https://ppechenot.github.io/perso/logos/canal+_cinema(s).png" group-title="CINEMA",CANAL+ CINEMA(S)
+http://mytvonlineflix.com:8080/live/KsPa6CmfaagZ/WMcUtE7SbXCp/117.ts
+#EXTINF:-1 tvg-id="CanalPlusBoxOffice" tvg-logo="https://ppechenot.github.io/perso/logos/canal+_box_office.png" group-title="CINEMA",CANAL+ BOX OFFICE
+http://mytvonlineflix.com:8080/live/KsPa6CmfaagZ/WMcUtE7SbXCp/259242.ts
+#EXTINF:-1 tvg-id="CanalPlusGrandEcran" tvg-logo="https://ppechenot.github.io/perso/logos/canal+_grand_ecran.png" group-title="CINEMA",CANAL+ GRAND ECRAN
+http://mytvonlineflix.com:8080/live/KsPa6CmfaagZ/WMcUtE7SbXCp/172475.ts
+#EXTINF:-1 tvg-id="CinePlusPremier" tvg-logo="https://ppechenot.github.io/perso/logos/cine+_ocs.png" group-title="CINEMA",CINE+ OCS
+http://mytvonlineflix.com:8080/live/KsPa6CmfaagZ/WMcUtE7SbXCp/140.ts
+#EXTINF:-1 tvg-id="CinePlusFrisson" tvg-logo="https://ppechenot.github.io/perso/logos/cine+_frisson.png" group-title="CINEMA",CINE+ FRISSON
+http://mytvonlineflix.com:8080/live/KsPa6CmfaagZ/WMcUtE7SbXCp/127.ts
+#EXTINF:-1 tvg-id="CinePlusEmotion" tvg-logo="https://ppechenot.github.io/perso/logos/cine+_emotion.png" group-title="CINEMA",CINE+ EMOTION
+http://mytvonlineflix.com:8080/live/KsPa6CmfaagZ/WMcUtE7SbXCp/129.ts
+#EXTINF:-1 tvg-id="CinePlusFamiz" tvg-logo="https://ppechenot.github.io/perso/logos/cine+_family.png" group-title="CINEMA",CINE+ FAMILY
+http://mytvonlineflix.com:8080/live/KsPa6CmfaagZ/WMcUtE7SbXCp/131.ts
+#EXTINF:-1 tvg-id="CinePlusClub" tvg-logo="https://ppechenot.github.io/perso/logos/cine+_festival.png" group-title="CINEMA",CINE+ FESTIVAL
+http://mytvonlineflix.com:8080/live/KsPa6CmfaagZ/WMcUtE7SbXCp/31720.ts
+#EXTINF:-1 tvg-id="CinePlusClassic" tvg-logo="https://ppechenot.github.io/perso/logos/cine+_classic.png" group-title="CINEMA",CINE+ CLASSIC
+http://mytvonlineflix.com:8080/live/KsPa6CmfaagZ/WMcUtE7SbXCp/133.ts
+#EXTINF:-1 tvg-id="TCM" tvg-logo="https://ppechenot.github.io/perso/logos/tcm_cinema.png" group-title="CINEMA",TCM CINEMA
+http://mytvonlineflix.com:8080/live/KsPa6CmfaagZ/WMcUtE7SbXCp/31719.ts
+#EXTINF:-1 tvg-id="ParamountChannel" tvg-logo="https://ppechenot.github.io/perso/logos/paramount_channel.png" group-title="CINEMA",PARAMOUNT CHANNEL
+http://mytvonlineflix.com:8080/live/KsPa6CmfaagZ/WMcUtE7SbXCp/42506.ts
+#EXTINF:-1 tvg-id="Action" tvg-logo="https://ppechenot.github.io/perso/logos/action.png" group-title="CINEMA",ACTION
+http://mytvonlineflix.com:8080/live/KsPa6CmfaagZ/WMcUtE7SbXCp/138.ts
+
+#EXTINF:-1 tvg-id=""  tvg-logo="https://i.ibb.co/L1pdhyQ/y-Thx-Qe6-Vor-Nm-I2f-R-removebg-preview.png" group-title="CINEMA",CANAL+ ONLINE
+http://mytvonlineflix.com:8080/live/KsPa6CmfaagZ/WMcUtE7SbXCp/259288.ts
+#EXTINF:-1 tvg-id=""  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0e/CanalPlus_3D.svg/1280px-CanalPlus_3D.svg.png" group-title="CINEMA",CANAL+ 3D
+http://mytvonlineflix.com:8080/live/KsPa6CmfaagZ/WMcUtE7SbXCp/259289.ts
+#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8c/Canal%2B_Film_2015.png" group-title="CINEMA",CANAL+ FILM
+http://mytvonlineflix.com:8080/live/KsPa6CmfaagZ/WMcUtE7SbXCp/259290.ts
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/4RNPYT3/images-15-removebg-preview.png" group-title="CINEMA",CANAL+ NOW
+http://mytvonlineflix.com:8080/live/KsPa6CmfaagZ/WMcUtE7SbXCp/259291.ts
+#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/53/CANAL-First.png/640px-CANAL-First.png" group-title="CINEMA",CANAL+ FIRST
+http://mytvonlineflix.com:8080/live/KsPa6CmfaagZ/WMcUtE7SbXCp/259292.ts
+#EXTINF:-1 tvg-id="" tvg-logo="https://thumb.canalplus.pro/http/unsafe/999x335/smart/creativemedia-image.canalplus.pro/content/0001/10/07fdad81aedd7dec8e5c0f6ac164ff806f84b8c4.png" group-title="CINEMA",CANAL+ BRAND
+http://mytvonlineflix.com:8080/live/KsPa6CmfaagZ/WMcUtE7SbXCp/259294.ts
+#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/Studiocanal_2011_logo.svg/800px-Studiocanal_2011_logo.svg.png" group-title="CINEMA",CANAL+ STUDIO
+http://mytvonlineflix.com:8080/live/KsPa6CmfaagZ/WMcUtE7SbXCp/259300.ts
+
+#EXTINF:-1 tvg-id="CanalPlusSeries" tvg-logo="https://ppechenot.github.io/perso/logos/canal+_series.png" group-title="SERIES",CANAL+ SERIES
+http://mytvonlineflix.com:8080/live/KsPa6CmfaagZ/WMcUtE7SbXCp/121.ts
+#EXTINF:-1 tvg-id="PolarPlus" tvg-logo="https://ppechenot.github.io/perso/logos/polar+.png" group-title="SERIES",POLAR+
+http://mytvonlineflix.com:8080/live/KsPa6CmfaagZ/WMcUtE7SbXCp/136.ts
+#EXTINF:-1 tvg-id="ComediePlus" tvg-logo="https://ppechenot.github.io/perso/logos/comedie+.png" group-title="SERIES",COMEDIE+
+http://mytvonlineflix.com:8080/live/KsPa6CmfaagZ/WMcUtE7SbXCp/69.ts
+#EXTINF:-1 tvg-id="13Rue" tvg-logo="https://ppechenot.github.io/perso/logos/13eme_rue.png" group-title="SERIES",13EME RUE
+http://mytvonlineflix.com:8080/live/KsPa6CmfaagZ/WMcUtE7SbXCp/52.ts
+#EXTINF:-1 tvg-id="Syfy" tvg-logo="https://ppechenot.github.io/perso/logos/syfy.png" group-title="SERIES",SYFY
+http://mytvonlineflix.com:8080/live/KsPa6CmfaagZ/WMcUtE7SbXCp/59.ts
+#EXTINF:-1 tvg-id="WarnerTV" tvg-logo="https://ppechenot.github.io/perso/logos/warner_tv.png" group-title="SERIES",WARNER TV
+http://mytvonlineflix.com:8080/live/KsPa6CmfaagZ/WMcUtE7SbXCp/19594.ts
+#EXTINF:-1 tvg-id="SerieClub" tvg-logo="https://ppechenot.github.io/perso/logos/serieclub.png" group-title="SERIES",SERIECLUB
+http://mytvonlineflix.com:8080/live/KsPa6CmfaagZ/WMcUtE7SbXCp/31030.ts
+#EXTINF:-1 tvg-id="TvBreizh" tvg-logo="https://ppechenot.github.io/perso/logos/tvbreizh.png" group-title="SERIES",TV BREIZH
+http://mytvonlineflix.com:8080/live/KsPa6CmfaagZ/WMcUtE7SbXCp/61.ts
+#EXTINF:-1 tvg-id="Teva" tvg-logo="https://ppechenot.github.io/perso/logos/teva.png" group-title="SERIES",TEVA
+http://mytvonlineflix.com:8080/live/KsPa6CmfaagZ/WMcUtE7SbXCp/29485.ts
+#EXTINF:-1 tvg-id="ParisPremiere" tvg-logo="https://ppechenot.github.io/perso/logos/paris_premiere.png" group-title="SERIES",PARIS PREMIERE
+http://mytvonlineflix.com:8080/live/KsPa6CmfaagZ/WMcUtE7SbXCp/123937.ts
+#EXTINF:-1 tvg-id="RTL9" tvg-logo="https://ppechenot.github.io/perso/logos/rtl9.png" group-title="SERIES",RTL9
+http://mytvonlineflix.com:8080/live/KsPa6CmfaagZ/WMcUtE7SbXCp/37.ts
+
+#EXTINF:-1 tvg-id="CanalPlusDocs" tvg-logo="https://ppechenot.github.io/perso/logos/canal+_docs.png" group-title="CULTURE",CANAL+ DOCS
+http://mytvonlineflix.com:8080/live/KsPa6CmfaagZ/WMcUtE7SbXCp/123295.ts
+#EXTINF:-1 tvg-id="NationalGeographic" tvg-logo="https://ppechenot.github.io/perso/logos/national_geographic.png" group-title="CULTURE",NATIONAL GEOGRAPHIC
+http://mytvonlineflix.com:8080/live/KsPa6CmfaagZ/WMcUtE7SbXCp/295.ts
+#EXTINF:-1 tvg-id="NatGeoWild" tvg-logo="https://ppechenot.github.io/perso/logos/nat_geo_wild.png" group-title="CULTURE",NAT GEO WILD
+http://mytvonlineflix.com:8080/live/KsPa6CmfaagZ/WMcUtE7SbXCp/297.ts
+#EXTINF:-1 tvg-id="ScienceEtVieTV" tvg-logo="https://ppechenot.github.io/perso/logos/science_et_vie tv.png" group-title="CULTURE",SCIENCE & VIE
+http://mytvonlineflix.com:8080/live/KsPa6CmfaagZ/WMcUtE7SbXCp/293.ts
+#EXTINF:-1 tvg-id="UshuaiaTV" tvg-logo="https://ppechenot.github.io/perso/logos/ushuaia_tv.png" group-title="CULTURE",USHUAIA TV
+http://mytvonlineflix.com:8080/live/KsPa6CmfaagZ/WMcUtE7SbXCp/297.ts
+#EXTINF:-1 tvg-id="HistoireTV" tvg-logo="https://ppechenot.github.io/perso/logos/histoire_tv.png" group-title="CULTURE",HISTOIRE
+http://mytvonlineflix.com:8080/live/KsPa6CmfaagZ/WMcUtE7SbXCp/123941.ts
+#EXTINF:-1 tvg-id="TouteHistoire" tvg-logo="https://ppechenot.github.io/perso/logos/toute_lhistoire.png" group-title="CULTURE",TOUTE L'HISTOIRE
+http://mytvonlineflix.com:8080/live/KsPa6CmfaagZ/WMcUtE7SbXCp/201543.ts
+#EXTINF:-1 tvg-id="MuseumTV" tvg-logo="https://ppechenot.github.io/perso/logos/museum_tv.png" group-title="CULTURE",MUSEUM TV
+http://mytvonlineflix.com:8080/live/KsPa6CmfaagZ/WMcUtE7SbXCp/240859.ts
+
+#EXTINF:-1 tvg-id="LEquipe" tvg-logo="https://ppechenot.github.io/perso/logos/lequipe.png" group-title="SPORT",L'EQUIPE
+http://mytvonlineflix.com:8080/live/KsPa6CmfaagZ/WMcUtE7SbXCp/298401.ts
+#EXTINF:-1 tvg-id="CanalPlusSport" tvg-logo="https://ppechenot.github.io/perso/logos/canal+_sport.png" group-title="SPORT",CANAL+ SPORT
+http://mytvonlineflix.com:8080/live/KsPa6CmfaagZ/WMcUtE7SbXCp/298373.ts
+#EXTINF:-1 tvg-id="CanalPlusSport360" tvg-logo="https://ppechenot.github.io/perso/logos/canal+_sport_360.png" group-title="SPORT",CANAL+ SPORT 360
+http://mytvonlineflix.com:8080/live/KsPa6CmfaagZ/WMcUtE7SbXCp/298379.ts
+#EXTINF:-1 tvg-id="Eurosport1" tvg-logo="https://ppechenot.github.io/perso/logos/eurosport1.png" group-title="SPORT",EUROSPORT 1
+http://mytvonlineflix.com:8080/live/KsPa6CmfaagZ/WMcUtE7SbXCp/298427.ts
+#EXTINF:-1 tvg-id="Eurosport2"tvg-logo="https://ppechenot.github.io/perso/logos/eurosport2.png" group-title="SPORT",EUROSPORT 2
+http://mytvonlineflix.com:8080/live/KsPa6CmfaagZ/WMcUtE7SbXCp/298429.ts
+#EXTINF:-1 tvg-id="BeinSports1" tvg-logo="https://ppechenot.github.io/perso/logos/bein_sports1.png" group-title="SPORT",BEIN SPORTS 1
+http://mytvonlineflix.com:8080/live/KsPa6CmfaagZ/WMcUtE7SbXCp/298378.ts
+#EXTINF:-1 tvg-id="BeinSports2" tvg-logo="https://ppechenot.github.io/perso/logos/bein_sports2.png" group-title="SPORT",BEIN SPORTS 2
+http://mytvonlineflix.com:8080/live/KsPa6CmfaagZ/WMcUtE7SbXCp/298283.ts
+#EXTINF:-1 tvg-id="BeinSports3" tvg-logo="https://ppechenot.github.io/perso/logos/bein_sports3.png" group-title="SPORT",BEIN SPORTS 3
+http://mytvonlineflix.com:8080/live/KsPa6CmfaagZ/WMcUtE7SbXCp/298287.ts
+#EXTINF:-1 tvg-id="SportEnFrance" tvg-logo="https://ppechenot.github.io/perso/logos/sport_en_france.png" group-title="SPORT",SPORT EN FRANCE
+http://mytvonlineflix.com:8080/live/KsPa6CmfaagZ/WMcUtE7SbXCp/298450.ts
+#EXTINF:-1 tvg-id="GolfPlus" tvg-logo="https://ppechenot.github.io/perso/logos/golf+.png" group-title="SPORT",GOLF+
+http://mytvonlineflix.com:8080/live/KsPa6CmfaagZ/WMcUtE7SbXCp/298410.ts
+#EXTINF:-1 tvg-id="JournalDuGolf" tvg-logo="https://ppechenot.github.io/perso/logos/journaldugolf.png" group-title="SPORT",Journal du Golf
+http://mytvonlineflix.com:8080/live/KsPa6CmfaagZ/WMcUtE7SbXCp/298413.ts
+
+#EXTINF:-1 tvg-id="SkySportsGolf" tvg-logo="https://ppechenot.github.io/perso/logos/sky_sports_golf uk.png" group-title="SPORT",SKY SPORTS GOLF
+http://mytvonlineflix.com:8080/live/KsPa6CmfaagZ/WMcUtE7SbXCp/199611.ts
+#EXTINF:-1 tvg-id="SkySportsMix" tvg-logo="https://ppechenot.github.io/perso/logos/sky sports_golf_uk.png" group-title="SPORT",SKY SPORTS MIX
+http://mytvonlineflix.com:8080/live/KsPa6CmfaagZ/WMcUtE7SbXCp/199610.ts
+#EXTINF:-1 tvg-id="SkySportsMainEvent" tvg-logo="https://ppechenot.github.io/perso/logos/sky_sports_golf_uk.png" group-title="SPORT",SKY SPORTS MAIN FHD 
+http://mytvonlineflix.com:8080/live/KsPa6CmfaagZ/WMcUtE7SbXCp/199607.ts
+#EXTINF:-1 tvg-id="SSGolf" tvg-logo="https://ppechenot.github.io/perso/logos/supersport_golf.png" group-title="SPORT",SUPERSPORTS GOLF 
+http://mytvonlineflix.com:8080/live/KsPa6CmfaagZ/WMcUtE7SbXCp/368075.ts
+#EXTINF:-1 tvg-id="VSportGolf" tvg-logo="https://ppechenot.github.io/perso/logos/vsport_golf.png" group-title="SPORT",V SPORT GOLF
+http://mytvonlineflix.com:8080/live/KsPa6CmfaagZ/WMcUtE7SbXCp/402174.ts
+#EXTINF:-1 tvg-id="TheGolfChannel" tvg-logo="https://ppechenot.github.io/perso/logos/nbc_golf_channel.png" group-title="SPORT",NBC GOLF
+http://mytvonlineflix.com:8080/live/KsPa6CmfaagZ/WMcUtE7SbXCp/326033.ts
+#EXTINF:-1 tvg-id="MovistarGolf" tvg-logo="https://ppechenot.github.io/perso/logos/movistar_golf.png" group-title="SPORT",M+ GOLF
+http://mytvonlineflix.com:8080/live/KsPa6CmfaagZ/WMcUtE7SbXCp/354365.ts
