@@ -28,13 +28,6 @@ https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/m6plus/gulli.m
 #EXTINF:-1 tvg-id="France3" tvg-logo="https://ppechenot.github.io/perso/logos/france3.png",FRANCE 3 F-C
 https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/francetv/regions/francecomte.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/imvOEt6.png" tvg-country="FR",France TV Docs
-https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/francetv/docs.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/cbcIKCT.png" tvg-country="FR",France TV Séries
-https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/francetv/series.m3u8
-#EXTINF:-1 tvg-id="CanalPlus" tvg-logo="https://ppechenot.github.io/perso/logos/canal+.png",CANAL+ CLAIR
-https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/canalplus/canalplusclair-hd.m3u8
-
 #EXTINF:-1 tvg-id="LEquipe" tvg-logo="https://ppechenot.github.io/perso/logos/lequipe.png",L'EQUIPE
 https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/lequipe/la-chaine-l-equipe-en-direct-dm.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://ppechenot.github.io/perso/logos/lequipelive1.png",L'EQUIPE LIVE 1
