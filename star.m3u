@@ -3,15 +3,15 @@
 #EXTINF:-1 tvg-id="TF1" tvg-logo="https://ppechenot.github.io/perso/logos/tf1.png" group-title="TNT",TF1
 http://cf.star4k.me:80/play/live.php?mac=00:1A:79:E5:75:65&stream=106975&extension=ts
 #EXTINF:-1 tvg-id="France2" tvg-logo="https://ppechenot.github.io/perso/logos/france2.png" group-title="TNT",FRANCE 2
-http://myquebec.net/play/live.php?mac=00:1A:79:CF:76:C3&stream=123481&extension=ts
+http://cf.star4k.me:80/play/live.php?mac=00:1A:79:E5:75:65&stream=106901&extension=ts
 #EXTINF:-1 tvg-id="France3" tvg-logo="https://ppechenot.github.io/perso/logos/france3.png" group-title="TNT",FRANCE 3
-http://myquebec.net/play/live.php?mac=00:1A:79:CF:76:C3&stream=123581&extension=ts
+http://cf.star4k.me:80/play/live.php?mac=00:1A:79:E5:75:65&stream=106903&extension=ts
 #EXTINF:-1 tvg-id="France4" tvg-logo="https://ppechenot.github.io/perso/logos/france4.png" group-title="TNT",FRANCE 4
-http://myquebec.net/play/live.php?mac=00:1A:79:CF:76:C3&stream=123582&extension=ts
+http://cf.star4k.me:80/play/live.php?mac=00:1A:79:E5:75:65&stream=106904&extension=ts
 #EXTINF:-1 tvg-id="France5" tvg-logo="https://ppechenot.github.io/perso/logos/france5.png" group-title="TNT",FRANCE 5
-http://myquebec.net/play/live.php?mac=00:1A:79:CF:76:C3&stream=1708&extension=ts
+http://cf.star4k.me:80/play/live.php?mac=00:1A:79:E5:75:65&stream=106905&extension=ts
 #EXTINF:-1 tvg-id="M6" tvg-logo="https://ppechenot.github.io/perso/logos/m6.png" group-title="TNT",M6
-http://sf.bleutv.net/live/restreamar1ott/197668546138/3287.ts
+http://cf.star4k.me:80/play/live.php?mac=00:1A:79:E5:75:65&stream=106954&extension=ts
 #EXTINF:-1 tvg-id="Arte" tvg-logo="https://ppechenot.github.io/perso/logos/arte.png" group-title="TNT",ARTE
 http://sf.bleutv.net/live/restreamar1ott/197668546138/3291.ts
 #EXTINF:-1 tvg-id="C8" tvg-logo="https://ppechenot.github.io/perso/logos/c8.png" group-title="TNT",C8
