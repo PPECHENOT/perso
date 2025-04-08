@@ -10,10 +10,6 @@ https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/francetv/franc
 https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/francetv/france4.m3u8
 #EXTINF:-1 tvg-id="France5" tvg-logo="https://ppechenot.github.io/perso/logos/france5.png",FRANCE 5
 https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/francetv/france5.m3u8
-
-#EXTINF:-1 tvg-id="M6" tvg-logo="https://ppechenot.github.io/perso/logos/m6.png",M6
-http://cf.star4k.me:80/play/live.php?mac=00:1A:79:63:86:B0&stream=106954&extension=ts
-
 #EXTINF:-1 tvg-id="Arte" tvg-logo="https://ppechenot.github.io/perso/logos/arte.png",ARTE
 https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/francetv/arte.m3u8
 https://github.com/Paradise-91/ParaTV/blob/main/streams/francetv/arte.m3u8
