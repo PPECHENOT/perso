@@ -222,7 +222,7 @@
   </channel>
   <channel id="CanalPlusSport360">
     <display-name lang="fr">CANAL+ SPORT 360</display-name>
-    <icon src="https://ppechenot.github.io/perso/logos/canal+_sport360.png"/>
+    <icon src="https://ppechenot.github.io/perso/logos/canal+_sport_360.png"/>
   </channel>
   <channel id="Eurosport1">
     <display-name lang="fr">EUROSPORT 1</display-name>
