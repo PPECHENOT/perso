@@ -39,7 +39,7 @@ http://cf.star4k.me:80/play/live.php?mac=00:1A:79:E5:75:65&stream=106950&extensi
 http://cf.star4k.me:80/play/live.php?mac=00:1A:79:E5:75:65&stream=106909&extension=ts
 #EXTINF:-1 tvg-id="CanalPlusCinema" tvg-logo="https://ppechenot.github.io/perso/logos/canal+_cinema(s).png" group-title="CINEMA",CANAL+ CINEMA(S)
 http://cf.star4k.me:80/play/live.php?mac=00:1A:79:E5:75:65&stream=425574&extension=ts
-#EXTINF:-1 tvg-id="CanalPlusBoxOffice" tvg-logo="https://ppechenot.github.io/perso/logos/canal+_box_office.png" group-title="KING - CINEMA",CANAL+ BOX OFFICE
+#EXTINF:-1 tvg-id="CanalPlusBoxOffice" tvg-logo="https://ppechenot.github.io/perso/logos/canal+_box_office.png" group-title="CINEMA",CANAL+ BOX OFFICE
 http://cf.star4k.me:80/play/live.php?mac=00:1A:79:E5:75:65&stream=569466&extension=ts
 #EXTINF:-1 tvg-id="CanalPlusGrandEcran" tvg-logo="https://ppechenot.github.io/perso/logos/canal+_grand_ecran.png" group-title="CINEMA",CANAL+ GRAND ECRAN
 http://cf.star4k.me:80/play/live.php?mac=00:1A:79:E5:75:65&stream=425578&extension=ts
