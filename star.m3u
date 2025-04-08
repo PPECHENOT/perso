@@ -77,7 +77,7 @@ http://cf.star4k.me:80/play/live.php?mac=00:1A:79:E5:75:65&stream=425504&extensi
 #EXTINF:-1 tvg-id="SerieClub" tvg-logo="https://ppechenot.github.io/perso/logos/serieclub.png" group-title="SERIES",SERIECLUB
 http://cf.star4k.me:80/play/live.php?mac=00:1A:79:E5:75:65&stream=425528&extension=ts
 #EXTINF:-1 tvg-id="TvBreizh" tvg-logo="https://ppechenot.github.io/perso/logos/tvbreizh.png" group-title="SERIES",TV BREIZH
-http://cf.star4k.me:80/play/live.php?mac=00:1A:79:E5:75:65&stream=425589&extension=ts
+http://cf.star4k.me:80/play/live.php?mac=00:1A:79:E5:75:65&stream=106980&extension=ts
 #EXTINF:-1 tvg-id="Teva" tvg-logo="https://ppechenot.github.io/perso/logos/teva.png" group-title="SERIES",TEVA
 http://cf.star4k.me:80/play/live.php?mac=00:1A:79:E5:75:65&stream=106974&extension=ts
 #EXTINF:-1 tvg-id="ParisPremiere" tvg-logo="https://ppechenot.github.io/perso/logos/paris_premiere.png" group-title="SERIES",PARIS PREMIERE
