@@ -74,7 +74,7 @@ http://cf.star4k.me:80/play/live.php?mac=00:1A:79:E5:75:65&stream=425567&extensi
 http://cf.star4k.me:80/play/live.php?mac=00:1A:79:E5:75:65&stream=207170&extension=ts
 #EXTINF:-1 tvg-id="WarnerTV" tvg-logo="https://ppechenot.github.io/perso/logos/warner_tv.png" group-title="SERIES",WARNER TV
 http://cf.star4k.me:80/play/live.php?mac=00:1A:79:E5:75:65&stream=425504&extension=ts
-#EXTINF:-1 tvg-id="SerieClub" tvg-logo="https://ppechenot.github.io/perso/logos/serie_club.png" group-title="SERIES",SERIECLUB
+#EXTINF:-1 tvg-id="SerieClub" tvg-logo="https://ppechenot.github.io/perso/logos/serieclub.png" group-title="SERIES",SERIECLUB
 http://cf.star4k.me:80/play/live.php?mac=00:1A:79:E5:75:65&stream=425528&extension=ts
 #EXTINF:-1 tvg-id="TvBreizh" tvg-logo="https://ppechenot.github.io/perso/logos/tvbreizh.png" group-title="SERIES",TV BREIZH
 http://cf.star4k.me:80/play/live.php?mac=00:1A:79:E5:75:65&stream=425589&extension=ts
@@ -134,7 +134,7 @@ http://cf.star4k.me:80/play/live.php?mac=00:1A:79:E5:75:65&stream=220937&extensi
 http://cf.star4k.me:80/play/live.php?mac=00:1A:79:E5:75:65&stream=588039&extension=ts
 #EXTINF:-1 tvg-id="SkySportsMix" tvg-logo="https://ppechenot.github.io/perso/logos/sky_sports_golf_uk.png" group-title="SPORT",SKY SPORTS MIX
 http://king365-tv.com:2103/play/live.php?mac=00:1A:79:4F:50:DD&stream=669&extension=ts
-#EXTINF:-1 tvg-id="VSportGolf" tvg-logo="https://ppechenot.github.io/perso/logos/vsport_golf.png" group-title="KING - SPORT",V SPORT GOLF
+#EXTINF:-1 tvg-id="VSportGolf" tvg-logo="https://ppechenot.github.io/perso/logos/vsport_golf.png" group-title="SPORT",V SPORT GOLF
 http://cf.star4k.me:80/play/live.php?mac=00:1A:79:E5:75:65&stream=1367371&extension=ts
 #EXTINF:-1 tvg-id="TheGolfChannel" tvg-logo="https://ppechenot.github.io/perso/logos/nbc_golf_channel.png" group-title="SPORT",NBC GOLF
 http://cf.star4k.me:80/play/live.php?mac=00:1A:79:E5:75:65&stream=429653&extension=ts
