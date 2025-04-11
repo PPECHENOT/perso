@@ -3,13 +3,13 @@
 #EXTINF:-1 tvg-id="TF1" tvg-logo="https://ppechenot.github.io/perso/logos/tf1.png" group-title="TNT",TF1
 http://1screen2.com:8000/live/mag00%3A1A%3A79%3AB2%3A26%3ACE/qhPMjis5Ra/b8d9649e-57f2-449e-9260-f63ecc95700b.ts
 #EXTINF:-1 tvg-id="France2" tvg-logo="https://ppechenot.github.io/perso/logos/france2.png" group-title="TNT",FRANCE 2
-http://1screen2.com:8000/live/mag00:1A:79:B2:26:CE/qhPMjis5Ra/1333.ts
+http://1screen2.com:8000/live/mag00%3A1A%3A79%3AB2%3A26%3ACE/qhPMjis5Ra/c97e24d7-5f9b-43b0-b367-335710c3db54.ts
 #EXTINF:-1 tvg-id="France3" tvg-logo="https://ppechenot.github.io/perso/logos/france3.png" group-title="TNT",FRANCE 3
-http://1screen2.com:8000/live/mag00:1A:79:B2:26:CE/qhPMjis5Ra/1337.ts
+http://1screen2.com:8000/live/mag00%3A1A%3A79%3AB2%3A26%3ACE/qhPMjis5Ra/133ba67a-23a0-4819-ad8e-61f2b34bde7f.ts
 #EXTINF:-1 tvg-id="France4" tvg-logo="https://ppechenot.github.io/perso/logos/france4.png" group-title="TNT",FRANCE 4
-http://1screen2.com:8000/live/mag00:1A:79:B2:26:CE/qhPMjis5Ra/1341.ts
+http://1screen2.com:8000/live/mag00%3A1A%3A79%3AB2%3A26%3ACE/qhPMjis5Ra/7f27ff9d-55df-4945-8c3b-e090bee5e528.ts
 #EXTINF:-1 tvg-id="France5" tvg-logo="https://ppechenot.github.io/perso/logos/france5.png" group-title="TNT",FRANCE 5
-http://1screen2.com:8000/live/mag00:1A:79:B2:26:CE/qhPMjis5Ra/1345.ts
+http://1screen2.com:8000/live/mag00%3A1A%3A79%3AB2%3A26%3ACE/qhPMjis5Ra/7794f6d7-40e4-4efb-8a2a-e86ff1d0fb50.ts
 #EXTINF:-1 tvg-id="M6" tvg-logo="https://ppechenot.github.io/perso/logos/m6.png" group-title="TNT",M6
 http://1screen2.com:8000/live/mag00:1A:79:B2:26:CE/qhPMjis5Ra/1359.ts
 #EXTINF:-1 tvg-id="Arte" tvg-logo="https://ppechenot.github.io/perso/logos/arte.png" group-title="TNT",ARTE
