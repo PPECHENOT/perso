@@ -139,11 +139,5 @@ http://1screen2.com:8000/live/mag00%3A1A%3A79%3AB2%3A26%3ACE/qhPMjis5Ra/480c27e8
 http://1screen2.com:8000/live/mag00%3A1A%3A79%3AB2%3A26%3ACE/qhPMjis5Ra/7b182de3-3fbd-43c3-af48-95290e2bb376.ts
 #EXTINF:-1 tvg-id="SkySportsMix" tvg-logo="https://ppechenot.github.io/perso/logos/sky_sports_golf_uk.png" group-title="SPORT",SKY SPORTS MIX
 http://1screen2.com:8000/live/mag00%3A1A%3A79%3AB2%3A26%3ACE/qhPMjis5Ra/0ec0f6eb-0d07-46ae-a7c2-fa7b4942d3fe.ts
-#EXTINF:-1 tvg-id="SSGolf" tvg-logo="https://ppechenot.github.io/perso/logos/supersport_golf.png" group-title="SPORT",SUPERSPORTS GOLF 
-http://krooztv.live/live/luke/luke/62940.ts
-#EXTINF:-1 tvg-id="VSportGolf" tvg-logo="https://ppechenot.github.io/perso/logos/vsport_golf.png" group-title="SPORT",V SPORT GOLF
-http://krooztv.live/live/luke/luke/286749.ts
-#EXTINF:-1 tvg-id="TheGolfChannel" tvg-logo="https://ppechenot.github.io/perso/logos/nbc_golf_channel.png" group-title="SPORT",NBC GOLF
-http://krooztv.live/live/luke/luke/268965.ts
 #EXTINF:-1 tvg-id="MovistarGolf" tvg-logo="https://ppechenot.github.io/perso/logos/movistar_golf.png" group-title="SPORT",M+ GOLF
-http://krooztv.live/live/luke/luke/663568.ts
+http://1screen2.com:8000/live/mag00:1A:79:B2:26:CE/qhPMjis5Ra/575441.ts
