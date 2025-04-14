@@ -1,19 +1,19 @@
 #EXTM3U url-tvg="https://ppechenot.github.io/perso/tivi.xml"
 
 #EXTINF:-1 tvg-id="TF1" tvg-logo="https://ppechenot.github.io/perso/logos/tf1.png" group-title="TNT",TF1
-http://krooztv.live/live/robert/robert2023/684154.ts
+http://krooztv.live/live/robert/robert2023/723519.ts
 #EXTINF:-1 tvg-id="France2" tvg-logo="https://ppechenot.github.io/perso/logos/france2.png" group-title="TNT",FRANCE 2
-http://krooztv.live/live/robert/robert2023/684151.ts
+http://krooztv.live/live/robert/robert2023/723513.ts
 #EXTINF:-1 tvg-id="France3" tvg-logo="https://ppechenot.github.io/perso/logos/france3.png" group-title="TNT",FRANCE 3
-http://krooztv.live/live/robert/robert2023/684149.ts
+http://krooztv.live/live/robert/robert2023/723507.ts
 #EXTINF:-1 tvg-id="France4" tvg-logo="https://ppechenot.github.io/perso/logos/france4.png" group-title="TNT",FRANCE 4
-http://krooztv.live/live/robert/robert2023/684147.ts
+http://krooztv.live/live/robert/robert2023/723501.ts
 #EXTINF:-1 tvg-id="France5" tvg-logo="https://ppechenot.github.io/perso/logos/france5.png" group-title="TNT",FRANCE 5
-http://krooztv.live/live/robert/robert2023/684145.ts
+http://krooztv.live/live/robert/robert2023/723497.ts
 #EXTINF:-1 tvg-id="M6" tvg-logo="https://ppechenot.github.io/perso/logos/m6.png" group-title="TNT",M6
-http://krooztv.live/live/robert/robert2023/684143.ts
+http://krooztv.live/live/robert/robert2023/723488.ts
 #EXTINF:-1 tvg-id="Arte" tvg-logo="https://ppechenot.github.io/perso/logos/arte.png" group-title="TNT",ARTE
-http://krooztv.live/live/robert/robert2023/684136.ts
+http://krooztv.live/live/robert/robert2023/723492.ts
 #EXTINF:-1 tvg-id="W9" tvg-logo="https://ppechenot.github.io/perso/logos/w9.png" group-title="TNT",W9
 http://krooztv.live/live/robert/robert2023/684130.ts
 #EXTINF:-1 tvg-id="TMC" tvg-logo="https://ppechenot.github.io/perso/logos/tmc.png" group-title="TNT",TMC
