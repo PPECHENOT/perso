@@ -76,7 +76,7 @@ http://platineiptv.pro:8789/play/live.php?mac=00:1A:79:64:7A:8A&stream=13794&ext
 http://platineiptv.pro:8789/play/live.php?mac=00:1A:79:64:7A:8A&stream=13698&extension=ts
 #EXTINF:-1 tvg-id="WarnerTV" tvg-logo="https://ppechenot.github.io/perso/logos/warner_tv.png" group-title="SERIES",WARNER TV
 http://platineiptv.pro:8789/play/live.php?mac=00:1A:79:64:7A:8A&stream=13784&extension=ts
-#EXTINF:-1 tvg-id="SerieClub" tvg-logo="https://ppechenot.github.io/perso/logos/serie_club.png" group-title="SERIES",SERIECLUB
+#EXTINF:-1 tvg-id="SerieClub" tvg-logo="https://ppechenot.github.io/perso/logos/serieclub.png" group-title="SERIES",SERIECLUB
 http://platineiptv.pro:8789/play/live.php?mac=00:1A:79:64:7A:8A&stream=13830&extension=ts
 #EXTINF:-1 tvg-id="TvBreizh" tvg-logo="https://ppechenot.github.io/perso/logos/tvbreizh.png" group-title="SERIES",TV BREIZH
 http://platineiptv.pro:8789/play/live.php?mac=00:1A:79:64:7A:8A&stream=13975&extension=ts
