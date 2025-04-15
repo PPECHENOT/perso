@@ -182,7 +182,7 @@
   </channel>
   <channel id="UshuaiaTV">
     <display-name lang="fr">USHUAIA TV</display-name>
-    <icon src="https://www.programme-tv.net/imgre/fit/~2~channel~778073cbbd827d7a.png/30x30/quality/80/ushuaia-tv.png" />
+    <icon src="https://www.programme-tv.net/imgre/fit/~2~channel~367b3da5ef36650e.png/30x30/quality/80/ushuaia-tv.png" />
     <url>http://www.programme-tv.net</url>
   </channel>
   <channel id="ScienceEtVieTV">
@@ -254,12 +254,12 @@
   </channel>
   <channel id="BeinSports2">
     <display-name lang="fr">BEIN SPORTS 2</display-name>
-    <icon src="https://www.programme-tv.net/imgre/fit/~2~channel~2fa633f39d6c3033.png/30x30/quality/80/bein-sports-2.png" />
+    <icon src="https://www.programme-tv.net/imgre/fit/~2~channel~75c0e8eed8466425.png/30x30/quality/80/bein-sports-2.png" />
     <url>http://www.programme-tv.net</url>
   </channel>
   <channel id="BeinSports3">
     <display-name lang="fr">BEIN SPORTS 3</display-name>
-    <icon src="https://www.programme-tv.net/imgre/fit/~2~channel~d5aee128665b32a9.png/30x30/quality/80/bein-sports-3.png" />
+    <icon src="https://www.programme-tv.net/imgre/fit/~2~channel~0f3f6494879ee619.png/30x30/quality/80/bein-sports-3.png" />
     <url>http://www.programme-tv.net</url>
   </channel>
   <channel id="GolfPlus">
@@ -552,12 +552,12 @@
   <programme start="20250415153500 +0000" stop="20250415160000 +0000" channel="TF1">
     <title lang="fr">Familles nombreuses : la vie en XXL</title>
     <sub-title lang="fr">Familles nombreuses : la vie en XXL - Saison 09 Episode 66 (Partie 2) du 15 avril 2025</sub-title>
-    <desc lang="fr">La famille Esposito se rend à la messe, mais avec le carnaval de Nice, les rues sont bloquées et Tiffanie se perd. Chez les Baudrand, Clément profite de son lundi de libre pour avancer sur les tâches ménagères. Les Nguyen reçoivent des amis à la maison.</desc>
+    <desc lang="fr">La famille Galli est de retour avec une surprise à annoncer. Cette saison est aussi l'occasion de rencontrer les Augoyard, ou encore les Nguyen et leurs douze enfants.</desc>
     <date>2025</date>
     <category lang="fr">Divertissement</category>
     <category lang="fr">Telerealite</category>
     <icon src="https://thumb.canalplus.pro/http/unsafe/400x300/img-hapi.canalplus.pro:80/ServiceImage/ImageID/115538636" />
-    <episode-num system="onscreen">S9 E68</episode-num>
+    <episode-num system="onscreen">S9 E69</episode-num>
     <video>
       <quality>HD</quality>
     </video>
@@ -568,12 +568,12 @@
   <programme start="20250415160000 +0000" stop="20250415163000 +0000" channel="TF1">
     <title lang="fr">Familles nombreuses : la vie en XXL</title>
     <sub-title lang="fr">Familles nombreuses : la vie en XXL - Saison 09 Episode 67 du 15 avril 2025</sub-title>
-    <desc lang="fr">Raoudha a hâte d'annoncer la naissance aux enfants et surtout de leur présenter Jules. Seule avec les enfants, Anaïs Ballot a organisé une sortie au bowling. Pendant ce temps, la deuxième journée de randonné commence pour la famille Cail.</desc>
+    <desc lang="fr">La famille Galli est de retour avec une surprise à annoncer. Cette saison est aussi l'occasion de rencontrer les Augoyard, ou encore les Nguyen et leurs douze enfants.</desc>
     <date>2025</date>
     <category lang="fr">Divertissement</category>
     <category lang="fr">Telerealite</category>
     <icon src="https://thumb.canalplus.pro/http/unsafe/400x300/img-hapi.canalplus.pro:80/ServiceImage/ImageID/115538636" />
-    <episode-num system="onscreen">S9 E68</episode-num>
+    <episode-num system="onscreen">S9 E70</episode-num>
     <video>
       <quality>HD</quality>
     </video>
@@ -5301,7 +5301,7 @@
     <title lang="fr">Incroyables transformations</title>
     <desc lang="fr">Trois experts de la mode ont créé une agence pas comme les autres pour venir en aide à des clients qui se plaignent du look d'un de leurs proches. Ils utilisent les techniques les plus modernes de chacune de leur spécialité et ont parfois recours à la médecine esthétique.</desc>
     <credits>
-      <presenter>Frédéric Langer</presenter>
+      <presenter>Nicolas Waldorf</presenter>
     </credits>
     <date>2025</date>
     <category lang="fr">Divertissement</category>
@@ -5314,7 +5314,7 @@
     <title lang="fr">Incroyables transformations</title>
     <desc lang="fr">Trois experts de la mode ont créé une agence pas comme les autres pour venir en aide à des clients qui se plaignent du look d'un de leurs proches. Ils utilisent les techniques les plus modernes de chacune de leur spécialité et ont parfois recours à la médecine esthétique.</desc>
     <credits>
-      <presenter>Frédéric Langer</presenter>
+      <presenter>Nicolas Waldorf</presenter>
     </credits>
     <date>2025</date>
     <category lang="fr">Divertissement</category>
@@ -5389,7 +5389,7 @@
   </programme>
   <programme start="20250415114000 +0000" stop="20250415125000 +0000" channel="M6">
     <title lang="fr">Un jour, un doc</title>
-    <sub-title lang="fr">Maroc : le soleil en camping-car</sub-title>
+    <sub-title lang="fr">Le concours des jeunes inventeurs / Les champions de la mémoire</sub-title>
     <desc lang="fr">Grands débats de société, nouvelles tendances, retour sur des évènements marquants et des faits divers hors normes, ou encore récits de vie des people et des têtes couronnées,  Un jour, un doc  propose tous les après-midis une grande variété de documentaires et de sujets qui font vibrer le cœur des Français. Chaque jour, partez à la découverte d'histoires et de personnages incroyables en France ou à l'étranger.</desc>
     <date>2025</date>
     <category lang="fr">Actualites</category>
@@ -5404,7 +5404,7 @@
   </programme>
   <programme start="20250415125000 +0000" stop="20250415135000 +0000" channel="M6">
     <title lang="fr">Un jour, un doc</title>
-    <sub-title lang="fr">Maroc : le soleil en camping-car</sub-title>
+    <sub-title lang="fr">Le concours des jeunes inventeurs / Les champions de la mémoire</sub-title>
     <desc lang="fr">Grands débats de société, nouvelles tendances, retour sur des évènements marquants et des faits divers hors normes, ou encore récits de vie des people et des têtes couronnées,  Un jour, un doc  propose tous les après-midis une grande variété de documentaires et de sujets qui font vibrer le cœur des Français. Chaque jour, partez à la découverte d'histoires et de personnages incroyables en France ou à l'étranger.</desc>
     <date>2025</date>
     <category lang="fr">Actualites</category>
@@ -5419,7 +5419,7 @@
   </programme>
   <programme start="20250415135000 +0000" stop="20250415145000 +0000" channel="M6">
     <title lang="fr">Un jour, un doc</title>
-    <sub-title lang="fr">Maroc : le soleil en camping-car</sub-title>
+    <sub-title lang="fr">Le concours des jeunes inventeurs / Les champions de la mémoire</sub-title>
     <desc lang="fr">Grands débats de société, nouvelles tendances, retour sur des évènements marquants et des faits divers hors normes, ou encore récits de vie des people et des têtes couronnées,  Un jour, un doc  propose tous les après-midis une grande variété de documentaires et de sujets qui font vibrer le cœur des Français. Chaque jour, partez à la découverte d'histoires et de personnages incroyables en France ou à l'étranger.</desc>
     <date>2025</date>
     <category lang="fr">Actualites</category>
@@ -5572,7 +5572,7 @@
     <date>2025</date>
     <category lang="fr">Cinema</category>
     <category lang="fr">Doc Cinema</category>
-    <icon src="https://thumb.canalplus.pro/http/unsafe/400x300/img-hapi.canalplus.pro:80/ServiceImage/ImageID/118997235" />
+    <icon src="https://thumb.canalplus.pro/http/unsafe/400x300/canalplus-cdn.canal-plus.io/p1/unit/28448455/canal-ouah_50035/STD169/myCANAL_16x9_MEA_1920x108029-xqSp" />
     <video>
       <quality>HD</quality>
     </video>
@@ -6559,6 +6559,9 @@
     <category lang="fr">Serie Drame</category>
     <icon src="https://thumb.canalplus.pro/http/unsafe/400x300/img-hapi.canalplus.pro:80/ServiceImage/ImageID/49933517" />
     <episode-num system="onscreen">S9 E18</episode-num>
+    <video>
+      <quality>HD</quality>
+    </video>
     <star-rating system="CSA">
       <value>0</value>
     </star-rating>
@@ -6583,6 +6586,9 @@
     <category lang="fr">Serie Drame</category>
     <icon src="https://thumb.canalplus.pro/http/unsafe/400x300/img-hapi.canalplus.pro:80/ServiceImage/ImageID/49933517" />
     <episode-num system="onscreen">S9 E19</episode-num>
+    <video>
+      <quality>HD</quality>
+    </video>
     <star-rating system="CSA">
       <value>0</value>
     </star-rating>
@@ -6607,6 +6613,9 @@
     <category lang="fr">Serie Drame</category>
     <icon src="https://thumb.canalplus.pro/http/unsafe/400x300/img-hapi.canalplus.pro:80/ServiceImage/ImageID/49933517" />
     <episode-num system="onscreen">S9 E20</episode-num>
+    <video>
+      <quality>HD</quality>
+    </video>
     <star-rating system="CSA">
       <value>0</value>
     </star-rating>
@@ -9669,9 +9678,9 @@
   </programme>
   <programme start="20250415040000 +0000" stop="20250415043000 +0000" channel="RMCStory">
     <title lang="fr">Charles matin</title>
-    <sub-title lang="fr">EMISSION DU 15-04-25</sub-title>
+    <sub-title lang="fr">Émission du 15 avril 2025</sub-title>
     <desc lang="fr">Aux côtés d'une équipe de journalistes, le présentateur offre un regard quotidien sur l'actualité. Ce programme place l'information au centre de ses débats.</desc>
-    <date>2024</date>
+    <date>2025</date>
     <category lang="fr">Actualites</category>
     <category lang="fr">Journal</category>
     <icon src="https://thumb.canalplus.pro/http/unsafe/400x300/img-hapi.canalplus.pro:80/ServiceImage/ImageID/116236149" />
@@ -10014,7 +10023,7 @@
   </programme>
   <programme start="20250415103000 +0000" stop="20250415110000 +0000" channel="Cherie25">
     <title lang="fr">Le jour où tout a basculé</title>
-    <sub-title lang="fr">Mon prof est l'amant de ma mère</sub-title>
+    <sub-title lang="fr">Un boxeur pas comme les autres</sub-title>
     <desc lang="fr">Une quadragénaire mariée tombe amoureuse du professeur d'anglais de sa fille lycénne.</desc>
     <credits>
       <presenter>Nathalie Fellonneau</presenter>
@@ -10022,7 +10031,7 @@
     <date>2013</date>
     <category lang="fr">Actualites</category>
     <category lang="fr">Mag Societe</category>
-    <icon src="https://thumb.canalplus.pro/http/unsafe/400x300/img-hapi.canalplus.pro:80/ServiceImage/ImageID/100193041" />
+    <icon src="https://thumb.canalplus.pro/http/unsafe/400x300/img-hapi.canalplus.pro:80/ServiceImage/ImageID/106648472" />
     <video>
       <quality>HD</quality>
     </video>
@@ -10140,7 +10149,7 @@
   </programme>
   <programme start="20250415140500 +0000" stop="20250415143000 +0000" channel="Cherie25">
     <title lang="fr">Le jour où tout a basculé</title>
-    <sub-title lang="fr">Mon médecin a abusé de ma confia..</sub-title>
+    <sub-title lang="fr">Un boxeur pas comme les autres</sub-title>
     <desc lang="fr">Une femme âgée se fait berner par son médecin qui tente de l'empoisonner pour s'accaparer sa fortune, mais elle est sauvée par sa voisine.</desc>
     <credits>
       <presenter>Nathalie Fellonneau</presenter>
@@ -13073,10 +13082,10 @@
       <value>0</value>
     </star-rating>
   </programme>
-  <programme start="20250415002300 +0000" stop="20250415015000 +0000" channel="PolarPlus">
+  <programme start="20250415051900 +0000" stop="20250415065000 +0000" channel="PolarPlus">
     <title lang="fr">Navarro</title>
-    <sub-title lang="fr">Crime de sang</sub-title>
-    <desc lang="fr">C'est dans l'atelier de sculpture de sa femme que l'on retrouve le corps sans vie d'un marchand de tableaux. Le commissaire Navarro croit d'abord que la victime a fait l'objet d'un règlement de comptes de la part de ses associés italiens. Mais peu à peu, le policier penche pour le drame familial...</desc>
+    <sub-title lang="fr">Les gens de peu</sub-title>
+    <desc lang="fr">Navarro traque Guélize, un bonnet de la drogue, depuis un an. Alors qu'il est sur le point de l'arrêter, une fausse manoeuvre compromet la réussite de l'opération. En même temps, le cadavre d'une enfant est découvert en banlieue. Le commissaire délaisse l'enquête sur Guélize afin de tirer cette affaire au clair...</desc>
     <credits>
       <director>Patrick Jamain</director>
       <actor>Roger Hanin</actor>
@@ -13092,7 +13101,7 @@
     <category lang="fr">Series</category>
     <category lang="fr">Serie Policiere</category>
     <icon src="https://thumb.canalplus.pro/http/unsafe/400x300/img-hapi.canalplus.pro:80/ServiceImage/ImageID/92429535" />
-    <episode-num system="onscreen">S6 E2</episode-num>
+    <episode-num system="onscreen">S6 E7</episode-num>
     <video>
       <quality>HD</quality>
     </video>
@@ -13100,11 +13109,425 @@
       <value>0</value>
     </star-rating>
   </programme>
-  <programme start="20250415015000 +0000" stop="20250415024800 +0000" channel="PolarPlus">
-    <title lang="fr">Fin des programmes</title>
-    <category lang="fr">Divertissement</category>
-    <category lang="fr">Divers</category>
-    <icon src="https://thumb.canalplus.pro/http/unsafe/400x300/canalplus-cdn.canal-plus.io/p1/channel/50076/canal-ouah/GEN169/Polar-95ZV" />
+  <programme start="20250415065000 +0000" stop="20250415071600 +0000" channel="PolarPlus">
+    <title lang="fr">Pour que rien ne change</title>
+    <desc lang="fr">Après une longue absence, une jeune femme revient en Corse, pour présenter son compagnon à sa famille. Sa visite remue un passé qu'elle n'aurait pas dû réveiller.</desc>
+    <credits>
+      <director>Francescu Artily</director>
+      <actor>Chloé Astor</actor>
+      <actor>Bastien Bouillon</actor>
+      <actor>Nathan Willcocks</actor>
+      <actor>Mireille Perrier</actor>
+      <actor>Patrick Cianfarani</actor>
+      <actor>Nathanaël Maïni</actor>
+      <writer>Francescu Artily</writer>
+      <composer>Pierre Oberkampf</composer>
+    </credits>
+    <date>2020</date>
+    <category lang="fr">Cinema</category>
+    <category lang="fr">Court metrage</category>
+    <icon src="https://thumb.canalplus.pro/http/unsafe/400x300/canalplus-cdn.canal-plus.io/p1/unit/22014964/canal-ouah_50076/STD169/myCANAL-ALD_MEA_Pivot_16x9_1920x1080" />
+    <video>
+      <quality>HD</quality>
+    </video>
+    <star-rating system="CSA">
+      <value>0</value>
+    </star-rating>
+  </programme>
+  <programme start="20250415071600 +0000" stop="20250415090100 +0000" channel="PolarPlus">
+    <title lang="fr">Les enquêtes de Foyle</title>
+    <sub-title lang="fr">Les grandes manoeuvres</sub-title>
+    <desc lang="fr">Une jeune secrétaire, originaire de Hastings, fait une chute mortelle du haut des tours du siège londonien d'une entreprise de l'agroalimentaire. Peu de temps après, à Hastings, un homme qui venait de cambrioler la maison de campagne de Sir Reginald Walker, le propriétaire de la même entreprise, est assassiné...</desc>
+    <credits>
+      <director>Giles Foster</director>
+      <actor>Michael Kitchen</actor>
+      <actor>Honeysuckle Weeks</actor>
+      <actor>Anthony Howell</actor>
+      <actor>Julian Ovenden</actor>
+      <actor>Geoffrey Freshwater</actor>
+      <actor>Ellie Haddington</actor>
+      <writer>Anthony Horowitz</writer>
+      <composer>Jim Parker</composer>
+    </credits>
+    <date>2003</date>
+    <category lang="fr">Series</category>
+    <category lang="fr">Serie Policiere</category>
+    <icon src="https://thumb.canalplus.pro/http/unsafe/400x300/img-hapi.canalplus.pro:80/ServiceImage/ImageID/118044162" />
+    <episode-num system="onscreen">S2 E3</episode-num>
+    <video>
+      <quality>HD</quality>
+    </video>
+    <star-rating system="CSA">
+      <value>0</value>
+    </star-rating>
+  </programme>
+  <programme start="20250415090100 +0000" stop="20250415104100 +0000" channel="PolarPlus">
+    <title lang="fr">Les enquêtes de Foyle</title>
+    <sub-title lang="fr">La grande illusion</sub-title>
+    <desc lang="fr">Février 1941. A Hastings, un corps est découvert dans les décombres d'une librairie après une explosion. En enquêtant sur cette affaire, Foyle se retrouve au coeur de la rivalité entre le MI6, agence de renseignement bien établie, et le SOE, service secret nouvellement créé par Winston Churchill...</desc>
+    <credits>
+      <director>Anthony Horowitz</director>
+      <actor>Michael Kitchen</actor>
+      <actor>Anthony Howell</actor>
+      <actor>Honeysuckle Weeks</actor>
+      <actor>Geoffrey Freshwater</actor>
+      <actor>Sandra Voe</actor>
+      <actor>Ellie Haddington</actor>
+      <writer>Rob Heyland</writer>
+      <composer>Jim Parker</composer>
+    </credits>
+    <date>2004</date>
+    <category lang="fr">Series</category>
+    <category lang="fr">Serie Policiere</category>
+    <icon src="https://thumb.canalplus.pro/http/unsafe/400x300/img-hapi.canalplus.pro:80/ServiceImage/ImageID/117952666" />
+    <episode-num system="onscreen">S3 E1</episode-num>
+    <video>
+      <quality>HD</quality>
+    </video>
+    <star-rating system="CSA">
+      <value>0</value>
+    </star-rating>
+  </programme>
+  <programme start="20250415104100 +0000" stop="20250415121600 +0000" channel="PolarPlus">
+    <title lang="fr">Les enquêtes de Foyle</title>
+    <sub-title lang="fr">La guerre des nerfs</sub-title>
+    <desc lang="fr">Une bombe qui n'a pas explosé est découverte sur un chantier naval très fréquenté. Les démineurs dépêchés sur les lieux découvrent de l'argent caché et le volent. Foyle, qui enquête sur le crime organisé dans ce secteur, apprend que les frères Talbot, qui dirigent le chantier naval, sont des escrocs...</desc>
+    <credits>
+      <director>Anthony Horowitz</director>
+      <actor>Michael Kitchen</actor>
+      <actor>Anthony Howell</actor>
+      <actor>Honeysuckle Weeks</actor>
+      <actor>Geoffrey Freshwater</actor>
+      <actor>Sandra Voe</actor>
+      <actor>Ellie Haddington</actor>
+      <writer>Rob Heyland</writer>
+      <composer>Jim Parker</composer>
+    </credits>
+    <date>2004</date>
+    <category lang="fr">Series</category>
+    <category lang="fr">Serie Policiere</category>
+    <icon src="https://thumb.canalplus.pro/http/unsafe/400x300/img-hapi.canalplus.pro:80/ServiceImage/ImageID/117952666" />
+    <episode-num system="onscreen">S3 E4</episode-num>
+    <video>
+      <quality>HD</quality>
+    </video>
+    <star-rating system="CSA">
+      <value>0</value>
+    </star-rating>
+  </programme>
+  <programme start="20250415121600 +0000" stop="20250415123800 +0000" channel="PolarPlus">
+    <title lang="fr">Personae</title>
+    <desc lang="fr">Une jeune comédienne à la recherche d'un premier rôle usurpe l'identité d'une de ses concurrentes qui vient de retrouver ses parents biologiques.</desc>
+    <credits>
+      <director>Rémy Rondeau</director>
+      <actor>Solène Rigot</actor>
+      <actor>Thierry Frémont</actor>
+      <actor>Manon Klein</actor>
+      <actor>Alexis Baginama</actor>
+      <actor>Arthur Doué</actor>
+      <actor>Rémy Rondeau</actor>
+      <writer>Rémy Rondeau</writer>
+      <composer>Arthur Doué</composer>
+    </credits>
+    <date>2020</date>
+    <category lang="fr">Cinema</category>
+    <category lang="fr">Court metrage</category>
+    <icon src="https://thumb.canalplus.pro/http/unsafe/400x300/img-hapi.canalplus.pro:80/ServiceImage/ImageID/97041400" />
+    <video>
+      <quality>HD</quality>
+    </video>
+    <star-rating system="CSA">
+      <value>0</value>
+    </star-rating>
+  </programme>
+  <programme start="20250415123800 +0000" stop="20250415141000 +0000" channel="PolarPlus">
+    <title lang="fr">Les enquêtes de Morse</title>
+    <sub-title lang="fr">Malédiction</sub-title>
+    <desc lang="fr">Le tout Holywood débarque à Oxford, où doit débuter le tournage d'un film d'horreur The Phraoh Rises. Pendant ce temps, la mort inexpliquée d'un ancien policier, Ronald Beavis, conduit Morse et Thursday au cinéma local le Roxy où se tient une rencontre publique avec les stars du film...</desc>
+    <credits>
+      <director>Brady Hood</director>
+      <actor>Shaun Evans</actor>
+      <actor>Roger Allam</actor>
+      <actor>Sean Rigby</actor>
+      <actor>Anton Lesser</actor>
+      <actor>James Bradshaw</actor>
+      <actor>Caroline O'Neill</actor>
+      <writer>Russell Lewis</writer>
+      <composer>Matthew Slater</composer>
+    </credits>
+    <date>2018</date>
+    <category lang="fr">Series</category>
+    <category lang="fr">Serie Policiere</category>
+    <icon src="https://thumb.canalplus.pro/http/unsafe/400x300/img-hapi.canalplus.pro:80/ServiceImage/ImageID/114635581" />
+    <episode-num system="onscreen">S5 E2</episode-num>
+    <video>
+      <quality>HD</quality>
+    </video>
+    <star-rating system="CSA">
+      <value>0</value>
+    </star-rating>
+  </programme>
+  <programme start="20250415141000 +0000" stop="20250415154400 +0000" channel="PolarPlus">
+    <title lang="fr">Les enquêtes de Morse</title>
+    <sub-title lang="fr">Le trésor de Wolvercote</sub-title>
+    <desc lang="fr">Après la blessure par balle qui l'a laissé plusieurs mois sur la touche, l'inspecteur Morse reprend du service. Il se voit confier l'enquête sur la mort d'un certain Raymond Meeker. Or de rapides vérifications de routine révèlent que le véritable Raymond Meeker serait mort deux ans plus tôt...</desc>
+    <credits>
+      <director>Geoffrey Sax</director>
+      <actor>Shaun Evans</actor>
+      <actor>Roger Allam</actor>
+      <actor>Anton Lesser</actor>
+      <actor>Sean Rigby</actor>
+      <actor>James Bradshaw</actor>
+      <actor>Jack Laskey</actor>
+      <writer>Russell Lewis</writer>
+      <composer>Barrington Pheloung</composer>
+    </credits>
+    <date>2014</date>
+    <category lang="fr">Series</category>
+    <category lang="fr">Serie Policiere</category>
+    <icon src="https://thumb.canalplus.pro/http/unsafe/400x300/img-hapi.canalplus.pro:80/ServiceImage/ImageID/118454520" />
+    <episode-num system="onscreen">S2 E1</episode-num>
+    <video>
+      <quality>HD</quality>
+    </video>
+    <star-rating system="CSA">
+      <value>0</value>
+    </star-rating>
+  </programme>
+  <programme start="20250415154400 +0000" stop="20250415162900 +0000" channel="PolarPlus">
+    <title lang="fr">Pretty Hard Cases</title>
+    <sub-title lang="fr">C'est du propre</sub-title>
+    <desc lang="fr">Sam et Kelly surveillent une station de lavage automatique, dans l'espoir d'attraper Randy Bowen, le dernier gros poisson de Stockwood. La station servirait en effet de site de chargement de drogue. L'enjeu est de taille : la future promotion de Sam dépend de la réussite de cette mission et de l'arrestation de Bowen...</desc>
+    <credits>
+      <director>David Wellington</director>
+      <actor>Meredith MacNeill</actor>
+      <actor>Adrienne C Moore</actor>
+      <actor>Al Mukadam</actor>
+      <actor>Tara Strong</actor>
+      <actor>Karen Robinson</actor>
+      <actor>Dean McDermott</actor>
+      <writer>Tassie Cameron</writer>
+      <composer>John Rowley</composer>
+    </credits>
+    <date>2021</date>
+    <category lang="fr">Series</category>
+    <category lang="fr">Serie Policiere</category>
+    <icon src="https://thumb.canalplus.pro/http/unsafe/400x300/img-hapi.canalplus.pro:80/ServiceImage/ImageID/113563907" />
+    <episode-num system="onscreen">S1 E7</episode-num>
+    <video>
+      <quality>HD</quality>
+    </video>
+    <star-rating system="CSA">
+      <value>0</value>
+    </star-rating>
+  </programme>
+  <programme start="20250415162900 +0000" stop="20250415171400 +0000" channel="PolarPlus">
+    <title lang="fr">Pretty Hard Cases</title>
+    <sub-title lang="fr">Fèves à la gelée</sub-title>
+    <desc lang="fr">Sam et Kelly sont prêtes à passer un accord avec Tiggy, placée en garde à vue, afin de faire tomber le gros poisson, Bill Misiano. Mais leur ambitieuse mission d'infiltration se complique lorsqu'elles découvrent que l'avocat de Tiggy connait très bien Sam.</desc>
+    <credits>
+      <director>David Wellington</director>
+      <actor>Meredith MacNeill</actor>
+      <actor>Adrienne C Moore</actor>
+      <actor>Al Mukadam</actor>
+      <actor>Tara Strong</actor>
+      <actor>Karen Robinson</actor>
+      <actor>Dean McDermott</actor>
+      <writer>Tassie Cameron</writer>
+      <composer>John Rowley</composer>
+    </credits>
+    <date>2021</date>
+    <category lang="fr">Series</category>
+    <category lang="fr">Serie Policiere</category>
+    <icon src="https://thumb.canalplus.pro/http/unsafe/400x300/img-hapi.canalplus.pro:80/ServiceImage/ImageID/113563907" />
+    <episode-num system="onscreen">S1 E10</episode-num>
+    <video>
+      <quality>HD</quality>
+    </video>
+    <star-rating system="CSA">
+      <value>0</value>
+    </star-rating>
+  </programme>
+  <programme start="20250415171400 +0000" stop="20250415180100 +0000" channel="PolarPlus">
+    <title lang="fr">Pretty Hard Cases</title>
+    <sub-title lang="fr">Faux-semblants</sub-title>
+    <desc lang="fr">Sam et Kelly enquêtent sur l'origine d'une arme imprimée en 3D qui a été utilisée pour tirer sur un agent de police. En dernier recours, elles sont obligées de faire équipe avec l'ancien petit ami de Kelly, Len Grierson, pour approcher leur suspect principal...</desc>
+    <credits>
+      <director>Madison Thomas</director>
+      <actor>Meredith MacNeill</actor>
+      <actor>Adrienne C Moore</actor>
+      <actor>Al Mukadam</actor>
+      <actor>Daren A Herbert</actor>
+      <actor>Ben Bass</actor>
+      <actor>Sonja Smits</actor>
+      <writer>Tassie Cameron</writer>
+      <composer>John Rowley</composer>
+    </credits>
+    <date>2022</date>
+    <category lang="fr">Series</category>
+    <category lang="fr">Serie Policiere</category>
+    <icon src="https://thumb.canalplus.pro/http/unsafe/400x300/img-hapi.canalplus.pro:80/ServiceImage/ImageID/113481428" />
+    <episode-num system="onscreen">S2 E2</episode-num>
+    <video>
+      <quality>HD</quality>
+    </video>
+    <star-rating system="CSA">
+      <value>0</value>
+    </star-rating>
+  </programme>
+  <programme start="20250415180100 +0000" stop="20250415185500 +0000" channel="PolarPlus">
+    <title lang="fr">Pretty Hard Cases</title>
+    <sub-title lang="fr">Joyeux anniversaire</sub-title>
+    <desc lang="fr">Contre toute attente, Nazeer gagne de plus en plus de terrain avec les Coyotes, ce qui lui vaut d'être invité en bonne et due forme à la fête d'anniversaire d'Adeline. Mais lorsqu'il se retrouve en difficulté, c'est à Sam et Kelly que revient la tâche de le tirer d'affaire avant que la situation ne devienne critique !...</desc>
+    <credits>
+      <director>Madison Thomas</director>
+      <actor>Meredith MacNeill</actor>
+      <actor>Adrienne C Moore</actor>
+      <actor>Al Mukadam</actor>
+      <actor>Daren A Herbert</actor>
+      <actor>Ben Bass</actor>
+      <actor>Sonja Smits</actor>
+      <writer>Tassie Cameron</writer>
+      <composer>John Rowley</composer>
+    </credits>
+    <date>2022</date>
+    <category lang="fr">Series</category>
+    <category lang="fr">Serie Policiere</category>
+    <icon src="https://thumb.canalplus.pro/http/unsafe/400x300/img-hapi.canalplus.pro:80/ServiceImage/ImageID/113481428" />
+    <episode-num system="onscreen">S2 E7</episode-num>
+    <video>
+      <quality>HD</quality>
+    </video>
+    <star-rating system="CSA">
+      <value>0</value>
+    </star-rating>
+  </programme>
+  <programme start="20250415185500 +0000" stop="20250415202900 +0000" channel="PolarPlus">
+    <title lang="fr">Le crime lui va si bien</title>
+    <sub-title lang="fr">Esprit es-tu là ?</sub-title>
+    <desc lang="fr">Gaby Molina et Céline Richer sont appelées de bon matin quand le corps d'un homme est découvert dans une vieille maison récemment mise en vente. Le défunt est mort d'un arrêt cardiaque provoqué par un accès de terreur intense. La maison est réputée hantée : aurait-il été victime d'un fantôme ?...</desc>
+    <credits>
+      <director>Stéphane Kappes</director>
+      <actor>Hélène Seuzaret</actor>
+      <actor>Bruno Lochet</actor>
+      <actor>Julien Ratel</actor>
+      <actor>Laurent Manzoni</actor>
+      <actor>Claudia Tagbo</actor>
+      <actor>Stéphane Freiss</actor>
+      <writer>Olga Vincent</writer>
+      <composer>Xavier Berthelot</composer>
+    </credits>
+    <date>2021</date>
+    <category lang="fr">Series</category>
+    <category lang="fr">Serie Suspense</category>
+    <icon src="https://thumb.canalplus.pro/http/unsafe/400x300/img-hapi.canalplus.pro:80/ServiceImage/ImageID/119044830" />
+    <episode-num system="onscreen">S1 E3</episode-num>
+    <video>
+      <quality>HD</quality>
+    </video>
+    <star-rating system="CSA">
+      <value>0</value>
+    </star-rating>
+  </programme>
+  <programme start="20250415202900 +0000" stop="20250415220400 +0000" channel="PolarPlus">
+    <title lang="fr">Disparition inquiétante</title>
+    <sub-title lang="fr">Instincts maternels</sub-title>
+    <desc lang="fr">Alors qu'elle s'apprête à quitter Strasbourg pour Bordeaux, Esther Lewansky est bouleversée par la disparition de Julia, une jeune fille de 17 ans qui lui a laissé un texto pour l'informer qu'elle avait laissé son bébé de 4 mois seul dans son studio. Elle ne peut pas s'empêcher de se mêler de l'enquête...</desc>
+    <credits>
+      <director>Arnauld Mercadier</director>
+      <actor>Pierre Rochefort</actor>
+      <actor>Sara Forestier</actor>
+      <actor>Bruno Dreyfurst</actor>
+      <actor>Selma Kouchy</actor>
+      <actor>Nicolas Giraud</actor>
+      <actor>Arthur Huster</actor>
+      <writer>Johanne Rigoulot</writer>
+      <composer>La Grande Sophie</composer>
+    </credits>
+    <date>2021</date>
+    <category lang="fr">Series</category>
+    <category lang="fr">Serie Policiere</category>
+    <icon src="https://thumb.canalplus.pro/http/unsafe/400x300/img-hapi.canalplus.pro:80/ServiceImage/ImageID/114326937" />
+    <episode-num system="onscreen">S1 E2</episode-num>
+    <video>
+      <quality>HD</quality>
+    </video>
+    <star-rating system="CSA">
+      <value>0</value>
+    </star-rating>
+  </programme>
+  <programme start="20250415220400 +0000" stop="20250415233500 +0000" channel="PolarPlus">
+    <title lang="fr">Neige ⭐⭐⭐</title>
+    <desc lang="fr">Les Alpes, au coeur de l'hiver. Plusieurs notables de la région sont retrouvés assassinés chez eux. Le capitaine Delhaye est chargé du dossier. Afin de faire avancer l'enquête, il décide de demander son aide à Juliette Hémon, jeune femme incarcérée des années plus tôt pour une affaire étrangement similaire.</desc>
+    <credits>
+      <director>Laurent Tuel</director>
+      <actor>Frédéric Diefenthal</actor>
+      <actor>Murielle Huet des Aunay</actor>
+      <actor>Louis Bernard</actor>
+      <actor>Etienne Diallo</actor>
+      <actor>Camille Durand</actor>
+      <actor>Marie Bouvet</actor>
+      <writer>Charlotte Canot</writer>
+      <composer>Philippe Deshaies</composer>
+    </credits>
+    <date>2022</date>
+    <category lang="fr">Telefilms</category>
+    <category lang="fr">Telefilm Policier</category>
+    <icon src="https://thumb.canalplus.pro/http/unsafe/400x300/img-hapi.canalplus.pro:80/ServiceImage/ImageID/117856435" />
+    <video>
+      <quality>HD</quality>
+    </video>
+    <star-rating system="CSA">
+      <value>3</value>
+    </star-rating>
+  </programme>
+  <programme start="20250415233500 +0000" stop="20250416010300 +0000" channel="PolarPlus">
+    <title lang="fr">Navarro</title>
+    <sub-title lang="fr">Coupable, je présume ?</sub-title>
+    <desc lang="fr">Navarro dîne tranquillement avec Yolande, sa fille, lorsque quelqu'un frappe à sa porte. Sa voisine, une infirmière, lui apprend qu'elle vient de découvrir le cadavre d'une vieille dame au quinzième étage de la tour. Un jeune drogué est inculpé par le juge d'instruction, mais Navarro le croit innocent...</desc>
+    <credits>
+      <director>Patrick Jamain</director>
+      <actor>Roger Hanin</actor>
+      <actor>Christian Rauth</actor>
+      <actor>Daniel Rialet</actor>
+      <actor>Sam Karmann</actor>
+      <actor>Jacques Martial</actor>
+      <actor>Maurice Vaudaux</actor>
+      <writer>Tito Topin</writer>
+      <composer>Serge Perathoner</composer>
+    </credits>
+    <date>1993</date>
+    <category lang="fr">Series</category>
+    <category lang="fr">Serie Policiere</category>
+    <icon src="https://thumb.canalplus.pro/http/unsafe/400x300/img-hapi.canalplus.pro:80/ServiceImage/ImageID/92429487" />
+    <episode-num system="onscreen">S5 E5</episode-num>
+    <video>
+      <quality>HD</quality>
+    </video>
+    <star-rating system="CSA">
+      <value>0</value>
+    </star-rating>
+  </programme>
+  <programme start="20250416010300 +0000" stop="20250416023300 +0000" channel="PolarPlus">
+    <title lang="fr">Navarro</title>
+    <sub-title lang="fr">Froid devant !</sub-title>
+    <desc lang="fr">Alors qu'une vague de froid s'abat sur Paris, le commissaire Navarro reçoit la visite d'un clerc de notaire. C'est ainsi qu'il apprend qu'il hérite d'un studio situé à Barbès. L'appartement est occupé par Sally, qui gagne sa vie en se prostituant. Celle-ci est bientôt retrouvée assassinée chez elle...</desc>
+    <credits>
+      <director>Patrick Jamain</director>
+      <actor>Roger Hanin</actor>
+      <actor>Jacques Martial</actor>
+      <actor>Christian Rauth</actor>
+      <actor>Daniel Rialet</actor>
+      <actor>Maurice Vaudaux</actor>
+      <actor>Catherine Allégret</actor>
+      <writer>Tito Topin</writer>
+      <composer>Serge Perathoner</composer>
+    </credits>
+    <date>1994</date>
+    <category lang="fr">Series</category>
+    <category lang="fr">Serie Policiere</category>
+    <icon src="https://thumb.canalplus.pro/http/unsafe/400x300/img-hapi.canalplus.pro:80/ServiceImage/ImageID/92429535" />
+    <episode-num system="onscreen">S6 E5</episode-num>
     <video>
       <quality>HD</quality>
     </video>
@@ -13119,7 +13542,7 @@
     <category lang="fr">Série TV</category>
     <category lang="fr">Série policière</category>
     <icon src="https://www.programme-tv.net/imgre/fit/https.3A.2F.2Fs2.2Edmcdn.2Enet.2Fv.2FXb88W1dRiMoDiDUnJ/640x360/crop-from/top/quality/80/candice-renoir-28-decembre.jpg" />
-    <episode-num system="onscreen">Saison 4 Episode 10</episode-num>
+    <episode-num system="onscreen">Saison 4 Episode 9</episode-num>
     <previously-shown />
   </programme>
   <programme start="20250415011500 +0200" stop="20250415021500 +0200" channel="13Rue">
@@ -13129,7 +13552,7 @@
     <category lang="fr">Série TV</category>
     <category lang="fr">Série policière</category>
     <icon src="https://www.programme-tv.net/imgre/fit/https.3A.2F.2Fs2.2Edmcdn.2Enet.2Fv.2FXb88W1dRiMoDiDUnJ/640x360/crop-from/top/quality/80/candice-renoir-28-decembre.jpg" />
-    <episode-num system="onscreen">Saison 4 Episode 10</episode-num>
+    <episode-num system="onscreen">Saison 4 Episode 9</episode-num>
     <previously-shown />
   </programme>
   <programme start="20250415021500 +0200" stop="20250415031000 +0200" channel="13Rue">
@@ -13139,7 +13562,7 @@
     <category lang="fr">Série TV</category>
     <category lang="fr">Série policière</category>
     <icon src="https://www.programme-tv.net/imgre/fit/https.3A.2F.2Fs2.2Edmcdn.2Enet.2Fv.2FXb88W1dRiMoDiDUnJ/640x360/crop-from/top/quality/80/candice-renoir-28-decembre.jpg" />
-    <episode-num system="onscreen">Saison 4 Episode 10</episode-num>
+    <episode-num system="onscreen">Saison 4 Episode 9</episode-num>
     <previously-shown />
   </programme>
   <programme start="20250415031000 +0200" stop="20250415041000 +0200" channel="13Rue">
@@ -13149,7 +13572,7 @@
     <category lang="fr">Série TV</category>
     <category lang="fr">Série policière</category>
     <icon src="https://www.programme-tv.net/imgre/fit/https.3A.2F.2Fs2.2Edmcdn.2Enet.2Fv.2FXb88W1dRiMoDiDUnJ/640x360/crop-from/top/quality/80/candice-renoir-28-decembre.jpg" />
-    <episode-num system="onscreen">Saison 4 Episode 10</episode-num>
+    <episode-num system="onscreen">Saison 4 Episode 9</episode-num>
     <previously-shown />
   </programme>
   <programme start="20250415041000 +0200" stop="20250415043000 +0200" channel="13Rue">
@@ -13246,7 +13669,7 @@
     <category lang="fr">Série TV</category>
     <category lang="fr">Série policière</category>
     <icon src="https://www.programme-tv.net/imgre/fit/https.3A.2F.2Fs2.2Edmcdn.2Enet.2Fv.2FTWkxX1X-3Cgp9WaS0/640x360/crop-from/top/quality/80/le-sang-de-la-vigne.jpg" />
-    <episode-num system="onscreen">Saison 2 Episode 1</episode-num>
+    <episode-num system="onscreen">Saison 2 Episode 2</episode-num>
     <previously-shown />
   </programme>
   <programme start="20250415091000 +0200" stop="20250415101000 +0200" channel="13Rue">
@@ -13256,7 +13679,7 @@
     <category lang="fr">Série TV</category>
     <category lang="fr">Série policière</category>
     <icon src="https://www.programme-tv.net/imgre/fit/https.3A.2F.2Fs2.2Edmcdn.2Enet.2Fv.2FXb88W1dRiMoDiDUnJ/640x360/crop-from/top/quality/80/candice-renoir-28-decembre.jpg" />
-    <episode-num system="onscreen">Saison 4 Episode 10</episode-num>
+    <episode-num system="onscreen">Saison 4 Episode 9</episode-num>
     <previously-shown />
   </programme>
   <programme start="20250415101000 +0200" stop="20250415105500 +0200" channel="13Rue">
@@ -13266,7 +13689,7 @@
     <category lang="fr">Série TV</category>
     <category lang="fr">Série de suspense</category>
     <icon src="https://www.programme-tv.net/imgre/fit/http.3A.2F.2Fprmd.2Etmsimg.2Ecom.2Fassets.2Fp8808509_i_h9_ab.2Ejpg/630x355/quality/80/unforgettable.jpg" />
-    <episode-num system="onscreen">Saison 1 Episode 13</episode-num>
+    <episode-num system="onscreen">Saison 1 Episode 14</episode-num>
     <previously-shown />
   </programme>
   <programme start="20250415105500 +0200" stop="20250415114500 +0200" channel="13Rue">
@@ -13275,7 +13698,7 @@
     <category lang="fr">Série TV</category>
     <category lang="fr">Série policière</category>
     <icon src="https://www.programme-tv.net/imgre/fit/~2~collection~4a1864d289f6c633.jpeg/630x355/quality/80/new-york-crime-organise.jpeg" />
-    <episode-num system="onscreen">Saison 3 Episode 10</episode-num>
+    <episode-num system="onscreen">Saison 3 Episode 11</episode-num>
     <previously-shown />
   </programme>
   <programme start="20250415114500 +0200" stop="20250415123000 +0200" channel="13Rue">
@@ -13285,7 +13708,7 @@
     <category lang="fr">Série TV</category>
     <category lang="fr">Série dramatique</category>
     <icon src="https://www.programme-tv.net/imgre/fit/https.3A.2F.2Fs1.2Edmcdn.2Enet.2Fv.2FYB4Ry1dy54VJ1oPTo/640x360/crop-from/top/quality/80/chicago-fire.jpg" />
-    <episode-num system="onscreen">Saison 4 Episode 1</episode-num>
+    <episode-num system="onscreen">Saison 4 Episode 2</episode-num>
     <previously-shown />
   </programme>
   <programme start="20250415123000 +0200" stop="20250415132500 +0200" channel="13Rue">
@@ -13295,7 +13718,7 @@
     <category lang="fr">Série TV</category>
     <category lang="fr">Série dramatique</category>
     <icon src="https://www.programme-tv.net/imgre/fit/https.3A.2F.2Fs1.2Edmcdn.2Enet.2Fv.2FYB4Ry1dy54VJ1oPTo/640x360/crop-from/top/quality/80/chicago-fire.jpg" />
-    <episode-num system="onscreen">Saison 4 Episode 1</episode-num>
+    <episode-num system="onscreen">Saison 4 Episode 2</episode-num>
     <previously-shown />
   </programme>
   <programme start="20250415132500 +0200" stop="20250415151000 +0200" channel="13Rue">
@@ -13305,7 +13728,7 @@
     <category lang="fr">Série TV</category>
     <category lang="fr">Série policière</category>
     <icon src="https://www.programme-tv.net/imgre/fit/https.3A.2F.2Fs2.2Edmcdn.2Enet.2Fv.2FTWkxX1X-3Cgp9WaS0/640x360/crop-from/top/quality/80/le-sang-de-la-vigne.jpg" />
-    <episode-num system="onscreen">Saison 2 Episode 1</episode-num>
+    <episode-num system="onscreen">Saison 2 Episode 2</episode-num>
     <previously-shown />
   </programme>
   <programme start="20250415151000 +0200" stop="20250415161000 +0200" channel="13Rue">
@@ -13325,7 +13748,7 @@
     <category lang="fr">Série TV</category>
     <category lang="fr">Série de suspense</category>
     <icon src="https://www.programme-tv.net/imgre/fit/http.3A.2F.2Fprmd.2Etmsimg.2Ecom.2Fassets.2Fp8808509_i_h9_ab.2Ejpg/630x355/quality/80/unforgettable.jpg" />
-    <episode-num system="onscreen">Saison 1 Episode 13</episode-num>
+    <episode-num system="onscreen">Saison 1 Episode 14</episode-num>
     <previously-shown />
   </programme>
   <programme start="20250415165500 +0200" stop="20250415174500 +0200" channel="13Rue">
@@ -13334,7 +13757,7 @@
     <category lang="fr">Série TV</category>
     <category lang="fr">Série policière</category>
     <icon src="https://www.programme-tv.net/imgre/fit/~2~collection~4a1864d289f6c633.jpeg/630x355/quality/80/new-york-crime-organise.jpeg" />
-    <episode-num system="onscreen">Saison 3 Episode 10</episode-num>
+    <episode-num system="onscreen">Saison 3 Episode 11</episode-num>
     <previously-shown />
   </programme>
   <programme start="20250415174500 +0200" stop="20250415183000 +0200" channel="13Rue">
@@ -13343,7 +13766,7 @@
     <category lang="fr">Série TV</category>
     <category lang="fr">Série policière</category>
     <icon src="https://www.programme-tv.net/imgre/fit/~2~collection~4a1864d289f6c633.jpeg/630x355/quality/80/new-york-crime-organise.jpeg" />
-    <episode-num system="onscreen">Saison 3 Episode 10</episode-num>
+    <episode-num system="onscreen">Saison 3 Episode 11</episode-num>
     <previously-shown />
   </programme>
   <programme start="20250415183000 +0200" stop="20250415192000 +0200" channel="13Rue">
@@ -13353,7 +13776,7 @@
     <category lang="fr">Série TV</category>
     <category lang="fr">Série dramatique</category>
     <icon src="https://www.programme-tv.net/imgre/fit/https.3A.2F.2Fs1.2Edmcdn.2Enet.2Fv.2FYB4Ry1dy54VJ1oPTo/640x360/crop-from/top/quality/80/chicago-fire.jpg" />
-    <episode-num system="onscreen">Saison 4 Episode 1</episode-num>
+    <episode-num system="onscreen">Saison 4 Episode 2</episode-num>
     <previously-shown />
   </programme>
   <programme start="20250415192000 +0200" stop="20250415201000 +0200" channel="13Rue">
@@ -13363,7 +13786,7 @@
     <category lang="fr">Série TV</category>
     <category lang="fr">Série dramatique</category>
     <icon src="https://www.programme-tv.net/imgre/fit/https.3A.2F.2Fs1.2Edmcdn.2Enet.2Fv.2FYB4Ry1dy54VJ1oPTo/640x360/crop-from/top/quality/80/chicago-fire.jpg" />
-    <episode-num system="onscreen">Saison 4 Episode 1</episode-num>
+    <episode-num system="onscreen">Saison 4 Episode 2</episode-num>
     <previously-shown />
   </programme>
   <programme start="20250415201000 +0200" stop="20250415210000 +0200" channel="13Rue">
@@ -13373,7 +13796,7 @@
     <category lang="fr">Série TV</category>
     <category lang="fr">Série de suspense</category>
     <icon src="https://www.programme-tv.net/imgre/fit/http.3A.2F.2Fprmd.2Etmsimg.2Ecom.2Fassets.2Fp8808509_i_h9_ab.2Ejpg/630x355/quality/80/unforgettable.jpg" />
-    <episode-num system="onscreen">Saison 1 Episode 13</episode-num>
+    <episode-num system="onscreen">Saison 1 Episode 14</episode-num>
     <previously-shown />
   </programme>
   <programme start="20250415210000 +0200" stop="20250415215000 +0200" channel="13Rue">
@@ -13417,7 +13840,7 @@
     <category lang="fr">Série TV</category>
     <category lang="fr">Série de science-fiction</category>
     <icon src="https://www.programme-tv.net/imgre/fit/~2~collection~23d443bc183fa32c.jpeg/630x355/quality/80/code-quantum.jpeg" />
-    <episode-num system="onscreen">Saison 3 Episode 11</episode-num>
+    <episode-num system="onscreen">Saison 3 Episode 7</episode-num>
     <previously-shown />
   </programme>
   <programme start="20250415013500 +0200" stop="20250415023000 +0200" channel="Syfy">
@@ -13426,7 +13849,7 @@
     <category lang="fr">Série TV</category>
     <category lang="fr">Série de science-fiction</category>
     <icon src="https://www.programme-tv.net/imgre/fit/~2~collection~23d443bc183fa32c.jpeg/630x355/quality/80/code-quantum.jpeg" />
-    <episode-num system="onscreen">Saison 3 Episode 11</episode-num>
+    <episode-num system="onscreen">Saison 3 Episode 7</episode-num>
     <previously-shown />
   </programme>
   <programme start="20250415023000 +0200" stop="20250415032500 +0200" channel="Syfy">
@@ -13435,7 +13858,7 @@
     <category lang="fr">Série TV</category>
     <category lang="fr">Série de science-fiction</category>
     <icon src="https://www.programme-tv.net/imgre/fit/~2~collection~23d443bc183fa32c.jpeg/630x355/quality/80/code-quantum.jpeg" />
-    <episode-num system="onscreen">Saison 3 Episode 11</episode-num>
+    <episode-num system="onscreen">Saison 3 Episode 7</episode-num>
     <previously-shown />
   </programme>
   <programme start="20250415032500 +0200" stop="20250415041500 +0200" channel="Syfy">
@@ -13444,7 +13867,7 @@
     <category lang="fr">Série TV</category>
     <category lang="fr">Série de science-fiction</category>
     <icon src="https://www.programme-tv.net/imgre/fit/~2~collection~23d443bc183fa32c.jpeg/630x355/quality/80/code-quantum.jpeg" />
-    <episode-num system="onscreen">Saison 3 Episode 11</episode-num>
+    <episode-num system="onscreen">Saison 3 Episode 7</episode-num>
     <previously-shown />
   </programme>
   <programme start="20250415041500 +0200" stop="20250415042500 +0200" channel="Syfy">
@@ -13614,7 +14037,7 @@
     <category lang="fr">Série TV</category>
     <category lang="fr">Série de science-fiction</category>
     <icon src="https://www.programme-tv.net/imgre/fit/~2~collection~23d443bc183fa32c.jpeg/630x355/quality/80/code-quantum.jpeg" />
-    <episode-num system="onscreen">Saison 3 Episode 11</episode-num>
+    <episode-num system="onscreen">Saison 3 Episode 7</episode-num>
     <previously-shown />
   </programme>
   <programme start="20250415080000 +0200" stop="20250415085000 +0200" channel="Syfy">
@@ -13623,7 +14046,7 @@
     <category lang="fr">Série TV</category>
     <category lang="fr">Série de science-fiction</category>
     <icon src="https://www.programme-tv.net/imgre/fit/~2~collection~23d443bc183fa32c.jpeg/630x355/quality/80/code-quantum.jpeg" />
-    <episode-num system="onscreen">Saison 3 Episode 11</episode-num>
+    <episode-num system="onscreen">Saison 3 Episode 7</episode-num>
     <previously-shown />
   </programme>
   <programme start="20250415085000 +0200" stop="20250415101000 +0200" channel="Syfy">
@@ -13632,7 +14055,7 @@
     <category lang="fr">Série TV</category>
     <category lang="fr">Série de science-fiction</category>
     <icon src="https://www.programme-tv.net/imgre/fit/~2~collection~9e374538fd3f7f33.jpeg/630x355/quality/80/el-ministerio-del-tiempo.jpeg" />
-    <episode-num system="onscreen">Saison 3 Episode 9</episode-num>
+    <episode-num system="onscreen">Saison 3 Episode 10</episode-num>
     <previously-shown />
   </programme>
   <programme start="20250415101000 +0200" stop="20250415110000 +0200" channel="Syfy">
@@ -13641,7 +14064,7 @@
     <category lang="fr">Série TV</category>
     <category lang="fr">Série fantastique</category>
     <icon src="https://www.programme-tv.net/imgre/fit/https.3A.2F.2Fs2.2Edmcdn.2Enet.2Fv.2FTr35y1YLfz3p4_bvQ/640x360/crop-from/top/quality/80/les-mysteres-de-haven-saison-2.jpg" />
-    <episode-num system="onscreen">Saison 4 Episode 2</episode-num>
+    <episode-num system="onscreen">Saison 4 Episode 4</episode-num>
     <previously-shown />
   </programme>
   <programme start="20250415110000 +0200" stop="20250415114500 +0200" channel="Syfy">
@@ -13650,7 +14073,7 @@
     <category lang="fr">Série TV</category>
     <category lang="fr">Série fantastique</category>
     <icon src="https://www.programme-tv.net/imgre/fit/https.3A.2F.2Fs2.2Edmcdn.2Enet.2Fv.2FTr35y1YLfz3p4_bvQ/640x360/crop-from/top/quality/80/les-mysteres-de-haven-saison-2.jpg" />
-    <episode-num system="onscreen">Saison 4 Episode 2</episode-num>
+    <episode-num system="onscreen">Saison 4 Episode 4</episode-num>
     <previously-shown />
   </programme>
   <programme start="20250415114500 +0200" stop="20250415123500 +0200" channel="Syfy">
@@ -13659,7 +14082,7 @@
     <category lang="fr">Série TV</category>
     <category lang="fr">Série fantastique</category>
     <icon src="https://www.programme-tv.net/imgre/fit/https.3A.2F.2Fs1.2Edmcdn.2Enet.2Fv.2FTq1Sa1YJnlepEBNf0/640x360/crop-from/top/quality/80/lost-girl.jpg" />
-    <episode-num system="onscreen">Saison 2 Episode 1</episode-num>
+    <episode-num system="onscreen">Saison 2 Episode 2</episode-num>
     <previously-shown />
   </programme>
   <programme start="20250415123500 +0200" stop="20250415133500 +0200" channel="Syfy">
@@ -13668,7 +14091,7 @@
     <category lang="fr">Série TV</category>
     <category lang="fr">Série fantastique</category>
     <icon src="https://www.programme-tv.net/imgre/fit/https.3A.2F.2Fs1.2Edmcdn.2Enet.2Fv.2FTq1Sa1YJnlepEBNf0/640x360/crop-from/top/quality/80/lost-girl.jpg" />
-    <episode-num system="onscreen">Saison 2 Episode 1</episode-num>
+    <episode-num system="onscreen">Saison 2 Episode 2</episode-num>
     <previously-shown />
   </programme>
   <programme start="20250415133500 +0200" stop="20250415145500 +0200" channel="Syfy">
@@ -13677,7 +14100,7 @@
     <category lang="fr">Série TV</category>
     <category lang="fr">Série de science-fiction</category>
     <icon src="https://www.programme-tv.net/imgre/fit/~2~collection~9e374538fd3f7f33.jpeg/630x355/quality/80/el-ministerio-del-tiempo.jpeg" />
-    <episode-num system="onscreen">Saison 3 Episode 9</episode-num>
+    <episode-num system="onscreen">Saison 3 Episode 10</episode-num>
     <previously-shown />
   </programme>
   <programme start="20250415145500 +0200" stop="20250415155500 +0200" channel="Syfy">
@@ -13686,7 +14109,7 @@
     <category lang="fr">Série TV</category>
     <category lang="fr">Série de science-fiction</category>
     <icon src="https://www.programme-tv.net/imgre/fit/~2~collection~23d443bc183fa32c.jpeg/630x355/quality/80/code-quantum.jpeg" />
-    <episode-num system="onscreen">Saison 3 Episode 11</episode-num>
+    <episode-num system="onscreen">Saison 3 Episode 7</episode-num>
     <previously-shown />
   </programme>
   <programme start="20250415155500 +0200" stop="20250415164500 +0200" channel="Syfy">
@@ -13695,7 +14118,7 @@
     <category lang="fr">Série TV</category>
     <category lang="fr">Série de science-fiction</category>
     <icon src="https://www.programme-tv.net/imgre/fit/~2~collection~23d443bc183fa32c.jpeg/630x355/quality/80/code-quantum.jpeg" />
-    <episode-num system="onscreen">Saison 3 Episode 11</episode-num>
+    <episode-num system="onscreen">Saison 3 Episode 7</episode-num>
   </programme>
   <programme start="20250415164500 +0200" stop="20250415174000 +0200" channel="Syfy">
     <title lang="fr">Code Quantum</title>
@@ -13703,7 +14126,7 @@
     <category lang="fr">Série TV</category>
     <category lang="fr">Série de science-fiction</category>
     <icon src="https://www.programme-tv.net/imgre/fit/~2~collection~23d443bc183fa32c.jpeg/630x355/quality/80/code-quantum.jpeg" />
-    <episode-num system="onscreen">Saison 3 Episode 11</episode-num>
+    <episode-num system="onscreen">Saison 3 Episode 7</episode-num>
     <previously-shown />
   </programme>
   <programme start="20250415174000 +0200" stop="20250415182500 +0200" channel="Syfy">
@@ -13712,7 +14135,7 @@
     <category lang="fr">Série TV</category>
     <category lang="fr">Série fantastique</category>
     <icon src="https://www.programme-tv.net/imgre/fit/https.3A.2F.2Fs2.2Edmcdn.2Enet.2Fv.2FTr35y1YLfz3p4_bvQ/640x360/crop-from/top/quality/80/les-mysteres-de-haven-saison-2.jpg" />
-    <episode-num system="onscreen">Saison 4 Episode 2</episode-num>
+    <episode-num system="onscreen">Saison 4 Episode 4</episode-num>
     <previously-shown />
   </programme>
   <programme start="20250415182500 +0200" stop="20250415191500 +0200" channel="Syfy">
@@ -13721,7 +14144,7 @@
     <category lang="fr">Série TV</category>
     <category lang="fr">Série fantastique</category>
     <icon src="https://www.programme-tv.net/imgre/fit/https.3A.2F.2Fs2.2Edmcdn.2Enet.2Fv.2FTr35y1YLfz3p4_bvQ/640x360/crop-from/top/quality/80/les-mysteres-de-haven-saison-2.jpg" />
-    <episode-num system="onscreen">Saison 4 Episode 2</episode-num>
+    <episode-num system="onscreen">Saison 4 Episode 4</episode-num>
     <previously-shown />
   </programme>
   <programme start="20250415191500 +0200" stop="20250415200500 +0200" channel="Syfy">
@@ -13730,7 +14153,7 @@
     <category lang="fr">Série TV</category>
     <category lang="fr">Série fantastique</category>
     <icon src="https://www.programme-tv.net/imgre/fit/https.3A.2F.2Fs1.2Edmcdn.2Enet.2Fv.2FTq1Sa1YJnlepEBNf0/640x360/crop-from/top/quality/80/lost-girl.jpg" />
-    <episode-num system="onscreen">Saison 2 Episode 1</episode-num>
+    <episode-num system="onscreen">Saison 2 Episode 2</episode-num>
     <previously-shown />
   </programme>
   <programme start="20250415200500 +0200" stop="20250415210000 +0200" channel="Syfy">
@@ -13739,7 +14162,7 @@
     <category lang="fr">Série TV</category>
     <category lang="fr">Série fantastique</category>
     <icon src="https://www.programme-tv.net/imgre/fit/https.3A.2F.2Fs1.2Edmcdn.2Enet.2Fv.2FTq1Sa1YJnlepEBNf0/640x360/crop-from/top/quality/80/lost-girl.jpg" />
-    <episode-num system="onscreen">Saison 2 Episode 1</episode-num>
+    <episode-num system="onscreen">Saison 2 Episode 2</episode-num>
     <previously-shown />
   </programme>
   <programme start="20250415210000 +0200" stop="20250415215000 +0200" channel="Syfy">
@@ -17246,7 +17669,7 @@
     <category lang="fr">Fantastique</category>
     <icon src="https://thumb.canalplus.pro/http/unsafe/400x300/canalplus-cdn.canal-plus.io/p1/unit/833017/canal-ouah_50001/STD169/6744421-n_dE" />
     <video>
-      <quality>HD</quality>
+      <quality>UHD","HD</quality>
     </video>
     <star-rating system="CSA">
       <value>3</value>
@@ -17271,7 +17694,7 @@
     <category lang="fr">Fantastique</category>
     <icon src="https://thumb.canalplus.pro/http/unsafe/400x300/canalplus-cdn.canal-plus.io/p1/unit/4065879/canal-ouah_50001/STD169/ERTYUIKL1-Atl_" />
     <video>
-      <quality>HD</quality>
+      <quality>UHD","HD</quality>
     </video>
     <star-rating system="CSA">
       <value>3</value>
@@ -18666,7 +19089,7 @@
     <category lang="fr">Comedie</category>
     <icon src="https://thumb.canalplus.pro/http/unsafe/400x300/img-hapi.canalplus.pro:80/ServiceImage/ImageID/113379322" />
     <video>
-      <quality>HD</quality>
+      <quality>UHD","HD</quality>
     </video>
     <star-rating system="CSA">
       <value>3</value>
@@ -18716,7 +19139,7 @@
     <category lang="fr">Comedie</category>
     <icon src="https://thumb.canalplus.pro/http/unsafe/400x300/img-hapi.canalplus.pro:80/ServiceImage/ImageID/81964926" />
     <video>
-      <quality>HD</quality>
+      <quality>UHD","HD</quality>
     </video>
     <star-rating system="CSA">
       <value>3</value>
@@ -19289,7 +19712,7 @@
     <category lang="fr">Guerre</category>
     <icon src="https://thumb.canalplus.pro/http/unsafe/400x300/img-hapi.canalplus.pro:80/ServiceImage/ImageID/100442651" />
     <video>
-      <quality>HD</quality>
+      <quality>SD</quality>
     </video>
     <star-rating system="CSA">
       <value>4</value>
@@ -21674,7 +22097,6 @@
     <category lang="fr">Culture Infos</category>
     <category lang="fr">Sciences et technique</category>
     <icon src="https://www.programme-tv.net/imgre/fit/~2~program~fd2b57b433af13f7.jpeg/630x355/quality/80/mayday-dangers-dans-le-ciel.jpeg" />
-    <episode-num system="onscreen">Episode 7</episode-num>
     <previously-shown />
   </programme>
   <programme start="20250415110000 +0200" stop="20250415115500 +0200" channel="NationalGeographic">
@@ -22204,7 +22626,6 @@
     <category lang="fr">Culture Infos</category>
     <category lang="fr">Magazine de l'environnement</category>
     <icon src="https://www.programme-tv.net/imgre/fit/~2~program~ab342804211ff9ca.jpeg/630x355/quality/80/bougez-vert.jpeg" />
-    <episode-num system="onscreen">Saison 16 Episode 29</episode-num>
     <previously-shown />
   </programme>
   <programme start="20250415061000 +0200" stop="20250415064500 +0200" channel="UshuaiaTV">
@@ -22818,7 +23239,7 @@
   </programme>
   <programme start="20250415040000 +0000" stop="20250415043000 +0000" channel="HistoireTV">
     <title lang="fr">Historiquement show</title>
-    <sub-title lang="fr">Mag. Histoire</sub-title>
+    <sub-title lang="fr">Guerres</sub-title>
     <desc lang="fr">Une émission sur les faits historiques : livres, films, expositions sont décortiqués. Une chronique propose un coup de coeur de la semaine.</desc>
     <credits>
       <presenter>Jean-Christophe Buisson</presenter>
@@ -22924,6 +23345,9 @@
     <category lang="fr">Doc Histoire</category>
     <icon src="https://thumb.canalplus.pro/http/unsafe/400x300/img-hapi.canalplus.pro:80/ServiceImage/ImageID/115411681" />
     <episode-num system="onscreen">S1 E1</episode-num>
+    <video>
+      <quality>HD</quality>
+    </video>
     <star-rating system="CSA">
       <value>0</value>
     </star-rating>
@@ -23933,7 +24357,6 @@
     <category lang="fr">Divertissement</category>
     <category lang="fr">Feuilleton sentimental</category>
     <icon src="https://www.programme-tv.net/imgre/fit/~2~program~d92d310207259e6f.jpeg/630x355/quality/80/amour-gloire-et-beaute.jpeg" />
-    <episode-num system="onscreen">Saison 1 Episode 9453</episode-num>
   </programme>
   <programme start="20250415114500 +0200" stop="20250415121000 +0200" channel="RTS1">
     <title lang="fr">Plus belle la vie, encore plus belle</title>
@@ -24211,7 +24634,6 @@
     <category lang="fr">Culture Infos</category>
     <category lang="fr">Voyage</category>
     <icon src="https://www.programme-tv.net/imgre/fit/~2~program~dad3765edf36a097.jpeg/630x355/quality/80/au-coeur-de-la-suisse.jpeg" />
-    <episode-num system="onscreen">Saison 2 Episode 6</episode-num>
   </programme>
   <programme start="20250415102500 +0200" stop="20250415111500 +0200" channel="RTS2">
     <title lang="fr">RTS Info</title>
@@ -24565,7 +24987,7 @@
     <category lang="fr">Divertissement</category>
     <category lang="fr">Feuilleton sentimental</category>
     <icon src="https://www.programme-tv.net/imgre/fit/https.3A.2F.2Fs2.2Edmcdn.2Enet.2Fv.2FTX7zX1Y07m-B_rUT8/640x360/crop-from/top/quality/80/les-feux-de-l-amour.jpg" />
-    <episode-num system="onscreen">Episode 9199</episode-num>
+    <episode-num system="onscreen">Saison 26 Episode 189</episode-num>
   </programme>
   <programme start="20250415124100 +0200" stop="20250415125300 +0200" channel="LaUne">
     <title lang="fr">Quel temps pour la planète</title>
@@ -24858,7 +25280,6 @@
     <category lang="fr">Culture Infos</category>
     <category lang="fr">Animalier</category>
     <icon src="https://www.programme-tv.net/imgre/fit/~2~program~178e2ade2e2d3cf5.jpeg/630x355/quality/80/une-saison-au-zoo.jpeg" />
-    <episode-num system="onscreen">Saison 10 Episode 5</episode-num>
   </programme>
   <programme start="20250415093300 +0200" stop="20250415100200 +0200" channel="LaTrois">
     <title lang="fr">Une saison au zoo</title>
@@ -24867,7 +25288,6 @@
     <category lang="fr">Culture Infos</category>
     <category lang="fr">Animalier</category>
     <icon src="https://www.programme-tv.net/imgre/fit/~2~program~36b7f48ad65ba979.jpeg/630x355/quality/80/une-saison-au-zoo.jpeg" />
-    <episode-num system="onscreen">Saison 10 Episode 6</episode-num>
   </programme>
   <programme start="20250415100200 +0200" stop="20250415101400 +0200" channel="LaTrois">
     <title lang="fr">Pat' Patrouille</title>
@@ -24876,7 +25296,7 @@
     <category lang="fr">Série TV</category>
     <category lang="fr">Série d'animation</category>
     <icon src="https://www.programme-tv.net/imgre/fit/~2~collection~7bed08bd98e222e2.jpeg/630x355/quality/80/paw-patrol-la-pat-patrouille.jpeg" />
-    <episode-num system="onscreen">Saison 4 Episode 25</episode-num>
+    <episode-num system="onscreen">Saison 4 Episode 8</episode-num>
   </programme>
   <programme start="20250415101400 +0200" stop="20250415103600 +0200" channel="LaTrois">
     <title lang="fr">Pat' Patrouille</title>
@@ -24885,7 +25305,7 @@
     <category lang="fr">Série TV</category>
     <category lang="fr">Série d'animation</category>
     <icon src="https://www.programme-tv.net/imgre/fit/~2~collection~7bed08bd98e222e2.jpeg/630x355/quality/80/paw-patrol-la-pat-patrouille.jpeg" />
-    <episode-num system="onscreen">Saison 4 Episode 25</episode-num>
+    <episode-num system="onscreen">Saison 4 Episode 8</episode-num>
   </programme>
   <programme start="20250415103600 +0200" stop="20250415104700 +0200" channel="LaTrois">
     <title lang="fr">Pat' Patrouille</title>
@@ -24894,7 +25314,7 @@
     <category lang="fr">Série TV</category>
     <category lang="fr">Série d'animation</category>
     <icon src="https://www.programme-tv.net/imgre/fit/~2~collection~7bed08bd98e222e2.jpeg/630x355/quality/80/paw-patrol-la-pat-patrouille.jpeg" />
-    <episode-num system="onscreen">Saison 4 Episode 25</episode-num>
+    <episode-num system="onscreen">Saison 4 Episode 8</episode-num>
   </programme>
   <programme start="20250415104700 +0200" stop="20250415105900 +0200" channel="LaTrois">
     <title lang="fr">Pat' Patrouille</title>
@@ -24903,7 +25323,7 @@
     <category lang="fr">Série TV</category>
     <category lang="fr">Série d'animation</category>
     <icon src="https://www.programme-tv.net/imgre/fit/~2~collection~2027abe865f87594.jpeg/630x355/quality/80/paw-patrol-la-pat-patrouille.jpeg" />
-    <episode-num system="onscreen">Saison 5 Episode 1</episode-num>
+    <episode-num system="onscreen">Saison 5 Episode 21</episode-num>
   </programme>
   <programme start="20250415105900 +0200" stop="20250415111000 +0200" channel="LaTrois">
     <title lang="fr">Billy, le hamster cowboy</title>
@@ -24911,7 +25331,7 @@
     <category lang="fr">Série TV</category>
     <category lang="fr">Série d'animation</category>
     <icon src="https://www.programme-tv.net/imgre/fit/~2~collection~ae25af42a2249d21.jpeg/630x355/quality/80/billy-le-hamster-cowboy.jpeg" />
-    <episode-num system="onscreen">Saison 1 Episode 15</episode-num>
+    <episode-num system="onscreen">Saison 1 Episode 9</episode-num>
   </programme>
   <programme start="20250415111000 +0200" stop="20250415112100 +0200" channel="LaTrois">
     <title lang="fr">Billy, le hamster cowboy</title>
@@ -24919,7 +25339,7 @@
     <category lang="fr">Série TV</category>
     <category lang="fr">Série d'animation</category>
     <icon src="https://www.programme-tv.net/imgre/fit/~2~collection~ae25af42a2249d21.jpeg/630x355/quality/80/billy-le-hamster-cowboy.jpeg" />
-    <episode-num system="onscreen">Saison 1 Episode 15</episode-num>
+    <episode-num system="onscreen">Saison 1 Episode 9</episode-num>
   </programme>
   <programme start="20250415112100 +0200" stop="20250415113200 +0200" channel="LaTrois">
     <title lang="fr">Billy, le hamster cowboy</title>
@@ -24927,7 +25347,7 @@
     <category lang="fr">Série TV</category>
     <category lang="fr">Série d'animation</category>
     <icon src="https://www.programme-tv.net/imgre/fit/~2~collection~ae25af42a2249d21.jpeg/630x355/quality/80/billy-le-hamster-cowboy.jpeg" />
-    <episode-num system="onscreen">Saison 1 Episode 15</episode-num>
+    <episode-num system="onscreen">Saison 1 Episode 9</episode-num>
   </programme>
   <programme start="20250415113200 +0200" stop="20250415114300 +0200" channel="LaTrois">
     <title lang="fr">Billy, le hamster cowboy</title>
@@ -24935,7 +25355,7 @@
     <category lang="fr">Série TV</category>
     <category lang="fr">Série d'animation</category>
     <icon src="https://www.programme-tv.net/imgre/fit/~2~collection~ae25af42a2249d21.jpeg/630x355/quality/80/billy-le-hamster-cowboy.jpeg" />
-    <episode-num system="onscreen">Saison 1 Episode 15</episode-num>
+    <episode-num system="onscreen">Saison 1 Episode 9</episode-num>
   </programme>
   <programme start="20250415114300 +0200" stop="20250415115600 +0200" channel="LaTrois">
     <title lang="fr">Billy, le hamster cowboy</title>
@@ -24943,7 +25363,7 @@
     <category lang="fr">Série TV</category>
     <category lang="fr">Série d'animation</category>
     <icon src="https://www.programme-tv.net/imgre/fit/~2~collection~ae25af42a2249d21.jpeg/630x355/quality/80/billy-le-hamster-cowboy.jpeg" />
-    <episode-num system="onscreen">Saison 1 Episode 15</episode-num>
+    <episode-num system="onscreen">Saison 1 Episode 9</episode-num>
   </programme>
   <programme start="20250415115600 +0200" stop="20250415120300 +0200" channel="LaTrois">
     <title lang="fr">Taffy</title>
@@ -24952,7 +25372,7 @@
     <category lang="fr">Série TV</category>
     <category lang="fr">Série d'animation</category>
     <icon src="https://www.programme-tv.net/imgre/fit/http.3A.2F.2Fprmd.2Etmsimg.2Ecom.2Fassets.2Fp17230698_b_h2_aa.2Ejpg/630x355/quality/80/taffy.jpg" />
-    <episode-num system="onscreen">Saison 1 Episode 4</episode-num>
+    <episode-num system="onscreen">Saison 1 Episode 9</episode-num>
   </programme>
   <programme start="20250415120300 +0200" stop="20250415121000 +0200" channel="LaTrois">
     <title lang="fr">Taffy</title>
@@ -24961,7 +25381,7 @@
     <category lang="fr">Série TV</category>
     <category lang="fr">Série d'animation</category>
     <icon src="https://www.programme-tv.net/imgre/fit/http.3A.2F.2Fprmd.2Etmsimg.2Ecom.2Fassets.2Fp17230698_b_h2_aa.2Ejpg/630x355/quality/80/taffy.jpg" />
-    <episode-num system="onscreen">Saison 1 Episode 4</episode-num>
+    <episode-num system="onscreen">Saison 1 Episode 9</episode-num>
   </programme>
   <programme start="20250415121000 +0200" stop="20250415121700 +0200" channel="LaTrois">
     <title lang="fr">Taffy</title>
@@ -24970,7 +25390,7 @@
     <category lang="fr">Série TV</category>
     <category lang="fr">Série d'animation</category>
     <icon src="https://www.programme-tv.net/imgre/fit/http.3A.2F.2Fprmd.2Etmsimg.2Ecom.2Fassets.2Fp17230698_b_h2_aa.2Ejpg/630x355/quality/80/taffy.jpg" />
-    <episode-num system="onscreen">Saison 1 Episode 4</episode-num>
+    <episode-num system="onscreen">Saison 1 Episode 9</episode-num>
   </programme>
   <programme start="20250415121700 +0200" stop="20250415122400 +0200" channel="LaTrois">
     <title lang="fr">Taffy</title>
@@ -24979,7 +25399,7 @@
     <category lang="fr">Série TV</category>
     <category lang="fr">Série d'animation</category>
     <icon src="https://www.programme-tv.net/imgre/fit/http.3A.2F.2Fprmd.2Etmsimg.2Ecom.2Fassets.2Fp17230698_b_h2_aa.2Ejpg/630x355/quality/80/taffy.jpg" />
-    <episode-num system="onscreen">Saison 1 Episode 4</episode-num>
+    <episode-num system="onscreen">Saison 1 Episode 9</episode-num>
   </programme>
   <programme start="20250415122400 +0200" stop="20250415123100 +0200" channel="LaTrois">
     <title lang="fr">Taffy</title>
@@ -24988,7 +25408,7 @@
     <category lang="fr">Série TV</category>
     <category lang="fr">Série d'animation</category>
     <icon src="https://www.programme-tv.net/imgre/fit/http.3A.2F.2Fprmd.2Etmsimg.2Ecom.2Fassets.2Fp17230698_b_h2_aa.2Ejpg/630x355/quality/80/taffy.jpg" />
-    <episode-num system="onscreen">Saison 1 Episode 4</episode-num>
+    <episode-num system="onscreen">Saison 1 Episode 9</episode-num>
   </programme>
   <programme start="20250415123100 +0200" stop="20250415123800 +0200" channel="LaTrois">
     <title lang="fr">Taffy</title>
@@ -24997,7 +25417,7 @@
     <category lang="fr">Série TV</category>
     <category lang="fr">Série d'animation</category>
     <icon src="https://www.programme-tv.net/imgre/fit/http.3A.2F.2Fprmd.2Etmsimg.2Ecom.2Fassets.2Fp17230698_b_h2_aa.2Ejpg/630x355/quality/80/taffy.jpg" />
-    <episode-num system="onscreen">Saison 1 Episode 4</episode-num>
+    <episode-num system="onscreen">Saison 1 Episode 9</episode-num>
   </programme>
   <programme start="20250415123800 +0200" stop="20250415124500 +0200" channel="LaTrois">
     <title lang="fr">Taffy</title>
@@ -25006,7 +25426,7 @@
     <category lang="fr">Série TV</category>
     <category lang="fr">Série d'animation</category>
     <icon src="https://www.programme-tv.net/imgre/fit/http.3A.2F.2Fprmd.2Etmsimg.2Ecom.2Fassets.2Fp17230698_b_h2_aa.2Ejpg/630x355/quality/80/taffy.jpg" />
-    <episode-num system="onscreen">Saison 1 Episode 4</episode-num>
+    <episode-num system="onscreen">Saison 1 Episode 9</episode-num>
   </programme>
   <programme start="20250415124500 +0200" stop="20250415125200 +0200" channel="LaTrois">
     <title lang="fr">Taffy</title>
@@ -25015,7 +25435,7 @@
     <category lang="fr">Série TV</category>
     <category lang="fr">Série d'animation</category>
     <icon src="https://www.programme-tv.net/imgre/fit/http.3A.2F.2Fprmd.2Etmsimg.2Ecom.2Fassets.2Fp17230698_b_h2_aa.2Ejpg/630x355/quality/80/taffy.jpg" />
-    <episode-num system="onscreen">Saison 1 Episode 4</episode-num>
+    <episode-num system="onscreen">Saison 1 Episode 9</episode-num>
   </programme>
   <programme start="20250415125200 +0200" stop="20250415130100 +0200" channel="LaTrois">
     <title lang="fr">Taffy</title>
@@ -25024,7 +25444,7 @@
     <category lang="fr">Série TV</category>
     <category lang="fr">Série d'animation</category>
     <icon src="https://www.programme-tv.net/imgre/fit/http.3A.2F.2Fprmd.2Etmsimg.2Ecom.2Fassets.2Fp17230698_b_h2_aa.2Ejpg/630x355/quality/80/taffy.jpg" />
-    <episode-num system="onscreen">Saison 1 Episode 4</episode-num>
+    <episode-num system="onscreen">Saison 1 Episode 9</episode-num>
   </programme>
   <programme start="20250415130100 +0200" stop="20250415132300 +0200" channel="LaTrois">
     <title lang="fr">Miraculous, les aventures de Ladybug et Chat Noir</title>
@@ -25221,7 +25641,7 @@
     <category lang="fr">Culture Infos</category>
     <category lang="fr">Animalier</category>
     <icon src="https://www.programme-tv.net/imgre/fit/http.3A.2F.2Fprmd.2Etmsimg.2Ecom.2Fassets.2Fp10848366_b_s4_ac.2Ejpg/630x355/quality/80/crop-from/top/une-saison-au-zoo.jpg" />
-    <episode-num system="onscreen">Saison 10 Episode 5</episode-num>
+    <episode-num system="onscreen">Saison 13 Episode 50</episode-num>
   </programme>
   <programme start="20250415185900 +0200" stop="20250415192500 +0200" channel="LaTrois">
     <title lang="fr">Une saison au zoo</title>
@@ -25230,7 +25650,7 @@
     <category lang="fr">Culture Infos</category>
     <category lang="fr">Animalier</category>
     <icon src="https://www.programme-tv.net/imgre/fit/http.3A.2F.2Fprmd.2Etmsimg.2Ecom.2Fassets.2Fp10848366_b_s4_ac.2Ejpg/630x355/quality/80/crop-from/top/une-saison-au-zoo.jpg" />
-    <episode-num system="onscreen">Saison 10 Episode 5</episode-num>
+    <episode-num system="onscreen">Saison 13 Episode 50</episode-num>
   </programme>
   <programme start="20250415192500 +0200" stop="20250415195500 +0200" channel="LaTrois">
     <title lang="fr">Une saison au zoo</title>
@@ -25239,7 +25659,7 @@
     <category lang="fr">Culture Infos</category>
     <category lang="fr">Animalier</category>
     <icon src="https://www.programme-tv.net/imgre/fit/http.3A.2F.2Fprmd.2Etmsimg.2Ecom.2Fassets.2Fp10848366_b_s4_ac.2Ejpg/630x355/quality/80/crop-from/top/une-saison-au-zoo.jpg" />
-    <episode-num system="onscreen">Saison 10 Episode 5</episode-num>
+    <episode-num system="onscreen">Saison 13 Episode 50</episode-num>
   </programme>
   <programme start="20250415195500 +0200" stop="20250415200000 +0200" channel="LaTrois">
     <title lang="fr">Météo internationale</title>
@@ -27265,59 +27685,6 @@
   <programme start="20250416040000 +0000" stop="20250416050000 +0000" channel="SkySportsMainEvent">
     <title lang="en">Sky Sports News</title>
     <sub-title lang="en">Generic Sky Sports News</sub-title>
-  </programme>
-  <programme start="20250415061500 +0200" stop="20250415090000 +0200" channel="MovistarGolf">
-    <title lang="fr">Movistar Golf</title>
-    <desc lang="fr">Movistar Golf.</desc>
-    <date>2019</date>
-    <category lang="fr">Deportes</category>
-    <icon src="https://cdn.sincroguia.tv/uploads/programs/l/i/g/xliga-colombiana-787099_SPA-74.jpg.pagespeed.ic.4_-EOCNleh.jpg" />
-    <rating>
-      <value>Apta</value>
-    </rating>
-  </programme>
-  <programme start="20250415090000 +0200" stop="20250415095000 +0200" channel="MovistarGolf">
-    <title lang="fr">The Legends Tour</title>
-    <desc lang="fr">El Staysure Tour, el circuito senior europeo se relanza con una nueva imagen y un nuevo nombre: Legends Tour. Son leyendas, capitanes ganadores de Ryder Cup, campeones de major e iconos de golf.</desc>
-    <date>2025</date>
-    <category lang="fr">Golf</category>
-    <icon src="https://cdn.sincroguia.tv/uploads/programs/i/t/f/xitf-world-tennis-tour-valencia-942018_SPA-82.jpg.pagespeed.ic.sZnwpCfKP2.jpg" />
-    <rating>
-      <value>Apta</value>
-    </rating>
-  </programme>
-  <programme start="20250415095000 +0200" stop="20250415102500 +0200" channel="MovistarGolf">
-    <title lang="fr">Sueños de Golf</title>
-    <desc lang="fr">Nos gusta soñar en verde. Todos los sueños, grandes y pequeños, caben en un deporte que te atrapa. Historias de ayer y de hoy.</desc>
-    <date>2025</date>
-    <category lang="fr">Programas</category>
-    <icon src="https://cdn.sincroguia.tv/uploads/programs/n/o/t/xnoticias-v-2030-942079_SPA-59.jpg.pagespeed.ic.x5Y11u9bFy.jpg" />
-    <episode-num system="onscreen">E5</episode-num>
-    <rating>
-      <value>Apta</value>
-    </rating>
-  </programme>
-  <programme start="20250415102500 +0200" stop="20250415105000 +0200" channel="MovistarGolf">
-    <title lang="fr">Lara Academy</title>
-    <desc lang="fr">José Manuel Lara, dos veces ganador en el European Tour, se convierte en el profesor particular de los abonados de Movistar Golf con consejos en el campo de prácticas, situaciones reales de juego, consultas de espectadores y análisis de los profesion.</desc>
-    <date>2024</date>
-    <category lang="fr">Programas</category>
-    <icon src="https://cdn.sincroguia.tv/uploads/programs/l/a/r/xlara-academy-1129377_SPA-10.jpg.pagespeed.ic.waHgwCRIi7.jpg" />
-    <episode-num system="onscreen">S5 E38</episode-num>
-    <rating>
-      <value>Apta</value>
-    </rating>
-  </programme>
-  <programme start="20250415105000 +0200" stop="20250415110500 +0200" channel="MovistarGolf">
-    <title lang="fr">Play Off</title>
-    <desc lang="fr">Un espacio que analiza toda la actualidad del mundo del golf. El noticiario hace especial hincapié en las citas del PGA Tour y del circuito europeo.</desc>
-    <date>2025</date>
-    <category lang="fr">Programas</category>
-    <icon src="https://cdn.sincroguia.tv/uploads/programs/p/l/a/xplay-off-991655_SPA-56.jpg.pagespeed.ic.MnkppxrKDe.jpg" />
-    <episode-num system="onscreen">E14</episode-num>
-    <rating>
-      <value>Apta</value>
-    </rating>
   </programme>
   <programme start="20250415110500 +0200" stop="20250415150500 +0200" channel="MovistarGolf">
     <title lang="fr">Masters de Augusta</title>

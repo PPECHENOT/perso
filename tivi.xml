@@ -369,13 +369,13 @@ Cloé et Nicolas ont tout de suite eu un coup de coeur l'un pour l'autre. Après
   <programme start="20250415153500 +0000" stop="20250415160000 +0000" channel="TF1">
     <title>Familles nombreuses : la vie en XXL - Telerealite</title>
     <desc>Familles nombreuses : la vie en XXL - Saison 09 Episode 66 (Partie 2) du 15 avril 2025
-La famille Esposito se rend à la messe, mais avec le carnaval de Nice, les rues sont bloquées et Tiffanie se perd. Chez les Baudrand, Clément profite de son lundi de libre pour avancer sur les tâches ménagères. Les Nguyen reçoivent des amis à la maison.</desc>
+La famille Galli est de retour avec une surprise à annoncer. Cette saison est aussi l'occasion de rencontrer les Augoyard, ou encore les Nguyen et leurs douze enfants.</desc>
     <icon src="https://thumb.canalplus.pro/http/unsafe/400x300/img-hapi.canalplus.pro:80/ServiceImage/ImageID/115538636"/>
   </programme>
   <programme start="20250415160000 +0000" stop="20250415163000 +0000" channel="TF1">
     <title>Familles nombreuses : la vie en XXL - Telerealite</title>
     <desc>Familles nombreuses : la vie en XXL - Saison 09 Episode 67 du 15 avril 2025
-Raoudha a hâte d'annoncer la naissance aux enfants et surtout de leur présenter Jules. Seule avec les enfants, Anaïs Ballot a organisé une sortie au bowling. Pendant ce temps, la deuxième journée de randonné commence pour la famille Cail.</desc>
+La famille Galli est de retour avec une surprise à annoncer. Cette saison est aussi l'occasion de rencontrer les Augoyard, ou encore les Nguyen et leurs douze enfants.</desc>
     <icon src="https://thumb.canalplus.pro/http/unsafe/400x300/img-hapi.canalplus.pro:80/ServiceImage/ImageID/115538636"/>
   </programme>
   <programme start="20250415163000 +0000" stop="20250415171000 +0000" channel="TF1">
@@ -2132,19 +2132,19 @@ En 18 minutes, vous saurez tout sur l'actualité grâce à cette émission qui c
   </programme>
   <programme start="20250415114000 +0000" stop="20250415125000 +0000" channel="M6">
     <title>Un jour, un doc - Mag Actualites</title>
-    <desc>Maroc : le soleil en camping-car
+    <desc>Le concours des jeunes inventeurs / Les champions de la mémoire
 Grands débats de société, nouvelles tendances, retour sur des évènements marquants et des faits divers hors normes, ou encore récits de vie des people et des têtes couronnées,  Un jour, un doc  propose tous les après-midis une grande variété de documentaires et de sujets qui font vibrer le cœur des Français. Chaque jour, partez à la découverte d'histoires et de personnages incroyables en France ou à l'étranger.</desc>
     <icon src="https://thumb.canalplus.pro/http/unsafe/400x300/canalplus-cdn.canal-plus.io/p1/season/19089965/canal-ouah/STD169/107659640-xF8j"/>
   </programme>
   <programme start="20250415125000 +0000" stop="20250415135000 +0000" channel="M6">
     <title>Un jour, un doc - Mag Actualites</title>
-    <desc>Maroc : le soleil en camping-car
+    <desc>Le concours des jeunes inventeurs / Les champions de la mémoire
 Grands débats de société, nouvelles tendances, retour sur des évènements marquants et des faits divers hors normes, ou encore récits de vie des people et des têtes couronnées,  Un jour, un doc  propose tous les après-midis une grande variété de documentaires et de sujets qui font vibrer le cœur des Français. Chaque jour, partez à la découverte d'histoires et de personnages incroyables en France ou à l'étranger.</desc>
     <icon src="https://thumb.canalplus.pro/http/unsafe/400x300/canalplus-cdn.canal-plus.io/p1/season/19089965/canal-ouah/STD169/107659640-xF8j"/>
   </programme>
   <programme start="20250415135000 +0000" stop="20250415145000 +0000" channel="M6">
     <title>Un jour, un doc - Mag Actualites</title>
-    <desc>Maroc : le soleil en camping-car
+    <desc>Le concours des jeunes inventeurs / Les champions de la mémoire
 Grands débats de société, nouvelles tendances, retour sur des évènements marquants et des faits divers hors normes, ou encore récits de vie des people et des têtes couronnées,  Un jour, un doc  propose tous les après-midis une grande variété de documentaires et de sujets qui font vibrer le cœur des Français. Chaque jour, partez à la découverte d'histoires et de personnages incroyables en France ou à l'étranger.</desc>
     <icon src="https://thumb.canalplus.pro/http/unsafe/400x300/canalplus-cdn.canal-plus.io/p1/season/19089965/canal-ouah/STD169/107659640-xF8j"/>
   </programme>
@@ -2194,7 +2194,7 @@ Mère célibataire, Thelma partage son existence entre un emploi fort prenant et
     <title>L'incroyable destin d'Alexandra Lamy - Doc Cinema (2025)</title>
     <desc>De Jérémie Schellaert
 Drôle, solaire, généreuse, Alexandra Lamy est l'une des actrices préférées des Français. Mais que sait-on vraiment d'elle ? Dans ce documentaire, elle revient sur ses débuts au théâtre, son ascension fulgurante avec la série humoristique Un gars, une fille, ses grands succès au cinéma, ses choix audacieux de rôles plus dramatiques, ou encore son bonheur d'avoir pu tourner avec sa soeur et sa fille.</desc>
-    <icon src="https://thumb.canalplus.pro/http/unsafe/400x300/img-hapi.canalplus.pro:80/ServiceImage/ImageID/118997235"/>
+    <icon src="https://thumb.canalplus.pro/http/unsafe/400x300/canalplus-cdn.canal-plus.io/p1/unit/28448455/canal-ouah_50035/STD169/myCANAL_16x9_MEA_1920x108029-xqSp"/>
   </programme>
   <programme start="20250415220500 +0000" stop="20250415235000 +0000" channel="M6">
     <title>Graines de star, les talents cultes - Doc Culture</title>
@@ -3500,7 +3500,7 @@ Manon et Angélique assistent au festival de Magny-Cours, où Manon défile avec
   </programme>
   <programme start="20250415040000 +0000" stop="20250415043000 +0000" channel="RMCStory">
     <title>Charles matin - Journal</title>
-    <desc>EMISSION DU 15-04-25
+    <desc>Émission du 15 avril 2025
 Aux côtés d'une équipe de journalistes, le présentateur offre un regard quotidien sur l'actualité. Ce programme place l'information au centre de ses débats.</desc>
     <icon src="https://thumb.canalplus.pro/http/unsafe/400x300/img-hapi.canalplus.pro:80/ServiceImage/ImageID/116236149"/>
   </programme>
@@ -3602,9 +3602,9 @@ L'histoire d'amour entre Patricia et Arthur commence dans un bar de l'Oklahoma e
   </programme>
   <programme start="20250415103000 +0000" stop="20250415110000 +0000" channel="Cherie25">
     <title>Le jour où tout a basculé - Mag Societe</title>
-    <desc>Mon prof est l'amant de ma mère
+    <desc>Un boxeur pas comme les autres
 Une quadragénaire mariée tombe amoureuse du professeur d'anglais de sa fille lycénne.</desc>
-    <icon src="https://thumb.canalplus.pro/http/unsafe/400x300/img-hapi.canalplus.pro:80/ServiceImage/ImageID/100193041"/>
+    <icon src="https://thumb.canalplus.pro/http/unsafe/400x300/img-hapi.canalplus.pro:80/ServiceImage/ImageID/106648472"/>
   </programme>
   <programme start="20250415110000 +0000" stop="20250415113000 +0000" channel="Cherie25">
     <title>Le jour où tout a basculé - Mag Societe</title>
@@ -3644,7 +3644,7 @@ Un homme fait douter son frère de la fidélité de son épouse et finit par cou
   </programme>
   <programme start="20250415140500 +0000" stop="20250415143000 +0000" channel="Cherie25">
     <title>Le jour où tout a basculé - Mag Societe</title>
-    <desc>Mon médecin a abusé de ma confia..
+    <desc>Un boxeur pas comme les autres
 Une femme âgée se fait berner par son médecin qui tente de l'empoisonner pour s'accaparer sa fortune, mais elle est sauvée par sa voisine.</desc>
     <icon src="https://thumb.canalplus.pro/http/unsafe/400x300/img-hapi.canalplus.pro:80/ServiceImage/ImageID/106648472"/>
   </programme>
@@ -4416,39 +4416,129 @@ Dave semble enfin apaisé. Il a récemment acquis une nouvelle maison et il comp
 Tandis que Dave participe enfin au gala du Met, GaTa participe à un groupe d'échange autour de la santé mentale. En effet, GaTa souffre parfois de désordres bipolaires et d'épisodes dépressifs. Mais le rappeur veut se prendre en mains. Comment va-t-il réagir dans son groupe de parole ?</desc>
     <icon src="https://thumb.canalplus.pro/http/unsafe/400x300/img-hapi.canalplus.pro:80/ServiceImage/ImageID/109833490"/>
   </programme>
-  <programme start="20250415002300 +0000" stop="20250415015000 +0000" channel="PolarPlus">
+  <programme start="20250415051900 +0000" stop="20250415065000 +0000" channel="PolarPlus">
     <title>Navarro - Serie Policiere</title>
-    <desc>Crime de sang (S6 E2)
-C'est dans l'atelier de sculpture de sa femme que l'on retrouve le corps sans vie d'un marchand de tableaux. Le commissaire Navarro croit d'abord que la victime a fait l'objet d'un règlement de comptes de la part de ses associés italiens. Mais peu à peu, le policier penche pour le drame familial...</desc>
+    <desc>Les gens de peu (S6 E7)
+Navarro traque Guélize, un bonnet de la drogue, depuis un an. Alors qu'il est sur le point de l'arrêter, une fausse manoeuvre compromet la réussite de l'opération. En même temps, le cadavre d'une enfant est découvert en banlieue. Le commissaire délaisse l'enquête sur Guélize afin de tirer cette affaire au clair...</desc>
     <icon src="https://thumb.canalplus.pro/http/unsafe/400x300/img-hapi.canalplus.pro:80/ServiceImage/ImageID/92429535"/>
   </programme>
-  <programme start="20250415015000 +0000" stop="20250415024800 +0000" channel="PolarPlus">
-    <title>Fin des programmes - Divers</title>
+  <programme start="20250415065000 +0000" stop="20250415071600 +0000" channel="PolarPlus">
+    <title>Pour que rien ne change - Court metrage (2020)</title>
+    <desc>De Francescu Artily avec Chloé Astor, Bastien Bouillon, Nathan Willcocks, Mireille Perrier, Patrick Cianfarani
+Après une longue absence, une jeune femme revient en Corse, pour présenter son compagnon à sa famille. Sa visite remue un passé qu'elle n'aurait pas dû réveiller.</desc>
+    <icon src="https://thumb.canalplus.pro/http/unsafe/400x300/canalplus-cdn.canal-plus.io/p1/unit/22014964/canal-ouah_50076/STD169/myCANAL-ALD_MEA_Pivot_16x9_1920x1080"/>
+  </programme>
+  <programme start="20250415071600 +0000" stop="20250415090100 +0000" channel="PolarPlus">
+    <title>Les enquêtes de Foyle - Serie Policiere</title>
+    <desc>Les grandes manoeuvres (S2 E3)
+Une jeune secrétaire, originaire de Hastings, fait une chute mortelle du haut des tours du siège londonien d'une entreprise de l'agroalimentaire. Peu de temps après, à Hastings, un homme qui venait de cambrioler la maison de campagne de Sir Reginald Walker, le propriétaire de la même entreprise, est assassiné...</desc>
+    <icon src="https://thumb.canalplus.pro/http/unsafe/400x300/img-hapi.canalplus.pro:80/ServiceImage/ImageID/118044162"/>
+  </programme>
+  <programme start="20250415090100 +0000" stop="20250415104100 +0000" channel="PolarPlus">
+    <title>Les enquêtes de Foyle - Serie Policiere</title>
+    <desc>La grande illusion (S3 E1)
+Février 1941. A Hastings, un corps est découvert dans les décombres d'une librairie après une explosion. En enquêtant sur cette affaire, Foyle se retrouve au coeur de la rivalité entre le MI6, agence de renseignement bien établie, et le SOE, service secret nouvellement créé par Winston Churchill...</desc>
+    <icon src="https://thumb.canalplus.pro/http/unsafe/400x300/img-hapi.canalplus.pro:80/ServiceImage/ImageID/117952666"/>
+  </programme>
+  <programme start="20250415104100 +0000" stop="20250415121600 +0000" channel="PolarPlus">
+    <title>Les enquêtes de Foyle - Serie Policiere</title>
+    <desc>La guerre des nerfs (S3 E4)
+Une bombe qui n'a pas explosé est découverte sur un chantier naval très fréquenté. Les démineurs dépêchés sur les lieux découvrent de l'argent caché et le volent. Foyle, qui enquête sur le crime organisé dans ce secteur, apprend que les frères Talbot, qui dirigent le chantier naval, sont des escrocs...</desc>
+    <icon src="https://thumb.canalplus.pro/http/unsafe/400x300/img-hapi.canalplus.pro:80/ServiceImage/ImageID/117952666"/>
+  </programme>
+  <programme start="20250415121600 +0000" stop="20250415123800 +0000" channel="PolarPlus">
+    <title>Personae - Court metrage (2020)</title>
+    <desc>De Rémy Rondeau avec Solène Rigot, Thierry Frémont, Manon Klein, Alexis Baginama, Arthur Doué
+Une jeune comédienne à la recherche d'un premier rôle usurpe l'identité d'une de ses concurrentes qui vient de retrouver ses parents biologiques.</desc>
+    <icon src="https://thumb.canalplus.pro/http/unsafe/400x300/img-hapi.canalplus.pro:80/ServiceImage/ImageID/97041400"/>
+  </programme>
+  <programme start="20250415123800 +0000" stop="20250415141000 +0000" channel="PolarPlus">
+    <title>Les enquêtes de Morse - Serie Policiere</title>
+    <desc>Malédiction (S5 E2)
+Le tout Holywood débarque à Oxford, où doit débuter le tournage d'un film d'horreur The Phraoh Rises. Pendant ce temps, la mort inexpliquée d'un ancien policier, Ronald Beavis, conduit Morse et Thursday au cinéma local le Roxy où se tient une rencontre publique avec les stars du film...</desc>
+    <icon src="https://thumb.canalplus.pro/http/unsafe/400x300/img-hapi.canalplus.pro:80/ServiceImage/ImageID/114635581"/>
+  </programme>
+  <programme start="20250415141000 +0000" stop="20250415154400 +0000" channel="PolarPlus">
+    <title>Les enquêtes de Morse - Serie Policiere</title>
+    <desc>Le trésor de Wolvercote (S2 E1)
+Après la blessure par balle qui l'a laissé plusieurs mois sur la touche, l'inspecteur Morse reprend du service. Il se voit confier l'enquête sur la mort d'un certain Raymond Meeker. Or de rapides vérifications de routine révèlent que le véritable Raymond Meeker serait mort deux ans plus tôt...</desc>
+    <icon src="https://thumb.canalplus.pro/http/unsafe/400x300/img-hapi.canalplus.pro:80/ServiceImage/ImageID/118454520"/>
+  </programme>
+  <programme start="20250415154400 +0000" stop="20250415162900 +0000" channel="PolarPlus">
+    <title>Pretty Hard Cases - Serie Policiere</title>
+    <desc>C'est du propre (S1 E7)
+Sam et Kelly surveillent une station de lavage automatique, dans l'espoir d'attraper Randy Bowen, le dernier gros poisson de Stockwood. La station servirait en effet de site de chargement de drogue. L'enjeu est de taille : la future promotion de Sam dépend de la réussite de cette mission et de l'arrestation de Bowen...</desc>
+    <icon src="https://thumb.canalplus.pro/http/unsafe/400x300/img-hapi.canalplus.pro:80/ServiceImage/ImageID/113563907"/>
+  </programme>
+  <programme start="20250415162900 +0000" stop="20250415171400 +0000" channel="PolarPlus">
+    <title>Pretty Hard Cases - Serie Policiere</title>
+    <desc>Fèves à la gelée (S1 E10)
+Sam et Kelly sont prêtes à passer un accord avec Tiggy, placée en garde à vue, afin de faire tomber le gros poisson, Bill Misiano. Mais leur ambitieuse mission d'infiltration se complique lorsqu'elles découvrent que l'avocat de Tiggy connait très bien Sam.</desc>
+    <icon src="https://thumb.canalplus.pro/http/unsafe/400x300/img-hapi.canalplus.pro:80/ServiceImage/ImageID/113563907"/>
+  </programme>
+  <programme start="20250415171400 +0000" stop="20250415180100 +0000" channel="PolarPlus">
+    <title>Pretty Hard Cases - Serie Policiere</title>
+    <desc>Faux-semblants (S2 E2)
+Sam et Kelly enquêtent sur l'origine d'une arme imprimée en 3D qui a été utilisée pour tirer sur un agent de police. En dernier recours, elles sont obligées de faire équipe avec l'ancien petit ami de Kelly, Len Grierson, pour approcher leur suspect principal...</desc>
+    <icon src="https://thumb.canalplus.pro/http/unsafe/400x300/img-hapi.canalplus.pro:80/ServiceImage/ImageID/113481428"/>
+  </programme>
+  <programme start="20250415180100 +0000" stop="20250415185500 +0000" channel="PolarPlus">
+    <title>Pretty Hard Cases - Serie Policiere</title>
+    <desc>Joyeux anniversaire (S2 E7)
+Contre toute attente, Nazeer gagne de plus en plus de terrain avec les Coyotes, ce qui lui vaut d'être invité en bonne et due forme à la fête d'anniversaire d'Adeline. Mais lorsqu'il se retrouve en difficulté, c'est à Sam et Kelly que revient la tâche de le tirer d'affaire avant que la situation ne devienne critique !...</desc>
+    <icon src="https://thumb.canalplus.pro/http/unsafe/400x300/img-hapi.canalplus.pro:80/ServiceImage/ImageID/113481428"/>
+  </programme>
+  <programme start="20250415185500 +0000" stop="20250415202900 +0000" channel="PolarPlus">
+    <title>Le crime lui va si bien - Serie Suspense</title>
+    <desc>Esprit es-tu là ? (S1 E3)
+Gaby Molina et Céline Richer sont appelées de bon matin quand le corps d'un homme est découvert dans une vieille maison récemment mise en vente. Le défunt est mort d'un arrêt cardiaque provoqué par un accès de terreur intense. La maison est réputée hantée : aurait-il été victime d'un fantôme ?...</desc>
+    <icon src="https://thumb.canalplus.pro/http/unsafe/400x300/img-hapi.canalplus.pro:80/ServiceImage/ImageID/119044830"/>
+  </programme>
+  <programme start="20250415202900 +0000" stop="20250415220400 +0000" channel="PolarPlus">
+    <title>Disparition inquiétante - Serie Policiere</title>
+    <desc>Instincts maternels (S1 E2)
+Alors qu'elle s'apprête à quitter Strasbourg pour Bordeaux, Esther Lewansky est bouleversée par la disparition de Julia, une jeune fille de 17 ans qui lui a laissé un texto pour l'informer qu'elle avait laissé son bébé de 4 mois seul dans son studio. Elle ne peut pas s'empêcher de se mêler de l'enquête...</desc>
+    <icon src="https://thumb.canalplus.pro/http/unsafe/400x300/img-hapi.canalplus.pro:80/ServiceImage/ImageID/114326937"/>
+  </programme>
+  <programme start="20250415220400 +0000" stop="20250415233500 +0000" channel="PolarPlus">
+    <title>Neige ⭐⭐⭐ - Telefilm Policier</title>
     <desc>
-</desc>
-    <icon src="https://thumb.canalplus.pro/http/unsafe/400x300/canalplus-cdn.canal-plus.io/p1/channel/50076/canal-ouah/GEN169/Polar-95ZV"/>
+Les Alpes, au coeur de l'hiver. Plusieurs notables de la région sont retrouvés assassinés chez eux. Le capitaine Delhaye est chargé du dossier. Afin de faire avancer l'enquête, il décide de demander son aide à Juliette Hémon, jeune femme incarcérée des années plus tôt pour une affaire étrangement similaire.</desc>
+    <icon src="https://thumb.canalplus.pro/http/unsafe/400x300/img-hapi.canalplus.pro:80/ServiceImage/ImageID/117856435"/>
+  </programme>
+  <programme start="20250415233500 +0000" stop="20250416010300 +0000" channel="PolarPlus">
+    <title>Navarro - Serie Policiere</title>
+    <desc>Coupable, je présume ? (S5 E5)
+Navarro dîne tranquillement avec Yolande, sa fille, lorsque quelqu'un frappe à sa porte. Sa voisine, une infirmière, lui apprend qu'elle vient de découvrir le cadavre d'une vieille dame au quinzième étage de la tour. Un jeune drogué est inculpé par le juge d'instruction, mais Navarro le croit innocent...</desc>
+    <icon src="https://thumb.canalplus.pro/http/unsafe/400x300/img-hapi.canalplus.pro:80/ServiceImage/ImageID/92429487"/>
+  </programme>
+  <programme start="20250416010300 +0000" stop="20250416023300 +0000" channel="PolarPlus">
+    <title>Navarro - Serie Policiere</title>
+    <desc>Froid devant ! (S6 E5)
+Alors qu'une vague de froid s'abat sur Paris, le commissaire Navarro reçoit la visite d'un clerc de notaire. C'est ainsi qu'il apprend qu'il hérite d'un studio situé à Barbès. L'appartement est occupé par Sally, qui gagne sa vie en se prostituant. Celle-ci est bientôt retrouvée assassinée chez elle...</desc>
+    <icon src="https://thumb.canalplus.pro/http/unsafe/400x300/img-hapi.canalplus.pro:80/ServiceImage/ImageID/92429535"/>
   </programme>
   <programme start="20250415001000 +0200" stop="20250415011500 +0200" channel="13Rue">
     <title>Candice Renoir - Série policière</title>
-    <desc>Loin des yeux, loin du coeur (Saison 4 Episode 10)
+    <desc>Loin des yeux, loin du coeur (Saison 4 Episode 9)
 Candice Renoir prend un nouveau départ dans sa maison située au bord de l'eau, avec sa famille et son chien. Ses relations avec Antoine, qui ne cesse de mettre son grain de sel dans ses enquêtes, gâche toutefois son bonheur. Quand elle est amenée à témoigner dans un procès pour viol, elle est ridiculisée par la défense. Pour Candice, s'en est trop, elle perd pied. Plus tard, quand elle se rend au cinéma avec ses enfants, elle intervient sur le lieu d'une agression. Puis s'interroge sur son geste en apprenant que la victime est un militant anti-avortement. Une 4e saison qui met l'accent sur les problèmes personnels de l'héroïne, toujours bien campée par Cécile Bois.</desc>
     <icon src="https://www.programme-tv.net/imgre/fit/https.3A.2F.2Fs2.2Edmcdn.2Enet.2Fv.2FXb88W1dRiMoDiDUnJ/640x360/crop-from/top/quality/80/candice-renoir-28-decembre.jpg"/>
   </programme>
   <programme start="20250415011500 +0200" stop="20250415021500 +0200" channel="13Rue">
     <title>Candice Renoir - Série policière</title>
-    <desc>Telle mère, telle fille (Saison 4 Episode 10)
+    <desc>Telle mère, telle fille (Saison 4 Episode 9)
 Candice Renoir prend un nouveau départ dans sa maison située au bord de l'eau, avec sa famille et son chien. Ses relations avec Antoine, qui ne cesse de mettre son grain de sel dans ses enquêtes, gâche toutefois son bonheur. Quand elle est amenée à témoigner dans un procès pour viol, elle est ridiculisée par la défense. Pour Candice, s'en est trop, elle perd pied. Plus tard, quand elle se rend au cinéma avec ses enfants, elle intervient sur le lieu d'une agression. Puis s'interroge sur son geste en apprenant que la victime est un militant anti-avortement. Une 4e saison qui met l'accent sur les problèmes personnels de l'héroïne, toujours bien campée par Cécile Bois.</desc>
     <icon src="https://www.programme-tv.net/imgre/fit/https.3A.2F.2Fs2.2Edmcdn.2Enet.2Fv.2FXb88W1dRiMoDiDUnJ/640x360/crop-from/top/quality/80/candice-renoir-28-decembre.jpg"/>
   </programme>
   <programme start="20250415021500 +0200" stop="20250415031000 +0200" channel="13Rue">
     <title>Candice Renoir - Série policière</title>
-    <desc>Toute vérité n'est pas bonne à dire (Saison 4 Episode 10)
+    <desc>Toute vérité n'est pas bonne à dire (Saison 4 Episode 9)
 Candice Renoir prend un nouveau départ dans sa maison située au bord de l'eau, avec sa famille et son chien. Ses relations avec Antoine, qui ne cesse de mettre son grain de sel dans ses enquêtes, gâche toutefois son bonheur. Quand elle est amenée à témoigner dans un procès pour viol, elle est ridiculisée par la défense. Pour Candice, s'en est trop, elle perd pied. Plus tard, quand elle se rend au cinéma avec ses enfants, elle intervient sur le lieu d'une agression. Puis s'interroge sur son geste en apprenant que la victime est un militant anti-avortement. Une 4e saison qui met l'accent sur les problèmes personnels de l'héroïne, toujours bien campée par Cécile Bois.</desc>
     <icon src="https://www.programme-tv.net/imgre/fit/https.3A.2F.2Fs2.2Edmcdn.2Enet.2Fv.2FXb88W1dRiMoDiDUnJ/640x360/crop-from/top/quality/80/candice-renoir-28-decembre.jpg"/>
   </programme>
   <programme start="20250415031000 +0200" stop="20250415041000 +0200" channel="13Rue">
     <title>Candice Renoir - Série policière</title>
-    <desc>Pas de fumée sans feu (Saison 4 Episode 10)
+    <desc>Pas de fumée sans feu (Saison 4 Episode 9)
 Candice Renoir prend un nouveau départ dans sa maison située au bord de l'eau, avec sa famille et son chien. Ses relations avec Antoine, qui ne cesse de mettre son grain de sel dans ses enquêtes, gâche toutefois son bonheur. Quand elle est amenée à témoigner dans un procès pour viol, elle est ridiculisée par la défense. Pour Candice, s'en est trop, elle perd pied. Plus tard, quand elle se rend au cinéma avec ses enfants, elle intervient sur le lieu d'une agression. Puis s'interroge sur son geste en apprenant que la victime est un militant anti-avortement. Une 4e saison qui met l'accent sur les problèmes personnels de l'héroïne, toujours bien campée par Cécile Bois.</desc>
     <icon src="https://www.programme-tv.net/imgre/fit/https.3A.2F.2Fs2.2Edmcdn.2Enet.2Fv.2FXb88W1dRiMoDiDUnJ/640x360/crop-from/top/quality/80/candice-renoir-28-decembre.jpg"/>
   </programme>
@@ -4484,43 +4574,43 @@ Benjamin Lebel, un éminent oenologue, multiplie les voyages sur les plus grands
   </programme>
   <programme start="20250415072500 +0200" stop="20250415091000 +0200" channel="13Rue">
     <title>Le sang de la vigne - Série policière</title>
-    <desc>Question d'eau-de-vie ou de mort (Saison 2 Episode 1)
+    <desc>Question d'eau-de-vie ou de mort (Saison 2 Episode 2)
 L'oenologue Benjamin Lebel enquête pour le compte d'une assurance sur un incendie qui a ravagé les chais d'un producteur d'armagnac. Au cours du drame, un employé a péri. Benjamin se demande si la victime est aussi à l'origine du sinistre. Plus tard, dans le Sauternais, l'amoureux des vins s'apprête à rendre visite à un couple, propriétaire de prestigieuses bouteilles. Quand la précieuse réserve disparaît et que le couple est assassiné, Lebel mène l'enquête. A peine cette énigme résolue, le détective amateur tente de retrouver celui qui a tué un de ses amis, un journaliste qui allait faire des révélations fracassantes sur un crime. Des adaptations pleines de suspense, tirées des livres de Jean-Pierre Alaux et Noël Balen.</desc>
     <icon src="https://www.programme-tv.net/imgre/fit/https.3A.2F.2Fs2.2Edmcdn.2Enet.2Fv.2FTWkxX1X-3Cgp9WaS0/640x360/crop-from/top/quality/80/le-sang-de-la-vigne.jpg"/>
   </programme>
   <programme start="20250415091000 +0200" stop="20250415101000 +0200" channel="13Rue">
     <title>Candice Renoir - Série policière</title>
-    <desc>Oeil pour oeil et le monde deviendra aveugle (Saison 4 Episode 10)
+    <desc>Oeil pour oeil et le monde deviendra aveugle (Saison 4 Episode 9)
 Candice Renoir prend un nouveau départ dans sa maison située au bord de l'eau, avec sa famille et son chien. Ses relations avec Antoine, qui ne cesse de mettre son grain de sel dans ses enquêtes, gâche toutefois son bonheur. Quand elle est amenée à témoigner dans un procès pour viol, elle est ridiculisée par la défense. Pour Candice, s'en est trop, elle perd pied. Plus tard, quand elle se rend au cinéma avec ses enfants, elle intervient sur le lieu d'une agression. Puis s'interroge sur son geste en apprenant que la victime est un militant anti-avortement. Une 4e saison qui met l'accent sur les problèmes personnels de l'héroïne, toujours bien campée par Cécile Bois.</desc>
     <icon src="https://www.programme-tv.net/imgre/fit/https.3A.2F.2Fs2.2Edmcdn.2Enet.2Fv.2FXb88W1dRiMoDiDUnJ/640x360/crop-from/top/quality/80/candice-renoir-28-decembre.jpg"/>
   </programme>
   <programme start="20250415101000 +0200" stop="20250415105500 +0200" channel="13Rue">
     <title>Unforgettable - Série de suspense</title>
-    <desc>Frères d'infortune (Saison 1 Episode 13)
+    <desc>Frères d'infortune (Saison 1 Episode 14)
 La première saison de "Unforgettable" suit la vie de Carrie Wells, interprétée par Poppy Montgomery, une ancienne inspectrice de la police de New York. Elle souffre d'une maladie appelée hyperthymésie, lui donnant la capacité de se souvenir de tout.</desc>
     <icon src="https://www.programme-tv.net/imgre/fit/http.3A.2F.2Fprmd.2Etmsimg.2Ecom.2Fassets.2Fp8808509_i_h9_ab.2Ejpg/630x355/quality/80/unforgettable.jpg"/>
   </programme>
   <programme start="20250415105500 +0200" stop="20250415114500 +0200" channel="13Rue">
     <title>New York : crime organisé - Série policière</title>
-    <desc>Le piège (Saison 3 Episode 10)
+    <desc>Le piège (Saison 3 Episode 11)
 </desc>
     <icon src="https://www.programme-tv.net/imgre/fit/~2~collection~4a1864d289f6c633.jpeg/630x355/quality/80/new-york-crime-organise.jpeg"/>
   </programme>
   <programme start="20250415114500 +0200" stop="20250415123000 +0200" channel="13Rue">
     <title>Chicago Fire - Série dramatique</title>
-    <desc>Sur la sellette (Saison 4 Episode 1)
+    <desc>Sur la sellette (Saison 4 Episode 2)
 Dans cette quatrième saison de "Chicago Fire'', le lieutenant Matt Casey affronte les conséquences de sa mission d'infiltration et le lieutenant Severide accuse une sanction. Des soucis personnels viennent interférer avec le travail des pompiers.</desc>
     <icon src="https://www.programme-tv.net/imgre/fit/https.3A.2F.2Fs1.2Edmcdn.2Enet.2Fv.2FYB4Ry1dy54VJ1oPTo/640x360/crop-from/top/quality/80/chicago-fire.jpg"/>
   </programme>
   <programme start="20250415123000 +0200" stop="20250415132500 +0200" channel="13Rue">
     <title>Chicago Fire - Série dramatique</title>
-    <desc>Enquête pour négligence (Saison 4 Episode 1)
+    <desc>Enquête pour négligence (Saison 4 Episode 2)
 Dans cette quatrième saison de "Chicago Fire'', le lieutenant Matt Casey affronte les conséquences de sa mission d'infiltration et le lieutenant Severide accuse une sanction. Des soucis personnels viennent interférer avec le travail des pompiers.</desc>
     <icon src="https://www.programme-tv.net/imgre/fit/https.3A.2F.2Fs1.2Edmcdn.2Enet.2Fv.2FYB4Ry1dy54VJ1oPTo/640x360/crop-from/top/quality/80/chicago-fire.jpg"/>
   </programme>
   <programme start="20250415132500 +0200" stop="20250415151000 +0200" channel="13Rue">
     <title>Le sang de la vigne - Série policière</title>
-    <desc>Noces d'or à Sauternes (Saison 2 Episode 1)
+    <desc>Noces d'or à Sauternes (Saison 2 Episode 2)
 L'oenologue Benjamin Lebel enquête pour le compte d'une assurance sur un incendie qui a ravagé les chais d'un producteur d'armagnac. Au cours du drame, un employé a péri. Benjamin se demande si la victime est aussi à l'origine du sinistre. Plus tard, dans le Sauternais, l'amoureux des vins s'apprête à rendre visite à un couple, propriétaire de prestigieuses bouteilles. Quand la précieuse réserve disparaît et que le couple est assassiné, Lebel mène l'enquête. A peine cette énigme résolue, le détective amateur tente de retrouver celui qui a tué un de ses amis, un journaliste qui allait faire des révélations fracassantes sur un crime. Des adaptations pleines de suspense, tirées des livres de Jean-Pierre Alaux et Noël Balen.</desc>
     <icon src="https://www.programme-tv.net/imgre/fit/https.3A.2F.2Fs2.2Edmcdn.2Enet.2Fv.2FTWkxX1X-3Cgp9WaS0/640x360/crop-from/top/quality/80/le-sang-de-la-vigne.jpg"/>
   </programme>
@@ -4532,37 +4622,37 @@ Toujours en équilibre entre sa vie privée et son travail de policière, Candic
   </programme>
   <programme start="20250415161000 +0200" stop="20250415165500 +0200" channel="13Rue">
     <title>Unforgettable - Série de suspense</title>
-    <desc>Appels personnels (Saison 1 Episode 13)
+    <desc>Appels personnels (Saison 1 Episode 14)
 La première saison de "Unforgettable" suit la vie de Carrie Wells, interprétée par Poppy Montgomery, une ancienne inspectrice de la police de New York. Elle souffre d'une maladie appelée hyperthymésie, lui donnant la capacité de se souvenir de tout.</desc>
     <icon src="https://www.programme-tv.net/imgre/fit/http.3A.2F.2Fprmd.2Etmsimg.2Ecom.2Fassets.2Fp8808509_i_h9_ab.2Ejpg/630x355/quality/80/unforgettable.jpg"/>
   </programme>
   <programme start="20250415165500 +0200" stop="20250415174500 +0200" channel="13Rue">
     <title>New York : crime organisé - Série policière</title>
-    <desc>Tout à l'ego (Saison 3 Episode 10)
+    <desc>Tout à l'ego (Saison 3 Episode 11)
 </desc>
     <icon src="https://www.programme-tv.net/imgre/fit/~2~collection~4a1864d289f6c633.jpeg/630x355/quality/80/new-york-crime-organise.jpeg"/>
   </programme>
   <programme start="20250415174500 +0200" stop="20250415183000 +0200" channel="13Rue">
     <title>New York : crime organisé - Série policière</title>
-    <desc>Partenariat (Saison 3 Episode 10)
+    <desc>Partenariat (Saison 3 Episode 11)
 </desc>
     <icon src="https://www.programme-tv.net/imgre/fit/~2~collection~4a1864d289f6c633.jpeg/630x355/quality/80/new-york-crime-organise.jpeg"/>
   </programme>
   <programme start="20250415183000 +0200" stop="20250415192000 +0200" channel="13Rue">
     <title>Chicago Fire - Série dramatique</title>
-    <desc>Passer a autre chose (Saison 4 Episode 1)
+    <desc>Passer a autre chose (Saison 4 Episode 2)
 Dans cette quatrième saison de "Chicago Fire'', le lieutenant Matt Casey affronte les conséquences de sa mission d'infiltration et le lieutenant Severide accuse une sanction. Des soucis personnels viennent interférer avec le travail des pompiers.</desc>
     <icon src="https://www.programme-tv.net/imgre/fit/https.3A.2F.2Fs1.2Edmcdn.2Enet.2Fv.2FYB4Ry1dy54VJ1oPTo/640x360/crop-from/top/quality/80/chicago-fire.jpg"/>
   </programme>
   <programme start="20250415192000 +0200" stop="20250415201000 +0200" channel="13Rue">
     <title>Chicago Fire - Série dramatique</title>
-    <desc>Ton tour viendra (Saison 4 Episode 1)
+    <desc>Ton tour viendra (Saison 4 Episode 2)
 Dans cette quatrième saison de "Chicago Fire'', le lieutenant Matt Casey affronte les conséquences de sa mission d'infiltration et le lieutenant Severide accuse une sanction. Des soucis personnels viennent interférer avec le travail des pompiers.</desc>
     <icon src="https://www.programme-tv.net/imgre/fit/https.3A.2F.2Fs1.2Edmcdn.2Enet.2Fv.2FYB4Ry1dy54VJ1oPTo/640x360/crop-from/top/quality/80/chicago-fire.jpg"/>
   </programme>
   <programme start="20250415201000 +0200" stop="20250415210000 +0200" channel="13Rue">
     <title>Unforgettable - Série de suspense</title>
-    <desc>Témoins clés (Saison 1 Episode 13)
+    <desc>Témoins clés (Saison 1 Episode 14)
 La première saison de "Unforgettable" suit la vie de Carrie Wells, interprétée par Poppy Montgomery, une ancienne inspectrice de la police de New York. Elle souffre d'une maladie appelée hyperthymésie, lui donnant la capacité de se souvenir de tout.</desc>
     <icon src="https://www.programme-tv.net/imgre/fit/http.3A.2F.2Fprmd.2Etmsimg.2Ecom.2Fassets.2Fp8808509_i_h9_ab.2Ejpg/630x355/quality/80/unforgettable.jpg"/>
   </programme>
@@ -4592,25 +4682,25 @@ La première saison de "Unforgettable" suit la vie de Carrie Wells, interprété
   </programme>
   <programme start="20250415004500 +0200" stop="20250415013500 +0200" channel="Syfy">
     <title>Code Quantum - Série de science-fiction</title>
-    <desc>Au nom du père (Saison 3 Episode 11)
+    <desc>Au nom du père (Saison 3 Episode 7)
 </desc>
     <icon src="https://www.programme-tv.net/imgre/fit/~2~collection~23d443bc183fa32c.jpeg/630x355/quality/80/code-quantum.jpeg"/>
   </programme>
   <programme start="20250415013500 +0200" stop="20250415023000 +0200" channel="Syfy">
     <title>Code Quantum - Série de science-fiction</title>
-    <desc>La corde raide (Saison 3 Episode 11)
+    <desc>La corde raide (Saison 3 Episode 7)
 </desc>
     <icon src="https://www.programme-tv.net/imgre/fit/~2~collection~23d443bc183fa32c.jpeg/630x355/quality/80/code-quantum.jpeg"/>
   </programme>
   <programme start="20250415023000 +0200" stop="20250415032500 +0200" channel="Syfy">
     <title>Code Quantum - Série de science-fiction</title>
-    <desc>Le diable par la queue (Saison 3 Episode 11)
+    <desc>Le diable par la queue (Saison 3 Episode 7)
 </desc>
     <icon src="https://www.programme-tv.net/imgre/fit/~2~collection~23d443bc183fa32c.jpeg/630x355/quality/80/code-quantum.jpeg"/>
   </programme>
   <programme start="20250415032500 +0200" stop="20250415041500 +0200" channel="Syfy">
     <title>Code Quantum - Série de science-fiction</title>
-    <desc>Miss sucre en poudre (Saison 3 Episode 11)
+    <desc>Miss sucre en poudre (Saison 3 Episode 7)
 </desc>
     <icon src="https://www.programme-tv.net/imgre/fit/~2~collection~23d443bc183fa32c.jpeg/630x355/quality/80/code-quantum.jpeg"/>
   </programme>
@@ -4675,91 +4765,91 @@ Dans une chaumière au fin fond de la forêt, un chat et une chouette se dispute
   </programme>
   <programme start="20250415070500 +0200" stop="20250415080000 +0200" channel="Syfy">
     <title>Code Quantum - Série de science-fiction</title>
-    <desc>Miracle à New York (Saison 3 Episode 11)
+    <desc>Miracle à New York (Saison 3 Episode 7)
 </desc>
     <icon src="https://www.programme-tv.net/imgre/fit/~2~collection~23d443bc183fa32c.jpeg/630x355/quality/80/code-quantum.jpeg"/>
   </programme>
   <programme start="20250415080000 +0200" stop="20250415085000 +0200" channel="Syfy">
     <title>Code Quantum - Série de science-fiction</title>
-    <desc>La fuite (Saison 3 Episode 11)
+    <desc>La fuite (Saison 3 Episode 7)
 </desc>
     <icon src="https://www.programme-tv.net/imgre/fit/~2~collection~23d443bc183fa32c.jpeg/630x355/quality/80/code-quantum.jpeg"/>
   </programme>
   <programme start="20250415085000 +0200" stop="20250415101000 +0200" channel="Syfy">
     <title>El Ministerio del Tiempo - Série de science-fiction</title>
-    <desc>Le schisme du temps (Saison 3 Episode 9)
+    <desc>Le schisme du temps (Saison 3 Episode 10)
 </desc>
     <icon src="https://www.programme-tv.net/imgre/fit/~2~collection~9e374538fd3f7f33.jpeg/630x355/quality/80/el-ministerio-del-tiempo.jpeg"/>
   </programme>
   <programme start="20250415101000 +0200" stop="20250415110000 +0200" channel="Syfy">
     <title>Les mystères de Haven - Série fantastique</title>
-    <desc>Les survivants (Saison 4 Episode 2)
+    <desc>Les survivants (Saison 4 Episode 4)
 </desc>
     <icon src="https://www.programme-tv.net/imgre/fit/https.3A.2F.2Fs2.2Edmcdn.2Enet.2Fv.2FTr35y1YLfz3p4_bvQ/640x360/crop-from/top/quality/80/les-mysteres-de-haven-saison-2.jpg"/>
   </programme>
   <programme start="20250415110000 +0200" stop="20250415114500 +0200" channel="Syfy">
     <title>Les mystères de Haven - Série fantastique</title>
-    <desc>Le sang maudit (Saison 4 Episode 2)
+    <desc>Le sang maudit (Saison 4 Episode 4)
 </desc>
     <icon src="https://www.programme-tv.net/imgre/fit/https.3A.2F.2Fs2.2Edmcdn.2Enet.2Fv.2FTr35y1YLfz3p4_bvQ/640x360/crop-from/top/quality/80/les-mysteres-de-haven-saison-2.jpg"/>
   </programme>
   <programme start="20250415114500 +0200" stop="20250415123500 +0200" channel="Syfy">
     <title>Lost Girl - Série fantastique</title>
-    <desc>Une alliance en danger (Saison 2 Episode 1)
+    <desc>Une alliance en danger (Saison 2 Episode 2)
 </desc>
     <icon src="https://www.programme-tv.net/imgre/fit/https.3A.2F.2Fs1.2Edmcdn.2Enet.2Fv.2FTq1Sa1YJnlepEBNf0/640x360/crop-from/top/quality/80/lost-girl.jpg"/>
   </programme>
   <programme start="20250415123500 +0200" stop="20250415133500 +0200" channel="Syfy">
     <title>Lost Girl - Série fantastique</title>
-    <desc>Un nouveau frêne (Saison 2 Episode 1)
+    <desc>Un nouveau frêne (Saison 2 Episode 2)
 </desc>
     <icon src="https://www.programme-tv.net/imgre/fit/https.3A.2F.2Fs1.2Edmcdn.2Enet.2Fv.2FTq1Sa1YJnlepEBNf0/640x360/crop-from/top/quality/80/lost-girl.jpg"/>
   </programme>
   <programme start="20250415133500 +0200" stop="20250415145500 +0200" channel="Syfy">
     <title>El Ministerio del Tiempo - Série de science-fiction</title>
-    <desc>Les réfugiés du temps (Saison 3 Episode 9)
+    <desc>Les réfugiés du temps (Saison 3 Episode 10)
 </desc>
     <icon src="https://www.programme-tv.net/imgre/fit/~2~collection~9e374538fd3f7f33.jpeg/630x355/quality/80/el-ministerio-del-tiempo.jpeg"/>
   </programme>
   <programme start="20250415145500 +0200" stop="20250415155500 +0200" channel="Syfy">
     <title>Code Quantum - Série de science-fiction</title>
-    <desc>L'amour n'a pas de couleur (Saison 3 Episode 11)
+    <desc>L'amour n'a pas de couleur (Saison 3 Episode 7)
 </desc>
     <icon src="https://www.programme-tv.net/imgre/fit/~2~collection~23d443bc183fa32c.jpeg/630x355/quality/80/code-quantum.jpeg"/>
   </programme>
   <programme start="20250415155500 +0200" stop="20250415164500 +0200" channel="Syfy">
     <title>Code Quantum - Série de science-fiction</title>
-    <desc>La future maman (Saison 3 Episode 11)
+    <desc>La future maman (Saison 3 Episode 7)
 </desc>
     <icon src="https://www.programme-tv.net/imgre/fit/~2~collection~23d443bc183fa32c.jpeg/630x355/quality/80/code-quantum.jpeg"/>
   </programme>
   <programme start="20250415164500 +0200" stop="20250415174000 +0200" channel="Syfy">
     <title>Code Quantum - Série de science-fiction</title>
-    <desc>Futur boy (Saison 3 Episode 11)
+    <desc>Futur boy (Saison 3 Episode 7)
 </desc>
     <icon src="https://www.programme-tv.net/imgre/fit/~2~collection~23d443bc183fa32c.jpeg/630x355/quality/80/code-quantum.jpeg"/>
   </programme>
   <programme start="20250415174000 +0200" stop="20250415182500 +0200" channel="Syfy">
     <title>Les mystères de Haven - Série fantastique</title>
-    <desc>Enfants disparus (Saison 4 Episode 2)
+    <desc>Enfants disparus (Saison 4 Episode 4)
 </desc>
     <icon src="https://www.programme-tv.net/imgre/fit/https.3A.2F.2Fs2.2Edmcdn.2Enet.2Fv.2FTr35y1YLfz3p4_bvQ/640x360/crop-from/top/quality/80/les-mysteres-de-haven-saison-2.jpg"/>
   </programme>
   <programme start="20250415182500 +0200" stop="20250415191500 +0200" channel="Syfy">
     <title>Haven - Série fantastique</title>
-    <desc>Lexie (Saison 4 Episode 2)
+    <desc>Lexie (Saison 4 Episode 4)
 </desc>
     <icon src="https://www.programme-tv.net/imgre/fit/https.3A.2F.2Fs2.2Edmcdn.2Enet.2Fv.2FTr35y1YLfz3p4_bvQ/640x360/crop-from/top/quality/80/les-mysteres-de-haven-saison-2.jpg"/>
   </programme>
   <programme start="20250415191500 +0200" stop="20250415200500 +0200" channel="Syfy">
     <title>Lost Girl - Série fantastique</title>
-    <desc>Cauchemars éveillés (Saison 2 Episode 1)
+    <desc>Cauchemars éveillés (Saison 2 Episode 2)
 </desc>
     <icon src="https://www.programme-tv.net/imgre/fit/https.3A.2F.2Fs1.2Edmcdn.2Enet.2Fv.2FTq1Sa1YJnlepEBNf0/640x360/crop-from/top/quality/80/lost-girl.jpg"/>
   </programme>
   <programme start="20250415200500 +0200" stop="20250415210000 +0200" channel="Syfy">
     <title>Lost Girl - Série fantastique</title>
-    <desc>Miroir, miroir (Saison 2 Episode 1)
+    <desc>Miroir, miroir (Saison 2 Episode 2)
 </desc>
     <icon src="https://www.programme-tv.net/imgre/fit/https.3A.2F.2Fs1.2Edmcdn.2Enet.2Fv.2FTq1Sa1YJnlepEBNf0/640x360/crop-from/top/quality/80/lost-girl.jpg"/>
   </programme>
@@ -7435,7 +7525,7 @@ On oublie parfois que ce village vertical à la pointe Sud de la Chine, avec ses
   </programme>
   <programme start="20250415040000 +0000" stop="20250415043000 +0000" channel="HistoireTV">
     <title>Historiquement show - Mag Histoire</title>
-    <desc>Mag. Histoire
+    <desc>Guerres
 Une émission sur les faits historiques : livres, films, expositions sont décortiqués. Une chronique propose un coup de coeur de la semaine.</desc>
     <icon src="https://thumb.canalplus.pro/http/unsafe/400x300/img-hapi.canalplus.pro:80/ServiceImage/ImageID/114950891"/>
   </programme>
@@ -8630,109 +8720,109 @@ Cyril et Margaux les deux vétérinaires, commencent leur journée en effectuant
   </programme>
   <programme start="20250415100200 +0200" stop="20250415101400 +0200" channel="LaTrois">
     <title>Pat' Patrouille - Série d'animation</title>
-    <desc>Monsieur Hellinger retombe en enfance (Saison 4 Episode 25)
+    <desc>Monsieur Hellinger retombe en enfance (Saison 4 Episode 8)
 Quand les habitants de la Grande Vallée ont des problèmes, ils peuvent compter sur Ryder, un garçon de dix ans, et sa Pat'Patrouille. Composée de Marcus, Zuma, Rocky, Chase, Ruben et Stella, des chiens aux qualités et compétences diverses, cette patrouille intervient pour aider et sauver les personnes en difficulté.</desc>
     <icon src="https://www.programme-tv.net/imgre/fit/~2~collection~7bed08bd98e222e2.jpeg/630x355/quality/80/paw-patrol-la-pat-patrouille.jpeg"/>
   </programme>
   <programme start="20250415101400 +0200" stop="20250415103600 +0200" channel="LaTrois">
     <title>Pat' Patrouille - Série d'animation</title>
-    <desc>La Pat' Patrouille des mers sauve Pat'lantis (Saison 4 Episode 25)
+    <desc>La Pat' Patrouille des mers sauve Pat'lantis (Saison 4 Episode 8)
 Quand les habitants de la Grande Vallée ont des problèmes, ils peuvent compter sur Ryder, un garçon de dix ans, et sa Pat'Patrouille. Composée de Marcus, Zuma, Rocky, Chase, Ruben et Stella, des chiens aux qualités et compétences diverses, cette patrouille intervient pour aider et sauver les personnes en difficulté.</desc>
     <icon src="https://www.programme-tv.net/imgre/fit/~2~collection~7bed08bd98e222e2.jpeg/630x355/quality/80/paw-patrol-la-pat-patrouille.jpeg"/>
   </programme>
   <programme start="20250415103600 +0200" stop="20250415104700 +0200" channel="LaTrois">
     <title>Pat' Patrouille - Série d'animation</title>
-    <desc>La piñata (Saison 4 Episode 25)
+    <desc>La piñata (Saison 4 Episode 8)
 Quand les habitants de la Grande Vallée ont des problèmes, ils peuvent compter sur Ryder, un garçon de dix ans, et sa Pat'Patrouille. Composée de Marcus, Zuma, Rocky, Chase, Ruben et Stella, des chiens aux qualités et compétences diverses, cette patrouille intervient pour aider et sauver les personnes en difficulté.</desc>
     <icon src="https://www.programme-tv.net/imgre/fit/~2~collection~7bed08bd98e222e2.jpeg/630x355/quality/80/paw-patrol-la-pat-patrouille.jpeg"/>
   </programme>
   <programme start="20250415104700 +0200" stop="20250415105900 +0200" channel="LaTrois">
     <title>Pat' Patrouille - Série d'animation</title>
-    <desc>Les chats secouristes (Saison 5 Episode 1)
+    <desc>Les chats secouristes (Saison 5 Episode 21)
 Quand les habitants de la Grande Vallée ont des problèmes, ils peuvent compter sur Ryder, un garçon de dix ans, et sa Pat'Patrouille. Composée de Marcus, Zuma, Rocky, Chase, Ruben et Stella, des chiens aux qualités et compétences diverses, cette patrouille intervient pour aider et sauver les personnes en difficulté.</desc>
     <icon src="https://www.programme-tv.net/imgre/fit/~2~collection~2027abe865f87594.jpeg/630x355/quality/80/paw-patrol-la-pat-patrouille.jpeg"/>
   </programme>
   <programme start="20250415105900 +0200" stop="20250415111000 +0200" channel="LaTrois">
     <title>Billy, le hamster cowboy - Série d'animation</title>
-    <desc>Le chapeau du Sergent Cactus (Saison 1 Episode 15)
+    <desc>Le chapeau du Sergent Cactus (Saison 1 Episode 9)
 </desc>
     <icon src="https://www.programme-tv.net/imgre/fit/~2~collection~ae25af42a2249d21.jpeg/630x355/quality/80/billy-le-hamster-cowboy.jpeg"/>
   </programme>
   <programme start="20250415111000 +0200" stop="20250415112100 +0200" channel="LaTrois">
     <title>Billy, le hamster cowboy - Série d'animation</title>
-    <desc>Les drôles de sifflets de Barbichette (Saison 1 Episode 15)
+    <desc>Les drôles de sifflets de Barbichette (Saison 1 Episode 9)
 </desc>
     <icon src="https://www.programme-tv.net/imgre/fit/~2~collection~ae25af42a2249d21.jpeg/630x355/quality/80/billy-le-hamster-cowboy.jpeg"/>
   </programme>
   <programme start="20250415112100 +0200" stop="20250415113200 +0200" channel="LaTrois">
     <title>Billy, le hamster cowboy - Série d'animation</title>
-    <desc>La bataille de cerfs-volants (Saison 1 Episode 15)
+    <desc>La bataille de cerfs-volants (Saison 1 Episode 9)
 </desc>
     <icon src="https://www.programme-tv.net/imgre/fit/~2~collection~ae25af42a2249d21.jpeg/630x355/quality/80/billy-le-hamster-cowboy.jpeg"/>
   </programme>
   <programme start="20250415113200 +0200" stop="20250415114300 +0200" channel="LaTrois">
     <title>Billy, le hamster cowboy - Série d'animation</title>
-    <desc>A la belle étoile (Saison 1 Episode 15)
+    <desc>A la belle étoile (Saison 1 Episode 9)
 </desc>
     <icon src="https://www.programme-tv.net/imgre/fit/~2~collection~ae25af42a2249d21.jpeg/630x355/quality/80/billy-le-hamster-cowboy.jpeg"/>
   </programme>
   <programme start="20250415114300 +0200" stop="20250415115600 +0200" channel="LaTrois">
     <title>Billy, le hamster cowboy - Série d'animation</title>
-    <desc>La toute petite fête (Saison 1 Episode 15)
+    <desc>La toute petite fête (Saison 1 Episode 9)
 </desc>
     <icon src="https://www.programme-tv.net/imgre/fit/~2~collection~ae25af42a2249d21.jpeg/630x355/quality/80/billy-le-hamster-cowboy.jpeg"/>
   </programme>
   <programme start="20250415115600 +0200" stop="20250415120300 +0200" channel="LaTrois">
     <title>Taffy - Série d'animation</title>
-    <desc>Une belle histoire d'enchères (Saison 1 Episode 4)
+    <desc>Une belle histoire d'enchères (Saison 1 Episode 9)
 Bentley est un fidèle chien de garde. Lorsque la milliardaire Madame Millesous, sa maîtresse, adopte Taffy, un sournois raton laveur qui se fait passer pour un chat domestique, Bentley tente de révéler la véritable nature de Taffy.</desc>
     <icon src="https://www.programme-tv.net/imgre/fit/http.3A.2F.2Fprmd.2Etmsimg.2Ecom.2Fassets.2Fp17230698_b_h2_aa.2Ejpg/630x355/quality/80/taffy.jpg"/>
   </programme>
   <programme start="20250415120300 +0200" stop="20250415121000 +0200" channel="LaTrois">
     <title>Taffy - Série d'animation</title>
-    <desc>Mission Mish et Mash (Saison 1 Episode 4)
+    <desc>Mission Mish et Mash (Saison 1 Episode 9)
 Bentley est un fidèle chien de garde. Lorsque la milliardaire Madame Millesous, sa maîtresse, adopte Taffy, un sournois raton laveur qui se fait passer pour un chat domestique, Bentley tente de révéler la véritable nature de Taffy.</desc>
     <icon src="https://www.programme-tv.net/imgre/fit/http.3A.2F.2Fprmd.2Etmsimg.2Ecom.2Fassets.2Fp17230698_b_h2_aa.2Ejpg/630x355/quality/80/taffy.jpg"/>
   </programme>
   <programme start="20250415121000 +0200" stop="20250415121700 +0200" channel="LaTrois">
     <title>Taffy - Série d'animation</title>
-    <desc>Défaillance système (Saison 1 Episode 4)
+    <desc>Défaillance système (Saison 1 Episode 9)
 Bentley est un fidèle chien de garde. Lorsque la milliardaire Madame Millesous, sa maîtresse, adopte Taffy, un sournois raton laveur qui se fait passer pour un chat domestique, Bentley tente de révéler la véritable nature de Taffy.</desc>
     <icon src="https://www.programme-tv.net/imgre/fit/http.3A.2F.2Fprmd.2Etmsimg.2Ecom.2Fassets.2Fp17230698_b_h2_aa.2Ejpg/630x355/quality/80/taffy.jpg"/>
   </programme>
   <programme start="20250415121700 +0200" stop="20250415122400 +0200" channel="LaTrois">
     <title>Taffy - Série d'animation</title>
-    <desc>Le miracle de Noël (Saison 1 Episode 4)
+    <desc>Le miracle de Noël (Saison 1 Episode 9)
 Bentley est un fidèle chien de garde. Lorsque la milliardaire Madame Millesous, sa maîtresse, adopte Taffy, un sournois raton laveur qui se fait passer pour un chat domestique, Bentley tente de révéler la véritable nature de Taffy.</desc>
     <icon src="https://www.programme-tv.net/imgre/fit/http.3A.2F.2Fprmd.2Etmsimg.2Ecom.2Fassets.2Fp17230698_b_h2_aa.2Ejpg/630x355/quality/80/taffy.jpg"/>
   </programme>
   <programme start="20250415122400 +0200" stop="20250415123100 +0200" channel="LaTrois">
     <title>Taffy - Série d'animation</title>
-    <desc>Eau de caviar (Saison 1 Episode 4)
+    <desc>Eau de caviar (Saison 1 Episode 9)
 Bentley est un fidèle chien de garde. Lorsque la milliardaire Madame Millesous, sa maîtresse, adopte Taffy, un sournois raton laveur qui se fait passer pour un chat domestique, Bentley tente de révéler la véritable nature de Taffy.</desc>
     <icon src="https://www.programme-tv.net/imgre/fit/http.3A.2F.2Fprmd.2Etmsimg.2Ecom.2Fassets.2Fp17230698_b_h2_aa.2Ejpg/630x355/quality/80/taffy.jpg"/>
   </programme>
   <programme start="20250415123100 +0200" stop="20250415123800 +0200" channel="LaTrois">
     <title>Taffy - Série d'animation</title>
-    <desc>Lolcat (Saison 1 Episode 4)
+    <desc>Lolcat (Saison 1 Episode 9)
 Bentley est un fidèle chien de garde. Lorsque la milliardaire Madame Millesous, sa maîtresse, adopte Taffy, un sournois raton laveur qui se fait passer pour un chat domestique, Bentley tente de révéler la véritable nature de Taffy.</desc>
     <icon src="https://www.programme-tv.net/imgre/fit/http.3A.2F.2Fprmd.2Etmsimg.2Ecom.2Fassets.2Fp17230698_b_h2_aa.2Ejpg/630x355/quality/80/taffy.jpg"/>
   </programme>
   <programme start="20250415123800 +0200" stop="20250415124500 +0200" channel="LaTrois">
     <title>Taffy - Série d'animation</title>
-    <desc>L'admiratrice secrète (Saison 1 Episode 4)
+    <desc>L'admiratrice secrète (Saison 1 Episode 9)
 Bentley est un fidèle chien de garde. Lorsque la milliardaire Madame Millesous, sa maîtresse, adopte Taffy, un sournois raton laveur qui se fait passer pour un chat domestique, Bentley tente de révéler la véritable nature de Taffy.</desc>
     <icon src="https://www.programme-tv.net/imgre/fit/http.3A.2F.2Fprmd.2Etmsimg.2Ecom.2Fassets.2Fp17230698_b_h2_aa.2Ejpg/630x355/quality/80/taffy.jpg"/>
   </programme>
   <programme start="20250415124500 +0200" stop="20250415125200 +0200" channel="LaTrois">
     <title>Taffy - Série d'animation</title>
-    <desc>La grande évasion (Saison 1 Episode 4)
+    <desc>La grande évasion (Saison 1 Episode 9)
 Bentley est un fidèle chien de garde. Lorsque la milliardaire Madame Millesous, sa maîtresse, adopte Taffy, un sournois raton laveur qui se fait passer pour un chat domestique, Bentley tente de révéler la véritable nature de Taffy.</desc>
     <icon src="https://www.programme-tv.net/imgre/fit/http.3A.2F.2Fprmd.2Etmsimg.2Ecom.2Fassets.2Fp17230698_b_h2_aa.2Ejpg/630x355/quality/80/taffy.jpg"/>
   </programme>
   <programme start="20250415125200 +0200" stop="20250415130100 +0200" channel="LaTrois">
     <title>Taffy - Série d'animation</title>
-    <desc>Pour quelques nonos de plus (Saison 1 Episode 4)
+    <desc>Pour quelques nonos de plus (Saison 1 Episode 9)
 Bentley est un fidèle chien de garde. Lorsque la milliardaire Madame Millesous, sa maîtresse, adopte Taffy, un sournois raton laveur qui se fait passer pour un chat domestique, Bentley tente de révéler la véritable nature de Taffy.</desc>
     <icon src="https://www.programme-tv.net/imgre/fit/http.3A.2F.2Fprmd.2Etmsimg.2Ecom.2Fassets.2Fp17230698_b_h2_aa.2Ejpg/630x355/quality/80/taffy.jpg"/>
   </programme>
@@ -10515,36 +10605,6 @@ Cette semaine, un ancien champion du monde de karaté nous fait l'honneur d'êtr
     <title>Sky Sports News - </title>
     <desc>Generic Sky Sports News
 </desc>
-  </programme>
-  <programme start="20250415061500 +0200" stop="20250415090000 +0200" channel="MovistarGolf">
-    <title>Movistar Golf - Deportes</title>
-    <desc>
-Movistar Golf.</desc>
-    <icon src="https://cdn.sincroguia.tv/uploads/programs/l/i/g/xliga-colombiana-787099_SPA-74.jpg.pagespeed.ic.4_-EOCNleh.jpg"/>
-  </programme>
-  <programme start="20250415090000 +0200" stop="20250415095000 +0200" channel="MovistarGolf">
-    <title>The Legends Tour - Golf</title>
-    <desc>
-El Staysure Tour, el circuito senior europeo se relanza con una nueva imagen y un nuevo nombre: Legends Tour. Son leyendas, capitanes ganadores de Ryder Cup, campeones de major e iconos de golf.</desc>
-    <icon src="https://cdn.sincroguia.tv/uploads/programs/i/t/f/xitf-world-tennis-tour-valencia-942018_SPA-82.jpg.pagespeed.ic.sZnwpCfKP2.jpg"/>
-  </programme>
-  <programme start="20250415095000 +0200" stop="20250415102500 +0200" channel="MovistarGolf">
-    <title>Sueños de Golf - Programas</title>
-    <desc>
-Nos gusta soñar en verde. Todos los sueños, grandes y pequeños, caben en un deporte que te atrapa. Historias de ayer y de hoy.</desc>
-    <icon src="https://cdn.sincroguia.tv/uploads/programs/n/o/t/xnoticias-v-2030-942079_SPA-59.jpg.pagespeed.ic.x5Y11u9bFy.jpg"/>
-  </programme>
-  <programme start="20250415102500 +0200" stop="20250415105000 +0200" channel="MovistarGolf">
-    <title>Lara Academy - Programas</title>
-    <desc>
-José Manuel Lara, dos veces ganador en el European Tour, se convierte en el profesor particular de los abonados de Movistar Golf con consejos en el campo de prácticas, situaciones reales de juego, consultas de espectadores y análisis de los profesion.</desc>
-    <icon src="https://cdn.sincroguia.tv/uploads/programs/l/a/r/xlara-academy-1129377_SPA-10.jpg.pagespeed.ic.waHgwCRIi7.jpg"/>
-  </programme>
-  <programme start="20250415105000 +0200" stop="20250415110500 +0200" channel="MovistarGolf">
-    <title>Play Off - Programas</title>
-    <desc>
-Un espacio que analiza toda la actualidad del mundo del golf. El noticiario hace especial hincapié en las citas del PGA Tour y del circuito europeo.</desc>
-    <icon src="https://cdn.sincroguia.tv/uploads/programs/p/l/a/xplay-off-991655_SPA-56.jpg.pagespeed.ic.MnkppxrKDe.jpg"/>
   </programme>
   <programme start="20250415110500 +0200" stop="20250415150500 +0200" channel="MovistarGolf">
     <title>Masters de Augusta - Golf</title>
