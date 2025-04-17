@@ -6,7 +6,7 @@ http://1234up.com:8080/live/uzk1jcC96yD6PMSN/kzXKY9UMgQ/9629.ts
 http://1234up.com:8080/live/uzk1jcC96yD6PMSN/kzXKY9UMgQ/782389.ts
 #EXTINF:-1 tvg-id="France3" tvg-logo="https://ppechenot.github.io/perso/logos/france3.png" group-title="TNT",FRANCE 3
 http://1234up.com:8080/live/uzk1jcC96yD6PMSN/kzXKY9UMgQ/9631.ts
-#EXTINF:-1 tvg-id="France4" tvg-logo="https://ppechenot.github.io/perso/logos/france4.png" group-title=" TNT",FRANCE 4
+#EXTINF:-1 tvg-id="France4" tvg-logo="https://ppechenot.github.io/perso/logos/france4.png" group-title="TNT",FRANCE 4
 http://1234up.com:8080/live/uzk1jcC96yD6PMSN/kzXKY9UMgQ/9641.ts
 #EXTINF:-1 tvg-id="France5" tvg-logo="https://ppechenot.github.io/perso/logos/france5.png" group-title="TNT",FRANCE 5
 http://1234up.com:8080/live/uzk1jcC96yD6PMSN/kzXKY9UMgQ/9632.ts
@@ -131,11 +131,11 @@ http://1234up.com:8080/live/uzk1jcC96yD6PMSN/kzXKY9UMgQ/9705.ts
 http://1234up.com:8080/live/uzk1jcC96yD6PMSN/kzXKY9UMgQ/716251.ts
 #EXTINF:-1 tvg-id="GolfPlus" tvg-logo="https://ppechenot.github.io/perso/logos/golf+.png" group-title="SPORT",GOLF+
 http://1234up.com:8080/live/uzk1jcC96yD6PMSN/kzXKY9UMgQ/9715.ts
-#EXTINF:-1 tvg-id="JournalDuGolf" tvg-logo="https://ppechenot.github.io/perso/logos/journal_du_golf.png",Journal du Golf
+#EXTINF:-1 tvg-id="JournalDuGolf" tvg-logo="https://ppechenot.github.io/perso/logos/journal_du_golf.png" group-title="SPORT",Journal du Golf
 http://1234up.com:8080/live/uzk1jcC96yD6PMSN/kzXKY9UMgQ/632268.ts
-#EXTINF:-1 tvg-id="SkySportsGolf" tvg-logo="https://ppechenot.github.io/perso/logos/sky_sports_golf_uk.png" group-title="KING - SPORT",SKY SPORTS GOLF
+#EXTINF:-1 tvg-id="SkySportsGolf" tvg-logo="https://ppechenot.github.io/perso/logos/sky_sports_golf_uk.png" group-title="SPORT",SKY SPORTS GOLF
 http://1234up.com:8080/live/uzk1jcC96yD6PMSN/kzXKY9UMgQ/646088.ts
-#EXTINF:-1 tvg-id="SkySportsMix" tvg-logo="https://ppechenot.github.io/perso/logos/sky_sports_golf_uk.png" group-title="KING - SPORT",SKY SPORTS MIX
+#EXTINF:-1 tvg-id="SkySportsMix" tvg-logo="https://ppechenot.github.io/perso/logos/sky_sports_golf_uk.png" group-title="SPORT",SKY SPORTS MIX
 http://1234up.com:8080/live/uzk1jcC96yD6PMSN/kzXKY9UMgQ/646100.ts
 #EXTINF:-1 tvg-id="MovistarGolf" tvg-logo="https://ppechenot.github.io/perso/logos/movistar_golf.png" group-title="SPORT",M+ GOLF
 http://1234up.com:8080/live/uzk1jcC96yD6PMSN/kzXKY9UMgQ/14268.ts
