@@ -79,7 +79,7 @@ http://eagle2024.xyz:80/play/live.php?mac=00:1A:79:CC:21:13&stream=275833&extens
 #EXTINF:-1 tvg-id="SerieClub" tvg-logo="https://ppechenot.github.io/perso/logos/serieclub.png" group-title="SERIES",SERIECLUB
 http://eagle2024.xyz:80/play/live.php?mac=00:1A:79:CC:21:13&stream=250666&extension=ts
 #EXTINF:-1 tvg-id="TvBreizh" tvg-logo="https://ppechenot.github.io/perso/logos/tvbreizh.png" group-title="SERIES",TV BREIZH
-http://eagle2024.xyz:80/play/live.php?mac=00:1A:79:CC:21:13&stream=148472&extension=ts
+http://eagle2024.xyz:80/play/live.php?mac=00:1A:79:CC:21:13&stream=32803&extension=ts
 #EXTINF:-1 tvg-id="Teva" tvg-logo="https://ppechenot.github.io/perso/logos/teva.png" group-title="SERIES",TEVA
 http://eagle2024.xyz:80/play/live.php?mac=00:1A:79:CC:21:13&stream=275732&extension=ts
 #EXTINF:-1 tvg-id="ParisPremiere" tvg-logo="https://ppechenot.github.io/perso/logos/paris_premiere.png" group-title="SERIES",PARIS PREMIERE
