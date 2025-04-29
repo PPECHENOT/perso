@@ -9,13 +9,13 @@ http://platineiptv.pro:8789/play/live.php?mac=00:1A:79:64:7A:8A&stream=13738&ext
 #EXTINF:-1 tvg-id="France4" tvg-logo="https://ppechenot.github.io/perso/logos/france4.png" group-title="TNT",FRANCE 4
 http://platineiptv.pro:8789/play/live.php?mac=00:1A:79:64:7A:8A&stream=13737&extension=ts
 #EXTINF:-1 tvg-id="France5" tvg-logo="https://ppechenot.github.io/perso/logos/france5.png" group-title="TNT",FRANCE 5
-http://platineiptv.pro:8789/play/live.php?mac=00:1A:79:64:7A:8A&stream=13736&extension=ts
+http://platineiptv.pro:8789/play/live.php?mac=00:1A:79:64:7A:8A&stream=139530&extension=ts
 #EXTINF:-1 tvg-id="M6" tvg-logo="https://ppechenot.github.io/perso/logos/m6.png" group-title="TNT",M6
 http://platineiptv.pro:8789/play/live.php?mac=00:1A:79:64:7A:8A&stream=13726&extension=ts
 #EXTINF:-1 tvg-id="Arte" tvg-logo="https://ppechenot.github.io/perso/logos/arte.png" group-title="TNT",ARTE
 http://platineiptv.pro:8789/play/live.php?mac=00:1A:79:64:7A:8A&stream=13788&extension=ts
 #EXTINF:-1 tvg-id="W9" tvg-logo="https://ppechenot.github.io/perso/logos/w9.png" group-title="TNT",W9
-http://platineiptv.pro:8789/play/live.php?mac=00:1A:79:64:7A:8A&stream=13690&extension=ts
+http://platineiptv.pro:8789/play/live.php?mac=00:1A:79:64:7A:8A&stream=47481&extension=ts
 #EXTINF:-1 tvg-id="TMC" tvg-logo="https://ppechenot.github.io/perso/logos/tmc.png" group-title="TNT",TMC
 http://platineiptv.pro:8789/play/live.php?mac=00:1A:79:64:7A:8A&stream=13696&extension=ts
 #EXTINF:-1 tvg-id="TFX" tvg-logo="https://ppechenot.github.io/perso/logos/tfx.png" group-title="TNT",TFX
