@@ -27,7 +27,7 @@ http://platineiptv.pro:8789/play/live.php?mac=00:1A:79:64:7A:8A&stream=14008&ext
 #EXTINF:-1 tvg-id="6ter" tvg-logo="https://ppechenot.github.io/perso/logos/6ter.png" group-title="TNT",6TER
 http://platineiptv.pro:8789/play/live.php?mac=00:1A:79:64:7A:8A&stream=13793&extension=ts
 #EXTINF:-1 tvg-id="RMCStory" tvg-logo="https://ppechenot.github.io/perso/logos/rmc_story.png" group-title="TNT",RMC STORY
-http://platineiptv.pro:8789/play/live.php?mac=00:1A:79:64:7A:8A&stream=13715&extension=ts
+http://platineiptv.pro:8789/play/live.php?mac=00:1A:79:64:7A:8A&stream=13997&extension=ts
 #EXTINF:-1 tvg-id="Cherie25" tvg-logo="https://ppechenot.github.io/perso/logos/cherie25.png" group-title="TNT",CHERIE 25
 http://platineiptv.pro:8789/play/live.php?mac=00:1A:79:64:7A:8A&stream=13760&extension=ts
 #EXTINF:-1 tvg-id="LCP" tvg-logo="https://ppechenot.github.io/perso/logos/lcp.png" group-title="TNT",LCP
