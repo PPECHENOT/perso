@@ -67,7 +67,7 @@ http://eagle2024.xyz:80/play/live.php?mac=00:1A:79:CC:21:13&stream=275752&extens
 #EXTINF:-1 tvg-id="CanalPlusSeries" tvg-logo="https://ppechenot.github.io/perso/logos/canal+_series.png" group-title="SERIES",CANAL+ SERIES
 http://eagle2024.xyz:80/play/live.php?mac=00:1A:79:CC:21:13&stream=275686&extension=ts
 #EXTINF:-1 tvg-id="PolarPlus" tvg-logo="https://ppechenot.github.io/perso/logos/polar+.png" group-title="SERIES",POLAR+
-http://eagle2024.xyz:80/play/live.php?mac=00:1A:79:CC:21:13&stream=275725&extension=ts
+http://eagle2024.xyz:80/play/live.php?mac=00:1A:79:CC:21:13&stream=250668&extension=ts
 #EXTINF:-1 tvg-id="ComediePlus" tvg-logo="https://ppechenot.github.io/perso/logos/comedie+.png" group-title="SERIES",COMEDIE+
 http://eagle2024.xyz:80/play/live.php?mac=00:1A:79:CC:21:13&stream=275825&extension=ts
 #EXTINF:-1 tvg-id="13Rue" tvg-logo="https://ppechenot.github.io/perso/logos/13eme_rue.png" group-title="SERIES",13EME RUE
