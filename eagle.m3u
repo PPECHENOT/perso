@@ -134,7 +134,7 @@ http://eagle2024.xyz:80/play/live.php?mac=00:1A:79:CC:21:13&stream=275667&extens
 #EXTINF:-1 tvg-id="GolfPlus" tvg-logo="https://ppechenot.github.io/perso/logos/golf+.png" group-title="SPORT",GOLF+
 http://eagle2024.xyz:80/play/live.php?mac=00:1A:79:CC:21:13&stream=275704&extension=ts
 #EXTINF:-1 tvg-id="SkySportsGolf" tvg-logo="https://ppechenot.github.io/perso/logos/sky_sports_golf_uk.png" group-title="SPORT",SKY SPORTS GOLF
-http://eagle2024.xyz:80/play/live.php?mac=00:1A:79:CC:21:13&stream=693878&extension=ts
+http://eagle2024.xyz:80/play/live.php?mac=00:1A:79:CC:21:13&stream=268065&extension=ts
 #EXTINF:-1 tvg-id="VSportGolf" tvg-logo="https://ppechenot.github.io/perso/logos/vsport_golf.png" group-title="SPORT",V SPORT GOLF
 http://eagle2024.xyz:80/play/live.php?mac=00:1A:79:CC:21:13&stream=230903&extension=ts
 #EXTINF:-1 tvg-id="TheGolfChannel" tvg-logo="https://ppechenot.github.io/perso/logos/nbc_golf_channel.png" group-title="SPORT",NBC GOLF
