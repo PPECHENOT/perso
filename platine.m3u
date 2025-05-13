@@ -19,7 +19,7 @@ http://platineiptv.pro:8789/play/live.php?mac=00:1A:79:64:7A:8A&stream=47481&ext
 #EXTINF:-1 tvg-id="TMC" tvg-logo="https://ppechenot.github.io/perso/logos/tmc.png" group-title="TNT",TMC
 http://platineiptv.pro:8789/play/live.php?mac=00:1A:79:64:7A:8A&stream=13696&extension=ts
 #EXTINF:-1 tvg-id="TFX" tvg-logo="https://ppechenot.github.io/perso/logos/tfx.png" group-title="TNT",TFX
-http://platineiptv.pro:8789/play/live.php?mac=00:1A:79:64:7A:8A&stream=13716&extension=ts
+http://platineiptv.pro:8789/play/live.php?mac=00:1A:79:64:7A:8A&stream=47492&extension=ts
 #EXTINF:-1 tvg-id="CStar" tvg-logo="https://ppechenot.github.io/perso/logos/cstar.png" group-title="TNT",CSTAR
 http://platineiptv.pro:8789/play/live.php?mac=00:1A:79:64:7A:8A&stream=13749&extension=ts
 #EXTINF:-1 tvg-id="TF1SeriesFilms" tvg-logo="https://ppechenot.github.io/perso/logos/tf1_series_films.png" group-title="TNT",TF1 SERIES FILMS
