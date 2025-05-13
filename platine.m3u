@@ -11,7 +11,7 @@ http://platineiptv.pro:8789/play/live.php?mac=00:1A:79:64:7A:8A&stream=13737&ext
 #EXTINF:-1 tvg-id="France5" tvg-logo="https://ppechenot.github.io/perso/logos/france5.png" group-title="TNT",FRANCE 5
 http://platineiptv.pro:8789/play/live.php?mac=00:1A:79:64:7A:8A&stream=139530&extension=ts
 #EXTINF:-1 tvg-id="M6" tvg-logo="https://ppechenot.github.io/perso/logos/m6.png" group-title="TNT",M6
-http://platineiptv.pro:8789/play/live.php?mac=00:1A:79:64:7A:8A&stream=13726&extension=ts
+http://platineiptv.pro:8789/play/live.php?mac=00:1A:79:64:7A:8A&stream=47479&extension=ts
 #EXTINF:-1 tvg-id="Arte" tvg-logo="https://ppechenot.github.io/perso/logos/arte.png" group-title="TNT",ARTE
 http://platineiptv.pro:8789/play/live.php?mac=00:1A:79:64:7A:8A&stream=13788&extension=ts
 #EXTINF:-1 tvg-id="W9" tvg-logo="https://ppechenot.github.io/perso/logos/w9.png" group-title="TNT",W9
