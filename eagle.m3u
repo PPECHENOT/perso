@@ -116,7 +116,7 @@ http://eagle2024.xyz:80/play/live.php?mac=00:1A:79:CC:21:13&stream=1186395&exten
 #EXTINF:-1 tvg-id="LEquipe" tvg-logo="https://ppechenot.github.io/perso/logos/lequipe.png" group-title="SPORT",L'EQUIPE
 http://eagle2024.xyz:80/play/live.php?mac=00:1A:79:CC:21:13&stream=275708&extension=ts
 #EXTINF:-1 tvg-id="CanalPlusSport" tvg-logo="https://ppechenot.github.io/perso/logos/canal+_sport.png" group-title="SPORT",CANAL+ SPORT
-http://eagle2024.xyz:80/play/live.php?mac=00:1A:79:CC:21:13&stream=275687&extension=ts
+http://eagle2024.xyz:80/play/live.php?mac=00:1A:79:CC:21:13&stream=250679&extension=ts
 #EXTINF:-1 tvg-id="CanalPlusSport360" tvg-logo="https://ppechenot.github.io/perso/logos/canal+_sport_360.png" group-title="SPORT",CANAL+ SPORT 360
 http://eagle2024.xyz:80/play/live.php?mac=00:1A:79:CC:21:13&stream=256628&extension=ts
 #EXTINF:-1 tvg-id="Eurosport1" tvg-logo="https://ppechenot.github.io/perso/logos/eurosport1.png" group-title="SPORT",EUROSPORT 1
