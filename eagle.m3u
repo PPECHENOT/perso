@@ -94,7 +94,7 @@ http://eagle2024.xyz:80/play/live.php?mac=00:1A:79:CC:21:13&stream=275807&extens
 #EXTINF:-1 tvg-id="NatGeoWild" tvg-logo="https://ppechenot.github.io/perso/logos/nat_geo_wild.png" group-title="CULTURE",NAT GEO WILD
 http://eagle2024.xyz:80/play/live.php?mac=00:1A:79:CC:21:13&stream=275829&extension=ts
 #EXTINF:-1 tvg-id="ScienceEtVieTV" tvg-logo="https://ppechenot.github.io/perso/logos/science_et_vie_tv.png" group-title="CULTURE",SCIENCE & VIE
-http://eagle2024.xyz:80/play/live.php?mac=00:1A:79:CC:21:13&stream=250649&extension=ts
+http://eagle2024.xyz:80/play/live.php?mac=00:1A:79:CC:21:13&stream=2543&extension=ts
 #EXTINF:-1 tvg-id="UshuaiaTV" tvg-logo="https://ppechenot.github.io/perso/logos/ushuaia_tv.png" group-title="CULTURE",USHUAIA TV
 http://eagle2024.xyz:80/play/live.php?mac=00:1A:79:CC:21:13&stream=275798&extension=ts
 #EXTINF:-1 tvg-id="HistoireTV" tvg-logo="https://ppechenot.github.io/perso/logos/histoire_tv.png" group-title="CULTURE",HISTOIRE
