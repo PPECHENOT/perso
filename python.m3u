@@ -113,9 +113,9 @@ http://4kgoott.com:8880/play/live.php?mac=00:1A:79:F0:85:C4&stream=279&extension
 
 #EXTINF:-1 tvg-id="LEquipe" tvg-logo="https://ppechenot.github.io/perso/logos/lequipe.png" group-title="SPORT",L'EQUIPE
 http://4kgoott.com:8880/play/live.php?mac=00:1A:79:F0:85:C4&stream=1511&extension=ts
-#EXTINF:-1 tvg-id="LEquipe" tvg-logo="https://ppechenot.github.io/perso/logos/lequipe.png" group-title="SPORT",L'EQUIPE LIVE 1
+#EXTINF:-1 tvg-id="" tvg-logo="https://ppechenot.github.io/perso/logos/lequipelive1.png" group-title="SPORT",L'EQUIPE LIVE 1
 http://4kgoott.com:8880/play/live.php?mac=00:1A:79:F0:85:C4&stream=532534&extension=ts
-#EXTINF:-1 tvg-id="LEquipe" tvg-logo="https://ppechenot.github.io/perso/logos/lequipe.png" group-title="SPORT",L'EQUIPE LIVE 2
+#EXTINF:-1 tvg-id="" tvg-logo="https://ppechenot.github.io/perso/logos/lequipelive2.png" group-title="SPORT",L'EQUIPE LIVE 2
 http://4kgoott.com:8880/play/live.php?mac=00:1A:79:F0:85:C4&stream=344997&extension=ts
 #EXTINF:-1 tvg-id="CanalPlusSport" tvg-logo="https://ppechenot.github.io/perso/logos/canal+_sport.png" group-title="SPORT",CANAL+ SPORT
 http://4kgoott.com:8880/play/live.php?mac=00:1A:79:F0:85:C4&stream=54601&extension=ts
