@@ -67,7 +67,7 @@ http://4kgoott.com:8880/play/live.php?mac=00:1A:79:F0:85:C4&stream=1885&extensio
 #EXTINF:-1 tvg-id="PolarPlus" tvg-logo="https://ppechenot.github.io/perso/logos/polar+.png" group-title="SERIES",POLAR+
 http://4kgoott.com:8880/play/live.php?mac=00:1A:79:F0:85:C4&stream=683&extension=ts
 #EXTINF:-1 tvg-id="ComediePlus" tvg-logo="https://ppechenot.github.io/perso/logos/comedie+.png" group-title="SERIES",COMEDIE+
-http://4kgoott.com:8880/play/live.php?mac=00:1A:79:F0:85:C4&stream=1890&extension=ts
+http://4kgoott.com:8880/play/live.php?mac=00:1A:79:F0:85:C4&stream=192&extension=ts
 #EXTINF:-1 tvg-id="13Rue" tvg-logo="https://ppechenot.github.io/perso/logos/13eme_rue.png" group-title="SERIES",13EME RUE
 http://4kgoott.com:8880/play/live.php?mac=00:1A:79:F0:85:C4&stream=242&extension=ts
 #EXTINF:-1 tvg-id="Syfy" tvg-logo="https://ppechenot.github.io/perso/logos/syfy.png" group-title="SERIES",SYFY
