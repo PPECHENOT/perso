@@ -114,30 +114,30 @@ http://eagle2024.xyz:80/play/live.php?mac=00:1A:79:24:7A:C9&stream=1186382&exten
 http://eagle2024.xyz:80/play/live.php?mac=00:1A:79:24:7A:C9&stream=1186395&extension=ts
 
 #EXTINF:-1 tvg-id="LEquipe" tvg-logo="https://ppechenot.github.io/perso/logos/lequipe.png" group-title="SPORT",L'EQUIPE
-http://eagle2024.xyz:80/play/live.php?mac=00:1A:79:24:7A:C9&stream=275708&extension=ts
+http://eagle2024.xyz:80/play/live.php?mac=00:1A:79:24:7A:C9&stream=32841&extension=ts
 #EXTINF:-1 tvg-id="CanalPlusSport" tvg-logo="https://ppechenot.github.io/perso/logos/canal+_sport.png" group-title="SPORT",CANAL+ SPORT
 http://eagle2024.xyz:80/play/live.php?mac=00:1A:79:24:7A:C9&stream=250679&extension=ts
 #EXTINF:-1 tvg-id="CanalPlusSport360" tvg-logo="https://ppechenot.github.io/perso/logos/canal+_sport_360.png" group-title="SPORT",CANAL+ SPORT 360
 http://eagle2024.xyz:80/play/live.php?mac=00:1A:79:24:7A:C9&stream=256628&extension=ts
 #EXTINF:-1 tvg-id="Eurosport1" tvg-logo="https://ppechenot.github.io/perso/logos/eurosport1.png" group-title="SPORT",EUROSPORT 1
-http://eagle2024.xyz:80/play/live.php?mac=00:1A:79:24:7A:C9&stream=275797&extension=ts
+http://eagle2024.xyz:80/play/live.php?mac=00:1A:79:24:7A:C9&stream=250665&extension=ts
 #EXTINF:-1 tvg-id="Eurosport2" tvg-logo="https://ppechenot.github.io/perso/logos/eurosport2.png" group-title="SPORT",EUROSPORT 2
-http://eagle2024.xyz:80/play/live.php?mac=00:1A:79:24:7A:C9&stream=275700&extension=ts
+http://eagle2024.xyz:80/play/live.php?mac=00:1A:79:24:7A:C9&stream=250664&extension=ts
 #EXTINF:-1 tvg-id="BeinSports1" tvg-logo="https://ppechenot.github.io/perso/logos/bein_sports1.png" group-title="SPORT",BEIN SPORTS 1
-http://eagle2024.xyz:80/play/live.php?mac=00:1A:79:24:7A:C9&stream=275795&extension=ts
+http://eagle2024.xyz:80/play/live.php?mac=00:1A:79:24:7A:C9&stream=146116&extension=ts
 #EXTINF:-1 tvg-id="BeinSports2" tvg-logo="https://ppechenot.github.io/perso/logos/bein_sports2.png" group-title="SPORT",BEIN SPORTS 2
-http://eagle2024.xyz:80/play/live.php?mac=00:1A:79:24:7A:C9&stream=275671&extension=ts
+http://eagle2024.xyz:80/play/live.php?mac=00:1A:79:24:7A:C9&stream=149773&extension=ts
 #EXTINF:-1 tvg-id="BeinSports3" tvg-logo="https://ppechenot.github.io/perso/logos/bein_sports3.png" group-title="SPORT",BEIN SPORTS 3
-http://eagle2024.xyz:80/play/live.php?mac=00:1A:79:24:7A:C9&stream=275672&extension=ts
+http://eagle2024.xyz:80/play/live.php?mac=00:1A:79:24:7A:C9&stream=250663&extension=ts
 #EXTINF:-1 tvg-id="SportEnFrance" tvg-logo="https://ppechenot.github.io/perso/logos/sport_en_france.png" group-title="SPORT",SPORT EN FRANCE
-http://eagle2024.xyz:80/play/live.php?mac=00:1A:79:24:7A:C9&stream=275667&extension=ts
+http://eagle2024.xyz:80/play/live.php?mac=00:1A:79:24:7A:C9&stream=92503&extension=ts
 #EXTINF:-1 tvg-id="GolfPlus" tvg-logo="https://ppechenot.github.io/perso/logos/golf+.png" group-title="SPORT",GOLF+
-http://eagle2024.xyz:80/play/live.php?mac=00:1A:79:24:7A:C9&stream=275704&extension=ts
+http://eagle2024.xyz:80/play/live.php?mac=00:1A:79:24:7A:C9&stream=250662&extension=ts
 #EXTINF:-1 tvg-id="SkySportsGolf" tvg-logo="https://ppechenot.github.io/perso/logos/sky_sports_golf_uk.png" group-title="SPORT",SKY SPORTS GOLF
-http://eagle2024.xyz:80/play/live.php?mac=00:1A:79:24:7A:C9&stream=268065&extension=ts
+http://eagle2024.xyz:80/play/live.php?mac=00:1A:79:24:7A:C9&stream=10515&extension=ts
 #EXTINF:-1 tvg-id="VSportGolf" tvg-logo="https://ppechenot.github.io/perso/logos/vsport_golf.png" group-title="SPORT",V SPORT GOLF
 http://eagle2024.xyz:80/play/live.php?mac=00:1A:79:24:7A:C9&stream=230903&extension=ts
 #EXTINF:-1 tvg-id="TheGolfChannel" tvg-logo="https://ppechenot.github.io/perso/logos/nbc_golf_channel.png" group-title="SPORT",NBC GOLF
 http://eagle2024.xyz:80/play/live.php?mac=00:1A:79:24:7A:C9&stream=76670&extension=ts
 #EXTINF:-1 tvg-id="MovistarGolf" tvg-logo="https://ppechenot.github.io/perso/logos/movistar_golf.png" group-title="SPORT",M+ GOLF
-http://eagle2024.xyz:80/play/live.php?mac=00:1A:79:24:7A:C9&stream=201498&extension=ts
+http://eagle2024.xyz:80/play/live.php?mac=00:1A:79:24:7A:C9&stream=117069&extension=ts
