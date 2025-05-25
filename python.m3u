@@ -3,7 +3,7 @@
 #EXTINF:-1 tvg-id="TF1" tvg-logo="https://ppechenot.github.io/perso/logos/tf1.png" group-title="TNT",TF1
 http://4kgoott.com:8880/play/live.php?mac=00:1A:79:F0:85:C4&stream=9561&extension=ts
 #EXTINF:-1 tvg-id="France2" tvg-logo="https://ppechenot.github.io/perso/logos/france2.png" group-title="TNT",FRANCE 2
-http://4kgoott.com:8880/play/live.php?mac=00:1A:79:F0:85:C4&stream=1502&extension=ts
+http://4kgoott.com:8880/play/live.php?mac=00:1A:79:F0:85:C4&stream=54671&extension=ts
 #EXTINF:-1 tvg-id="France3" tvg-logo="https://ppechenot.github.io/perso/logos/france3.png" group-title="TNT",FRANCE 3
 http://4kgoott.com:8880/play/live.php?mac=00:1A:79:F0:85:C4&stream=613&extension=ts
 #EXTINF:-1 tvg-id="France4" tvg-logo="https://ppechenot.github.io/perso/logos/france4.png" group-title="TNT",FRANCE 4
