@@ -3,13 +3,13 @@
 #EXTINF:-1 tvg-id="TF1" tvg-logo="https://ppechenot.github.io/perso/logos/tf1.png",TF1
 https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/tf1plus/tf1.m3u8
 #EXTINF:-1 tvg-id="France2" tvg-logo="https://ppechenot.github.io/perso/logos/france2.png",FRANCE 2
-https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/francetv/ssai/france2.m3u8
+https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/francetv/france2.m3u8
 #EXTINF:-1 tvg-id="France3" tvg-logo="https://ppechenot.github.io/perso/logos/france3.png",FRANCE 3
-https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/francetv/ssai/france3.m3u8
+https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/francetv/france3.m3u8
 #EXTINF:-1 tvg-id="France4" tvg-logo="https://ppechenot.github.io/perso/logos/france4.png",FRANCE 4
 https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/francetv/france4.m3u8
 #EXTINF:-1 tvg-id="France5" tvg-logo="https://ppechenot.github.io/perso/logos/france5.png",FRANCE 5
-https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/francetv/ssai/france5.m3u8
+https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/francetv/france5.m3u8
 #EXTINF:-1 tvg-id="Arte" tvg-logo="https://ppechenot.github.io/perso/logos/arte.png",ARTE
 https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/francetv/arte.m3u8
 #EXTINF:-1 tvg-id="TF1SeriesFilms" tvg-logo="https://ppechenot.github.io/perso/logos/tf1_series_films.png",TF1 SERIES FILMS
