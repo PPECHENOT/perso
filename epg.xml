@@ -5424,209 +5424,657 @@ Au sommaire : Des atouts touristiques * Le phénomène repats * Un parc national
       <value>4</value>
     </star-rating>
   </programme>
-  <programme start="20250529002500 +0200" stop="20250529020500 +0200" channel="TvBreizh">
-    <title lang="fr">Meurtres à..</title>
-    <sub-title lang="fr">Meurtres à Etretat</sub-title>
-    <desc lang="fr">Mis à part une petite escapade dans le Vaucluse dominé par le mont Ventoux, c'est la façade Ouest de la France qui est essentiellement mise à l'honneur, avec des intrigues situées à Guérande, à l'île d'Yeu ou à Etretat, où un notable a chuté du haut des falaises. Mais peut-être pas tout seul. Claire Borotra, Antoine Duléry, Adriana Karembeu ou encore Bruno Madinier campent dans cette seconde saison l'un des éléments des duos qui oeuvret à résoudre ces meurtres mystérieux.</desc>
-    <category lang="fr">Série TV</category>
-    <category lang="fr">Série policière</category>
-    <icon src="https://www.programme-tv.net/imgre/fit/https.3A.2F.2Fs1.2Edmcdn.2Enet.2Fv.2FTWnLm1X-Hd5-VoTob/640x360/crop-from/top/quality/80/meurtres-a.jpg" />
-    <previously-shown />
-  </programme>
-  <programme start="20250529020500 +0200" stop="20250529055000 +0200" channel="TvBreizh">
+  <programme start="20250529000500 +0000" stop="20250529035000 +0000" channel="TvBreizh">
     <title lang="fr">Programmes de la nuit</title>
-    <desc lang="fr">Retrouvez tous vos programmes de nuit.</desc>
-    <category lang="fr">Autre</category>
-    <category lang="fr">Programme indéterminé</category>
-    <icon src="https://www.programme-tv.net/imgre/fit/~2~program~e19097492fe05ec9.jpeg/630x355/quality/80/programmes-de-la-nuit.jpeg" />
-    <previously-shown />
+    <category lang="fr">Autres émissions</category>
+    <icon src="https://resize.programme-television.org/portrait_broadcast_desktop_webp/images/imported/programs/227059643/b385797197cd44d397d2f0a0a5deb3e8" />
+    <rating>
+      <value>TP</value>
+    </rating>
   </programme>
-  <programme start="20250529055000 +0200" stop="20250529073500 +0200" channel="TvBreizh">
+  <programme start="20250529035000 +0000" stop="20250529053500 +0000" channel="TvBreizh">
     <title lang="fr">Soeur Thérèse.com</title>
     <sub-title lang="fr">Meurtre en sous-sol</sub-title>
-    <category lang="fr">Série TV</category>
-    <category lang="fr">Série policière</category>
-    <icon src="https://www.programme-tv.net/imgre/fit/https.3A.2F.2Fs2.2Edmcdn.2Enet.2Fv.2FTXN_u1Xw2d7--oLSC/640x360/crop-from/top/quality/80/soeur-therese-com.jpg" />
-    <episode-num system="onscreen">Saison 5 Episode 1</episode-num>
-    <previously-shown />
+    <desc lang="fr">Le cadavre de l'ancienne propriétaire du couvent, Sophie, est découvert emmuré dans la chaufferie. La mère supérieure demande à soeur Thérèse de résoudre ce mystère. Sophie était présumée morte depuis dix ans, victime d'un cyclone en Indonésie. Il apparaît bientôt que Roche, l'actuel propriétaire du couvent, avait fait pression sur Sophie pour qu'elle lui vende le bâtiment. Il pensait que ses sous-sols renfermaient un trésor. Alors que Bonaventure suspecte Roche, soeur Thérèse apprend que le beau-frère de Sophie aurait touché un héritage à sa disparition. Une lettre vient apporter un peu plus de confusion à l'affaire. Mais soeur Thérèse est décidée à découvrir la vérité...</desc>
+    <credits>
+      <director>Vincenzo Marano</director>
+      <director>René Manzor</director>
+      <director>Christian François</director>
+      <actor role="Soeur Thérèse">Dominique Lavanant</actor>
+      <actor role="Gérard Bonaventure">Martin Lamotte</actor>
+      <actor role="La mère supérieure">Edith Scob</actor>
+      <actor role="Commandant Mazaud">Gérard Caillaud</actor>
+      <actor role="Soeur Florence">Julie de Bona</actor>
+      <actor role="Gabriel">Sébastien Knafo</actor>
+      <actor role="Soeur Suzanne">Maria Ducceschi</actor>
+      <actor role="Delvaux">Christian Pereira</actor>
+      <actor role="Soeur Marie-Myriam">Taïra</actor>
+      <actor role="Anne Courtin">Emeline Becuwe</actor>
+      <writer>Michel Blanc</writer>
+      <producer>Lissa Pillu</producer>
+      <producer>Anne Defurne</producer>
+      <composer>Charles Court</composer>
+    </credits>
+    <date>2006</date>
+    <category lang="fr">Séries policières</category>
+    <icon src="https://resize.programme-television.org/portrait_broadcast_desktop_webp/images/imported/programs/6158017/c704f4434d7e462f8f9fb15122d0da40" />
+    <country lang="fr">France</country>
+    <episode-num system="onscreen">S5 E3/5</episode-num>
+    <rating>
+      <value>TP</value>
+    </rating>
+    <star-rating>
+      <value>1/5</value>
+    </star-rating>
   </programme>
-  <programme start="20250529073500 +0200" stop="20250529083000 +0200" channel="TvBreizh">
+  <programme start="20250529053500 +0000" stop="20250529063000 +0000" channel="TvBreizh">
     <title lang="fr">Arabesque</title>
     <sub-title lang="fr">Un club très privé</sub-title>
     <desc lang="fr">Engagée comme professeur de criminologie dans une université new-yorkaise, Jessica apprend que l'ancien locataire de son appartement a été assassiné. Il ne lui en faut pas plus pour se lancer dans une nouvelle enquête. Toujours à la pointe de la technologie, elle décide également d'abandonner sa vieille machine à écrire pour un ordinateur. A peine initiée à l'informatique, la voici qui prend l'avion pour Monaco, où réside une de ses amies menacée de faillite personnelle. De retour, elle procure aide et assistance au docteur Hazlitt, sur la sellette : un de ses patients est mort pendant une opération. James Coburn, Marcia Cross, John Hillerman, Adrian Paul : les stars invitées sont légion dans cette huitième saison itinérante.</desc>
-    <category lang="fr">Série TV</category>
-    <category lang="fr">Série policière</category>
-    <icon src="https://www.programme-tv.net/imgre/fit/https.3A.2F.2Fs2.2Edmcdn.2Enet.2Fv.2FTWreN1XxfHO2MxaJh/640x360/crop-from/top/quality/80/arabesque-se-devoile-dans-previously-le-podcast-de-tele-loisirs.jpg" />
-    <episode-num system="onscreen">Saison 8 Episode 19</episode-num>
-    <previously-shown />
+    <credits>
+      <director>Anthony Pullen Shaw</director>
+      <director>Jerry Jameson</director>
+      <director>Walter Grauman</director>
+      <actor role="Jessica Fletcher">Angela Lansbury</actor>
+      <actor role="Dr. Seth Hazlitt">William Windom</actor>
+      <actor role="Sheriff Mort Metzger">Ron Masak</actor>
+      <actor role="Deputy Andy Broom">Louis Herthum</actor>
+      <actor role="Ahmed Shankar">Andrew Johnson</actor>
+      <actor role="Eve Simpson">Julie Adams</actor>
+      <producer>David Moessinger</producer>
+      <composer>Jeff Sturges</composer>
+    </credits>
+    <date>1991</date>
+    <category lang="fr">Séries policières</category>
+    <icon src="https://resize.programme-television.org/portrait_broadcast_desktop_webp/images/imported/programs/111/fca66ea91faf465e9007138993638d1b" />
+    <country lang="fr">Etats-Unis</country>
+    <episode-num system="onscreen">S8 E9/22</episode-num>
+    <rating>
+      <value>TP</value>
+    </rating>
   </programme>
-  <programme start="20250529083000 +0200" stop="20250529092000 +0200" channel="TvBreizh">
+  <programme start="20250529063000 +0000" stop="20250529072000 +0000" channel="TvBreizh">
     <title lang="fr">Arabesque</title>
     <sub-title lang="fr">Le masque de Montezuma</sub-title>
     <desc lang="fr">Engagée comme professeur de criminologie dans une université new-yorkaise, Jessica apprend que l'ancien locataire de son appartement a été assassiné. Il ne lui en faut pas plus pour se lancer dans une nouvelle enquête. Toujours à la pointe de la technologie, elle décide également d'abandonner sa vieille machine à écrire pour un ordinateur. A peine initiée à l'informatique, la voici qui prend l'avion pour Monaco, où réside une de ses amies menacée de faillite personnelle. De retour, elle procure aide et assistance au docteur Hazlitt, sur la sellette : un de ses patients est mort pendant une opération. James Coburn, Marcia Cross, John Hillerman, Adrian Paul : les stars invitées sont légion dans cette huitième saison itinérante.</desc>
-    <category lang="fr">Série TV</category>
-    <category lang="fr">Série policière</category>
-    <icon src="https://www.programme-tv.net/imgre/fit/https.3A.2F.2Fs2.2Edmcdn.2Enet.2Fv.2FTWreN1XxfHO2MxaJh/640x360/crop-from/top/quality/80/arabesque-se-devoile-dans-previously-le-podcast-de-tele-loisirs.jpg" />
-    <episode-num system="onscreen">Saison 8 Episode 19</episode-num>
-    <previously-shown />
+    <credits>
+      <director>Anthony Pullen Shaw</director>
+      <director>Jerry Jameson</director>
+      <director>Walter Grauman</director>
+      <actor role="Jessica Fletcher">Angela Lansbury</actor>
+      <actor role="Dr. Seth Hazlitt">William Windom</actor>
+      <actor role="Sheriff Mort Metzger">Ron Masak</actor>
+      <actor role="Deputy Andy Broom">Louis Herthum</actor>
+      <actor role="Ahmed Shankar">Andrew Johnson</actor>
+      <actor role="Eve Simpson">Julie Adams</actor>
+      <producer>David Moessinger</producer>
+      <composer>Jeff Sturges</composer>
+    </credits>
+    <date>1991</date>
+    <category lang="fr">Séries policières</category>
+    <icon src="https://resize.programme-television.org/portrait_broadcast_desktop_webp/images/imported/programs/2109/fca66ea91faf465e9007138993638d1b" />
+    <country lang="fr">Etats-Unis</country>
+    <episode-num system="onscreen">S8 E19/22</episode-num>
+    <rating>
+      <value>TP</value>
+    </rating>
   </programme>
-  <programme start="20250529092000 +0200" stop="20250529102000 +0200" channel="TvBreizh">
+  <programme start="20250529072000 +0000" stop="20250529082000 +0000" channel="TvBreizh">
     <title lang="fr">Arabesque</title>
     <sub-title lang="fr">Trois petites notes de musique</sub-title>
-    <category lang="fr">Série TV</category>
-    <category lang="fr">Série policière</category>
-    <icon src="https://www.programme-tv.net/imgre/fit/https.3A.2F.2Fs2.2Edmcdn.2Enet.2Fv.2FTWreN1XxfHO2MxaJh/640x360/crop-from/top/quality/80/arabesque-se-devoile-dans-previously-le-podcast-de-tele-loisirs.jpg" />
-    <episode-num system="onscreen">Saison 9 Episode 10</episode-num>
-    <previously-shown />
+    <desc lang="fr">A Milan, Jessica enquête sur le meurtre d'une productrice, qui venait d'adapter un de ses romans au cinéma. Le réalisateur fait partie des suspects. C'est ensuite au tour d'un millionnaire, qui voulait racheter la maison d'éditions qui publie Jessica, de disparaître. La détective se sent très concernée par cette étrange affaire. Lorsque le livreur de l'épicerie de Cabot Cove prétend avoir été témoin d'un meurtre, personne ne le croit, sauf Jessica, qui tente aussitôt d'y voir plus clair. Un peu fatiguée par ses longues investigations, il est temps pour la détective de partir en croisière dans les Caraïbes. Là encore, un mystère l'attend. Une saison très justement récompensée par un Golden Globes. Les talents de Jessica Fletcher sont une fois de plus sollicités. Mais cette fois, la demande est pour le moins insolite. En effet, Major Records, une maison de disque de renom, souhaite que la romancière enregistre un de ses romans pour les aveugles. Pour ce faire, un studio est mis à sa disposition...</desc>
+    <credits>
+      <director>Anthony Pullen Shaw</director>
+      <director>Walter Grauman</director>
+      <director>Vincent McEveety</director>
+      <actor role="Jessica Fletcher">Angela Lansbury</actor>
+      <actor role="Sheriff Mort Metzger">Ron Masak</actor>
+      <actor role="Dr. Seth Hazlitt">William Windom</actor>
+      <actor role="Deputy Andy Broom">Louis Herthum</actor>
+      <producer>Angela Lansbury</producer>
+      <producer>Tom Sawyer</producer>
+      <producer>J. Michael Straczynski</producer>
+      <composer>Jeff Sturges</composer>
+      <composer>Bruce Babcock</composer>
+      <composer>Steve Dorff</composer>
+      <composer>Jonathan Tunick</composer>
+    </credits>
+    <date>1992</date>
+    <category lang="fr">Séries policières</category>
+    <icon src="https://resize.programme-television.org/portrait_broadcast_desktop_webp/images/imported/programs/3772/fca66ea91faf465e9007138993638d1b" />
+    <country lang="fr">Etats-Unis</country>
+    <episode-num system="onscreen">S9 E10/22</episode-num>
+    <rating>
+      <value>TP</value>
+    </rating>
   </programme>
-  <programme start="20250529102000 +0200" stop="20250529111000 +0200" channel="TvBreizh">
+  <programme start="20250529082000 +0000" stop="20250529091000 +0000" channel="TvBreizh">
     <title lang="fr">Arabesque</title>
     <sub-title lang="fr">Une ballade irlandaise</sub-title>
     <desc lang="fr">Engagée comme professeur de criminologie dans une université new-yorkaise, Jessica apprend que l'ancien locataire de son appartement a été assassiné. Il ne lui en faut pas plus pour se lancer dans une nouvelle enquête. Toujours à la pointe de la technologie, elle décide également d'abandonner sa vieille machine à écrire pour un ordinateur. A peine initiée à l'informatique, la voici qui prend l'avion pour Monaco, où réside une de ses amies menacée de faillite personnelle. De retour, elle procure aide et assistance au docteur Hazlitt, sur la sellette : un de ses patients est mort pendant une opération. James Coburn, Marcia Cross, John Hillerman, Adrian Paul : les stars invitées sont légion dans cette huitième saison itinérante.</desc>
-    <category lang="fr">Série TV</category>
-    <category lang="fr">Série policière</category>
-    <icon src="https://www.programme-tv.net/imgre/fit/https.3A.2F.2Fs2.2Edmcdn.2Enet.2Fv.2FTWreN1XxfHO2MxaJh/640x360/crop-from/top/quality/80/arabesque-se-devoile-dans-previously-le-podcast-de-tele-loisirs.jpg" />
-    <episode-num system="onscreen">Saison 8 Episode 19</episode-num>
-    <previously-shown />
+    <credits>
+      <director>Anthony Pullen Shaw</director>
+      <director>Jerry Jameson</director>
+      <director>Walter Grauman</director>
+      <actor role="Jessica Fletcher">Angela Lansbury</actor>
+      <actor role="Dr. Seth Hazlitt">William Windom</actor>
+      <actor role="Sheriff Mort Metzger">Ron Masak</actor>
+      <actor role="Deputy Andy Broom">Louis Herthum</actor>
+      <actor role="Ahmed Shankar">Andrew Johnson</actor>
+      <actor role="Eve Simpson">Julie Adams</actor>
+      <producer>David Moessinger</producer>
+      <composer>Jeff Sturges</composer>
+    </credits>
+    <date>1991</date>
+    <category lang="fr">Séries policières</category>
+    <icon src="https://resize.programme-television.org/portrait_broadcast_desktop_webp/images/imported/programs/2118/f82227b082434e5e93cccb6895d34a53" />
+    <country lang="fr">Etats-Unis</country>
+    <episode-num system="onscreen">S8 E17/22</episode-num>
+    <rating>
+      <value>TP</value>
+    </rating>
   </programme>
-  <programme start="20250529111000 +0200" stop="20250529121000 +0200" channel="TvBreizh">
+  <programme start="20250529091000 +0000" stop="20250529101000 +0000" channel="TvBreizh">
     <title lang="fr">Arabesque</title>
     <sub-title lang="fr">Quand le rideau tombe</sub-title>
-    <category lang="fr">Série TV</category>
-    <category lang="fr">Série policière</category>
-    <icon src="https://www.programme-tv.net/imgre/fit/https.3A.2F.2Fs2.2Edmcdn.2Enet.2Fv.2FTWreN1XxfHO2MxaJh/640x360/crop-from/top/quality/80/arabesque-se-devoile-dans-previously-le-podcast-de-tele-loisirs.jpg" />
-    <episode-num system="onscreen">Saison 9 Episode 10</episode-num>
-    <previously-shown />
+    <desc lang="fr">A Milan, Jessica enquête sur le meurtre d'une productrice, qui venait d'adapter un de ses romans au cinéma. Le réalisateur fait partie des suspects. C'est ensuite au tour d'un millionnaire, qui voulait racheter la maison d'éditions qui publie Jessica, de disparaître. La détective se sent très concernée par cette étrange affaire. Lorsque le livreur de l'épicerie de Cabot Cove prétend avoir été témoin d'un meurtre, personne ne le croit, sauf Jessica, qui tente aussitôt d'y voir plus clair. Un peu fatiguée par ses longues investigations, il est temps pour la détective de partir en croisière dans les Caraïbes. Là encore, un mystère l'attend. Une saison très justement récompensée par un Golden Globes.</desc>
+    <credits>
+      <director>Anthony Pullen Shaw</director>
+      <director>Walter Grauman</director>
+      <director>Vincent McEveety</director>
+      <actor role="Jessica Fletcher">Angela Lansbury</actor>
+      <actor role="Sheriff Mort Metzger">Ron Masak</actor>
+      <actor role="Dr. Seth Hazlitt">William Windom</actor>
+      <actor role="Deputy Andy Broom">Louis Herthum</actor>
+      <producer>Angela Lansbury</producer>
+      <producer>Tom Sawyer</producer>
+      <producer>J. Michael Straczynski</producer>
+      <composer>Jeff Sturges</composer>
+      <composer>Bruce Babcock</composer>
+      <composer>Steve Dorff</composer>
+      <composer>Jonathan Tunick</composer>
+    </credits>
+    <date>1992</date>
+    <category lang="fr">Séries policières</category>
+    <icon src="https://resize.programme-television.org/portrait_broadcast_desktop_webp/images/imported/programs/4374/fca66ea91faf465e9007138993638d1b" />
+    <country lang="fr">Etats-Unis</country>
+    <episode-num system="onscreen">S9 E11/22</episode-num>
+    <rating>
+      <value>TP</value>
+    </rating>
   </programme>
-  <programme start="20250529121000 +0200" stop="20250529130500 +0200" channel="TvBreizh">
+  <programme start="20250529101000 +0000" stop="20250529110500 +0000" channel="TvBreizh">
     <title lang="fr">Arabesque</title>
     <sub-title lang="fr">Amour, succès et décadence</sub-title>
-    <category lang="fr">Série TV</category>
-    <category lang="fr">Série policière</category>
-    <icon src="https://www.programme-tv.net/imgre/fit/https.3A.2F.2Fs2.2Edmcdn.2Enet.2Fv.2FTWreN1XxfHO2MxaJh/640x360/crop-from/top/quality/80/arabesque-se-devoile-dans-previously-le-podcast-de-tele-loisirs.jpg" />
-    <episode-num system="onscreen">Saison 9 Episode 10</episode-num>
-    <previously-shown />
+    <desc lang="fr">A Milan, Jessica enquête sur le meurtre d'une productrice, qui venait d'adapter un de ses romans au cinéma. Le réalisateur fait partie des suspects. C'est ensuite au tour d'un millionnaire, qui voulait racheter la maison d'éditions qui publie Jessica, de disparaître. La détective se sent très concernée par cette étrange affaire. Lorsque le livreur de l'épicerie de Cabot Cove prétend avoir été témoin d'un meurtre, personne ne le croit, sauf Jessica, qui tente aussitôt d'y voir plus clair. Un peu fatiguée par ses longues investigations, il est temps pour la détective de partir en croisière dans les Caraïbes. Là encore, un mystère l'attend. Une saison très justement récompensée par un Golden Globes.</desc>
+    <credits>
+      <director>Anthony Pullen Shaw</director>
+      <director>Walter Grauman</director>
+      <director>Vincent McEveety</director>
+      <actor role="Jessica Fletcher">Angela Lansbury</actor>
+      <actor role="Sheriff Mort Metzger">Ron Masak</actor>
+      <actor role="Dr. Seth Hazlitt">William Windom</actor>
+      <actor role="Deputy Andy Broom">Louis Herthum</actor>
+      <producer>Angela Lansbury</producer>
+      <producer>Tom Sawyer</producer>
+      <producer>J. Michael Straczynski</producer>
+      <composer>Jeff Sturges</composer>
+      <composer>Bruce Babcock</composer>
+      <composer>Steve Dorff</composer>
+      <composer>Jonathan Tunick</composer>
+    </credits>
+    <date>1992</date>
+    <category lang="fr">Séries policières</category>
+    <icon src="https://resize.programme-television.org/portrait_broadcast_desktop_webp/images/imported/programs/5756/fca66ea91faf465e9007138993638d1b" />
+    <country lang="fr">Etats-Unis</country>
+    <episode-num system="onscreen">S9 E22/22</episode-num>
+    <rating>
+      <value>TP</value>
+    </rating>
   </programme>
-  <programme start="20250529130500 +0200" stop="20250529140000 +0200" channel="TvBreizh">
+  <programme start="20250529110500 +0000" stop="20250529120000 +0000" channel="TvBreizh">
     <title lang="fr">Les experts</title>
     <sub-title lang="fr">Service à domicile</sub-title>
-    <category lang="fr">Série TV</category>
-    <category lang="fr">Série policière</category>
-    <icon src="https://www.programme-tv.net/imgre/fit/https.3A.2F.2Fs1.2Edmcdn.2Enet.2Fv.2FTX5pk1Xw1UIuigv-B/640x360/crop-from/top/quality/80/les-experts.jpg" />
-    <episode-num system="onscreen">Saison 2 Episode 21</episode-num>
-    <previously-shown />
+    <desc lang="fr">Une partie seulement des enquêtes des experts se passe au sein de leur laboratoire : l'affaire de la mort par overdose du fils d'un magnat donne l'occasion à Grissom et à son équipe de partir à la recherche de dealers, tout en analysant les indices recueillis sur la scène de crime. Dans le cas de la disparition d'une étudiante, les éléments sont si ténus que les experts sont contraints de mener une enquête plus spécifiquement policière. La jeune femme aurait eu une liaison avec un professeur marié. Un tueur, traqué depuis longue date par le CSI, refait surface et détourne les experts de leurs travaux habituels. Le serial killer ne s'en prend qu'à des personnes nées un 17 août. La chasse reprend. Une saison 2 qui confirme le très bon démarrage de la série, déjà récompensée en 2001 aux BMI Film &amp; TV Awards.</desc>
+    <credits>
+      <director>Kenneth Fink</director>
+      <director>Richard J. Lewis</director>
+      <director>Danny Cannon</director>
+      <actor role="CSI Dr. Gil Grissom">William Petersen</actor>
+      <actor role="CSI Catherine Willows">Marg Helgenberger</actor>
+      <actor role="CSI Warrick Brown">Gary Dourdan</actor>
+      <actor role="CSI Sara Sidle">Jorja Fox</actor>
+      <actor role="CSI Nick Stokes">George Eads</actor>
+      <actor role="Captain Jim Brass">Paul Guilfoyle</actor>
+      <actor role="Lab Tech Greg Sanders">Eric Szmanda</actor>
+      <actor role="Chief ME Dr. Al Robbins">Robert David Hall</actor>
+      <actor role="Eddie Willows">Timothy Carhart</actor>
+      <actor role="Assistant ME David Phillips">David Berman</actor>
+      <producer>Jerry Bruckheimer</producer>
+      <producer>Ann Donahue</producer>
+      <producer>Carol Mendelsohn</producer>
+      <composer>John M. Keane</composer>
+    </credits>
+    <date>2001</date>
+    <category lang="fr">Séries policières</category>
+    <icon src="https://resize.programme-television.org/portrait_broadcast_desktop_webp/images/imported/programs/1094436/e197e1406c7345839ef76ac46bdd58c8" />
+    <country lang="fr">Etats-Unis</country>
+    <episode-num system="onscreen">S2 E19/23</episode-num>
+    <rating>
+      <value>10</value>
+    </rating>
+    <star-rating>
+      <value>3/5</value>
+    </star-rating>
   </programme>
-  <programme start="20250529140000 +0200" stop="20250529145000 +0200" channel="TvBreizh">
+  <programme start="20250529120000 +0000" stop="20250529125000 +0000" channel="TvBreizh">
     <title lang="fr">Les experts</title>
     <sub-title lang="fr">Dernier round</sub-title>
-    <category lang="fr">Série TV</category>
-    <category lang="fr">Série policière</category>
-    <icon src="https://www.programme-tv.net/imgre/fit/https.3A.2F.2Fs2.2Edmcdn.2Enet.2Fv.2FTWnBg1XxfGK2rktnE/640x360/crop-from/top/quality/80/les-experts-se-devoile-dans-previously-le-podcast-de-tele-loisirs.jpg" />
-    <episode-num system="onscreen">Saison 3 Episode 1</episode-num>
-    <previously-shown />
+    <desc lang="fr">Catherine et Nick mènent une enquête conjointe sur la mort d'un homme retrouvé dans le désert. Grissom, lui, se penche sur le décès suspect d'un joueur de poker invétéré. Les analyses des experts sont aussi d'un grand secours lorsqu'une femme est retrouvée assassinée dans la chambre d'un acteur connu. Plus tard, lorsqu'un chauffeur de taxi renverse un piéton, il faut toute la sagacité des agents sur le terrain pour douter du déroulement de l'accident. L'équipe se mobilise ensuite pour seconder des légistes, qui ne parviennent pas identifier un corps immergé dans un baril de produits toxiques. Une troisième saison au suspense renouvelé : les personnages de Catherine Willows et Gil Grissom ont été librement inspirés du quotidien des experts criminologues Yolanda McClary et Daniel Holstein. Un champion de boxe, qui s'apprête à disputer un combat, ne sait pas encore qu'il monte sur le ring pour la dernière fois. Lors des échanges de coups, il s'effondre. Les médecins sont impuissants à le ranimer. Les experts arrivent sur les lieux pour faire les premières constatations d'usage. Grissom est persuadé qu'il s'agit d'un meurtre, et non d'un accident comme il s'en produit parfois dans ce type de sports de combat. Sur place, Catherine collecte de nombreux indices. Nick, de son côté, cherche à comprendre comment des cambrioleurs ont pu s'attaquer à une bijouterie. En cherchant les traces qu'auraient pu laisser les malfrats, il tombe sur un détail intéressant qui le met sur une piste...</desc>
+    <credits>
+      <director>Kenneth Fink</director>
+      <director>Richard J. Lewis</director>
+      <director>Danny Cannon</director>
+      <actor role="CSI Dr. Gil Grissom">William Petersen</actor>
+      <actor role="CSI Catherine Willows">Marg Helgenberger</actor>
+      <actor role="CSI Nick Stokes">George Eads</actor>
+      <actor role="Captain Jim Brass">Paul Guilfoyle</actor>
+      <actor role="Lab Tech Greg Sanders">Eric Szmanda</actor>
+      <actor role="CSI Warrick Brown">Gary Dourdan</actor>
+      <actor role="CSI Sara Sidle">Jorja Fox</actor>
+      <actor role="Chief ME Dr. Al Robbins">Robert David Hall</actor>
+      <actor role="Eddie Willows">Timothy Carhart</actor>
+      <actor role="Assistant ME David Phillips">David Berman</actor>
+      <producer>Josh Berman</producer>
+      <producer>Kenneth Fink</producer>
+      <producer>Ann Donahue</producer>
+      <composer>John M. Keane</composer>
+    </credits>
+    <date>2002</date>
+    <category lang="fr">Séries policières</category>
+    <icon src="https://resize.programme-television.org/portrait_broadcast_desktop_webp/images/imported/programs/1743533/f5f3dbd8aa644bfe947c9c5bf59df735" />
+    <country lang="fr">Etats-Unis</country>
+    <episode-num system="onscreen">S3 E7/23</episode-num>
+    <rating>
+      <value>10</value>
+    </rating>
+    <star-rating>
+      <value>2/5</value>
+    </star-rating>
   </programme>
-  <programme start="20250529145000 +0200" stop="20250529154000 +0200" channel="TvBreizh">
+  <programme start="20250529125000 +0000" stop="20250529134000 +0000" channel="TvBreizh">
     <title lang="fr">Les experts</title>
     <sub-title lang="fr">Liaison fatale</sub-title>
-    <category lang="fr">Série TV</category>
-    <category lang="fr">Série policière</category>
-    <icon src="https://www.programme-tv.net/imgre/fit/https.3A.2F.2Fs2.2Edmcdn.2Enet.2Fv.2FTWnBg1XxfGK2rktnE/640x360/crop-from/top/quality/80/les-experts-se-devoile-dans-previously-le-podcast-de-tele-loisirs.jpg" />
-    <episode-num system="onscreen">Saison 3 Episode 1</episode-num>
-    <previously-shown />
+    <desc lang="fr">Catherine et Nick mènent une enquête conjointe sur la mort d'un homme retrouvé dans le désert. Grissom, lui, se penche sur le décès suspect d'un joueur de poker invétéré. Les analyses des experts sont aussi d'un grand secours lorsqu'une femme est retrouvée assassinée dans la chambre d'un acteur connu. Plus tard, lorsqu'un chauffeur de taxi renverse un piéton, il faut toute la sagacité des agents sur le terrain pour douter du déroulement de l'accident. L'équipe se mobilise ensuite pour seconder des légistes, qui ne parviennent pas identifier un corps immergé dans un baril de produits toxiques. Une troisième saison au suspense renouvelé : les personnages de Catherine Willows et Gil Grissom ont été librement inspirés du quotidien des experts criminologues Yolanda McClary et Daniel Holstein.</desc>
+    <credits>
+      <director>Kenneth Fink</director>
+      <director>Richard J. Lewis</director>
+      <director>Danny Cannon</director>
+      <actor role="CSI Dr. Gil Grissom">William Petersen</actor>
+      <actor role="CSI Catherine Willows">Marg Helgenberger</actor>
+      <actor role="CSI Nick Stokes">George Eads</actor>
+      <actor role="Captain Jim Brass">Paul Guilfoyle</actor>
+      <actor role="Lab Tech Greg Sanders">Eric Szmanda</actor>
+      <actor role="CSI Warrick Brown">Gary Dourdan</actor>
+      <actor role="CSI Sara Sidle">Jorja Fox</actor>
+      <actor role="Chief ME Dr. Al Robbins">Robert David Hall</actor>
+      <actor role="Eddie Willows">Timothy Carhart</actor>
+      <actor role="Assistant ME David Phillips">David Berman</actor>
+      <producer>Josh Berman</producer>
+      <producer>Kenneth Fink</producer>
+      <producer>Ann Donahue</producer>
+      <composer>John M. Keane</composer>
+    </credits>
+    <date>2002</date>
+    <category lang="fr">Séries policières</category>
+    <icon src="https://resize.programme-television.org/portrait_broadcast_desktop_webp/images/imported/programs/2174863/a228a63addd84d4e9c6551848e3e0c79" />
+    <country lang="fr">Etats-Unis</country>
+    <episode-num system="onscreen">S3 E22/23</episode-num>
+    <rating>
+      <value>10</value>
+    </rating>
+    <star-rating>
+      <value>2/5</value>
+    </star-rating>
   </programme>
-  <programme start="20250529154000 +0200" stop="20250529163000 +0200" channel="TvBreizh">
+  <programme start="20250529134000 +0000" stop="20250529143000 +0000" channel="TvBreizh">
     <title lang="fr">Les experts</title>
     <sub-title lang="fr">Onze hommes en colère</sub-title>
-    <category lang="fr">Série TV</category>
-    <category lang="fr">Série policière</category>
-    <icon src="https://www.programme-tv.net/imgre/fit/https.3A.2F.2Fs2.2Edmcdn.2Enet.2Fv.2FTWnBg1XxfGK2rktnE/640x360/crop-from/top/quality/80/les-experts-se-devoile-dans-previously-le-podcast-de-tele-loisirs.jpg" />
-    <episode-num system="onscreen">Saison 4 Episode 11</episode-num>
-    <previously-shown />
+    <desc lang="fr">Lorsque plusieurs couples sont assassinés, les autorités pensent aussitôt qu'il s'agit d'un tueur en série. Les experts sont mis sur l'affaire. L'enquête ne doit toutefois pas leur faire oublier que d'autres crimes sont commis chaque jour à Las Vegas. Le cadavre momifié d'une femme vient ainsi d'être découvert. Et quand ce ne sont pas les meurtres qui s'accumulent, ce sont les accidents : les agents trouvent, en pleine période de canicule, le corps d'un enfant victime de déshydratation, abandonné dans une voiture. Plus tard, c'est un coureur qui décède lors d'une compétition, lui aussi victime de la chaleur. A moins qu'il n'ait été empoisonné. Une quatrième saison toujours aussi captivante, d'ailleurs distinguée aux Primetime Emmy Awards. Un homme, juré dans une affaire de meurtre, est retrouvé mort dans une salle de délibérations. Or, le jury n'arrivait pas à tomber d'accord : sur les douze jurés, onze étaient convaincus de la culpabilité de l'accusé, un seul s'opposant à la sentence, celui précisément dont on vient de découvrir le cadavre. A l'issue de trois semaines d'éprouvantes délibérations, l'un des jurés aurait-il cédé à une soudaine crise de rage ? Que s'est-il vraiment passé dans cette salle de tribunal ? Grissom et son équipe enquêtent. Ils recueillent les témoignages des onze jurés restants, tous susceptibles d'avoir commis l'irréparable...</desc>
+    <credits>
+      <director>Kenneth Fink</director>
+      <director>Richard J. Lewis</director>
+      <director>Danny Cannon</director>
+      <actor role="CSI Catherine Willows">Marg Helgenberger</actor>
+      <actor role="CSI Warrick Brown">Gary Dourdan</actor>
+      <actor role="CSI Nick Stokes">George Eads</actor>
+      <actor role="CSI Sara Sidle">Jorja Fox</actor>
+      <actor role="Captain Jim Brass">Paul Guilfoyle</actor>
+      <actor role="CSI Dr. Gil Grissom">William Petersen</actor>
+      <actor role="Lab Tech Greg Sanders">Eric Szmanda</actor>
+      <actor role="Chief ME Dr. Al Robbins">Robert David Hall</actor>
+      <actor role="Assistant ME David Phillips">David Berman</actor>
+      <actor role="David Hodges">Wallace Langham</actor>
+      <producer>Richard J. Lewis</producer>
+      <producer>Jerry Bruckheimer</producer>
+      <producer>Kenneth Fink</producer>
+      <composer>John M. Keane</composer>
+    </credits>
+    <date>2003</date>
+    <category lang="fr">Séries policières</category>
+    <icon src="https://resize.programme-television.org/portrait_broadcast_desktop_webp/images/imported/programs/3659860/3ae8e1a100ae44669cda557796ab9e94" />
+    <country lang="fr">Etats-Unis</country>
+    <episode-num system="onscreen">S4 E11/23</episode-num>
+    <rating>
+      <value>10</value>
+    </rating>
+    <star-rating>
+      <value>2/5</value>
+    </star-rating>
   </programme>
-  <programme start="20250529163000 +0200" stop="20250529172500 +0200" channel="TvBreizh">
+  <programme start="20250529143000 +0000" stop="20250529152500 +0000" channel="TvBreizh">
     <title lang="fr">Les experts</title>
     <sub-title lang="fr">A bout de course</sub-title>
-    <category lang="fr">Série TV</category>
-    <category lang="fr">Série policière</category>
-    <icon src="https://www.programme-tv.net/imgre/fit/https.3A.2F.2Fs2.2Edmcdn.2Enet.2Fv.2FTWnBg1XxfGK2rktnE/640x360/crop-from/top/quality/80/les-experts-se-devoile-dans-previously-le-podcast-de-tele-loisirs.jpg" />
-    <episode-num system="onscreen">Saison 4 Episode 11</episode-num>
-    <previously-shown />
+    <desc lang="fr">Lorsque plusieurs couples sont assassinés, les autorités pensent aussitôt qu'il s'agit d'un tueur en série. Les experts sont mis sur l'affaire. L'enquête ne doit toutefois pas leur faire oublier que d'autres crimes sont commis chaque jour à Las Vegas. Le cadavre momifié d'une femme vient ainsi d'être découvert. Et quand ce ne sont pas les meurtres qui s'accumulent, ce sont les accidents : les agents trouvent, en pleine période de canicule, le corps d'un enfant victime de déshydratation, abandonné dans une voiture. Plus tard, c'est un coureur qui décède lors d'une compétition, lui aussi victime de la chaleur. A moins qu'il n'ait été empoisonné. Une quatrième saison toujours aussi captivante, d'ailleurs distinguée aux Primetime Emmy Awards.</desc>
+    <credits>
+      <director>Kenneth Fink</director>
+      <director>Richard J. Lewis</director>
+      <director>Danny Cannon</director>
+      <actor role="CSI Catherine Willows">Marg Helgenberger</actor>
+      <actor role="CSI Warrick Brown">Gary Dourdan</actor>
+      <actor role="CSI Nick Stokes">George Eads</actor>
+      <actor role="CSI Sara Sidle">Jorja Fox</actor>
+      <actor role="Captain Jim Brass">Paul Guilfoyle</actor>
+      <actor role="CSI Dr. Gil Grissom">William Petersen</actor>
+      <actor role="Lab Tech Greg Sanders">Eric Szmanda</actor>
+      <actor role="Chief ME Dr. Al Robbins">Robert David Hall</actor>
+      <actor role="Assistant ME David Phillips">David Berman</actor>
+      <actor role="David Hodges">Wallace Langham</actor>
+      <producer>Richard J. Lewis</producer>
+      <producer>Jerry Bruckheimer</producer>
+      <producer>Kenneth Fink</producer>
+      <composer>John M. Keane</composer>
+    </credits>
+    <date>2003</date>
+    <category lang="fr">Séries policières</category>
+    <icon src="https://resize.programme-television.org/portrait_broadcast_desktop_webp/images/imported/programs/3362906/bb763a1c4f534a918a017ca41107fe6f" />
+    <country lang="fr">Etats-Unis</country>
+    <episode-num system="onscreen">S4 E20/23</episode-num>
+    <rating>
+      <value>10</value>
+    </rating>
+    <star-rating>
+      <value>2/5</value>
+    </star-rating>
   </programme>
-  <programme start="20250529172500 +0200" stop="20250529181000 +0200" channel="TvBreizh">
+  <programme start="20250529152500 +0000" stop="20250529161000 +0000" channel="TvBreizh">
     <title lang="fr">Les experts</title>
     <sub-title lang="fr">Le mystère de la chambre forte</sub-title>
-    <category lang="fr">Série TV</category>
-    <category lang="fr">Série policière</category>
-    <icon src="https://www.programme-tv.net/imgre/fit/https.3A.2F.2Fs2.2Edmcdn.2Enet.2Fv.2FTWnBg1XxfGK2rktnE/640x360/crop-from/top/quality/80/les-experts-se-devoile-dans-previously-le-podcast-de-tele-loisirs.jpg" />
-    <episode-num system="onscreen">Saison 3 Episode 1</episode-num>
-    <previously-shown />
+    <desc lang="fr">Catherine et Nick mènent une enquête conjointe sur la mort d'un homme retrouvé dans le désert. Grissom, lui, se penche sur le décès suspect d'un joueur de poker invétéré. Les analyses des experts sont aussi d'un grand secours lorsqu'une femme est retrouvée assassinée dans la chambre d'un acteur connu. Plus tard, lorsqu'un chauffeur de taxi renverse un piéton, il faut toute la sagacité des agents sur le terrain pour douter du déroulement de l'accident. L'équipe se mobilise ensuite pour seconder des légistes, qui ne parviennent pas identifier un corps immergé dans un baril de produits toxiques. Une troisième saison au suspense renouvelé : les personnages de Catherine Willows et Gil Grissom ont été librement inspirés du quotidien des experts criminologues Yolanda McClary et Daniel Holstein.</desc>
+    <credits>
+      <director>Kenneth Fink</director>
+      <director>Richard J. Lewis</director>
+      <director>Danny Cannon</director>
+      <actor role="CSI Dr. Gil Grissom">William Petersen</actor>
+      <actor role="CSI Catherine Willows">Marg Helgenberger</actor>
+      <actor role="CSI Nick Stokes">George Eads</actor>
+      <actor role="Captain Jim Brass">Paul Guilfoyle</actor>
+      <actor role="Lab Tech Greg Sanders">Eric Szmanda</actor>
+      <actor role="CSI Warrick Brown">Gary Dourdan</actor>
+      <actor role="CSI Sara Sidle">Jorja Fox</actor>
+      <actor role="Chief ME Dr. Al Robbins">Robert David Hall</actor>
+      <actor role="Eddie Willows">Timothy Carhart</actor>
+      <actor role="Assistant ME David Phillips">David Berman</actor>
+      <producer>Josh Berman</producer>
+      <producer>Kenneth Fink</producer>
+      <producer>Ann Donahue</producer>
+      <composer>John M. Keane</composer>
+    </credits>
+    <date>2002</date>
+    <category lang="fr">Séries policières</category>
+    <icon src="https://resize.programme-television.org/portrait_broadcast_desktop_webp/images/imported/programs/2160701/b83ca673ec3642dbae3fb7e6419e4403" />
+    <country lang="fr">Etats-Unis</country>
+    <episode-num system="onscreen">S3 E23/23</episode-num>
+    <rating>
+      <value>10</value>
+    </rating>
+    <star-rating>
+      <value>2/5</value>
+    </star-rating>
   </programme>
-  <programme start="20250529181000 +0200" stop="20250529190500 +0200" channel="TvBreizh">
+  <programme start="20250529161000 +0000" stop="20250529170500 +0000" channel="TvBreizh">
     <title lang="fr">Les experts</title>
     <sub-title lang="fr">Chambre froide</sub-title>
-    <category lang="fr">Série TV</category>
-    <category lang="fr">Série policière</category>
-    <icon src="https://www.programme-tv.net/imgre/fit/https.3A.2F.2Fs2.2Edmcdn.2Enet.2Fv.2FTWnBg1XxfGK2rktnE/640x360/crop-from/top/quality/80/les-experts-se-devoile-dans-previously-le-podcast-de-tele-loisirs.jpg" />
-    <episode-num system="onscreen">Saison 5 Episode 23</episode-num>
-    <previously-shown />
+    <desc lang="fr">Les nuits sont mouvementées à Las Vegas et les cadavres se multiplient : les experts ne savent plus où donner de la tête. Un homme déguisé en extraterrestre, une stripteaseuse, sont autant de victimes qu'il faut examiner. Et quand la météo se met de la partie pour compliquer les choses, enquêter devient vraiment difficile. Des pluies diluviennes tombent en effet sur la ville. Lorsqu'une adolescente est enlevée, les agents explorent néanmoins toutes les pistes possibles, avant de s'intéresser au meurtre d'un homme, dont le visage a été emporté par une décharge de chevrotine. A la morgue, une certaine confusion règne après la disparition d'un corps. Une saison spectaculaire, récompensée aux BMI Film &amp; TV Awards.</desc>
+    <credits>
+      <director>Richard J. Lewis</director>
+      <director>Kenneth Fink</director>
+      <director>Bill Eagles</director>
+      <actor role="Captain Jim Brass">Paul Guilfoyle</actor>
+      <actor role="CSI Catherine Willows">Marg Helgenberger</actor>
+      <actor role="CSI Dr. Gil Grissom">William Petersen</actor>
+      <actor role="CSI Warrick Brown">Gary Dourdan</actor>
+      <actor role="CSI Nick Stokes">George Eads</actor>
+      <actor role="CSI Greg Sanders">Eric Szmanda</actor>
+      <actor role="CSI Sara Sidle">Jorja Fox</actor>
+      <actor role="Chief ME Dr. Al Robbins">Robert David Hall</actor>
+      <actor role="Assistant ME David Phillips">David Berman</actor>
+      <actor role="David Hodges">Wallace Langham</actor>
+      <producer>Richard J. Lewis</producer>
+      <producer>Kenneth Fink</producer>
+      <producer>Jerry Bruckheimer</producer>
+      <composer>John M. Keane</composer>
+    </credits>
+    <date>2004</date>
+    <category lang="fr">Séries policières</category>
+    <icon src="https://resize.programme-television.org/portrait_broadcast_desktop_webp/images/imported/programs/4701664/17767b891c8240e5bf975af0a89ffafb" />
+    <country lang="fr">Etats-Unis</country>
+    <episode-num system="onscreen">S5 E23/25</episode-num>
+    <rating>
+      <value>10</value>
+    </rating>
+    <star-rating>
+      <value>2/5</value>
+    </star-rating>
   </programme>
-  <programme start="20250529190500 +0200" stop="20250529200000 +0200" channel="TvBreizh">
+  <programme start="20250529170500 +0000" stop="20250529180000 +0000" channel="TvBreizh">
     <title lang="fr">Les experts</title>
     <sub-title lang="fr">Le loup-garou de Vegas</sub-title>
-    <category lang="fr">Série TV</category>
-    <category lang="fr">Série policière</category>
-    <icon src="https://www.programme-tv.net/imgre/fit/https.3A.2F.2Fs2.2Edmcdn.2Enet.2Fv.2FTWnBg1XxfGK2rktnE/640x360/crop-from/top/quality/80/les-experts-se-devoile-dans-previously-le-podcast-de-tele-loisirs.jpg" />
-    <episode-num system="onscreen">Saison 6 Episode 11</episode-num>
-    <previously-shown />
+    <desc lang="fr">L'enlèvement de Nick a beaucoup marqué les experts, qui n'en reprennent pas moins leurs enquêtes quotidiennes. Une actrice prometteuse a, en effet, été retrouvée assassinée après avoir fait la fête avec ses admirateurs. Sont-ils responsables de sa mort ? Une affaire plus complexe attend ensuite les enquêteurs : une femme est décédée après une chute dans les escaliers. L'hypothèse de l'accident domestique, probable, ne satisfait pas la police. Un suicide collectif choque par ailleurs les agents, qui doivent multiplier les prélèvements sur le terrain pour comprendre le déroulement du drame. Une sixième saison qui ne ménage pas ses effets, récompensée aux Genesis Awards. Grissom et son équipe sont chargés d'enquêter sur le meurtre d'un homme atteint d'une pilosité anormale. Pour certains, il s'agirait de la preuve que le défunt était un loup-garou. L'autopsie révèle des faits troublants, notamment que la victime a été abattue d'une balle en argent. Les investigations font également apparaître que le défunt avait multiplié les paris en ligne et qu'il avait contracté de fortes dettes. Le propriétaire du site sur lequel il s'était connecté l'avait d'ailleurs menacé de représailles s'il ne payait pas. Malgré son handicap, l'homme avait projeté de se marier sous peu...</desc>
+    <credits>
+      <director>Kenneth Fink</director>
+      <director>Danny Cannon</director>
+      <director>Richard J. Lewis</director>
+      <actor role="CSI Dr. Gil Grissom">William Petersen</actor>
+      <actor role="CSI Warrick Brown">Gary Dourdan</actor>
+      <actor role="CSI Nick Stokes">George Eads</actor>
+      <actor role="CSI Greg Sanders">Eric Szmanda</actor>
+      <actor role="Captain Jim Brass">Paul Guilfoyle</actor>
+      <actor role="CSI Sara Sidle">Jorja Fox</actor>
+      <actor role="CSI Catherine Willows">Marg Helgenberger</actor>
+      <actor role="Chief ME Dr. Al Robbins">Robert David Hall</actor>
+      <actor role="Assistant ME David Phillips">David Berman</actor>
+      <actor role="Sofia Curtis">Louise Lombard</actor>
+      <producer>Jerry Bruckheimer</producer>
+      <producer>Jonathan Littman</producer>
+      <producer>Carol Mendelsohn</producer>
+      <composer>John M. Keane</composer>
+    </credits>
+    <date>2005</date>
+    <category lang="fr">Séries policières</category>
+    <icon src="https://resize.programme-television.org/portrait_broadcast_desktop_webp/images/imported/programs/5758961/e86eacdf5a8843c0959de64984f4bb2f" />
+    <country lang="fr">Etats-Unis</country>
+    <episode-num system="onscreen">S6 E11/24</episode-num>
+    <rating>
+      <value>10</value>
+    </rating>
+    <star-rating>
+      <value>2/5</value>
+    </star-rating>
   </programme>
-  <programme start="20250529200000 +0200" stop="20250529205000 +0200" channel="TvBreizh">
+  <programme start="20250529180000 +0000" stop="20250529185000 +0000" channel="TvBreizh">
     <title lang="fr">Les experts</title>
     <sub-title lang="fr">Filles à papa</sub-title>
-    <category lang="fr">Série TV</category>
-    <category lang="fr">Série policière</category>
-    <icon src="https://www.programme-tv.net/imgre/fit/https.3A.2F.2Fs2.2Edmcdn.2Enet.2Fv.2FTWnBg1XxfGK2rktnE/640x360/crop-from/top/quality/80/les-experts-se-devoile-dans-previously-le-podcast-de-tele-loisirs.jpg" />
-    <episode-num system="onscreen">Saison 6 Episode 11</episode-num>
-    <previously-shown />
+    <desc lang="fr">L'enlèvement de Nick a beaucoup marqué les experts, qui n'en reprennent pas moins leurs enquêtes quotidiennes. Une actrice prometteuse a, en effet, été retrouvée assassinée après avoir fait la fête avec ses admirateurs. Sont-ils responsables de sa mort ? Une affaire plus complexe attend ensuite les enquêteurs : une femme est décédée après une chute dans les escaliers. L'hypothèse de l'accident domestique, probable, ne satisfait pas la police. Un suicide collectif choque par ailleurs les agents, qui doivent multiplier les prélèvements sur le terrain pour comprendre le déroulement du drame. Une sixième saison qui ne ménage pas ses effets, récompensée aux Genesis Awards.</desc>
+    <credits>
+      <director>Kenneth Fink</director>
+      <director>Danny Cannon</director>
+      <director>Richard J. Lewis</director>
+      <actor role="CSI Dr. Gil Grissom">William Petersen</actor>
+      <actor role="CSI Warrick Brown">Gary Dourdan</actor>
+      <actor role="CSI Nick Stokes">George Eads</actor>
+      <actor role="CSI Greg Sanders">Eric Szmanda</actor>
+      <actor role="Captain Jim Brass">Paul Guilfoyle</actor>
+      <actor role="CSI Sara Sidle">Jorja Fox</actor>
+      <actor role="CSI Catherine Willows">Marg Helgenberger</actor>
+      <actor role="Chief ME Dr. Al Robbins">Robert David Hall</actor>
+      <actor role="Assistant ME David Phillips">David Berman</actor>
+      <actor role="Sofia Curtis">Louise Lombard</actor>
+      <producer>Jerry Bruckheimer</producer>
+      <producer>Jonathan Littman</producer>
+      <producer>Carol Mendelsohn</producer>
+      <composer>John M. Keane</composer>
+    </credits>
+    <date>2005</date>
+    <category lang="fr">Séries policières</category>
+    <icon src="https://resize.programme-television.org/portrait_broadcast_desktop_webp/images/imported/programs/5788431/fc0c1187700c410c9dcf58bc6bf70676" />
+    <country lang="fr">Etats-Unis</country>
+    <episode-num system="onscreen">S6 E12/24</episode-num>
+    <rating>
+      <value>10</value>
+    </rating>
+    <star-rating>
+      <value>2/5</value>
+    </star-rating>
   </programme>
-  <programme start="20250529205000 +0200" stop="20250529214000 +0200" channel="TvBreizh">
-    <title lang="fr">Cold Case</title>
+  <programme start="20250529185000 +0000" stop="20250529194000 +0000" channel="TvBreizh">
+    <title lang="fr">Cold Case : affaires classées</title>
     <sub-title lang="fr">Justice</sub-title>
-    <desc lang="fr">Et si une adolescente avait été tuée en 1963 parce qu'elle aimait agir et s'habiller en garçon ? Et si les deux adolescents, aujourd'hui adultes, condamnés en 1994 pour le meurtre de trois enfants, étaient innocents ? Et si la femme qui s'est suicidée en 1962 n'était pas le véritable auteur de sa lettre de suicide ? Affaires non résolues, erreurs judiciaires, crimes impunis depuis des années sont le lot quotidien de Lilly Rush, Scotty Valens et leurs collègues. L'affaire très médiatisée des "Trois de West Memphis" ou les attentats du terroriste Unabomber font partie des sources d'inspiration de cette cinquième saison.</desc>
-    <category lang="fr">Série TV</category>
-    <category lang="fr">Série policière</category>
-    <icon src="https://www.programme-tv.net/imgre/fit/https.3A.2F.2Fs2.2Edmcdn.2Enet.2Fv.2FTW_MY1Xw0-T2JvvdL/640x360/crop-from/top/quality/80/cold-case.jpg" />
-    <episode-num system="onscreen">Saison 5 Episode 10</episode-num>
-    <previously-shown />
+    <desc lang="fr">Et si une adolescente avait été tuée en 1963 parce qu'elle aimait agir et s'habiller en garçon ? Et si les deux adolescents, aujourd'hui adultes, condamnés en 1994 pour le meurtre de trois enfants, étaient innocents ? Et si la femme qui s'est suicidée en 1962 n'était pas le véritable auteur de sa lettre de suicide ? Affaires non résolues, erreurs judiciaires, crimes impunis depuis des années sont le lot quotidien de Lilly Rush, Scotty Valens et leurs collègues. L'affaire très médiatisée des "Trois de West Memphis" ou les attentats du terroriste Unabomber font partie des sources d'inspiration de cette cinquième saison. Lilly et son équipe enquêtent sur une affaire vieille de plus de vingt ans : l'assassinat, en 1982, d'un jeune homme très apprécié de son entourage. Pourtant, peu de temps avant son assassinat, ce garçon apparemment exemplaire avait été accusé de viol par plusieurs étudiantes. Lilly tente de résoudre ce cas compliqué. Elle reprend les investigations depuis le début et commence les interrogatoires des proches de la victime. Puis elle s'entretient avec les femmes qui avaient porté les accusations de viol. Peu à peu, l'inspectrice se fait une idée plus précise de la personnalité du défunt. Mais réunir des preuves pour punir les coupables s'avère ardu...</desc>
+    <credits>
+      <director>Holly Dale</director>
+      <director>Kevin Bray</director>
+      <director>Roxann Dawson</director>
+      <actor role="Lilly Rush">Kathryn Morris</actor>
+      <actor role="Scotty Valens">Danny Pino</actor>
+      <actor role="John Stillman">John Finn</actor>
+      <actor role="Nick Vera">Jeremy Ratchford</actor>
+      <actor role="Will Jeffries">Thom Barry</actor>
+      <actor role="Kat Miller">Tracie Thoms</actor>
+      <actor role="Ari Gordon">Mark Rolston</actor>
+      <producer>Roxann Dawson</producer>
+      <producer>Merri D. Howard</producer>
+      <producer>Meredith Stiehm</producer>
+      <composer>Michael A. Levine</composer>
+    </credits>
+    <date>2007</date>
+    <category lang="fr">Séries policières</category>
+    <icon src="https://resize.programme-television.org/portrait_broadcast_desktop_webp/images/imported/programs/10585608/b764c45830894ba5968ddbb56bab1ab3" />
+    <country lang="fr">Etats-Unis</country>
+    <episode-num system="onscreen">S5 E10/18</episode-num>
+    <premiere />
+    <rating>
+      <value>10</value>
+    </rating>
+    <star-rating>
+      <value>2/5</value>
+    </star-rating>
   </programme>
-  <programme start="20250529214000 +0200" stop="20250529223500 +0200" channel="TvBreizh">
-    <title lang="fr">Cold Case</title>
+  <programme start="20250529194000 +0000" stop="20250529203500 +0000" channel="TvBreizh">
+    <title lang="fr">Cold Case : affaires classées</title>
     <sub-title lang="fr">Famille 8108</sub-title>
     <desc lang="fr">Et si une adolescente avait été tuée en 1963 parce qu'elle aimait agir et s'habiller en garçon ? Et si les deux adolescents, aujourd'hui adultes, condamnés en 1994 pour le meurtre de trois enfants, étaient innocents ? Et si la femme qui s'est suicidée en 1962 n'était pas le véritable auteur de sa lettre de suicide ? Affaires non résolues, erreurs judiciaires, crimes impunis depuis des années sont le lot quotidien de Lilly Rush, Scotty Valens et leurs collègues. L'affaire très médiatisée des "Trois de West Memphis" ou les attentats du terroriste Unabomber font partie des sources d'inspiration de cette cinquième saison.</desc>
-    <category lang="fr">Série TV</category>
-    <category lang="fr">Série policière</category>
-    <icon src="https://www.programme-tv.net/imgre/fit/https.3A.2F.2Fs2.2Edmcdn.2Enet.2Fv.2FTW_MY1Xw0-T2JvvdL/640x360/crop-from/top/quality/80/cold-case.jpg" />
-    <episode-num system="onscreen">Saison 5 Episode 10</episode-num>
-    <previously-shown />
+    <credits>
+      <director>Holly Dale</director>
+      <director>Kevin Bray</director>
+      <director>Roxann Dawson</director>
+      <actor role="Lilly Rush">Kathryn Morris</actor>
+      <actor role="Scotty Valens">Danny Pino</actor>
+      <actor role="John Stillman">John Finn</actor>
+      <actor role="Nick Vera">Jeremy Ratchford</actor>
+      <actor role="Will Jeffries">Thom Barry</actor>
+      <actor role="Kat Miller">Tracie Thoms</actor>
+      <actor role="Ari Gordon">Mark Rolston</actor>
+      <producer>Roxann Dawson</producer>
+      <producer>Merri D. Howard</producer>
+      <producer>Meredith Stiehm</producer>
+      <composer>Michael A. Levine</composer>
+    </credits>
+    <date>2007</date>
+    <category lang="fr">Séries policières</category>
+    <icon src="https://resize.programme-television.org/portrait_broadcast_desktop_webp/images/imported/programs/10626133/c9a9926c4c4240baad8a4ce3daeec0cb" />
+    <country lang="fr">Etats-Unis</country>
+    <episode-num system="onscreen">S5 E11/18</episode-num>
+    <rating>
+      <value>TP</value>
+    </rating>
+    <star-rating>
+      <value>2/5</value>
+    </star-rating>
   </programme>
-  <programme start="20250529223500 +0200" stop="20250529233000 +0200" channel="TvBreizh">
-    <title lang="fr">Cold Case</title>
+  <programme start="20250529203500 +0000" stop="20250529213000 +0000" channel="TvBreizh">
+    <title lang="fr">Cold Case : affaires classées</title>
     <sub-title lang="fr">La musique du diable</sub-title>
-    <desc lang="fr">Et si une adolescente avait été tuée en 1963 parce qu'elle aimait agir et s'habiller en garçon ? Et si les deux adolescents, aujourd'hui adultes, condamnés en 1994 pour le meurtre de trois enfants, étaient innocents ? Et si la femme qui s'est suicidée en 1962 n'était pas le véritable auteur de sa lettre de suicide ? Affaires non résolues, erreurs judiciaires, crimes impunis depuis des années sont le lot quotidien de Lilly Rush, Scotty Valens et leurs collègues. L'affaire très médiatisée des "Trois de West Memphis" ou les attentats du terroriste Unabomber font partie des sources d'inspiration de cette cinquième saison.</desc>
-    <category lang="fr">Série TV</category>
-    <category lang="fr">Série policière</category>
-    <icon src="https://www.programme-tv.net/imgre/fit/https.3A.2F.2Fs2.2Edmcdn.2Enet.2Fv.2FTW_MY1Xw0-T2JvvdL/640x360/crop-from/top/quality/80/cold-case.jpg" />
-    <episode-num system="onscreen">Saison 5 Episode 10</episode-num>
-    <previously-shown />
+    <desc lang="fr">Et si une adolescente avait été tuée en 1963 parce qu'elle aimait agir et s'habiller en garçon ? Et si les deux adolescents, aujourd'hui adultes, condamnés en 1994 pour le meurtre de trois enfants, étaient innocents ? Et si la femme qui s'est suicidée en 1962 n'était pas le véritable auteur de sa lettre de suicide ? Affaires non résolues, erreurs judiciaires, crimes impunis depuis des années sont le lot quotidien de Lilly Rush, Scotty Valens et leurs collègues. L'affaire très médiatisée des "Trois de West Memphis" ou les attentats du terroriste Unabomber font partie des sources d'inspiration de cette cinquième saison. En 1953, Bingo Zohar, un jeune homme de 19 ans, est assassiné derrière le Red Hot Mama, un club de blues du ghetto noir de Point Breeze. La balle qui a traversé son thorax n'a jamais été retrouvée et le meurtrier court toujours. Cinquante ans plus tard, un vieil homme se présente à la police : il prétend détenir le portefeuille de Bingo, retrouvé à l'époque dans une mare de sang à Germantown, le quartier blanc. Ce nouvel indice pousse les inspecteurs à reprendre l'enquête. Ils apprennent qu'à la mort de ses parents, Bingo avait quitté sa campagne pour vivre chez sa tante et son oncle, un homme autoritaire qui ne tolérait pas les goûts musicaux de son neveu...</desc>
+    <credits>
+      <director>Holly Dale</director>
+      <director>Kevin Bray</director>
+      <director>Roxann Dawson</director>
+      <actor role="Lilly Rush">Kathryn Morris</actor>
+      <actor role="Scotty Valens">Danny Pino</actor>
+      <actor role="John Stillman">John Finn</actor>
+      <actor role="Nick Vera">Jeremy Ratchford</actor>
+      <actor role="Will Jeffries">Thom Barry</actor>
+      <actor role="Kat Miller">Tracie Thoms</actor>
+      <actor role="Ari Gordon">Mark Rolston</actor>
+      <producer>Roxann Dawson</producer>
+      <producer>Merri D. Howard</producer>
+      <producer>Meredith Stiehm</producer>
+      <composer>Michael A. Levine</composer>
+    </credits>
+    <date>2007</date>
+    <category lang="fr">Séries policières</category>
+    <icon src="https://resize.programme-television.org/portrait_broadcast_desktop_webp/images/imported/programs/10321329/3b2f9ea3fff0493daf9253153f108476" />
+    <country lang="fr">Etats-Unis</country>
+    <episode-num system="onscreen">S5 E4/18</episode-num>
+    <rating>
+      <value>TP</value>
+    </rating>
+    <star-rating>
+      <value>2/5</value>
+    </star-rating>
   </programme>
-  <programme start="20250529233000 +0200" stop="20250530002000 +0200" channel="TvBreizh">
-    <title lang="fr">Cold Case</title>
+  <programme start="20250529213000 +0000" stop="20250529222000 +0000" channel="TvBreizh">
+    <title lang="fr">Cold Case : affaires classées</title>
     <sub-title lang="fr">Complices</sub-title>
-    <desc lang="fr">Et si une adolescente avait été tuée en 1963 parce qu'elle aimait agir et s'habiller en garçon ? Et si les deux adolescents, aujourd'hui adultes, condamnés en 1994 pour le meurtre de trois enfants, étaient innocents ? Et si la femme qui s'est suicidée en 1962 n'était pas le véritable auteur de sa lettre de suicide ? Affaires non résolues, erreurs judiciaires, crimes impunis depuis des années sont le lot quotidien de Lilly Rush, Scotty Valens et leurs collègues. L'affaire très médiatisée des "Trois de West Memphis" ou les attentats du terroriste Unabomber font partie des sources d'inspiration de cette cinquième saison.</desc>
-    <category lang="fr">Série TV</category>
-    <category lang="fr">Série policière</category>
-    <icon src="https://www.programme-tv.net/imgre/fit/https.3A.2F.2Fs2.2Edmcdn.2Enet.2Fv.2FTW_MY1Xw0-T2JvvdL/640x360/crop-from/top/quality/80/cold-case.jpg" />
-    <episode-num system="onscreen">Saison 5 Episode 10</episode-num>
-    <previously-shown />
+    <desc lang="fr">Et si une adolescente avait été tuée en 1963 parce qu'elle aimait agir et s'habiller en garçon ? Et si les deux adolescents, aujourd'hui adultes, condamnés en 1994 pour le meurtre de trois enfants, étaient innocents ? Et si la femme qui s'est suicidée en 1962 n'était pas le véritable auteur de sa lettre de suicide ? Affaires non résolues, erreurs judiciaires, crimes impunis depuis des années sont le lot quotidien de Lilly Rush, Scotty Valens et leurs collègues. L'affaire très médiatisée des "Trois de West Memphis" ou les attentats du terroriste Unabomber font partie des sources d'inspiration de cette cinquième saison. Dix-huit ans après avoir reçu une balle dans la tête, une femme plongée dans un état neurovégétatif meurt à l'hôpital Saint-Michael. Policiers et médecins pensaient que la défunte, découverte en 1989 dans une ruelle des bas-fonds de la ville, était une clocharde. Pourtant, une personne anonyme lui envoyait chaque mois un colis richement garni et elle avait pu s'offrir des implants mammaires. Grâce à la référence des prothèses, les inspecteurs remontent jusqu'au chirurgien, qui leur apprend que la patiente s'appelait Margot Chambers. Recherchée pour escroquerie dans plusieurs Etats, elle faisait équipe avec un certain Spence Mason...</desc>
+    <credits>
+      <director>Holly Dale</director>
+      <director>Kevin Bray</director>
+      <director>Roxann Dawson</director>
+      <actor role="Lilly Rush">Kathryn Morris</actor>
+      <actor role="Scotty Valens">Danny Pino</actor>
+      <actor role="John Stillman">John Finn</actor>
+      <actor role="Nick Vera">Jeremy Ratchford</actor>
+      <actor role="Will Jeffries">Thom Barry</actor>
+      <actor role="Kat Miller">Tracie Thoms</actor>
+      <actor role="Ari Gordon">Mark Rolston</actor>
+      <producer>Roxann Dawson</producer>
+      <producer>Merri D. Howard</producer>
+      <producer>Meredith Stiehm</producer>
+      <composer>Michael A. Levine</composer>
+    </credits>
+    <date>2007</date>
+    <category lang="fr">Séries policières</category>
+    <icon src="https://resize.programme-television.org/portrait_broadcast_desktop_webp/images/imported/programs/10361779/72348e4a619d4c65a771d41d42bcdad7" />
+    <country lang="fr">Etats-Unis</country>
+    <episode-num system="onscreen">S5 E5/18</episode-num>
+    <rating>
+      <value>10</value>
+    </rating>
+    <star-rating>
+      <value>2/5</value>
+    </star-rating>
   </programme>
   <programme start="20250529002000 +0200" stop="20250529020000 +0200" channel="RTL9">
     <title lang="fr">Une femme d'honneur</title>

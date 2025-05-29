@@ -2,255 +2,255 @@
 <tv>
   <channel id="TF1">
     <display-name lang="fr">TF1</display-name>
-    <icon src="https://ppechenot.github.io/perso/logos/tf1.png"/>
+    <icon src="https://www.programme-tv.net/imgre/fit/~2~channel~f2b6de26acc4dc3e.png/30x30/quality/80/tf1.png"/>
   </channel>
   <channel id="France2">
     <display-name lang="fr">FRANCE 2</display-name>
-    <icon src="https://ppechenot.github.io/perso/logos/france2.png"/>
+    <icon src="https://www.programme-tv.net/imgre/fit/~2~channel~606394a5b095653a.png/30x30/quality/80/france-2.png"/>
   </channel>
   <channel id="France3">
     <display-name lang="fr">FRANCE 3</display-name>
-    <icon src="https://ppechenot.github.io/perso/logos/france3.png"/>
+    <icon src="https://www.programme-tv.net/imgre/fit/~2~channel~61eebbb6e38360ae.png/30x30/quality/80/france-3.png"/>
   </channel>
   <channel id="France4">
     <display-name lang="fr">FRANCE 4</display-name>
-    <icon src="https://ppechenot.github.io/perso/logos/france4.png"/>
+    <icon src="https://www.programme-tv.net/imgre/fit/~2~channel~e02946cfb82e5310.png/30x30/quality/80/france-4.png"/>
   </channel>
   <channel id="France5">
     <display-name lang="fr">FRANCE 5</display-name>
-    <icon src="https://ppechenot.github.io/perso/logos/france5.png"/>
+    <icon src="https://www.programme-tv.net/imgre/fit/~2~channel~5f611b705ca3f017.png/30x30/quality/80/france-5.png"/>
   </channel>
   <channel id="M6">
     <display-name lang="fr">M6</display-name>
-    <icon src="https://ppechenot.github.io/perso/logos/m6.png"/>
+    <icon src="https://www.programme-tv.net/imgre/fit/~2~channel~46c2dbade9ac9fed.png/30x30/quality/80/m6.png"/>
   </channel>
   <channel id="Arte">
     <display-name lang="fr">ARTE</display-name>
-    <icon src="https://ppechenot.github.io/perso/logos/arte.png"/>
+    <icon src="https://www.programme-tv.net/imgre/fit/~2~channel~d6bb7624abff43ac.png/30x30/quality/80/arte.png"/>
   </channel>
   <channel id="W9">
     <display-name lang="fr">W9</display-name>
-    <icon src="https://ppechenot.github.io/perso/logos/w9.png"/>
+    <icon src="https://www.programme-tv.net/imgre/fit/~2~channel~15acfc705e2d4dd8.png/30x30/quality/80/w9.png"/>
   </channel>
   <channel id="TMC">
     <display-name lang="fr">TMC</display-name>
-    <icon src="https://ppechenot.github.io/perso/logos/tmc.png"/>
+    <icon src="https://www.programme-tv.net/imgre/fit/~2~channel~b2c9618d914140d0.png/30x30/quality/80/tmc.png"/>
   </channel>
   <channel id="TFX">
     <display-name lang="fr">TFX</display-name>
-    <icon src="https://ppechenot.github.io/perso/logos/tfx.png"/>
+    <icon src="https://www.programme-tv.net/imgre/fit/~2~channel~71e551462d6114e5.png/30x30/quality/80/tfx.png"/>
   </channel>
   <channel id="LCP">
     <display-name lang="fr">LCP</display-name>
-    <icon src="https://ppechenot.github.io/perso/logos/lcp.png"/>
+    <icon src="https://www.programme-tv.net/imgre/fit/~2~channel~080eb27517dd16c6.png/30x30/quality/80/la-chaine-parlementaire.png"/>
   </channel>
   <channel id="CStar">
     <display-name lang="fr">CSTAR</display-name>
-    <icon src="https://ppechenot.github.io/perso/logos/cstar.png"/>
+    <icon src="https://www.programme-tv.net/imgre/fit/~2~channel~9583d8a6fa9d6ade.png/30x30/quality/80/cstar.png"/>
   </channel>
   <channel id="Gulli">
     <display-name lang="fr">GULLI</display-name>
-    <icon src="https://ppechenot.github.io/perso/logos/gulli.png"/>
+    <icon src="https://www.programme-tv.net/imgre/fit/~2~channel~059a8175b83117fd.png/30x30/quality/80/gulli.png"/>
   </channel>
   <channel id="TF1SeriesFilms">
     <display-name lang="fr">TF1 SERIES FILMS</display-name>
-    <icon src="https://ppechenot.github.io/perso/logos/tf1_series_films.png"/>
+    <icon src="https://www.programme-tv.net/imgre/fit/~2~channel~3104ccb3015a8669.png/30x30/quality/80/tf1-series-films.png"/>
   </channel>
   <channel id="6ter">
     <display-name lang="fr">6TER</display-name>
-    <icon src="https://ppechenot.github.io/perso/logos/6ter.png"/>
+    <icon src="https://www.programme-tv.net/imgre/fit/~2~channel~ceee54072118570a.png/30x30/quality/80/6ter.png"/>
   </channel>
   <channel id="RMCStory">
     <display-name lang="fr">RMC STORY</display-name>
-    <icon src="https://ppechenot.github.io/perso/logos/rmc_story.png"/>
+    <icon src="https://www.programme-tv.net/imgre/fit/~2~channel~ef490c50bb91c8b7.png/30x30/quality/80/rmc-story.png"/>
   </channel>
   <channel id="Cherie25">
     <display-name lang="fr">CHERIE 25</display-name>
-    <icon src="https://ppechenot.github.io/perso/logos/cherie25.png"/>
+    <icon src="https://www.programme-tv.net/imgre/fit/~2~channel~00d538e8ca871628.png/30x30/quality/80/cherie-25.png"/>
   </channel>
   <channel id="ParisPremiere">
     <display-name lang="fr">PARIS PREMIERE</display-name>
-    <icon src="https://ppechenot.github.io/perso/logos/paris_premiere.png"/>
+    <icon src="https://www.programme-tv.net/imgre/fit/~2~channel~ecf598fd002ccb9a.png/30x30/quality/80/paris-premiere.png"/>
   </channel>
   <channel id="TvBreizh">
     <display-name lang="fr">TV BREIZH</display-name>
-    <icon src="https://ppechenot.github.io/perso/logos/tvbreizh.png"/>
+    <icon src="https://www.programme-tv.net/imgre/fit/~2~channel~eda4c23255b4fed2.png/30x30/quality/80/tvbreizh.png"/>
   </channel>
   <channel id="RTL9">
     <display-name lang="fr">RTL9</display-name>
-    <icon src="https://ppechenot.github.io/perso/logos/rtl9.png"/>
+    <icon src="https://www.programme-tv.net/imgre/fit/~2~channel~39e76725dfcc33a3.png/30x30/quality/80/rtl-9.png"/>
   </channel>
   <channel id="ComediePlus">
     <display-name lang="fr">COMEDIE+</display-name>
-    <icon src="https://ppechenot.github.io/perso/logos/comedie+.png"/>
+    <icon src="https://www.programme-tv.net/imgre/fit/~2~channel~b419616020702bc2.png/30x30/quality/80/comedieplus.png"/>
   </channel>
   <channel id="PolarPlus">
     <display-name lang="fr">POLAR+</display-name>
-    <icon src="https://ppechenot.github.io/perso/logos/polar+.png"/>
+    <icon src="https://www.programme-tv.net/imgre/fit/~2~channel~138de7b2386a5c10.png/30x30/quality/80/polarplus.png"/>
   </channel>
   <channel id="13Rue">
     <display-name lang="fr">13EME RUE</display-name>
-    <icon src="https://ppechenot.github.io/perso/logos/13eme_rue.png"/>
+    <icon src="https://www.programme-tv.net/imgre/fit/~2~channel~c7a8275787244ffe.png/30x30/quality/80/13eme-rue.png"/>
   </channel>
   <channel id="Syfy">
     <display-name lang="fr">SYFY</display-name>
-    <icon src="https://ppechenot.github.io/perso/logos/syfy.png"/>
+    <icon src="https://www.programme-tv.net/imgre/fit/~2~channel~fdf578c5513fc680.png/30x30/quality/80/syfy.png"/>
   </channel>
   <channel id="SerieClub">
     <display-name lang="fr">SERIE CLUB</display-name>
-    <icon src="https://ppechenot.github.io/perso/logos/serieclub.png"/>
+    <icon src="https://www.programme-tv.net/imgre/fit/~2~channel~a341f0fb3b68e0be.png/30x30/quality/80/serieclub.png"/>
   </channel>
   <channel id="Teva">
     <display-name lang="fr">TEVA</display-name>
-    <icon src="https://ppechenot.github.io/perso/logos/teva.png"/>
+    <icon src="https://www.programme-tv.net/imgre/fit/~2~channel~4421904d874fa072.png/30x30/quality/80/teva.png"/>
   </channel>
   <channel id="CanalPlus">
     <display-name lang="fr">CANAL+</display-name>
-    <icon src="https://ppechenot.github.io/perso/logos/canal+.png"/>
+    <icon src="https://www.programme-tv.net/imgre/fit/~2~channel~897223a57e2e8ae5.png/30x30/quality/80/canalplus.png"/>
   </channel>
   <channel id="CanalPlusCinema">
     <display-name lang="fr">CANAL+ CINEMA(S)</display-name>
-    <icon src="https://ppechenot.github.io/perso/logos/canal+_cinema(s).png"/>
+    <icon src="https://www.programme-tv.net/imgre/fit/~2~channel~0b078790aeb2d121.png/30x30/quality/80/canalplus-cinema.png"/>
   </channel>
   <channel id="CanalPlusBoxOffice">
     <display-name lang="fr">CANAL+ BOX OFFICE</display-name>
-    <icon src="https://ppechenot.github.io/perso/logos/canal+_box_office.png"/>
+    <icon src="https://www.programme-tv.net/imgre/fit/~2~channel~69a3e9057bb45421.png/30x30/quality/80/canalplus-box-office.png"/>
   </channel>
   <channel id="CanalPlusSeries">
     <display-name lang="fr">CANAL+ SERIES</display-name>
-    <icon src="https://ppechenot.github.io/perso/logos/canal+_series.png"/>
+    <icon src="https://www.programme-tv.net/imgre/fit/~2~channel~93ad2cb6b7dcf637.png/30x30/quality/80/canalplus-series.png"/>
   </channel>
   <channel id="CanalPlusDocs">
     <display-name lang="fr">CANAL+ DOCS</display-name>
-    <icon src="https://ppechenot.github.io/perso/logos/canal+_docs.png"/>
+    <icon src="https://www.programme-tv.net/imgre/fit/~2~channel~b0dab3f2632272a9.png/30x30/quality/80/canalplus-docs.png"/>
   </channel>
   <channel id="CanalPlusGrandEcran">
     <display-name lang="fr">CANAL+ GRAND ECRAN</display-name>
-    <icon src="https://ppechenot.github.io/perso/logos/canal+_grand_ecran.png"/>
+    <icon src="https://www.programme-tv.net/imgre/fit/~2~channel~6826f74c606125a6.png/30x30/quality/80/canalplus-grand-ecran.png"/>
   </channel>
   <channel id="OCS">
     <display-name lang="fr">OCS</display-name>
-    <icon src="https://ppechenot.github.io/perso/logos/cine+_ocs.png"/>
+    <icon src="https://www.programme-tv.net/imgre/fit/~2~channel~7246bab97d61b8e2.png/30x30/quality/80/cineplus-premier.png"/>
   </channel>
   <channel id="CinePlusFrisson">
     <display-name lang="fr">CINE+ FRISSON</display-name>
-    <icon src="https://ppechenot.github.io/perso/logos/cine+_frisson.png"/>
+    <icon src="https://www.programme-tv.net/imgre/fit/~2~channel~75b212bb20dd0d9f.png/30x30/quality/80/cineplus-frisson.png"/>
   </channel>
   <channel id="CinePlusEmotion">
     <display-name lang="fr">CINE+ EMOTION</display-name>
-    <icon src="https://ppechenot.github.io/perso/logos/cine+_emotion.png"/>
+    <icon src="https://www.programme-tv.net/imgre/fit/~2~channel~a4315e8ee099e046.png/30x30/quality/80/cineplus-emotion.png"/>
   </channel>
   <channel id="CinePlusFamily">
     <display-name lang="fr">CINE+ FAMILY</display-name>
-    <icon src="https://ppechenot.github.io/perso/logos/cine+_family.png"/>
+    <icon src="https://www.programme-tv.net/imgre/fit/~2~channel~aa3a208e4af5aa5c.png/30x30/quality/80/cineplus-famiz.png"/>
   </channel>
   <channel id="CinePlusFestival">
     <display-name lang="fr">CINE+ FESTIVAL</display-name>
-    <icon src="https://ppechenot.github.io/perso/logos/cine+_festival.png"/>
+    <icon src="https://www.programme-tv.net/imgre/fit/~2~channel~1bda9959c4080bd1.png/30x30/quality/80/cineplus-club.png"/>
   </channel>
   <channel id="CinePlusClassic">
     <display-name lang="fr">CINE+ CLASSIC</display-name>
-    <icon src="https://ppechenot.github.io/perso/logos/cine+_classic.png"/>
+    <icon src="https://www.programme-tv.net/imgre/fit/~2~channel~2d69cbbd735c68d3.png/30x30/quality/80/cineplus-classic.png"/>
   </channel>
   <channel id="TCM">
     <display-name lang="fr">TCM CINEMA</display-name>
-    <icon src="https://ppechenot.github.io/perso/logos/tcm_cinema.png"/>
+    <icon src="https://www.programme-tv.net/imgre/fit/~2~channel~1380c434ba314175.png/30x30/quality/80/tcm-cinema.png"/>
   </channel>
   <channel id="ParamountChannel">
     <display-name lang="fr">PARAMOUNT CHANNEL</display-name>
-    <icon src="https://ppechenot.github.io/perso/logos/paramount_channel.png"/>
+    <icon src="https://www.programme-tv.net/imgre/fit/~2~channel~73c5eea09e5e5b1d.png/30x30/quality/80/paramount-network.png"/>
   </channel>
   <channel id="Action">
     <display-name lang="fr">ACTION</display-name>
-    <icon src="https://ppechenot.github.io/perso/logos/action.png"/>
+    <icon src="https://www.programme-tv.net/imgre/fit/~2~channel~c9d2c60078632b83.png/30x30/quality/80/action.png"/>
   </channel>
   <channel id="WarnerTV">
     <display-name lang="fr">WARNER TV</display-name>
-    <icon src="https://ppechenot.github.io/perso/logos/warner_tv.png"/>
+    <icon src="https://www.programme-tv.net/imgre/fit/~2~channel~6d75450123e766d6.png/30x30/quality/80/warner-tv.png"/>
   </channel>
   <channel id="NationalGeographic">
     <display-name lang="fr">NATIONAL GEOGRAPHIC</display-name>
-    <icon src="https://ppechenot.github.io/perso/logos/national_geographic.png"/>
+    <icon src="https://www.programme-tv.net/imgre/fit/~2~channel~c00912008deb7144.png/30x30/quality/80/national-geographic.png"/>
   </channel>
   <channel id="NatGeoWild">
     <display-name lang="fr">NAT GEO WILD</display-name>
-    <icon src="https://ppechenot.github.io/perso/logos/nat_geo_wild.png"/>
+    <icon src="https://www.programme-tv.net/imgre/fit/~2~channel~14a37deb1ba9efc4.png/30x30/quality/80/nat-geo-wild.png"/>
   </channel>
   <channel id="UshuaiaTV">
     <display-name lang="fr">USHUAIA TV</display-name>
-    <icon src="https://ppechenot.github.io/perso/logos/ushuaia_tv.png"/>
+    <icon src="https://www.programme-tv.net/imgre/fit/~2~channel~778073cbbd827d7a.png/30x30/quality/80/ushuaia-tv.png"/>
   </channel>
   <channel id="ScienceEtVieTV">
     <display-name lang="fr">SCIENCE ET VIE TV</display-name>
-    <icon src="https://ppechenot.github.io/perso/logos/science_et_vie_tv.png"/>
+    <icon src="https://www.programme-tv.net/imgre/fit/~2~channel~b6e7fa007605d89d.png/30x30/quality/80/science-vie-tv.png"/>
   </channel>
   <channel id="HistoireTV">
     <display-name lang="fr">HISTOIRE TV</display-name>
-    <icon src="https://ppechenot.github.io/perso/logos/histoire_tv.png"/>
+    <icon src="https://www.programme-tv.net/imgre/fit/~2~channel~354060da3ea6eca2.png/30x30/quality/80/histoire-tv.png"/>
   </channel>
   <channel id="TouteHistoire">
     <display-name lang="fr">TOUTE L HISTOIRE</display-name>
-    <icon src="https://ppechenot.github.io/perso/logos/toute_lhistoire.png"/>
+    <icon src="https://www.programme-tv.net/imgre/fit/~2~channel~37b4a846e6d5f66d.png/30x30/quality/80/toute-lhistoire.png"/>
   </channel>
   <channel id="MuseumTV">
     <display-name lang="fr">MUSEUM TV</display-name>
-    <icon src="https://ppechenot.github.io/perso/logos/museum_tv.png"/>
+    <icon src="https://www.programme-tv.net/imgre/fit/~2~channel~dee599244f69bd70.png/30x30/quality/80/museum-tv.png"/>
   </channel>
   <channel id="RTS1">
     <display-name lang="fr">RTS 1</display-name>
-    <icon src="https://ppechenot.github.io/perso/logos/rts1.png"/>
+    <icon src="https://www.programme-tv.net/imgre/fit/~2~channel~86b9c7fb157c9a56.png/30x30/quality/80/rts-un.png"/>
   </channel>
   <channel id="RTS2">
     <display-name lang="fr">RTS 2</display-name>
-    <icon src="https://ppechenot.github.io/perso/logos/rts2.png"/>
+    <icon src="https://www.programme-tv.net/imgre/fit/~2~channel~96e7582dedb5aa8e.png/30x30/quality/80/rts-deux.png"/>
   </channel>
   <channel id="LaUne">
     <display-name lang="fr">LA UNE</display-name>
-    <icon src="https://ppechenot.github.io/perso/logos/la_une.png"/>
+    <icon src="https://www.programme-tv.net/imgre/fit/~2~channel~708347cc7c38df85.png/30x30/quality/80/la-une.png"/>
   </channel>
   <channel id="LaTrois">
     <display-name lang="fr">LA TROIS</display-name>
-    <icon src="https://ppechenot.github.io/perso/logos/la_trois.png"/>
+    <icon src="https://www.programme-tv.net/imgre/fit/~2~channel~8322190ce66276be.png/30x30/quality/80/la-trois.png"/>
   </channel>
   <channel id="LEquipe">
     <display-name lang="fr">L EQUIPE</display-name>
-    <icon src="https://ppechenot.github.io/perso/logos/lequipe.png"/>
+    <icon src="https://www.programme-tv.net/imgre/fit/~2~channel~060edf53b072af43.png/30x30/quality/80/lequipe.png"/>
   </channel>
   <channel id="CanalPlusSport">
     <display-name lang="fr">CANAL+ SPORT</display-name>
-    <icon src="https://ppechenot.github.io/perso/logos/canal+_sport.png"/>
+    <icon src="https://www.programme-tv.net/imgre/fit/~2~channel~2b97b0fb1264c28d.png/30x30/quality/80/canalplus-sport.png"/>
   </channel>
   <channel id="CanalPlusSport360">
     <display-name lang="fr">CANAL+ SPORT 360</display-name>
-    <icon src="https://ppechenot.github.io/perso/logos/canal+_sport_360.png"/>
+    <icon src="https://www.programme-tv.net/imgre/fit/~2~channel~c883cdc8949cc276.png/30x30/quality/80/canalplus-sport-360.png"/>
   </channel>
   <channel id="Eurosport1">
     <display-name lang="fr">EUROSPORT 1</display-name>
-    <icon src="https://ppechenot.github.io/perso/logos/eurosport1.png"/>
+    <icon src="https://www.programme-tv.net/imgre/fit/~2~channel~277882f801bd3f7b.png/30x30/quality/80/eurosport-1.png"/>
   </channel>
   <channel id="Eurosport2">
     <display-name lang="fr">EUROSPORT 2</display-name>
-    <icon src="https://ppechenot.github.io/perso/logos/eurosport2.png"/>
+    <icon src="https://www.programme-tv.net/imgre/fit/~2~channel~196acf0142c66a68.png/30x30/quality/80/eurosport-2.png"/>
   </channel>
   <channel id="BeinSports1">
     <display-name lang="fr">BEIN SPORTS 1</display-name>
-    <icon src="https://ppechenot.github.io/perso/logos/bein_sports1.png"/>
+    <icon src="https://www.programme-tv.net/imgre/fit/~2~channel~8884f09c3361af44.png/30x30/quality/80/bein-sports-1.png"/>
   </channel>
   <channel id="BeinSports2">
     <display-name lang="fr">BEIN SPORTS 2</display-name>
-    <icon src="https://ppechenot.github.io/perso/logos/bein_sports2.png"/>
+    <icon src="https://www.programme-tv.net/imgre/fit/~2~channel~2fa633f39d6c3033.png/30x30/quality/80/bein-sports-2.png"/>
   </channel>
   <channel id="BeinSports3">
     <display-name lang="fr">BEIN SPORTS 3</display-name>
-    <icon src="https://ppechenot.github.io/perso/logos/bein_sports3.png"/>
+    <icon src="https://www.programme-tv.net/imgre/fit/~2~channel~d5aee128665b32a9.png/30x30/quality/80/bein-sports-3.png"/>
   </channel>
   <channel id="GolfPlus">
     <display-name lang="fr">GOLF+</display-name>
-    <icon src="https://ppechenot.github.io/perso/logos/golf+.png"/>
+    <icon src="https://www.programme-tv.net/imgre/fit/~2~channel~222f4c51ddee1398.png/30x30/quality/80/golfplus.png"/>
   </channel>
   <channel id="SportEnFrance">
     <display-name lang="fr">SPORT EN FRANCE</display-name>
-    <icon src="https://ppechenot.github.io/perso/logos/sport_en_france.png"/>
+    <icon src="https://proxymedia.woopic.com/api/v1/images/553%2Flogos%2Fv2%2Flogos%2Flivetv_sportenfrance%2F20190513_093153%2FwebTVSquare%2Flogo_150x150.png"/>
   </channel>
   <channel id="SkySportsGolf">
     <display-name lang="en">Sky Sports Golf</display-name>
@@ -3758,137 +3758,131 @@ Lors d'une mission à Belgrade, l'agent secret Ethan, habituellement redoutable,
 Un biologiste, Seth Brundle, vient de mettre au point un procédé révolutionnaire de téléportation. Ses expériences sont suivies de près par Veronica Quaile, une journaliste. Seth décide d'expérimenter sa découverte sur lui-même. L'expérience semble couronnée de succès. Mais, bientôt, son comportement se modifie, tout comme son physique. Il comprend vitequ'une mouche s'était glissée avec lui dans l'appareil?</desc>
     <icon src="https://www.programme-tv.net/imgre/fit/https.3A.2F.2Fs2.2Edmcdn.2Enet.2Fv.2FTXC1N1Xw1wireswAl/640x360/crop-from/top/quality/80/la-mouche.jpg"/>
   </programme>
-  <programme start="20250529002500 +0200" stop="20250529020500 +0200" channel="TvBreizh">
-    <title>Meurtres à.. - Série policière</title>
-    <desc>Meurtres à Etretat ()
-Mis à part une petite escapade dans le Vaucluse dominé par le mont Ventoux, c'est la façade Ouest de la France qui est essentiellement mise à l'honneur, avec des intrigues situées à Guérande, à l'île d'Yeu ou à Etretat, où un notable a chuté du haut des falaises. Mais peut-être pas tout seul. Claire Borotra, Antoine Duléry, Adriana Karembeu ou encore Bruno Madinier campent dans cette seconde saison l'un des éléments des duos qui oeuvret à résoudre ces meurtres mystérieux.</desc>
-    <icon src="https://www.programme-tv.net/imgre/fit/https.3A.2F.2Fs1.2Edmcdn.2Enet.2Fv.2FTWnLm1X-Hd5-VoTob/640x360/crop-from/top/quality/80/meurtres-a.jpg"/>
-  </programme>
-  <programme start="20250529020500 +0200" stop="20250529055000 +0200" channel="TvBreizh">
-    <title>Programmes de la nuit - Programme indéterminé</title>
+  <programme start="20250529000500 +0000" stop="20250529035000 +0000" channel="TvBreizh">
+    <title>Programmes de la nuit - Autres émissions</title>
     <desc>
-Retrouvez tous vos programmes de nuit.</desc>
-    <icon src="https://www.programme-tv.net/imgre/fit/~2~program~e19097492fe05ec9.jpeg/630x355/quality/80/programmes-de-la-nuit.jpeg"/>
-  </programme>
-  <programme start="20250529055000 +0200" stop="20250529073500 +0200" channel="TvBreizh">
-    <title>Soeur Thérèse.com - Série policière</title>
-    <desc>Meurtre en sous-sol (Saison 5 Episode 1)
 </desc>
-    <icon src="https://www.programme-tv.net/imgre/fit/https.3A.2F.2Fs2.2Edmcdn.2Enet.2Fv.2FTXN_u1Xw2d7--oLSC/640x360/crop-from/top/quality/80/soeur-therese-com.jpg"/>
+    <icon src="https://resize.programme-television.org/portrait_broadcast_desktop_webp/images/imported/programs/227059643/b385797197cd44d397d2f0a0a5deb3e8"/>
   </programme>
-  <programme start="20250529073500 +0200" stop="20250529083000 +0200" channel="TvBreizh">
-    <title>Arabesque - Série policière</title>
-    <desc>Un club très privé (Saison 8 Episode 19)
+  <programme start="20250529035000 +0000" stop="20250529053500 +0000" channel="TvBreizh">
+    <title>Soeur Thérèse.com - Séries policières</title>
+    <desc>Meurtre en sous-sol (S5 E3/5)
+Le cadavre de l'ancienne propriétaire du couvent, Sophie, est découvert emmuré dans la chaufferie. La mère supérieure demande à soeur Thérèse de résoudre ce mystère. Sophie était présumée morte depuis dix ans, victime d'un cyclone en Indonésie. Il apparaît bientôt que Roche, l'actuel propriétaire du couvent, avait fait pression sur Sophie pour qu'elle lui vende le bâtiment. Il pensait que ses sous-sols renfermaient un trésor. Alors que Bonaventure suspecte Roche, soeur Thérèse apprend que le beau-frère de Sophie aurait touché un héritage à sa disparition. Une lettre vient apporter un peu plus de confusion à l'affaire. Mais soeur Thérèse est décidée à découvrir la vérité...</desc>
+    <icon src="https://resize.programme-television.org/portrait_broadcast_desktop_webp/images/imported/programs/6158017/c704f4434d7e462f8f9fb15122d0da40"/>
+  </programme>
+  <programme start="20250529053500 +0000" stop="20250529063000 +0000" channel="TvBreizh">
+    <title>Arabesque - Séries policières</title>
+    <desc>Un club très privé (S8 E9/22)
 Engagée comme professeur de criminologie dans une université new-yorkaise, Jessica apprend que l'ancien locataire de son appartement a été assassiné. Il ne lui en faut pas plus pour se lancer dans une nouvelle enquête. Toujours à la pointe de la technologie, elle décide également d'abandonner sa vieille machine à écrire pour un ordinateur. A peine initiée à l'informatique, la voici qui prend l'avion pour Monaco, où réside une de ses amies menacée de faillite personnelle. De retour, elle procure aide et assistance au docteur Hazlitt, sur la sellette : un de ses patients est mort pendant une opération. James Coburn, Marcia Cross, John Hillerman, Adrian Paul : les stars invitées sont légion dans cette huitième saison itinérante.</desc>
-    <icon src="https://www.programme-tv.net/imgre/fit/https.3A.2F.2Fs2.2Edmcdn.2Enet.2Fv.2FTWreN1XxfHO2MxaJh/640x360/crop-from/top/quality/80/arabesque-se-devoile-dans-previously-le-podcast-de-tele-loisirs.jpg"/>
+    <icon src="https://resize.programme-television.org/portrait_broadcast_desktop_webp/images/imported/programs/111/fca66ea91faf465e9007138993638d1b"/>
   </programme>
-  <programme start="20250529083000 +0200" stop="20250529092000 +0200" channel="TvBreizh">
-    <title>Arabesque - Série policière</title>
-    <desc>Le masque de Montezuma (Saison 8 Episode 19)
+  <programme start="20250529063000 +0000" stop="20250529072000 +0000" channel="TvBreizh">
+    <title>Arabesque - Séries policières</title>
+    <desc>Le masque de Montezuma (S8 E19/22)
 Engagée comme professeur de criminologie dans une université new-yorkaise, Jessica apprend que l'ancien locataire de son appartement a été assassiné. Il ne lui en faut pas plus pour se lancer dans une nouvelle enquête. Toujours à la pointe de la technologie, elle décide également d'abandonner sa vieille machine à écrire pour un ordinateur. A peine initiée à l'informatique, la voici qui prend l'avion pour Monaco, où réside une de ses amies menacée de faillite personnelle. De retour, elle procure aide et assistance au docteur Hazlitt, sur la sellette : un de ses patients est mort pendant une opération. James Coburn, Marcia Cross, John Hillerman, Adrian Paul : les stars invitées sont légion dans cette huitième saison itinérante.</desc>
-    <icon src="https://www.programme-tv.net/imgre/fit/https.3A.2F.2Fs2.2Edmcdn.2Enet.2Fv.2FTWreN1XxfHO2MxaJh/640x360/crop-from/top/quality/80/arabesque-se-devoile-dans-previously-le-podcast-de-tele-loisirs.jpg"/>
+    <icon src="https://resize.programme-television.org/portrait_broadcast_desktop_webp/images/imported/programs/2109/fca66ea91faf465e9007138993638d1b"/>
   </programme>
-  <programme start="20250529092000 +0200" stop="20250529102000 +0200" channel="TvBreizh">
-    <title>Arabesque - Série policière</title>
-    <desc>Trois petites notes de musique (Saison 9 Episode 10)
-</desc>
-    <icon src="https://www.programme-tv.net/imgre/fit/https.3A.2F.2Fs2.2Edmcdn.2Enet.2Fv.2FTWreN1XxfHO2MxaJh/640x360/crop-from/top/quality/80/arabesque-se-devoile-dans-previously-le-podcast-de-tele-loisirs.jpg"/>
+  <programme start="20250529072000 +0000" stop="20250529082000 +0000" channel="TvBreizh">
+    <title>Arabesque - Séries policières</title>
+    <desc>Trois petites notes de musique (S9 E10/22)
+A Milan, Jessica enquête sur le meurtre d'une productrice, qui venait d'adapter un de ses romans au cinéma. Le réalisateur fait partie des suspects. C'est ensuite au tour d'un millionnaire, qui voulait racheter la maison d'éditions qui publie Jessica, de disparaître. La détective se sent très concernée par cette étrange affaire. Lorsque le livreur de l'épicerie de Cabot Cove prétend avoir été témoin d'un meurtre, personne ne le croit, sauf Jessica, qui tente aussitôt d'y voir plus clair. Un peu fatiguée par ses longues investigations, il est temps pour la détective de partir en croisière dans les Caraïbes. Là encore, un mystère l'attend. Une saison très justement récompensée par un Golden Globes. Les talents de Jessica Fletcher sont une fois de plus sollicités. Mais cette fois, la demande est pour le moins insolite. En effet, Major Records, une maison de disque de renom, souhaite que la romancière enregistre un de ses romans pour les aveugles. Pour ce faire, un studio est mis à sa disposition...</desc>
+    <icon src="https://resize.programme-television.org/portrait_broadcast_desktop_webp/images/imported/programs/3772/fca66ea91faf465e9007138993638d1b"/>
   </programme>
-  <programme start="20250529102000 +0200" stop="20250529111000 +0200" channel="TvBreizh">
-    <title>Arabesque - Série policière</title>
-    <desc>Une ballade irlandaise (Saison 8 Episode 19)
+  <programme start="20250529082000 +0000" stop="20250529091000 +0000" channel="TvBreizh">
+    <title>Arabesque - Séries policières</title>
+    <desc>Une ballade irlandaise (S8 E17/22)
 Engagée comme professeur de criminologie dans une université new-yorkaise, Jessica apprend que l'ancien locataire de son appartement a été assassiné. Il ne lui en faut pas plus pour se lancer dans une nouvelle enquête. Toujours à la pointe de la technologie, elle décide également d'abandonner sa vieille machine à écrire pour un ordinateur. A peine initiée à l'informatique, la voici qui prend l'avion pour Monaco, où réside une de ses amies menacée de faillite personnelle. De retour, elle procure aide et assistance au docteur Hazlitt, sur la sellette : un de ses patients est mort pendant une opération. James Coburn, Marcia Cross, John Hillerman, Adrian Paul : les stars invitées sont légion dans cette huitième saison itinérante.</desc>
-    <icon src="https://www.programme-tv.net/imgre/fit/https.3A.2F.2Fs2.2Edmcdn.2Enet.2Fv.2FTWreN1XxfHO2MxaJh/640x360/crop-from/top/quality/80/arabesque-se-devoile-dans-previously-le-podcast-de-tele-loisirs.jpg"/>
+    <icon src="https://resize.programme-television.org/portrait_broadcast_desktop_webp/images/imported/programs/2118/f82227b082434e5e93cccb6895d34a53"/>
   </programme>
-  <programme start="20250529111000 +0200" stop="20250529121000 +0200" channel="TvBreizh">
-    <title>Arabesque - Série policière</title>
-    <desc>Quand le rideau tombe (Saison 9 Episode 10)
-</desc>
-    <icon src="https://www.programme-tv.net/imgre/fit/https.3A.2F.2Fs2.2Edmcdn.2Enet.2Fv.2FTWreN1XxfHO2MxaJh/640x360/crop-from/top/quality/80/arabesque-se-devoile-dans-previously-le-podcast-de-tele-loisirs.jpg"/>
+  <programme start="20250529091000 +0000" stop="20250529101000 +0000" channel="TvBreizh">
+    <title>Arabesque - Séries policières</title>
+    <desc>Quand le rideau tombe (S9 E11/22)
+A Milan, Jessica enquête sur le meurtre d'une productrice, qui venait d'adapter un de ses romans au cinéma. Le réalisateur fait partie des suspects. C'est ensuite au tour d'un millionnaire, qui voulait racheter la maison d'éditions qui publie Jessica, de disparaître. La détective se sent très concernée par cette étrange affaire. Lorsque le livreur de l'épicerie de Cabot Cove prétend avoir été témoin d'un meurtre, personne ne le croit, sauf Jessica, qui tente aussitôt d'y voir plus clair. Un peu fatiguée par ses longues investigations, il est temps pour la détective de partir en croisière dans les Caraïbes. Là encore, un mystère l'attend. Une saison très justement récompensée par un Golden Globes.</desc>
+    <icon src="https://resize.programme-television.org/portrait_broadcast_desktop_webp/images/imported/programs/4374/fca66ea91faf465e9007138993638d1b"/>
   </programme>
-  <programme start="20250529121000 +0200" stop="20250529130500 +0200" channel="TvBreizh">
-    <title>Arabesque - Série policière</title>
-    <desc>Amour, succès et décadence (Saison 9 Episode 10)
-</desc>
-    <icon src="https://www.programme-tv.net/imgre/fit/https.3A.2F.2Fs2.2Edmcdn.2Enet.2Fv.2FTWreN1XxfHO2MxaJh/640x360/crop-from/top/quality/80/arabesque-se-devoile-dans-previously-le-podcast-de-tele-loisirs.jpg"/>
+  <programme start="20250529101000 +0000" stop="20250529110500 +0000" channel="TvBreizh">
+    <title>Arabesque - Séries policières</title>
+    <desc>Amour, succès et décadence (S9 E22/22)
+A Milan, Jessica enquête sur le meurtre d'une productrice, qui venait d'adapter un de ses romans au cinéma. Le réalisateur fait partie des suspects. C'est ensuite au tour d'un millionnaire, qui voulait racheter la maison d'éditions qui publie Jessica, de disparaître. La détective se sent très concernée par cette étrange affaire. Lorsque le livreur de l'épicerie de Cabot Cove prétend avoir été témoin d'un meurtre, personne ne le croit, sauf Jessica, qui tente aussitôt d'y voir plus clair. Un peu fatiguée par ses longues investigations, il est temps pour la détective de partir en croisière dans les Caraïbes. Là encore, un mystère l'attend. Une saison très justement récompensée par un Golden Globes.</desc>
+    <icon src="https://resize.programme-television.org/portrait_broadcast_desktop_webp/images/imported/programs/5756/fca66ea91faf465e9007138993638d1b"/>
   </programme>
-  <programme start="20250529130500 +0200" stop="20250529140000 +0200" channel="TvBreizh">
-    <title>Les experts - Série policière</title>
-    <desc>Service à domicile (Saison 2 Episode 21)
-</desc>
-    <icon src="https://www.programme-tv.net/imgre/fit/https.3A.2F.2Fs1.2Edmcdn.2Enet.2Fv.2FTX5pk1Xw1UIuigv-B/640x360/crop-from/top/quality/80/les-experts.jpg"/>
+  <programme start="20250529110500 +0000" stop="20250529120000 +0000" channel="TvBreizh">
+    <title>Les experts - Séries policières</title>
+    <desc>Service à domicile (S2 E19/23)
+Une partie seulement des enquêtes des experts se passe au sein de leur laboratoire : l'affaire de la mort par overdose du fils d'un magnat donne l'occasion à Grissom et à son équipe de partir à la recherche de dealers, tout en analysant les indices recueillis sur la scène de crime. Dans le cas de la disparition d'une étudiante, les éléments sont si ténus que les experts sont contraints de mener une enquête plus spécifiquement policière. La jeune femme aurait eu une liaison avec un professeur marié. Un tueur, traqué depuis longue date par le CSI, refait surface et détourne les experts de leurs travaux habituels. Le serial killer ne s'en prend qu'à des personnes nées un 17 août. La chasse reprend. Une saison 2 qui confirme le très bon démarrage de la série, déjà récompensée en 2001 aux BMI Film &amp; TV Awards.</desc>
+    <icon src="https://resize.programme-television.org/portrait_broadcast_desktop_webp/images/imported/programs/1094436/e197e1406c7345839ef76ac46bdd58c8"/>
   </programme>
-  <programme start="20250529140000 +0200" stop="20250529145000 +0200" channel="TvBreizh">
-    <title>Les experts - Série policière</title>
-    <desc>Dernier round (Saison 3 Episode 1)
-</desc>
-    <icon src="https://www.programme-tv.net/imgre/fit/https.3A.2F.2Fs2.2Edmcdn.2Enet.2Fv.2FTWnBg1XxfGK2rktnE/640x360/crop-from/top/quality/80/les-experts-se-devoile-dans-previously-le-podcast-de-tele-loisirs.jpg"/>
+  <programme start="20250529120000 +0000" stop="20250529125000 +0000" channel="TvBreizh">
+    <title>Les experts - Séries policières</title>
+    <desc>Dernier round (S3 E7/23)
+Catherine et Nick mènent une enquête conjointe sur la mort d'un homme retrouvé dans le désert. Grissom, lui, se penche sur le décès suspect d'un joueur de poker invétéré. Les analyses des experts sont aussi d'un grand secours lorsqu'une femme est retrouvée assassinée dans la chambre d'un acteur connu. Plus tard, lorsqu'un chauffeur de taxi renverse un piéton, il faut toute la sagacité des agents sur le terrain pour douter du déroulement de l'accident. L'équipe se mobilise ensuite pour seconder des légistes, qui ne parviennent pas identifier un corps immergé dans un baril de produits toxiques. Une troisième saison au suspense renouvelé : les personnages de Catherine Willows et Gil Grissom ont été librement inspirés du quotidien des experts criminologues Yolanda McClary et Daniel Holstein. Un champion de boxe, qui s'apprête à disputer un combat, ne sait pas encore qu'il monte sur le ring pour la dernière fois. Lors des échanges de coups, il s'effondre. Les médecins sont impuissants à le ranimer. Les experts arrivent sur les lieux pour faire les premières constatations d'usage. Grissom est persuadé qu'il s'agit d'un meurtre, et non d'un accident comme il s'en produit parfois dans ce type de sports de combat. Sur place, Catherine collecte de nombreux indices. Nick, de son côté, cherche à comprendre comment des cambrioleurs ont pu s'attaquer à une bijouterie. En cherchant les traces qu'auraient pu laisser les malfrats, il tombe sur un détail intéressant qui le met sur une piste...</desc>
+    <icon src="https://resize.programme-television.org/portrait_broadcast_desktop_webp/images/imported/programs/1743533/f5f3dbd8aa644bfe947c9c5bf59df735"/>
   </programme>
-  <programme start="20250529145000 +0200" stop="20250529154000 +0200" channel="TvBreizh">
-    <title>Les experts - Série policière</title>
-    <desc>Liaison fatale (Saison 3 Episode 1)
-</desc>
-    <icon src="https://www.programme-tv.net/imgre/fit/https.3A.2F.2Fs2.2Edmcdn.2Enet.2Fv.2FTWnBg1XxfGK2rktnE/640x360/crop-from/top/quality/80/les-experts-se-devoile-dans-previously-le-podcast-de-tele-loisirs.jpg"/>
+  <programme start="20250529125000 +0000" stop="20250529134000 +0000" channel="TvBreizh">
+    <title>Les experts - Séries policières</title>
+    <desc>Liaison fatale (S3 E22/23)
+Catherine et Nick mènent une enquête conjointe sur la mort d'un homme retrouvé dans le désert. Grissom, lui, se penche sur le décès suspect d'un joueur de poker invétéré. Les analyses des experts sont aussi d'un grand secours lorsqu'une femme est retrouvée assassinée dans la chambre d'un acteur connu. Plus tard, lorsqu'un chauffeur de taxi renverse un piéton, il faut toute la sagacité des agents sur le terrain pour douter du déroulement de l'accident. L'équipe se mobilise ensuite pour seconder des légistes, qui ne parviennent pas identifier un corps immergé dans un baril de produits toxiques. Une troisième saison au suspense renouvelé : les personnages de Catherine Willows et Gil Grissom ont été librement inspirés du quotidien des experts criminologues Yolanda McClary et Daniel Holstein.</desc>
+    <icon src="https://resize.programme-television.org/portrait_broadcast_desktop_webp/images/imported/programs/2174863/a228a63addd84d4e9c6551848e3e0c79"/>
   </programme>
-  <programme start="20250529154000 +0200" stop="20250529163000 +0200" channel="TvBreizh">
-    <title>Les experts - Série policière</title>
-    <desc>Onze hommes en colère (Saison 4 Episode 11)
-</desc>
-    <icon src="https://www.programme-tv.net/imgre/fit/https.3A.2F.2Fs2.2Edmcdn.2Enet.2Fv.2FTWnBg1XxfGK2rktnE/640x360/crop-from/top/quality/80/les-experts-se-devoile-dans-previously-le-podcast-de-tele-loisirs.jpg"/>
+  <programme start="20250529134000 +0000" stop="20250529143000 +0000" channel="TvBreizh">
+    <title>Les experts - Séries policières</title>
+    <desc>Onze hommes en colère (S4 E11/23)
+Lorsque plusieurs couples sont assassinés, les autorités pensent aussitôt qu'il s'agit d'un tueur en série. Les experts sont mis sur l'affaire. L'enquête ne doit toutefois pas leur faire oublier que d'autres crimes sont commis chaque jour à Las Vegas. Le cadavre momifié d'une femme vient ainsi d'être découvert. Et quand ce ne sont pas les meurtres qui s'accumulent, ce sont les accidents : les agents trouvent, en pleine période de canicule, le corps d'un enfant victime de déshydratation, abandonné dans une voiture. Plus tard, c'est un coureur qui décède lors d'une compétition, lui aussi victime de la chaleur. A moins qu'il n'ait été empoisonné. Une quatrième saison toujours aussi captivante, d'ailleurs distinguée aux Primetime Emmy Awards. Un homme, juré dans une affaire de meurtre, est retrouvé mort dans une salle de délibérations. Or, le jury n'arrivait pas à tomber d'accord : sur les douze jurés, onze étaient convaincus de la culpabilité de l'accusé, un seul s'opposant à la sentence, celui précisément dont on vient de découvrir le cadavre. A l'issue de trois semaines d'éprouvantes délibérations, l'un des jurés aurait-il cédé à une soudaine crise de rage ? Que s'est-il vraiment passé dans cette salle de tribunal ? Grissom et son équipe enquêtent. Ils recueillent les témoignages des onze jurés restants, tous susceptibles d'avoir commis l'irréparable...</desc>
+    <icon src="https://resize.programme-television.org/portrait_broadcast_desktop_webp/images/imported/programs/3659860/3ae8e1a100ae44669cda557796ab9e94"/>
   </programme>
-  <programme start="20250529163000 +0200" stop="20250529172500 +0200" channel="TvBreizh">
-    <title>Les experts - Série policière</title>
-    <desc>A bout de course (Saison 4 Episode 11)
-</desc>
-    <icon src="https://www.programme-tv.net/imgre/fit/https.3A.2F.2Fs2.2Edmcdn.2Enet.2Fv.2FTWnBg1XxfGK2rktnE/640x360/crop-from/top/quality/80/les-experts-se-devoile-dans-previously-le-podcast-de-tele-loisirs.jpg"/>
+  <programme start="20250529143000 +0000" stop="20250529152500 +0000" channel="TvBreizh">
+    <title>Les experts - Séries policières</title>
+    <desc>A bout de course (S4 E20/23)
+Lorsque plusieurs couples sont assassinés, les autorités pensent aussitôt qu'il s'agit d'un tueur en série. Les experts sont mis sur l'affaire. L'enquête ne doit toutefois pas leur faire oublier que d'autres crimes sont commis chaque jour à Las Vegas. Le cadavre momifié d'une femme vient ainsi d'être découvert. Et quand ce ne sont pas les meurtres qui s'accumulent, ce sont les accidents : les agents trouvent, en pleine période de canicule, le corps d'un enfant victime de déshydratation, abandonné dans une voiture. Plus tard, c'est un coureur qui décède lors d'une compétition, lui aussi victime de la chaleur. A moins qu'il n'ait été empoisonné. Une quatrième saison toujours aussi captivante, d'ailleurs distinguée aux Primetime Emmy Awards.</desc>
+    <icon src="https://resize.programme-television.org/portrait_broadcast_desktop_webp/images/imported/programs/3362906/bb763a1c4f534a918a017ca41107fe6f"/>
   </programme>
-  <programme start="20250529172500 +0200" stop="20250529181000 +0200" channel="TvBreizh">
-    <title>Les experts - Série policière</title>
-    <desc>Le mystère de la chambre forte (Saison 3 Episode 1)
-</desc>
-    <icon src="https://www.programme-tv.net/imgre/fit/https.3A.2F.2Fs2.2Edmcdn.2Enet.2Fv.2FTWnBg1XxfGK2rktnE/640x360/crop-from/top/quality/80/les-experts-se-devoile-dans-previously-le-podcast-de-tele-loisirs.jpg"/>
+  <programme start="20250529152500 +0000" stop="20250529161000 +0000" channel="TvBreizh">
+    <title>Les experts - Séries policières</title>
+    <desc>Le mystère de la chambre forte (S3 E23/23)
+Catherine et Nick mènent une enquête conjointe sur la mort d'un homme retrouvé dans le désert. Grissom, lui, se penche sur le décès suspect d'un joueur de poker invétéré. Les analyses des experts sont aussi d'un grand secours lorsqu'une femme est retrouvée assassinée dans la chambre d'un acteur connu. Plus tard, lorsqu'un chauffeur de taxi renverse un piéton, il faut toute la sagacité des agents sur le terrain pour douter du déroulement de l'accident. L'équipe se mobilise ensuite pour seconder des légistes, qui ne parviennent pas identifier un corps immergé dans un baril de produits toxiques. Une troisième saison au suspense renouvelé : les personnages de Catherine Willows et Gil Grissom ont été librement inspirés du quotidien des experts criminologues Yolanda McClary et Daniel Holstein.</desc>
+    <icon src="https://resize.programme-television.org/portrait_broadcast_desktop_webp/images/imported/programs/2160701/b83ca673ec3642dbae3fb7e6419e4403"/>
   </programme>
-  <programme start="20250529181000 +0200" stop="20250529190500 +0200" channel="TvBreizh">
-    <title>Les experts - Série policière</title>
-    <desc>Chambre froide (Saison 5 Episode 23)
-</desc>
-    <icon src="https://www.programme-tv.net/imgre/fit/https.3A.2F.2Fs2.2Edmcdn.2Enet.2Fv.2FTWnBg1XxfGK2rktnE/640x360/crop-from/top/quality/80/les-experts-se-devoile-dans-previously-le-podcast-de-tele-loisirs.jpg"/>
+  <programme start="20250529161000 +0000" stop="20250529170500 +0000" channel="TvBreizh">
+    <title>Les experts - Séries policières</title>
+    <desc>Chambre froide (S5 E23/25)
+Les nuits sont mouvementées à Las Vegas et les cadavres se multiplient : les experts ne savent plus où donner de la tête. Un homme déguisé en extraterrestre, une stripteaseuse, sont autant de victimes qu'il faut examiner. Et quand la météo se met de la partie pour compliquer les choses, enquêter devient vraiment difficile. Des pluies diluviennes tombent en effet sur la ville. Lorsqu'une adolescente est enlevée, les agents explorent néanmoins toutes les pistes possibles, avant de s'intéresser au meurtre d'un homme, dont le visage a été emporté par une décharge de chevrotine. A la morgue, une certaine confusion règne après la disparition d'un corps. Une saison spectaculaire, récompensée aux BMI Film &amp; TV Awards.</desc>
+    <icon src="https://resize.programme-television.org/portrait_broadcast_desktop_webp/images/imported/programs/4701664/17767b891c8240e5bf975af0a89ffafb"/>
   </programme>
-  <programme start="20250529190500 +0200" stop="20250529200000 +0200" channel="TvBreizh">
-    <title>Les experts - Série policière</title>
-    <desc>Le loup-garou de Vegas (Saison 6 Episode 11)
-</desc>
-    <icon src="https://www.programme-tv.net/imgre/fit/https.3A.2F.2Fs2.2Edmcdn.2Enet.2Fv.2FTWnBg1XxfGK2rktnE/640x360/crop-from/top/quality/80/les-experts-se-devoile-dans-previously-le-podcast-de-tele-loisirs.jpg"/>
+  <programme start="20250529170500 +0000" stop="20250529180000 +0000" channel="TvBreizh">
+    <title>Les experts - Séries policières</title>
+    <desc>Le loup-garou de Vegas (S6 E11/24)
+L'enlèvement de Nick a beaucoup marqué les experts, qui n'en reprennent pas moins leurs enquêtes quotidiennes. Une actrice prometteuse a, en effet, été retrouvée assassinée après avoir fait la fête avec ses admirateurs. Sont-ils responsables de sa mort ? Une affaire plus complexe attend ensuite les enquêteurs : une femme est décédée après une chute dans les escaliers. L'hypothèse de l'accident domestique, probable, ne satisfait pas la police. Un suicide collectif choque par ailleurs les agents, qui doivent multiplier les prélèvements sur le terrain pour comprendre le déroulement du drame. Une sixième saison qui ne ménage pas ses effets, récompensée aux Genesis Awards. Grissom et son équipe sont chargés d'enquêter sur le meurtre d'un homme atteint d'une pilosité anormale. Pour certains, il s'agirait de la preuve que le défunt était un loup-garou. L'autopsie révèle des faits troublants, notamment que la victime a été abattue d'une balle en argent. Les investigations font également apparaître que le défunt avait multiplié les paris en ligne et qu'il avait contracté de fortes dettes. Le propriétaire du site sur lequel il s'était connecté l'avait d'ailleurs menacé de représailles s'il ne payait pas. Malgré son handicap, l'homme avait projeté de se marier sous peu...</desc>
+    <icon src="https://resize.programme-television.org/portrait_broadcast_desktop_webp/images/imported/programs/5758961/e86eacdf5a8843c0959de64984f4bb2f"/>
   </programme>
-  <programme start="20250529200000 +0200" stop="20250529205000 +0200" channel="TvBreizh">
-    <title>Les experts - Série policière</title>
-    <desc>Filles à papa (Saison 6 Episode 11)
-</desc>
-    <icon src="https://www.programme-tv.net/imgre/fit/https.3A.2F.2Fs2.2Edmcdn.2Enet.2Fv.2FTWnBg1XxfGK2rktnE/640x360/crop-from/top/quality/80/les-experts-se-devoile-dans-previously-le-podcast-de-tele-loisirs.jpg"/>
+  <programme start="20250529180000 +0000" stop="20250529185000 +0000" channel="TvBreizh">
+    <title>Les experts - Séries policières</title>
+    <desc>Filles à papa (S6 E12/24)
+L'enlèvement de Nick a beaucoup marqué les experts, qui n'en reprennent pas moins leurs enquêtes quotidiennes. Une actrice prometteuse a, en effet, été retrouvée assassinée après avoir fait la fête avec ses admirateurs. Sont-ils responsables de sa mort ? Une affaire plus complexe attend ensuite les enquêteurs : une femme est décédée après une chute dans les escaliers. L'hypothèse de l'accident domestique, probable, ne satisfait pas la police. Un suicide collectif choque par ailleurs les agents, qui doivent multiplier les prélèvements sur le terrain pour comprendre le déroulement du drame. Une sixième saison qui ne ménage pas ses effets, récompensée aux Genesis Awards.</desc>
+    <icon src="https://resize.programme-television.org/portrait_broadcast_desktop_webp/images/imported/programs/5788431/fc0c1187700c410c9dcf58bc6bf70676"/>
   </programme>
-  <programme start="20250529205000 +0200" stop="20250529214000 +0200" channel="TvBreizh">
-    <title>Cold Case - Série policière</title>
-    <desc>Justice (Saison 5 Episode 10)
+  <programme start="20250529185000 +0000" stop="20250529194000 +0000" channel="TvBreizh">
+    <title>Cold Case : affaires classées - Séries policières</title>
+    <desc>Justice (S5 E10/18)
+Et si une adolescente avait été tuée en 1963 parce qu'elle aimait agir et s'habiller en garçon ? Et si les deux adolescents, aujourd'hui adultes, condamnés en 1994 pour le meurtre de trois enfants, étaient innocents ? Et si la femme qui s'est suicidée en 1962 n'était pas le véritable auteur de sa lettre de suicide ? Affaires non résolues, erreurs judiciaires, crimes impunis depuis des années sont le lot quotidien de Lilly Rush, Scotty Valens et leurs collègues. L'affaire très médiatisée des "Trois de West Memphis" ou les attentats du terroriste Unabomber font partie des sources d'inspiration de cette cinquième saison. Lilly et son équipe enquêtent sur une affaire vieille de plus de vingt ans : l'assassinat, en 1982, d'un jeune homme très apprécié de son entourage. Pourtant, peu de temps avant son assassinat, ce garçon apparemment exemplaire avait été accusé de viol par plusieurs étudiantes. Lilly tente de résoudre ce cas compliqué. Elle reprend les investigations depuis le début et commence les interrogatoires des proches de la victime. Puis elle s'entretient avec les femmes qui avaient porté les accusations de viol. Peu à peu, l'inspectrice se fait une idée plus précise de la personnalité du défunt. Mais réunir des preuves pour punir les coupables s'avère ardu...</desc>
+    <icon src="https://resize.programme-television.org/portrait_broadcast_desktop_webp/images/imported/programs/10585608/b764c45830894ba5968ddbb56bab1ab3"/>
+  </programme>
+  <programme start="20250529194000 +0000" stop="20250529203500 +0000" channel="TvBreizh">
+    <title>Cold Case : affaires classées - Séries policières</title>
+    <desc>Famille 8108 (S5 E11/18)
 Et si une adolescente avait été tuée en 1963 parce qu'elle aimait agir et s'habiller en garçon ? Et si les deux adolescents, aujourd'hui adultes, condamnés en 1994 pour le meurtre de trois enfants, étaient innocents ? Et si la femme qui s'est suicidée en 1962 n'était pas le véritable auteur de sa lettre de suicide ? Affaires non résolues, erreurs judiciaires, crimes impunis depuis des années sont le lot quotidien de Lilly Rush, Scotty Valens et leurs collègues. L'affaire très médiatisée des "Trois de West Memphis" ou les attentats du terroriste Unabomber font partie des sources d'inspiration de cette cinquième saison.</desc>
-    <icon src="https://www.programme-tv.net/imgre/fit/https.3A.2F.2Fs2.2Edmcdn.2Enet.2Fv.2FTW_MY1Xw0-T2JvvdL/640x360/crop-from/top/quality/80/cold-case.jpg"/>
+    <icon src="https://resize.programme-television.org/portrait_broadcast_desktop_webp/images/imported/programs/10626133/c9a9926c4c4240baad8a4ce3daeec0cb"/>
   </programme>
-  <programme start="20250529214000 +0200" stop="20250529223500 +0200" channel="TvBreizh">
-    <title>Cold Case - Série policière</title>
-    <desc>Famille 8108 (Saison 5 Episode 10)
-Et si une adolescente avait été tuée en 1963 parce qu'elle aimait agir et s'habiller en garçon ? Et si les deux adolescents, aujourd'hui adultes, condamnés en 1994 pour le meurtre de trois enfants, étaient innocents ? Et si la femme qui s'est suicidée en 1962 n'était pas le véritable auteur de sa lettre de suicide ? Affaires non résolues, erreurs judiciaires, crimes impunis depuis des années sont le lot quotidien de Lilly Rush, Scotty Valens et leurs collègues. L'affaire très médiatisée des "Trois de West Memphis" ou les attentats du terroriste Unabomber font partie des sources d'inspiration de cette cinquième saison.</desc>
-    <icon src="https://www.programme-tv.net/imgre/fit/https.3A.2F.2Fs2.2Edmcdn.2Enet.2Fv.2FTW_MY1Xw0-T2JvvdL/640x360/crop-from/top/quality/80/cold-case.jpg"/>
+  <programme start="20250529203500 +0000" stop="20250529213000 +0000" channel="TvBreizh">
+    <title>Cold Case : affaires classées - Séries policières</title>
+    <desc>La musique du diable (S5 E4/18)
+Et si une adolescente avait été tuée en 1963 parce qu'elle aimait agir et s'habiller en garçon ? Et si les deux adolescents, aujourd'hui adultes, condamnés en 1994 pour le meurtre de trois enfants, étaient innocents ? Et si la femme qui s'est suicidée en 1962 n'était pas le véritable auteur de sa lettre de suicide ? Affaires non résolues, erreurs judiciaires, crimes impunis depuis des années sont le lot quotidien de Lilly Rush, Scotty Valens et leurs collègues. L'affaire très médiatisée des "Trois de West Memphis" ou les attentats du terroriste Unabomber font partie des sources d'inspiration de cette cinquième saison. En 1953, Bingo Zohar, un jeune homme de 19 ans, est assassiné derrière le Red Hot Mama, un club de blues du ghetto noir de Point Breeze. La balle qui a traversé son thorax n'a jamais été retrouvée et le meurtrier court toujours. Cinquante ans plus tard, un vieil homme se présente à la police : il prétend détenir le portefeuille de Bingo, retrouvé à l'époque dans une mare de sang à Germantown, le quartier blanc. Ce nouvel indice pousse les inspecteurs à reprendre l'enquête. Ils apprennent qu'à la mort de ses parents, Bingo avait quitté sa campagne pour vivre chez sa tante et son oncle, un homme autoritaire qui ne tolérait pas les goûts musicaux de son neveu...</desc>
+    <icon src="https://resize.programme-television.org/portrait_broadcast_desktop_webp/images/imported/programs/10321329/3b2f9ea3fff0493daf9253153f108476"/>
   </programme>
-  <programme start="20250529223500 +0200" stop="20250529233000 +0200" channel="TvBreizh">
-    <title>Cold Case - Série policière</title>
-    <desc>La musique du diable (Saison 5 Episode 10)
-Et si une adolescente avait été tuée en 1963 parce qu'elle aimait agir et s'habiller en garçon ? Et si les deux adolescents, aujourd'hui adultes, condamnés en 1994 pour le meurtre de trois enfants, étaient innocents ? Et si la femme qui s'est suicidée en 1962 n'était pas le véritable auteur de sa lettre de suicide ? Affaires non résolues, erreurs judiciaires, crimes impunis depuis des années sont le lot quotidien de Lilly Rush, Scotty Valens et leurs collègues. L'affaire très médiatisée des "Trois de West Memphis" ou les attentats du terroriste Unabomber font partie des sources d'inspiration de cette cinquième saison.</desc>
-    <icon src="https://www.programme-tv.net/imgre/fit/https.3A.2F.2Fs2.2Edmcdn.2Enet.2Fv.2FTW_MY1Xw0-T2JvvdL/640x360/crop-from/top/quality/80/cold-case.jpg"/>
-  </programme>
-  <programme start="20250529233000 +0200" stop="20250530002000 +0200" channel="TvBreizh">
-    <title>Cold Case - Série policière</title>
-    <desc>Complices (Saison 5 Episode 10)
-Et si une adolescente avait été tuée en 1963 parce qu'elle aimait agir et s'habiller en garçon ? Et si les deux adolescents, aujourd'hui adultes, condamnés en 1994 pour le meurtre de trois enfants, étaient innocents ? Et si la femme qui s'est suicidée en 1962 n'était pas le véritable auteur de sa lettre de suicide ? Affaires non résolues, erreurs judiciaires, crimes impunis depuis des années sont le lot quotidien de Lilly Rush, Scotty Valens et leurs collègues. L'affaire très médiatisée des "Trois de West Memphis" ou les attentats du terroriste Unabomber font partie des sources d'inspiration de cette cinquième saison.</desc>
-    <icon src="https://www.programme-tv.net/imgre/fit/https.3A.2F.2Fs2.2Edmcdn.2Enet.2Fv.2FTW_MY1Xw0-T2JvvdL/640x360/crop-from/top/quality/80/cold-case.jpg"/>
+  <programme start="20250529213000 +0000" stop="20250529222000 +0000" channel="TvBreizh">
+    <title>Cold Case : affaires classées - Séries policières</title>
+    <desc>Complices (S5 E5/18)
+Et si une adolescente avait été tuée en 1963 parce qu'elle aimait agir et s'habiller en garçon ? Et si les deux adolescents, aujourd'hui adultes, condamnés en 1994 pour le meurtre de trois enfants, étaient innocents ? Et si la femme qui s'est suicidée en 1962 n'était pas le véritable auteur de sa lettre de suicide ? Affaires non résolues, erreurs judiciaires, crimes impunis depuis des années sont le lot quotidien de Lilly Rush, Scotty Valens et leurs collègues. L'affaire très médiatisée des "Trois de West Memphis" ou les attentats du terroriste Unabomber font partie des sources d'inspiration de cette cinquième saison. Dix-huit ans après avoir reçu une balle dans la tête, une femme plongée dans un état neurovégétatif meurt à l'hôpital Saint-Michael. Policiers et médecins pensaient que la défunte, découverte en 1989 dans une ruelle des bas-fonds de la ville, était une clocharde. Pourtant, une personne anonyme lui envoyait chaque mois un colis richement garni et elle avait pu s'offrir des implants mammaires. Grâce à la référence des prothèses, les inspecteurs remontent jusqu'au chirurgien, qui leur apprend que la patiente s'appelait Margot Chambers. Recherchée pour escroquerie dans plusieurs Etats, elle faisait équipe avec un certain Spence Mason...</desc>
+    <icon src="https://resize.programme-television.org/portrait_broadcast_desktop_webp/images/imported/programs/10361779/72348e4a619d4c65a771d41d42bcdad7"/>
   </programme>
   <programme start="20250529002000 +0200" stop="20250529020000 +0200" channel="RTL9">
     <title>Une femme d'honneur - Série policière</title>
