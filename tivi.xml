@@ -108,6 +108,14 @@
     <display-name lang="fr">CANAL+ SERIES</display-name>
     <icon src="https://ppechenot.github.io/perso/logos/canal+_series.png"/>
   </channel>
+  <channel id="CanalPlusBoxOffice">
+    <display-name lang="fr">CANAL+ BOX OFFICE</display-name>
+    <icon src="https://ppechenot.github.io/perso/logos/canal+_box_office.png"/>
+  </channel>
+  <channel id="CanalPlusGrandEcran">
+    <display-name lang="fr">CANAL+ GRAND ECRAN</display-name>
+    <icon src="https://ppechenot.github.io/perso/logos/canal+_grand_ecran.png"/>
+  </channel>
   <channel id="CanalPlusDocs">
     <display-name lang="fr">CANAL+ DOCS</display-name>
     <icon src="https://ppechenot.github.io/perso/logos/canal+_docs.png"/>
@@ -124,9 +132,9 @@
     <display-name lang="fr">CINE+ EMOTION</display-name>
     <icon src="https://ppechenot.github.io/perso/logos/cine+_emotion.png"/>
   </channel>
-  <channel id="CinePlusFamiz">
-    <display-name lang="fr">CINE+ FAMIZ</display-name>
-    <icon src="https://img.nealis.fr/ptv/img/chaine/g/105.png"/>
+  <channel id="CinePlusFamily">
+    <display-name lang="fr">CINE+ FAMILY</display-name>
+    <icon src="https://ppechenot.github.io/perso/logos/cine+_family.png"/>
   </channel>
   <channel id="CinePlusClub">
     <display-name lang="fr">CINE+ FESTIVAL</display-name>
@@ -179,6 +187,10 @@
   <channel id="TouteHistoire">
     <display-name lang="fr">TOUTE L HISTOIRE</display-name>
     <icon src="https://ppechenot.github.io/perso/logos/toute_lhistoire.png"/>
+  </channel>
+  <channel id="MuseumTV">
+    <display-name lang="fr">MUSEUM TV</display-name>
+    <icon src="https://ppechenot.github.io/perso/logos/museum_tv.png"/>
   </channel>
   <channel id="RTS1">
     <display-name lang="fr">RTS UN</display-name>
@@ -3660,6 +3672,167 @@ L'attentat de Westhaven a fait plus de dix-huit victimes, dont un démineur exp�
     <desc>
 L'intervention à la mosquée Amburiq a fragilisé Lana, mais la nouvelle cheffe de l'unité des démineurs ne peut baisser la garde face à cet enchaînement terrifiant d'attentats meurtriers. La cellule antiterroriste cherche à identifier qui se cache derrière le groupuscule appelé «Les Croisés», qui revendique l'attentat.</desc>
   </programme>
+  <programme start="20250530015400 +0200" stop="20250530032100 +0200" channel="CanalPlusBoxOffice">
+    <title>Le voyage en pyjama - Comédie dramatique (2023)</title>
+    <desc>De Pascal Thomas avec Alexandre Lafaurie, Constance Labbé, Lolita Chammah, Louis-Do de Lencquesaing, 
+Quadragénaire insaisissable, Victor aime vivre au jour le jour, au grand dam d'Anne, sa compagne lassée de ses frasques. Professeur de lettres, Victor décide de profiter de ses vacances pour se lancer dans un road trip, à la poursuite d'un passé et de vieilles connaissances qui lui manquent terriblement. Sur sa route, il croise des amis perdus de vue, mais aussi ses anciennes compagnes. Pour la plupart ravies de le revoir, elles mettent surtout à profit ces retrouvailles pour lui rappeler les souffrances subies en raison de son côté fantasque et de sa totale incapacité à s'investir dans une relation...</desc>
+    <icon src="https://www.programme-tv.net/imgre/fit/https.3A.2F.2Fs1.2Edmcdn.2Enet.2Fv.2FXRmKq1dIS3tEz5jgH/640x360/crop-from/top/quality/80/le-voyage-en-pyjama.jpg"/>
+  </programme>
+  <programme start="20250530032100 +0200" stop="20250530043700 +0200" channel="CanalPlusBoxOffice">
+    <title>Wake Up ⭐ - Film d'action (2019)</title>
+    <desc>De Aleksandr Chernyaev avec Jonathan Rhys Meyers, Francesca Eastwood, William Forsythe, Malik Yoba, 
+Après avoir eu un accident de voiture, un homme se réveille à l'hôpital. Il ne se souvient de rien pas même de son identité. La police, qui a trouvé un cadavre dans le coffre de sa voiture, le soupçonne d'être un tueur en série. L'agent fédéral Franck Ward, qui enquête sur le meurtre de plusieurs jeunes femmes dans la région, le fait arrêter. Il ne croit absolument pas à son amnésie. Le blessé prend la fuite avec l'aide de l'infirmière qui le soigne. Celle-ci dont le père, jadis, a été condamné à tort pour le meurtre de sa mère, croit en son innocence.</desc>
+    <icon src="https://www.programme-tv.net/imgre/fit/https.3A.2F.2Fs1.2Edmcdn.2Enet.2Fv.2FTWnZz1Xw0Q0xVkeEY/640x360/crop-from/top/quality/80/wake-up.jpg"/>
+  </programme>
+  <programme start="20250530043700 +0200" stop="20250530071900 +0200" channel="CanalPlusBoxOffice">
+    <title>Fin des programmes - Fin</title>
+    <desc>
+Nos programmes se terminent pour cette journée, en attendant ceux de demain.</desc>
+    <icon src="https://www.programme-tv.net/imgre/fit/~2~program~6d4618b157c53b35.jpeg/630x355/quality/80/fin-des-programmes.jpeg"/>
+  </programme>
+  <programme start="20250530071900 +0200" stop="20250530090700 +0200" channel="CanalPlusBoxOffice">
+    <title>Spy x Family Code : White - Film d'animation (2023)</title>
+    <desc>De Takashi Katagiri
+Yor, une tueuse à gages, et Loid, un espion, pensent mener une discrète double vie, cachés derrière leurs rôles de parents au sein d'une petite famille à l'allure idéale. Mais en réalité, Anya, leur fille adoptive qui possède un don de télépathie, est parfaitement au courant de leur petit manège et de leurs secrets. Un jour, en plein hiver, Loid entend profiter d'un week-end en famille et se servir de ce prétexte comme couverture pour une périlleuse opération. Malheureusement, son plan ne se déroule pas comme prévu et Anya se retrouve bien malgré elle au centre des événements, mêlée à un conflit que menace la paix dans le monde...</desc>
+    <icon src="https://www.programme-tv.net/imgre/fit/~2~program~8b2b59927edda0b4.jpeg/630x355/quality/80/spy-x-family-code-white.jpeg"/>
+  </programme>
+  <programme start="20250530090700 +0200" stop="20250530103300 +0200" channel="CanalPlusBoxOffice">
+    <title>Les Explorateurs : l'aventure fantastique - Film d'animation (2024)</title>
+    <desc>De Gonzalo G. Gutiérrez avec Facundo Reyes, Gonzalo G. Gutiérrez, 
+Victoria, Arthur et Alfonso, trois inséparables amis, vivent dans une bourgade paisible où ils trouvent rarement l'occasion de rassasier leur inépuisable soif d'aventure. Mais la situation évolue soudain lorsqu'ils constatent que de mystérieux agents secrets semblent inexplicablement à leurs trousses. Très vite, un nouvel événement étrange ajoute de la confusion et provoque une tournure inattendue puisqu'une violente tempête vient s'abattre sur leur maison, apportant avec elle d'impressionnants dragons, des machines volantes, ainsi que d'extravagants lapins. Le trio d'amis se retrouve alors embarqué dans une incroyable odyssée...</desc>
+    <icon src="https://www.programme-tv.net/imgre/fit/~2~program~ca0c36909616eaaa.jpeg/630x355/quality/80/les-explorateurs-l-aventure-fantastique.jpeg"/>
+  </programme>
+  <programme start="20250530103300 +0200" stop="20250530115200 +0200" channel="CanalPlusBoxOffice">
+    <title>Ducobu passe au vert - Film pour la jeunesse (2024)</title>
+    <desc>De Elie Semoun avec Damien Pauwels, Emilie Caen, Loïc Legendre, Frédérique Bel, 
+C'est la rentrée à Saint-Potache. Docobu, éternel cancre, veut faire croire à ses proches qu'il a décidé de travailler afin d'obtenir de bonnes notes, tout en continuant à tricher aux contrôles. Malheureusement, monsieur Latouche, qui va bientôt se marier avec mademoiselle Rateau, déjoue un à un tous ses plans. Lorsqu'il entend parler de Rita Greenberg, Ducobu a une idée de génie : devenir un activiste écologiste afin de prendre, comme elle, une année sabbatique. Il convainc tous ses camarades, trop contents de sécher les cours, de participer à sa rébellion contre le réchauffement climatique...</desc>
+    <icon src="https://www.programme-tv.net/imgre/fit/~2~backoffice~program~efff23d7b89eb7571327bb4d72553912.jpg/630x355/focus-point/960,540/quality/80/ducobu-passe-au-vert.jpg"/>
+  </programme>
+  <programme start="20250530115200 +0200" stop="20250530132100 +0200" channel="CanalPlusBoxOffice">
+    <title>L'Heureuse élue ⭐⭐ - Comédie (2024)</title>
+    <desc>De Frank Bellocq avec Camille Lellouche, Lionel Erdogan, Michèle Laroque, 
+Dans la comédie &lt;i&gt;L'Heureuse élue,&lt;/i&gt; réalisée en 2024, Benoît (Lionel Erdogan) se trouve embarqué dans une situation pour le moins périlleuse. En effet, &lt;b&gt;il doit rapidement rembourser une dette de 100 000 euros à Ange, un criminel au tempérament impitoyable, qui n'hésitera pas à recourir à la violence pour récupérer son argent.&lt;/b&gt; Paniqué, Benoît décide de contacter sa mère, Solange (Michèle Laroque), qui est actuellement en vacances à Marrakech avec son mari, Roland (Gérard Darmon). Il espère alors obtenir de l'aide financière, mais à sa grande déception, Solange lui annonce qu'elle a tiré un trait sur ses prêts d'argent, lassée par les mésaventures financières de son fils.&lt;div&gt;&lt;br&gt;.</desc>
+    <icon src="https://www.programme-tv.net/imgre/fit/https.3A.2F.2Fs1.2Edmcdn.2Enet.2Fv.2FYTceW1eD9A-enSiyv/640x360/crop-from/top/quality/80/l-heureuse-elue.jpg"/>
+  </programme>
+  <programme start="20250530132100 +0200" stop="20250530150700 +0200" channel="CanalPlusBoxOffice">
+    <title>Le Larbin ⭐ - Comédie (2024)</title>
+    <desc>De Alexandre Charlot avec Audran Cattin, Kad Merad, Clovis Cornillac, Isabelle Carré, 
+Jean-François Casteigne est à la tête d'une importante chaine hôtelière, dont les résultats financiers sont en constante progression. Seulement, la mécanique s'enraye quand son fils, Louis, bien trop gâté, crée un scandale médiatique dans un de ses hôtels, qui vaut à Jean-François de perdre le contrôle de la chaine après une décision des actionnaires. Il a un plan pour donner une leçon à son fils tout en lui mettant du plomb dans la tête. Il fait appel à son collaborateur et ami Chris Palmer, réalisateur et lui demande de créer une mise en scène grandeur nature, afin de faire croire à Louis qu'il a été propulsé en 1702.</desc>
+    <icon src="https://www.programme-tv.net/imgre/fit/https.3A.2F.2Fs2.2Edmcdn.2Enet.2Fv.2FYJm0-1e4CfWD6ggvo/640x360/crop-from/top/quality/80/le-larbin.jpg"/>
+  </programme>
+  <programme start="20250530150700 +0200" stop="20250530163800 +0200" channel="CanalPlusBoxOffice">
+    <title>Ici et là-bas - Comédie (2024)</title>
+    <desc>De Ludovic Bernard avec Ahmed Sylla, Hakim Jemili, Hugo Becker, Luiza Benaïssa, 
+Alors qu'il vit paisiblement au Sénégal depuis une quinzaine d'années aux côtés d'Aminata, son épouse, Adrien se voit soudain contraint de plier bagages et de rentrer temporairement en France en raison d'un problème administratif. A Paris, il est hébergé par Sékou, un cousin de sa femme. Celui-ci, un commercial, est chargé par son employeuse d'une mission inhabituelle pour lui : se rendre aux quatre coins de la France pour y rencontrer des clients. Les enjeux sont élevés pour Sékou. En effet, son avenir dans l'entreprise dépend de sa réussite sur un terrain, la province, qu'il ne connaît pas. Il n'a pas d'autre choix que d'embarquer Adrien dans un périple qui s'annonce imprévisible...</desc>
+    <icon src="https://www.programme-tv.net/imgre/fit/https.3A.2F.2Fs2.2Edmcdn.2Enet.2Fv.2FXhq8g1dYGoTRwBC_q/640x360/crop-from/top/quality/80/ici-et-la-bas.jpg"/>
+  </programme>
+  <programme start="20250530163800 +0200" stop="20250530181800 +0200" channel="CanalPlusBoxOffice">
+    <title>Nous, les Leroy - Comédie (2024)</title>
+    <desc>De Florent Bernard avec Charlotte Gainsbourg, José Garcia, Lili Aubry, Hadrien Heaulmé, 
+Après des années de vie commune faite de quelques hauts et de nombreux bas, Sandrine prend conscience que son couple n'a plus aucun avenir et prend la décision de mettre fin à son mariage avec Christophe. Lorsqu'elle annonce son intention de divorcer à son époux, ce dernier refuse d'accepter cette issue sans se battre pour tenter de sauver ce qui peut encore l'être. Déterminé à mettre en place une opération de la dernière chance, Christophe choisit d'organiser un invraisemblable et audacieux week-end durant lequel il emmènera sa famille dans tous les endroits clés de leur passé. Malgré ses efforts, son plan ne se déroule pas comme prévu...</desc>
+    <icon src="https://www.programme-tv.net/imgre/fit/https.3A.2F.2Fs1.2Edmcdn.2Enet.2Fv.2FXfexy1dWJjTx4lPFB/640x360/crop-from/top/quality/80/nous-les-leroy.jpg"/>
+  </programme>
+  <programme start="20250530181800 +0200" stop="20250530194500 +0200" channel="CanalPlusBoxOffice">
+    <title>A l'ancienne - Comédie (2024)</title>
+    <desc>De Hervé Mimran avec Didier Bourdon, Gérard Darmon, Chantal Lauby, 
+Jean-Jean et Henri, deux retraités, qui vivent sur une petite île bretonne, ne rêvent que d'une chose, gagner un jour à la loterie. Le jour où ils apprennent qu'un habitant de l'île a justement gagné le gros lot, ils convient tous leurs voisins à dîner pour tenter de deviner qui est l'heureux gagnant. A la fin du repas, ils constatent qu'aucun convive n'a gagné mais qu'un habitant de l'île n'est pas venu : Bodvaël. Jean-Jean et Henri se rendent aussitôt chez lui et constatent que Bodvaël est mort. Ils décident aussitôt de récupérer son ticket de loterie : seulement, le défunt avait écrit son prénom dessus.</desc>
+    <icon src="https://www.programme-tv.net/imgre/fit/https.3A.2F.2Fs2.2Edmcdn.2Enet.2Fv.2FX_N3Q1dnUhB3E1gAd/640x360/crop-from/top/quality/80/a-l-ancienne.jpg"/>
+  </programme>
+  <programme start="20250530194500 +0200" stop="20250530210000 +0200" channel="CanalPlusBoxOffice">
+    <title>Et plus si affinités ⭐⭐⭐⭐ - Comédie (2024)</title>
+    <desc>De Olivier Ducray avec Isabelle Carré, Bernard Campan, Julia Faure, Pablo Pauly, 
+Xavier, professeur de flûte au conservatoire, rentre fatigué d'une journée de travail et à la désagréable surprise d'apprendre que son épouse Sophie, qui vient de monter une agence immobilière, a invité leurs voisins du dessus, Adèle et Alban, un jeune couple. Non seulement Xavier n'avait pas spécialement envie de voir du monde, mais il a beaucoup de mal avec ces voisins qu'il n'a jamais vus mais dont il entend régulièrement les bruyants ébats amoureux. Quelques minutes plus tard, Adèle et Alban font leur arrivée et Xavier a beaucoup de mal à cacher sa mauvaise humeur.</desc>
+    <icon src="https://www.programme-tv.net/imgre/fit/https.3A.2F.2Fs2.2Edmcdn.2Enet.2Fv.2FW2Jza1c1kra-ZhXLn/640x360/crop-from/top/quality/80/et-plus-si-affinites.jpg"/>
+  </programme>
+  <programme start="20250530210000 +0200" stop="20250530223400 +0200" channel="CanalPlusBoxOffice">
+    <title>La Petite Vadrouille ⭐⭐ - Comédie (2024)</title>
+    <desc>De Bruno Podalydès avec Sandrine Kiberlain, Daniel Auteuil, Denis Podalydès, 
+A la fin d'une conférence, Franck, chef d'entreprise, demande à Justine, son bras droit, une chose un peu conventionnelle : il souhaiterait organiser un week-end romantique avec une femme qu'il connait peu et demande à sa collaboratrice de tout préparer à sa place. Pour ce faire, il lui confie une belle somme d'argent et une grande liberté de manoeuvre. C'est ainsi que Justine en parle aussitôt à son compagnon Albin, qui y voit une occasion de gagner facilement un peu d'argent afin d'améliorer leur ordinaire et celui de leur bande d'amis un peu fantasques. Seulement, la femme que Franck pense emmener en week-end n'est autre que Justine.</desc>
+    <icon src="https://www.programme-tv.net/imgre/fit/https.3A.2F.2Fs2.2Edmcdn.2Enet.2Fv.2FYFhYo1e4CZhW3d4ab/640x360/crop-from/top/quality/80/la-petite-vadrouille.jpg"/>
+  </programme>
+  <programme start="20250530223400 +0200" stop="20250531000600 +0200" channel="CanalPlusBoxOffice">
+    <title>N'avoue jamais ⭐⭐ - Comédie (2024)</title>
+    <desc>De Ivan Calbérac avec André Dussollier, Sabine Azéma, Thierry Lhermitte, 
+François et Annie Marsault forment un couple uni et, lors d'une réunion de famille, le général à la retraite et son épouse apprennent qu'ils vont être une nouvelle fois grands-parents. François décide alors de faire un peu rangement à cette occasion et découvre dans un carton des lettres d'amour adressées à Annie datant d'une quarantaine d'années. Seulement, au moment où elle recevait ces lettres, Annie et François étaient déjà mariés. Indigné par cette situation, François refuse les excuses d'Annie et décide de retrouver son ancien amant, Boris Pelleray, qui était aussi un ami à lui.</desc>
+    <icon src="https://www.programme-tv.net/imgre/fit/~2~program~11fe67dd31b7fbf8.jpeg/630x355/quality/80/n-avoue-jamais.jpeg"/>
+  </programme>
+  <programme start="20250530012200 +0200" stop="20250530033100 +0200" channel="CanalPlusGrandEcran">
+    <title>American Sniper ⭐⭐⭐⭐ - Film de guerre (2014)</title>
+    <desc>De Clint Eastwood avec Bradley Cooper, Sienna Miller, Luke Grimes, 
+Pendant le conflit en Irak, au début des années 2000, Chris Kyle, un des snipers les plus précis de l'armée américaine, se retrouve face à un cas de conscience. Le soldat se remémore son enfance, à Odessa, et se souvient de son père, un homme autoritaire et pieux, qui lui apprend à chasser. Il repense à sa vie d'adulte et à son engagement dans les Marines, en 1998, après les attentats contre des ambassades américaines. Le soldat se souvient également de sa rencontre avec Taya, qui va devenir sa femme...</desc>
+    <icon src="https://www.programme-tv.net/imgre/fit/https.3A.2F.2Fs2.2Edmcdn.2Enet.2Fv.2FTXKxP1X-DjYd6zMr9/640x360/crop-from/top/quality/80/american-sniper.jpg"/>
+  </programme>
+  <programme start="20250530033100 +0200" stop="20250530050300 +0200" channel="CanalPlusGrandEcran">
+    <title>Presidio base militaire, San Francisco ⭐ - Film policier (1988)</title>
+    <desc>De Peter Hyams avec Sean Connery, Mark Harmon, Meg Ryan, 
+Lors d'une patrouille de nuit à Presidio, une base militaire de la ville de San Francisco, un membre de la police surprend des cambrioleurs. Dans la fusillade qui s'ensuit, il est tué par balles. L'enquête est menée conjointement par un membre de l'armée, le lieutenant-colonel Caldwell, et un policier de la ville, Jay Austin. Les deux hommes se connaissent depuis longtemps, mais ne s'apprécient pas.</desc>
+    <icon src="https://www.programme-tv.net/imgre/fit/~2~program~16e60f14ee014fad.jpeg/630x355/quality/80/presidio-base-militaire-san-francisco.jpeg"/>
+  </programme>
+  <programme start="20250530050300 +0200" stop="20250530061500 +0200" channel="CanalPlusGrandEcran">
+    <title>Fin des programmes - Autre</title>
+    <desc>
+Jean-Luc Carbonneaux est retrouvé carbonisé et déchiqueté par une grenade, dans sa voiture. Mais un clochard a été témoin du crime. Navarro dirige l'enquête. La victime, propriétaire d'une agence de presse, avait été prise en otage pendant deux ans en Afghanistan. Depuis lors, il était devenu un homme sans scrupule, préférant les reportages sensationnels aux enquêtes sérieuses. Il comptait de nombreux ennemis parmi les employés de l'agence, et notamment des femmes harcelées par lui. À la suite de sa mort, l'agence est cédée à un tiers et une restructuration mise sur pied pour éviter une faillite. Peu après, sa veuve découvre au sein des archives du mort, une série de dossiers compromettant pas mal de monde, ce qui signifie que Carbonneaux était un maître-chanteur….</desc>
+  </programme>
+  <programme start="20250530061500 +0200" stop="20250530080300 +0200" channel="CanalPlusGrandEcran">
+    <title>Edmond ⭐⭐⭐⭐ - Comédie dramatique (2018)</title>
+    <desc>De Alexis Michalik avec Thomas Solivérès, Olivier Gourmet, Mathilde Seigner, 
+Au mois de décembre 1895, «La Princesse lointaine», une pièce d'Edmond Rostand, fait une première calamiteuse à Paris. Deux ans plus tard, le jeune dramaturge, marié et père de famille, et surtout très endetté, se voit proposer d'écrire dans les plus brefs délais une pièce pour Constant Coquelin, une vedette des planches. Grâce à monsieur Honoré, rencontré dans une brasserie, Edmond trouve l'inspiration et le sujet de sa pièce : Cyrano de Bergerac. Il la propose en quelques mots à Coquelin qui est vite séduit.</desc>
+    <icon src="https://www.programme-tv.net/imgre/fit/https.3A.2F.2Fs2.2Edmcdn.2Enet.2Fv.2FTWgLp1Xv_jQsoNmwG/640x360/crop-from/top/quality/80/edmond.jpg"/>
+  </programme>
+  <programme start="20250530080300 +0200" stop="20250530100100 +0200" channel="CanalPlusGrandEcran">
+    <title>L'auberge espagnole ⭐⭐⭐⭐ - Comédie dramatique (2002)</title>
+    <desc>De Cédric Klapisch avec Romain Duris, Cécile de France, Kelly Reilly, 
+Pour obtenir un premier poste au ministère des Finances, Xavier doit terminer ses études en Espagne. Il décide de partir un an à Barcelone, laissant à Paris sa mère déboussolée et sa petite amie Martine. En arrivant dans la capitale catalane, il fait immédiatement la connaissance de Jean-Michel, un médecin français, et de son épouse, Anne-Sophie. Le couple l'invite à rester dans son appartement le temps que le jeune homme trouve un logement. Xavier découvre enfin l'endroit de ses rêves : un appartement désordonné dans lequel il va vivre avec six autres étudiants européens, dont la jolie Isabelle.</desc>
+    <icon src="https://www.programme-tv.net/imgre/fit/https.3A.2F.2Fs2.2Edmcdn.2Enet.2Fv.2FTX01M1Xw117IM6C4h/640x360/crop-from/top/quality/80/l-auberge-espagnole.jpg"/>
+  </programme>
+  <programme start="20250530100100 +0200" stop="20250530120600 +0200" channel="CanalPlusGrandEcran">
+    <title>Les poupées russes ⭐⭐ - Comédie dramatique (2005)</title>
+    <desc>De Cédric Klapisch avec Romain Duris, Kelly Reilly, Audrey Tautou, 
+Xavier a provisoirement laissé de côté son rêve de devenir écrivain, et son travail consiste à aider des « célébrités » à écrire leur autobiographie. Cependant il n'a pas de travail fixe et sa conseillère bancaire lui reproche son instabilité financière. Il finit par avoir une nouvelle opportunité : écrire le scénario d'une mini-série à l'eau-de rose pour une grande chaîne télévisée nationale. Xavier saisit l'occasion de continuer son travail pour la mini-série à Londres où il collabore avec Wendy, qui accumule elle aussi les relations malheureuses.</desc>
+    <icon src="https://www.programme-tv.net/imgre/fit/https.3A.2F.2Fs2.2Edmcdn.2Enet.2Fv.2FTXCGm1Xw3pIJimG_w/640x360/crop-from/top/quality/80/les-poupees-russes.jpg"/>
+  </programme>
+  <programme start="20250530120600 +0200" stop="20250530135900 +0200" channel="CanalPlusGrandEcran">
+    <title>Casse-tête chinois ⭐⭐ - Comédie dramatique (2013)</title>
+    <desc>De Cédric Klapisch avec Romain Duris, Audrey Tautou, Cécile de France, 
+Après dix ans de vie commune, Xavier vient de se séparer de Wendy. Pour rester proche de ses enfants, il part s'installer à New York, où son ex va vivre désormais. Après quelques jours passés chez son amie Isabelle et sa compagne Ju, il trouve un appartement à Chinatown, puis un travail de coursier à vélo. Nombre d'expériences qu'il tente de retranscrire dans son nouveau livre, «Le Casse-tête chinois». Mais son emploi du temps est bousculé par l'arrivée de son ancienne petite amie Martine, qui vient à New York pour quelques jours.</desc>
+    <icon src="https://www.programme-tv.net/imgre/fit/https.3A.2F.2Fs2.2Edmcdn.2Enet.2Fv.2FTXJ4n1Xw2LW0qS6s7/640x360/crop-from/top/quality/80/casse-tete-chinois.jpg"/>
+  </programme>
+  <programme start="20250530135900 +0200" stop="20250530154000 +0200" channel="CanalPlusGrandEcran">
+    <title>Expendables : Unité spéciale ⭐⭐ - Film d'action (2010)</title>
+    <desc>De Sylvester Stallone avec Jason Statham, Jet Li, Dolph Lundgren, Eric Roberts, 
+Barney Ross est le leader d'une équipe de mercenaires surentraînés, anciens soldats ou agents du gouvernement. Le groupe s'est spécialisé dans les interventions musclées. Après avoir libéré des otages séquestrés au large de la Somalie, Ross et ses experts sont contactés par un mystérieux M. Church. Ce dernier a besoin d'eux pour neutraliser un dictateur qui fait régner la terreur dans une île d'Amérique du Sud. L'affaire n'est pas le genre de cas dont s'occupe Ross habituellement, mais il accepte de la prendre en charge car des vies d'enfants sont en jeu.</desc>
+    <icon src="https://www.programme-tv.net/imgre/fit/https.3A.2F.2Fs1.2Edmcdn.2Enet.2Fv.2FTXHhV1X-GypvSAkkG/640x360/crop-from/top/quality/80/expendables-unite-speciale.jpg"/>
+  </programme>
+  <programme start="20250530154000 +0200" stop="20250530171900 +0200" channel="CanalPlusGrandEcran">
+    <title>Expendables 2 : Unité spéciale ⭐⭐ - Film d'action (2012)</title>
+    <desc>De Simon West avec Sylvester Stallone, Jason Statham, Jet Li, 
+Soldat aguerri, Barney Ross est à la tête d'un petit groupe de mercenaires. De retour d'une expédition périlleuse au Népal, Ross est contacté par Church, cadre de la CIA, qui le contraint d'accepter une mission a priori facile : lui ramener le contenu d'un coffre-fort se trouvant dans un avion qui s'est écrasé en Albanie. Sur place, l'équipe de Ross se fait surprendre par le redoutable criminel Jean Vilain et ses hommes.</desc>
+    <icon src="https://www.programme-tv.net/imgre/fit/https.3A.2F.2Fs1.2Edmcdn.2Enet.2Fv.2FTX8Fy1X_fLzKCWE-7/640x360/crop-from/top/quality/80/expendables-2-unite-speciale.jpg"/>
+  </programme>
+  <programme start="20250530171900 +0200" stop="20250530192400 +0200" channel="CanalPlusGrandEcran">
+    <title>Expendables 3 ⭐⭐ - Film d'action (2014)</title>
+    <desc>De Patrick Hughes avec Sylvester Stallone, Jason Statham, Antonio Banderas, 
+Toujours lourdement armés et équipés, Barney Ross et son équipe d'Expendables organisent l'évasion d'un de leurs membres, Doc, emprisonné depuis huit ans. L'équipe enfin réunie se rend en Somalie pour une intervention musclée. C'est là qu'ils découvrent que Conrad Stonebanks, fondateur renégat du groupe est toujours vivant et impliqué dans un trafic d'armes. Une fusillade s'ensuit entre les Expendables et les hommes de Stonbebanks.</desc>
+    <icon src="https://www.programme-tv.net/imgre/fit/https.3A.2F.2Fs1.2Edmcdn.2Enet.2Fv.2FTX6d71Xw1Yey3fb42/640x360/crop-from/top/quality/80/expendables-3.jpg"/>
+  </programme>
+  <programme start="20250530192400 +0200" stop="20250530210400 +0200" channel="CanalPlusGrandEcran">
+    <title>Tellement proches ⭐⭐ - Comédie (2009)</title>
+    <desc>De Eric Toledano avec Vincent Elbaz, Isabelle Carré, François-Xavier Demaison, 
+À Paris, en septembre 1993, Alain, ancien animateur de club de 35 ans, cherche du travail. Comme chaque fin de semaine, il va dîner à Créteil chez son beau-frère, Jean-Pierre. Entre ce petit avocat, sa belle-sœur Catherine, une donneuse de leçons, et sa femme Nathalie, trop passive, Alain est au bord de la crise de nerfs. Roxane, la sœur cadette de Nathalie, arrive alors au bras de Bruno, qu'elle a rencontré le matin même. Tous les ingrédients sont réunis pour un repas de famille inoubliable.</desc>
+    <icon src="https://www.programme-tv.net/imgre/fit/https.3A.2F.2Fs1.2Edmcdn.2Enet.2Fv.2FTXGZT1Xw2BeiGeTLa/640x360/crop-from/top/quality/80/tellement-proches.jpg"/>
+  </programme>
+  <programme start="20250530210400 +0200" stop="20250530230500 +0200" channel="CanalPlusGrandEcran">
+    <title>A Bigger Splash ⭐ - Drame (2015)</title>
+    <desc>De Luca Guadagnino avec Tilda Swinton, Matthias Schoenaerts, Ralph Fiennes, 
+Marianne Lane, célèbre rock star, passe des vacances en toute quiétude avec son compagnon, Paul De Smedt, un jeune documentariste, sur l'île de Pantelleria. Objectif : prendre du repos à l'abri des regards pour se remettre d'une opération des cordes vocales. Mais leurs vacances sont troublées par l'arrivée inopinée de Harry Hawkes, personnage expansif, ancien producteur de Marianne, avec sa fille d'une vingtaine d'années, Penelope. Harry, incorrigible, passe son temps à essayer de faire parler Marianne, alors que celle-ci doit impérativement reposer sa voix.</desc>
+    <icon src="https://www.programme-tv.net/imgre/fit/https.3A.2F.2Fs1.2Edmcdn.2Enet.2Fv.2FTX65f1Xw1VvJPTrf_/640x360/crop-from/top/quality/80/a-bigger-splash.jpg"/>
+  </programme>
+  <programme start="20250530230500 +0200" stop="20250531004800 +0200" channel="CanalPlusGrandEcran">
+    <title>Closer, entre adultes consentants ⭐⭐ - Drame (2004)</title>
+    <desc>De Mike Nichols avec Julia Roberts, Jude Law, Natalie Portman, 
+A Londres, Dan, rédacteur de nécrologies dans un journal, rencontre Alice, une charmante Américaine. Le couple s'installe et Alice inspire un roman à Dan. Peu avant la publication de son livre, Dan est photographié par Anna, dont il tombe instantanément amoureux. Par jeu, Dan s'amuse à se faire passer pour Anna sur Internet et éveille l'attention de Larry, un dermatologue qui fréquente les sites de rencontres.</desc>
+    <icon src="https://www.programme-tv.net/imgre/fit/https.3A.2F.2Fs1.2Edmcdn.2Enet.2Fv.2FTXGSj1Xw2BDLDVvFc/640x360/crop-from/top/quality/80/closer-entre-adultes-consentants.jpg"/>
+  </programme>
   <programme start="20250530002000 +0200" stop="20250530085000 +0200" channel="CanalPlusDocs">
     <title>Cavaliers de la liberté - Cinéma (2022)</title>
     <desc>De Jason Motlagh
@@ -3996,97 +4169,97 @@ New York 1929. Max Perkins est l'éditeur qui a découvert John Scott Fitzgerald
 Amélie n'est pas une fille comme les autres. Elle a vu son poisson rouge disparaître sous ses yeux dans un bassin municipal, sa mère mourir sur le parvis de Notre-Dame et son père reporter toute son affection sur un nain de jardin. Amélie grandit et devient serveuse à Montmartre dans un bar tenu par une ancienne danseuse équestre. La vie d'Amélie est simple, elle aime casser la croûte des crèmes brûlées, faire des ricochets au bord de la Seine, observer les gens et laisser son imagination divaguer. À 22 ans, coup de théâtre, Amélie se découvre un but : réparer la vie des autres.</desc>
     <icon src="https://img.nealis.fr/ptv/img/p/g/1468/1467003.jpg"/>
   </programme>
-  <programme start="20250530001000 +0200" stop="20250530014000 +0200" channel="CinePlusFamiz">
+  <programme start="20250530001000 +0200" stop="20250530014000 +0200" channel="CinePlusFamily">
     <title>18 ans après - Comédie</title>
     <desc>
 Dix-huit ans après avoir été recueillie par ses trois pères adoptifs, Marie obtient son bac et passe l'été dans le Midi avec Sylvia, sa mère revenue d'Amérique. Celle-ci est accompagnée de son époux californien qui a deux fils. Les premières amours se nouent et se dénouent sous les yeux effarés des trois pères qui voient l'enfance de Marie s'enfuir au galop et leurs relations avec les femmes se compliquer gravement.</desc>
     <icon src="https://img.nealis.fr/ptv/img/p/g/44/43579.jpg"/>
   </programme>
-  <programme start="20250530014000 +0200" stop="20250530033500 +0200" channel="CinePlusFamiz">
+  <programme start="20250530014000 +0200" stop="20250530033500 +0200" channel="CinePlusFamily">
     <title>L'avare - Comédie</title>
     <desc>
 En 1668, Harpagon, riche veuf, vit avec ses enfants Cléante et Élise. Tous deux sont amoureux mais craignent que leur père refuse leur choix, car ce dernier préfère un mariage d'argent à un mariage d'amour. Lors d'une entrevue, Cléante, amoureux de Mariane, une jeune fille issue d'une famille modeste, se confie à sa soeur qui à son tour lui avoue ses sentiments pour Valère, l'intendant de la maison. Avec l'aide de Frosine et du cocher-cuisinier, maître Jacques, les jeunes gens vont tenter de faire bénir les deux unions par Harpagon. Mais le vieillard ne veut rien entendre et soupçonne tout le monde d'en avoir après son argent.</desc>
     <icon src="https://img.nealis.fr/ptv/img/p/g/1468/1467629.jpg"/>
   </programme>
-  <programme start="20250530033500 +0200" stop="20250530050000 +0200" channel="CinePlusFamiz">
+  <programme start="20250530033500 +0200" stop="20250530050000 +0200" channel="CinePlusFamily">
     <title>L'étoile de Noël - Animation</title>
     <desc>
 L'histoire d'un petit âne courageux, Bo, qui rêve d'une vie meilleure loin du train-train quotidien du moulin du village. Un jour, il trouve le courage de se libérer pour vivre enfin la grande aventure ! Sur sa route, il va faire équipe avec Ruth, une adorable brebis qui a perdu son troupeau, et Dave, une colombe aux nobles aspirations. Rejoint par trois chameaux déjantés et quelques animaux de la ferme plus excentriques les uns que les autres, Bo et ses nouveaux amis suivent l'Étoile... et vont devenir les héros méconnus de la plus belle histoire jamais contée : celle du premier Noël.</desc>
     <icon src="https://img.nealis.fr/ptv/img/p/g/126/125581.jpg"/>
   </programme>
-  <programme start="20250530050000 +0200" stop="20250530055500 +0200" channel="CinePlusFamiz">
+  <programme start="20250530050000 +0200" stop="20250530055500 +0200" channel="CinePlusFamily">
     <title>Une guerre froide très animée - Historique</title>
     <desc>
 De 1945 à 1989, après la capitulation de l'Allemagne nazie, deux idéologies rivales, communisme et capitalisme, se sont affrontés dans un combat sans merci. Malgré les désastres de la guerre, les Européens ont fait des enfants, beaucoup d'enfants. Résultat : un baby-boom sans précédent ! Chacune des idéologies a donc cherché à s'imposer dans les imaginaires enfantins. Jamais autant de livres ont été publiés, ni autant de magazines, et jamais on n'a produit autant de films pour ce jeune public émergent qui est devenu en vingt ans, un marché lucratif et une cible pour les idéologies rivales. Disney s'est imposé dès la fin de la guerre comme le chantre du capitalisme libéral.</desc>
     <icon src="https://img.nealis.fr/ptv/img/p/g/0/0.png"/>
   </programme>
-  <programme start="20250530055500 +0200" stop="20250530070500 +0200" channel="CinePlusFamiz">
+  <programme start="20250530055500 +0200" stop="20250530070500 +0200" channel="CinePlusFamily">
     <title>Billy le hamster cowboy - Animation</title>
     <desc>
 Billy est un hamster extraordinaire : c'est un hamster cowboy... du moins, il rêve de le devenir ! Pour commencer, il faut un vrai chapeau de cowboy et deux ami es intrépides : Suzie et Jean-Claude. Ça y est, les voilà parti es à l'aventure, que ce soit sur la piste d'un trésor perdu ou à la recherche du plus bel arbre du Far West. Au fil de ses rencontres, ce petit cowboy au grand coeur va découvrir que c'est en volant au secours des autres que l'on devient un vrai héros. Préparez-vous, car avec Billy, chaque jour réserve une nouvelle aventure palpitante !</desc>
     <icon src="https://img.nealis.fr/ptv/img/p/g/0/0.png"/>
   </programme>
-  <programme start="20250530070500 +0200" stop="20250530083000 +0200" channel="CinePlusFamiz">
+  <programme start="20250530070500 +0200" stop="20250530083000 +0200" channel="CinePlusFamily">
     <title>Oups ! J'ai encore raté l'Arche - Animation</title>
     <desc>
 Après le Déluge, alors que l'Arche de Noé dérive sans terre à l'horizon, Finny et Leah sont propulsés par-dessus bord avec toutes les provisions... C'est le début d'une course contre la montre au cours de laquelle ils devront lutter pour retrouver leur famille, ramener la paix sur une Arche au bord du gouffre, et sauver une espèce en voie d'extinction.</desc>
     <icon src="https://img.nealis.fr/ptv/img/p/g/1484/1483166.jpg"/>
   </programme>
-  <programme start="20250530083000 +0200" stop="20250530102000 +0200" channel="CinePlusFamiz">
+  <programme start="20250530083000 +0200" stop="20250530102000 +0200" channel="CinePlusFamily">
     <title>Miss FBI : divinement armée - Comédie</title>
     <desc>
 Après avoir «sauvé» le concours de Miss USA en se faisant passer elle-même pour une Miss, Gracie Hart a acquis une certaine notoriété. Elle est même devenue une véritable star et a pris goût à la célébrité. Elle se laisse alors convaincre par son directeur, McDonald, d'abandonner son poste d'agent pour devenir l'égérie du FBI. Élégante et séduisante à souhait, elle parcourt désormais avec plaisir les plateaux de télévision pour mettre en avant le «nouveau visage» du FBI. Mais lorsque sa meilleure amie, Cheryl Frazier, ancienne lauréate du concours, et Stan Fields, le présentateur de Miss USA, sont enlevés à Las Vegas, le détective veut immédiatement reprendre du service.</desc>
     <icon src="https://img.nealis.fr/ptv/img/p/g/1425/1424178.jpg"/>
   </programme>
-  <programme start="20250530102000 +0200" stop="20250530121500 +0200" channel="CinePlusFamiz">
+  <programme start="20250530102000 +0200" stop="20250530121500 +0200" channel="CinePlusFamily">
     <title>Charlie et la chocolaterie - Fantastique</title>
     <desc>
 Le petit Charlie habite avec ses parents et ses grands-parents une vieille bicoque délabrée. Chaque soir, avant de s'endormir, il aperçoit la formidable usine de chocolat qui alimente ses rêves. Alors que, mystérieusement, d'énormes quantités de chocolat continuent d'être fabriquées, personne ne semble y travailler. Un jour, Willy Wonka, le propriétaire, fait une annonce fracassante : il s'apprête à ouvrir les portes de sa célèbre usine et à en révéler «tous ses secrets et sa magie» à cinq enfants qui auront la main heureuse et dénicheront cinq ticket d'or dissimulés au hasard parmi plusieurs barres chocolatées Wonka.</desc>
     <icon src="https://img.nealis.fr/ptv/img/p/g/127/126481.jpg"/>
   </programme>
-  <programme start="20250530121500 +0200" stop="20250530133000 +0200" channel="CinePlusFamiz">
+  <programme start="20250530121500 +0200" stop="20250530133000 +0200" channel="CinePlusFamily">
     <title>Super lion - Animation</title>
     <desc>
 La jeune Evie, 11 ans, a un secret : elle est la fille de Super Lion, un super héros très populaire et très courageux. Les pouvoirs de Super Lion sont héréditaires, donc Evie se prépare à prendre la relève de son héroïque géniteur. Malheureusement, pour l'instant, la jeune fille ne semble présenter aucune prédisposition pour le job.</desc>
     <icon src="https://img.nealis.fr/ptv/img/p/g/0/0.png"/>
   </programme>
-  <programme start="20250530133000 +0200" stop="20250530150000 +0200" channel="CinePlusFamiz">
+  <programme start="20250530133000 +0200" stop="20250530150000 +0200" channel="CinePlusFamily">
     <title>Scooby ! - Animation</title>
     <desc>
 Venice Beach, Los Angeles. Le jeune Sammy aimerait bien se faire un ami lorsqu'il croise la route d'un sympathique chien errant qu'il baptise Scooby. L'adolescent le recueille et marque par cette action le début d'une belle histoire d'amitié. Un soir d'Halloween, le duo rencontre Fred, Velma et Daphne, trois jeunes fins limiers. Désormais inséparables, ils vont partager de grandes aventures.</desc>
     <icon src="https://img.nealis.fr/ptv/img/p/g/1442/1441892.jpg"/>
   </programme>
-  <programme start="20250530150000 +0200" stop="20250530162500 +0200" channel="CinePlusFamiz">
+  <programme start="20250530150000 +0200" stop="20250530162500 +0200" channel="CinePlusFamily">
     <title>Scooby-Doo - Comédie d'aventure</title>
     <desc>
 Mystère &amp; Cie est fermé depuis deux ans lorsque le chien Scooby-Doo et son maître peureux, Sammy, retrouvent leurs amis. Fred, le séducteur, est toujours vaniteux, Daphne garde sa propension à se faire kidnapper, et Vera reste la stratège du groupe. Ensemble, ils s'envolent pour Spooky Island, le parc d'attractions de monsieur Mondavarius. Là, ils doivent résoudre une énigme : pourquoi les étudiants qui fréquentent l'endroit se transforment-ils tous en zombies ? Alors qu'ils poursuivent leurs investigations, les amis se font piéger dans un château hanté où ils découvrent le pouvoir du Delta Demonis, qu'ils dérobent. Des monstres surgissent alors et kidnappent Vera, Fred et Daphne.</desc>
     <icon src="https://img.nealis.fr/ptv/img/p/g/1447/1446362.jpg"/>
   </programme>
-  <programme start="20250530162500 +0200" stop="20250530175500 +0200" channel="CinePlusFamiz">
+  <programme start="20250530162500 +0200" stop="20250530175500 +0200" channel="CinePlusFamily">
     <title>Scooby-Doo 2 : les monstres se déchaînent - Comédie</title>
     <desc>
 Coolsville est menacée. Lors de l'inauguration du musée de la criminologie, un malfrat masqué vient dérober les costumes des bandits les plus dangereux de la ville. Il y terrorise les habitants en changeant d'identité. Scooby-Doo, Sammy, Fred, Vera et Daphné vont mener l'enquête pour révéler le véritable visage de cet escroc. Mais la presse et la population locale ne cesse de discréditer la joyeuse bande.</desc>
     <icon src="https://img.nealis.fr/ptv/img/p/g/1468/1467285.jpg"/>
   </programme>
-  <programme start="20250530175500 +0200" stop="20250530181500 +0200" channel="CinePlusFamiz">
+  <programme start="20250530175500 +0200" stop="20250530181500 +0200" channel="CinePlusFamily">
     <title>Tango Charlie - Court métrage</title>
     <desc>
 </desc>
     <icon src="https://img.nealis.fr/ptv/img/p/g/0/0.png"/>
   </programme>
-  <programme start="20250530181500 +0200" stop="20250530192000 +0200" channel="CinePlusFamiz">
+  <programme start="20250530181500 +0200" stop="20250530192000 +0200" channel="CinePlusFamily">
     <title>Maya, donne-moi un titre - Animation</title>
     <desc>
 Maya et son papa vivent dans deux pays différents. Pour maintenir le lien avec sa fille et continuer à lui raconter des histoires, son papa lui demande chaque soir «Maya, donne-moi un titre». À partir de ce titre, il lui fabrique alors un dessin animé dont elle est l'héroïne. À travers ces aventures racontées par Pierre Niney, Michel Gondry donne vie à un voyage poétique et amusant qui fera rêver les petits...et sourire les grands.</desc>
     <icon src="https://img.nealis.fr/ptv/img/p/g/0/0.png"/>
   </programme>
-  <programme start="20250530192000 +0200" stop="20250530205000 +0200" channel="CinePlusFamiz">
+  <programme start="20250530192000 +0200" stop="20250530205000 +0200" channel="CinePlusFamily">
     <title>Anzu, chat-fantôme - Animation</title>
     <desc>
 Karin, 11 ans, est abandonnée par son père chez son grand-père, le moine d'une petite ville de la province japonaise. Celui-ci demande à Anzu, son chat-fantôme jovial et serviable bien qu'assez capricieux, de veiller sur elle. La rencontre de leurs caractères bien trempés provoque des étincelles, du moins au début.</desc>
     <icon src="https://img.nealis.fr/ptv/img/p/g/0/0.png"/>
   </programme>
-  <programme start="20250530205000 +0200" stop="20250530221500 +0200" channel="CinePlusFamiz">
+  <programme start="20250530205000 +0200" stop="20250530221500 +0200" channel="CinePlusFamily">
     <title>Marmaduke - Comédie</title>
     <desc>
 Phil Winslow se voit proposer le job de ses rêves à Orange County. Sa petite famille et lui-même quittent donc le Kansas pour commencer une nouvelle vie, en Californie. Bien évidemment, ils emmènent avec eux Marmaduke, leur grand danois de 80 kilos, expert ès bêtises. Sur place, le chien sympathise avec quelques canidés un peu spéciaux et tombe sous le charme de Jezebel, le collet de Don Twombly, le nouveau patron de Phil.</desc>
@@ -5714,6 +5887,300 @@ Ce documentaire en deux parties raconte la vie du dictateur allemand par le pris
     <desc>Le chef de guerre
 Cette seconde partie aborde le personnage Hitler comme chef de guerre. Incontestablement, c'est lui qui impose l'arme blindée à l'état-major allemand, c'est lui qui décide d'utiliser la guerre éclair, et d'autres techniques de guerre visionnaires. De tout cela, Hitler profite, et les succès qu'il rencontre contre la Pologne, puis contre la France et dans les Balkans lui donnent peu à peu le sentiment d'être infaillible. Infaillible au point de commettre les erreurs qui retourneront la situation contre lui, lorsqu'il attaquera la Russie en 1941.</desc>
     <icon src="https://img.nealis.fr/ptv/img/p/g/0/0.png"/>
+  </programme>
+  <programme start="20250530000000 +0200" stop="20250530003000 +0200" channel="MuseumTV">
+    <title>Sketchbook - Magazine culturel</title>
+    <desc>Les proportions
+Harry, Raphaël, Luca et Marine nous révèlent leurs meilleures techniques de dessins. Aujourd'hui, vous allez apprendre l'une des choses les plus importantes du dessin : les proportions.</desc>
+    <icon src="https://www.programme-tv.net/imgre/fit/~2~program~f171eadca73bc6f3.jpeg/630x355/quality/80/sketchbook.jpeg"/>
+  </programme>
+  <programme start="20250530003000 +0200" stop="20250530010000 +0200" channel="MuseumTV">
+    <title>Sketchbook - Magazine culturel</title>
+    <desc>Le coloriage en noir et blanc
+Sophie, Claire, Masis et Raphaël nous révèlent leurs meilleures techniques de dessins.</desc>
+    <icon src="https://www.programme-tv.net/imgre/fit/~2~program~671b3ad829a38585.jpeg/630x355/quality/80/sketchbook.jpeg"/>
+  </programme>
+  <programme start="20250530010000 +0200" stop="20250530015500 +0200" channel="MuseumTV">
+    <title>Photo Contest - Magazine culturel</title>
+    <desc>La photo d'architecture
+Dans cet épisode, les deux candidats du jour, Thibaud Poirier et Antoine Guillou, auront une heure pour réaliser leur séance photo. Ils vont devoir prendre les meilleures photographies possibles sur le thème imposé de l'architecture dans le 12ème arrondissement de Paris, et ils auront ensuite 30 minutes pour retoucher leurs photos.</desc>
+    <icon src="https://www.programme-tv.net/imgre/fit/~2~program~9aad070ad796beed.jpeg/630x355/quality/80/photo-contest.jpeg"/>
+  </programme>
+  <programme start="20250530015500 +0200" stop="20250530025000 +0200" channel="MuseumTV">
+    <title>Antiques Roadshow - Magazine de l'art de vivre</title>
+    <desc>Lytham Hall 2
+L'émission Antiques Roadshow se déroule à Lytham Hall, dans le Lancashire, où l'on trouve des trésors tels qu'une chaise qui proviendrait du navire amiral de Nelson, un aperçu macabre de la dentisterie victorienne et une fantastique série d'aquarelles sauvées d'une benne et valant des milliers d'euros. Geoffrey Munn a trouvé un pendentif en diamant offert par la ville de Liverpool, ainsi que des souvenirs de rock and roll des années soixante de la plus haute qualité.</desc>
+    <icon src="https://www.programme-tv.net/imgre/fit/~2~program~87a52a3416945a69.jpeg/630x355/quality/80/antiques-roadshow.jpeg"/>
+  </programme>
+  <programme start="20250530025000 +0200" stop="20250530050000 +0200" channel="MuseumTV">
+    <title>Video Art - Magazine culturel</title>
+    <desc>
+</desc>
+    <icon src="https://www.programme-tv.net/imgre/fit/~2~collection~e23ea10e3e66087e.jpeg/630x355/quality/80/video-art.jpeg"/>
+  </programme>
+  <programme start="20250530050000 +0200" stop="20250530060000 +0200" channel="MuseumTV">
+    <title>An Hour With - Culture</title>
+    <desc>Paul Cézanne
+Prenez une pause d'une heure pour découvrir le travail d'un peintre Français, Paul Cézanne. Vous allez découvrir ses œuvres comme ses natures mortes, le Moulin sur la Couleuvre à Pontoise, la Petite fille à la poupée.</desc>
+    <icon src="https://www.programme-tv.net/imgre/fit/~2~program~bd09170d89f48bdd.jpeg/630x355/quality/80/an-hour-with.jpeg"/>
+  </programme>
+  <programme start="20250530060000 +0200" stop="20250530070000 +0200" channel="MuseumTV">
+    <title>An Hour With - Culture</title>
+    <desc>Auguste Renoir
+Prenez une pause d'une heure pour découvrir le travail d'un peintre Français, Auguste Renoir. Vous allez découvrir ses œuvres comme les Jeunes Filles au piano, les Baigneuses, nature morte poires et pommes.</desc>
+    <icon src="https://www.programme-tv.net/imgre/fit/~2~program~2558e758920fb37a.jpeg/630x355/quality/80/an-hour-with.jpeg"/>
+  </programme>
+  <programme start="20250530070000 +0200" stop="20250530073000 +0200" channel="MuseumTV">
+    <title>Sketchbook - Magazine culturel</title>
+    <desc>La matière
+Harry, Raphaël, Luca et Marine nous révèlent leurs meilleures techniques de dessins. Aujourd'hui, apprenez à représenter les différentes matières.</desc>
+    <icon src="https://www.programme-tv.net/imgre/fit/~2~program~346cc4ab8def45ad.jpeg/630x355/quality/80/sketchbook.jpeg"/>
+  </programme>
+  <programme start="20250530073000 +0200" stop="20250530074500 +0200" channel="MuseumTV">
+    <title>Visite privée - Culture</title>
+    <desc>Modern Art &amp; Pop Culture
+Visite privée vous emmène à la découverte de l'exposition " Hey ! Modern art &amp; pop culture " à la Halle Saint-Pierre à Paris. C'est la quatrième exposition sur ces thèmes de l'art moderne et de la culture pop. Vous y retrouverez des œuvres très variées comme des œuvres de Paul Toupet ou The Kid, des artistes peu connus mais dont les œuvres méritent le coup d'œil.</desc>
+    <icon src="https://www.programme-tv.net/imgre/fit/~2~program~d535212bc58dce96.jpeg/630x355/quality/80/visite-privee.jpeg"/>
+  </programme>
+  <programme start="20250530074500 +0200" stop="20250530080000 +0200" channel="MuseumTV">
+    <title>Visite privée - Culture</title>
+    <desc>Chefs-d'oeuvre Picasso
+Une visite privée des plus belles expositions du moment en compagnie d'un critique d'art ou d'un commissaire d'exposition : une émission tournée en un plan séquence, pour une immersion totale.</desc>
+    <icon src="https://www.programme-tv.net/imgre/fit/~2~program~51e022f53a59ab4a.jpeg/630x355/quality/80/visite-privee.jpeg"/>
+  </programme>
+  <programme start="20250530080000 +0200" stop="20250530082500 +0200" channel="MuseumTV">
+    <title>Within the Frame - Culture</title>
+    <desc>Amedeo Modigliani
+" Le bonheur est un ange au visage grave. " Ces mots du peintre italien Amedeo Modigliani définissent à merveille les portraits qui l'ont rendu célèbre… Il a réinventé l'icône, avec ces visages ovales, ces cous étirés et ces yeux lapis-lazuli qui même vidés de leur substance, sont étrangement expressifs. Vous pourrez apprécier la simplicité de ses figures, la sobriété de ses lignes et de ses couleurs, en admirant notamment La femme aux yeux bleus ou le Portrait d'Anna Zborowska. Bonne visite !</desc>
+    <icon src="https://www.programme-tv.net/imgre/fit/~2~program~5d601b271ae3db32.jpeg/630x355/quality/80/within-the-frame.jpeg"/>
+  </programme>
+  <programme start="20250530082500 +0200" stop="20250530092500 +0200" channel="MuseumTV">
+    <title>Les plus grands peintres du monde - Beaux-arts</title>
+    <desc>Ferdinand Hodler
+Au tournant du XIXe et du XXe siècle, Hodler est un des peintres majeurs du symbolisme. Sa force créatrice, son goût pour le décor et une peinture simplifiée le rapprochent de Rodin et de Puvis de Chavannes, maîtres incontestés auxquels il est alors souvent comparé. Pourtant Hodler reste peu connu en France alors que la Suisse en fait son grand peintre et que l'Allemagne et l'Autriche le considèrent comme un des fondateurs de l'art moderne.</desc>
+    <icon src="https://www.programme-tv.net/imgre/fit/~2~program~33a518743248972c.jpeg/630x355/quality/80/les-plus-grands-peintres-du-monde.jpeg"/>
+  </programme>
+  <programme start="20250530092500 +0200" stop="20250530093000 +0200" channel="MuseumTV">
+    <title>My Little Museum - Culture</title>
+    <desc>
+</desc>
+    <icon src="https://www.programme-tv.net/imgre/fit/~2~collection~eecdf34a9ef28d14.jpeg/630x355/quality/80/my-little-museum.jpeg"/>
+  </programme>
+  <programme start="20250530093000 +0200" stop="20250530094500 +0200" channel="MuseumTV">
+    <title>Artist's Workshop - Beaux-arts</title>
+    <desc>Römer + Römer
+C'est à Berlin qu'a décidé de s'installer Römer et Römer, un couple d'artistes peintres. Ils partagent leur passion pour le monde qui les entoure et pour la mise en scène perpétuelle de la vie sociale. Römer et Römer, enchanteurs de la réalité, transmettent la singularité de leur regard sur les moments de rencontres et de fêtes de nos vies.</desc>
+    <icon src="https://www.programme-tv.net/imgre/fit/~2~program~522e3c329dc612e2.jpeg/630x355/quality/80/artist-s-workshop.jpeg"/>
+  </programme>
+  <programme start="20250530094500 +0200" stop="20250530100000 +0200" channel="MuseumTV">
+    <title>Artist's Workshop - Beaux-arts</title>
+    <desc>Hervé Di Rosa
+En 1979, Hervé Di Rosa cofonde le mouvement de la Figuration libre ; à tout juste 20 ans, il est exposé à Paris et New York.</desc>
+    <icon src="https://www.programme-tv.net/imgre/fit/~2~program~522e3c329dc612e2.jpeg/630x355/quality/80/artist-s-workshop.jpeg"/>
+  </programme>
+  <programme start="20250530100000 +0200" stop="20250530103000 +0200" channel="MuseumTV">
+    <title>Sketchbook - Magazine culturel</title>
+    <desc>Le dos
+Marine, Harry, Mush et Raphaël nous révèlent leurs meilleures techniques de dessins. Dans cet épisode, ils vous montrent comment représenter un dos.</desc>
+    <icon src="https://www.programme-tv.net/imgre/fit/~2~program~574e21091b9e7c75.jpeg/630x355/quality/80/sketchbook.jpeg"/>
+  </programme>
+  <programme start="20250530103000 +0200" stop="20250530104500 +0200" channel="MuseumTV">
+    <title>Visite privée - Culture</title>
+    <desc>Danser brut
+Visite privée vous emmène à la découverte de l'exposition " danser brut " au LaM de Villeneuve d'Ascq, le musée d'art moderne, contemporain et brut. Cette exposition présente des œuvres réalisés par des artistes danseurs ou non et interroge les questions de geste, de mouvement. Cela peut aller d'une simple photographie immortalisant un mouvement, une danse, jusqu'à des reproductions de manèges qui rappelleront la période de l'enfance.</desc>
+    <icon src="https://www.programme-tv.net/imgre/fit/~2~program~0ae2fe51476e4903.jpeg/630x355/quality/80/visite-privee.jpeg"/>
+  </programme>
+  <programme start="20250530104500 +0200" stop="20250530105000 +0200" channel="MuseumTV">
+    <title>Dessine-moi.. - Beaux-arts</title>
+    <desc>
+</desc>
+    <icon src="https://www.programme-tv.net/imgre/fit/~2~collection~3a9510f45077cf50.jpeg/630x355/quality/80/dessine-moi.jpeg"/>
+  </programme>
+  <programme start="20250530105000 +0200" stop="20250530105500 +0200" channel="MuseumTV">
+    <title>My Little Museum - Culture</title>
+    <desc>
+</desc>
+    <icon src="https://www.programme-tv.net/imgre/fit/~2~collection~eecdf34a9ef28d14.jpeg/630x355/quality/80/my-little-museum.jpeg"/>
+  </programme>
+  <programme start="20250530105500 +0200" stop="20250530110500 +0200" channel="MuseumTV">
+    <title>Origami - Magazine des loisirs</title>
+    <desc>
+</desc>
+    <icon src="https://www.programme-tv.net/imgre/fit/~2~collection~7929c6026f8493c7.jpeg/630x355/quality/80/origami.jpeg"/>
+  </programme>
+  <programme start="20250530110500 +0200" stop="20250530113500 +0200" channel="MuseumTV">
+    <title>Enquête d'art - Beaux-arts</title>
+    <desc>Musée des Beaux-Arts de Nancy : "L'Annonciation", du Caravage
+D'abord attribué à Michel-Ange puis à Guido Reni, ce tableau est resté entouré de mystère jusqu'à ce qu'on découvre que son auteur était Michelangelo Merisi, dit Le Caravage.</desc>
+    <icon src="https://www.programme-tv.net/imgre/fit/~2~program~3ede1f1644185528.jpeg/630x355/quality/80/enquete-d-art.jpeg"/>
+  </programme>
+  <programme start="20250530113500 +0200" stop="20250530115000 +0200" channel="MuseumTV">
+    <title>Instant décisif - Beaux-arts</title>
+    <desc>Zakaria Abdelkafi
+Dans cet épisode, nous rencontrerons Zakaria Abdelkafi, photojournaliste. Il est syrien, correspondant de l'agence française de presse à Alep de 2013 à 2015, et il est désormais installé à Paris car, après un reportage en Turquie, il n'a pas pu retourner dans son pays. Il nous racontera son histoire et comment il est devenu photographe.</desc>
+    <icon src="https://www.programme-tv.net/imgre/fit/~2~program~43a6ec7f6940c688.jpeg/630x355/quality/80/instant-decisif.jpeg"/>
+  </programme>
+  <programme start="20250530115000 +0200" stop="20250530120500 +0200" channel="MuseumTV">
+    <title>Instant décisif - Beaux-arts</title>
+    <desc>Giles Clarke
+Dans cet épisode, nous ferons la connaissance de Gilles Clarke, photojournaliste. Il a couvert de nombreuses zones de conflit et de crise humanitaire. Il nous parlera des dangers que son travail implique, des difficultés que cela présente, de ses motivations, et de son avis sur le monde qui nous entoure et ses crises.</desc>
+    <icon src="https://www.programme-tv.net/imgre/fit/~2~program~43a6ec7f6940c688.jpeg/630x355/quality/80/instant-decisif.jpeg"/>
+  </programme>
+  <programme start="20250530120500 +0200" stop="20250530130000 +0200" channel="MuseumTV">
+    <title>Antiques Roadshow - Magazine de l'art de vivre</title>
+    <desc>Ham House 2
+L'émission Antiques Roadshow revient à Ham House, dans le quartier londonien de Richmond, où John Benjamin, spécialiste des bijoux, s'étonne de voir un collier et un bracelet trouvés dans un sac de compost acheté dans une jardinerie en Allemagne.</desc>
+    <icon src="https://www.programme-tv.net/imgre/fit/~2~program~87a52a3416945a69.jpeg/630x355/quality/80/antiques-roadshow.jpeg"/>
+  </programme>
+  <programme start="20250530130000 +0200" stop="20250530132500 +0200" channel="MuseumTV">
+    <title>Within the Frame - Culture</title>
+    <desc>Les dieux
+Découvrez quelques unes des oeuvres de Georges Seurat réalisées au cours de la fin du XIXème siècle. Ces oeuvres sont exposées à Paris, Troyes ou Londres. On parlera de pierres soigneusement taillées s'apparentent à des stèles commémoratives, de statuette tibétaine ou encore de nombreux objets d'époque.</desc>
+    <icon src="https://www.programme-tv.net/imgre/fit/~2~program~31bd6707993f5e9d.jpeg/630x355/quality/80/within-the-frame.jpeg"/>
+  </programme>
+  <programme start="20250530132500 +0200" stop="20250530133000 +0200" channel="MuseumTV">
+    <title>Art Quiz - Jeu</title>
+    <desc>
+</desc>
+    <icon src="https://www.programme-tv.net/imgre/fit/~2~collection~59c44b21d32a5339.jpeg/630x355/quality/80/art-quiz.jpeg"/>
+  </programme>
+  <programme start="20250530133000 +0200" stop="20250530140000 +0200" channel="MuseumTV">
+    <title>Quand je serai grand je serai photographe - Beaux-arts</title>
+    <desc>Episode 4
+Dans cet episode, les deuxieme annee ont cours de workshop publicitaire. Quant a Camille, elle a rendez-vous avec deux de ses amies pour une seance photo sur un sujet qui lui tient a coeur : le corps.</desc>
+    <icon src="https://www.programme-tv.net/imgre/fit/~2~program~dad328ed6898b62a.jpeg/630x355/quality/80/quand-je-serai-grand-je-serai-photographe.jpeg"/>
+  </programme>
+  <programme start="20250530140000 +0200" stop="20250530143000 +0200" channel="MuseumTV">
+    <title>Week-end design à Stockholm - Culture</title>
+    <desc>
+La Scandinavie est célèbre pour ses aurores boréales et ses paysages féériques, sa Laponie, terre du Père Noël et ses rennes, ses Vikings farouches et ses langues plutôt difficiles à comprendre. Mais elle est aussi reine dans l'une des disciplines que pratiquent des créateurs du monde entier : le design. Bienvenueà Stockholm, capitale du design nordique, apaisé, calme, nature et zen. Ici, le design est érigée en religion, et les designers, gourous du genre, se comptent par centaines.</desc>
+    <icon src="https://www.programme-tv.net/imgre/fit/~2~program~3d1169ad46c8a648.jpeg/630x355/quality/80/week-end-design-a-stockholm.jpeg"/>
+  </programme>
+  <programme start="20250530143000 +0200" stop="20250530150000 +0200" channel="MuseumTV">
+    <title>L'Art du jardin japonais - Beaux-arts</title>
+    <desc>
+Au Japon, l'aménagement de jardins est un art important et respecté, partageant des codes esthétiques avec la calligraphie et le lavis. Le jardin japonais cherche à interpréter et idéaliser la nature en limitant les artifices.</desc>
+    <icon src="https://www.programme-tv.net/imgre/fit/~2~program~599468c3d08d5ed6.jpeg/630x355/quality/80/l-art-du-jardin-japonais.jpeg"/>
+  </programme>
+  <programme start="20250530150000 +0200" stop="20250530160000 +0200" channel="MuseumTV">
+    <title>Chine - France, l'art en partage - Découvertes</title>
+    <desc>
+À l'occasion de l'exposition consacrée au musée du Palais (Pékin), ce film retrace quatre siècles de dialogue artistique entre Orient et Occident.</desc>
+    <icon src="https://www.programme-tv.net/imgre/fit/~2~program~c8aba5e3922a11b0.jpeg/630x355/quality/80/chine-france-l-art-en-partage.jpeg"/>
+  </programme>
+  <programme start="20250530160000 +0200" stop="20250530165000 +0200" channel="MuseumTV">
+    <title>Les plus grands peintres du monde - Beaux-arts</title>
+    <desc>Vassily Kandinsky
+Vassily Kandinsky est connu comme le fondateur de l'art abstrait avec une première œuvre non-figurative qui sera dite "abstraite".</desc>
+    <icon src="https://www.programme-tv.net/imgre/fit/~2~program~33a518743248972c.jpeg/630x355/quality/80/les-plus-grands-peintres-du-monde.jpeg"/>
+  </programme>
+  <programme start="20250530165000 +0200" stop="20250530170500 +0200" channel="MuseumTV">
+    <title>Instant décisif - Beaux-arts</title>
+    <desc>Greg Gorman
+Dans cet épisode, nous discuterons avec Greg Gorman, photographe. Il a photographié et côtoyé de nombreuses célébrités. Selon lui, la plus grande partie du travail de photographe est de réussir à rentrer dans la tête des gens et à faire tomber la barrière que ces personnes créent autour d'eux.</desc>
+    <icon src="https://www.programme-tv.net/imgre/fit/~2~program~43a6ec7f6940c688.jpeg/630x355/quality/80/instant-decisif.jpeg"/>
+  </programme>
+  <programme start="20250530170500 +0200" stop="20250530180000 +0200" channel="MuseumTV">
+    <title>Antiques Roadshow - Magazine de l'art de vivre</title>
+    <desc>Le Jardin botanique national du Pays de Galles 2
+Le Roadshow revient dans le cadre luxuriant du Jardin botanique national du Pays de Galles, dans le Carmarthenshire, où Fiona Bruce découvre comment les pharmaciens de l'époque victorienne mélangeaient et mettaient en bouteille les remèdes à base de plantes. Bravant le temps pluvieux, les visiteurs apportent une gamme éclectique d'objets à évaluer par les experts. Des souvenirs de James Bond font leur apparition aux côtés d'une machine à vapeur miniature et d'un anneau religieux rare. Jon Axford, expert en céramique, est étonné de voir non pas une mais trois pièces uniques de poterie Martinware, tandis que Duncan Campbell, spécialiste de l'argenterie, met au jour un gobelet déterré d'une tranchée de la Première Guerre mondiale et utilisé comme coupe à raser.</desc>
+    <icon src="https://www.programme-tv.net/imgre/fit/~2~program~cdc13eb6ed70b28f.jpeg/630x355/quality/80/antiques-roadshow.jpeg"/>
+  </programme>
+  <programme start="20250530180000 +0200" stop="20250530180500 +0200" channel="MuseumTV">
+    <title>Art Quiz - Jeu</title>
+    <desc>
+</desc>
+    <icon src="https://www.programme-tv.net/imgre/fit/~2~collection~59c44b21d32a5339.jpeg/630x355/quality/80/art-quiz.jpeg"/>
+  </programme>
+  <programme start="20250530180500 +0200" stop="20250530182500 +0200" channel="MuseumTV">
+    <title>Within the Frame - Culture</title>
+    <desc>Théodore Géricault
+Decouvrez les secrets des chefs-d'oeuvre de ce talentueux artiste. Retrouvez la premiere oeuvre de Gericault expose au public a l'occasion du salon de 1812 a Paris. Gericault demontre ainsi une fois de plus son incroyable maitrise des portraits dans lesquels la recherche du realisme n'altere pas la dimension psychologique du modele, mais au contraire la sublime.</desc>
+    <icon src="https://www.programme-tv.net/imgre/fit/~2~program~6ce4edb1e6f6f8a9.jpeg/630x355/quality/80/within-the-frame.jpeg"/>
+  </programme>
+  <programme start="20250530182500 +0200" stop="20250530184000 +0200" channel="MuseumTV">
+    <title>Artist's Workshop - Beaux-arts</title>
+    <desc>Tania Mouraud
+L'oeuvre de Tania Mouraud revêt des formes très différentes, tout en restant fondée sur un réel engagement social et un questionnement ontologique. L'artiste contemporaine mobilise chez le spectateur la conscience de soi et du monde dans lequel il se trouve.</desc>
+    <icon src="https://www.programme-tv.net/imgre/fit/~2~program~522e3c329dc612e2.jpeg/630x355/quality/80/artist-s-workshop.jpeg"/>
+  </programme>
+  <programme start="20250530184000 +0200" stop="20250530185500 +0200" channel="MuseumTV">
+    <title>Artist's Workshop - Beaux-arts</title>
+    <desc>Jef Aerosol
+Jef Aerosol est une légende de Street Art. Il a commencé les pochoirs en 1982 en France. Avec d'autres artistes français comme Blek Le Rat, Miss Tic et Speedy Graphito, il a mis au point une nouvelle forme d'expression artistique - briser les limites des espaces de la galerie et le format de la toile.</desc>
+    <icon src="https://www.programme-tv.net/imgre/fit/~2~program~522e3c329dc612e2.jpeg/630x355/quality/80/artist-s-workshop.jpeg"/>
+  </programme>
+  <programme start="20250530185500 +0200" stop="20250530190000 +0200" channel="MuseumTV">
+    <title>Origami - Magazine des loisirs</title>
+    <desc>
+</desc>
+    <icon src="https://www.programme-tv.net/imgre/fit/~2~collection~7929c6026f8493c7.jpeg/630x355/quality/80/origami.jpeg"/>
+  </programme>
+  <programme start="20250530190000 +0200" stop="20250530193000 +0200" channel="MuseumTV">
+    <title>Sketchbook - Magazine culturel</title>
+    <desc>La calligraphie
+Harry, Raphaël, Luca et Marine nous révèlent leurs meilleures techniques de dessins. Dans cet épisode, apprenez les techniques de la calligraphie.</desc>
+    <icon src="https://www.programme-tv.net/imgre/fit/~2~program~1bcbca730de3a70f.jpeg/630x355/quality/80/sketchbook.jpeg"/>
+  </programme>
+  <programme start="20250530193000 +0200" stop="20250530195500 +0200" channel="MuseumTV">
+    <title>Enquête d'art - Beaux-arts</title>
+    <desc>"La Chasse au Nègre", de Félix Martin
+"La Chasse au Nègre", de Félix Martin, réalisée en 1873, est l'une des premières sculptures à montrer la brutalité de l'esclavage.</desc>
+    <icon src="https://www.programme-tv.net/imgre/fit/~2~program~9cd98f129e1a69ef.jpeg/630x355/quality/80/enquete-d-art.jpeg"/>
+  </programme>
+  <programme start="20250530195500 +0200" stop="20250530200000 +0200" channel="MuseumTV">
+    <title>My Little Museum - Culture</title>
+    <desc>
+</desc>
+    <icon src="https://www.programme-tv.net/imgre/fit/~2~collection~eecdf34a9ef28d14.jpeg/630x355/quality/80/my-little-museum.jpeg"/>
+  </programme>
+  <programme start="20250530200000 +0200" stop="20250530210000 +0200" channel="MuseumTV">
+    <title>Antiques Roadshow - Magazine de l'art de vivre</title>
+    <desc>Crystal Palace Park, London 2
+L'Antiques Roadshow se déroule dans le plus grand espace vert de Glasgow, Pollok Park. On y découverte des vêtements du créateur de mode Alexander McQueen, un télescope historique et des trésors en argent utilisés dans un ancien rituel royal.</desc>
+    <icon src="https://www.programme-tv.net/imgre/fit/~2~program~87a52a3416945a69.jpeg/630x355/quality/80/antiques-roadshow.jpeg"/>
+  </programme>
+  <programme start="20250530210000 +0200" stop="20250530220000 +0200" channel="MuseumTV">
+    <title>Antiques Roadshow - Magazine de l'art de vivre</title>
+    <desc>Alexandra Gardens, Cardiff 1
+Antiques Roadshow est à Alexandra Gardens à Cardiff, où l'on retrouve des bijoux précieux découverts lors de vide-greniers, une veste fabriquée par le peuple Ojibwé du Canada et des illustrations originales de Peter Rabbit par Beatrix Potter.</desc>
+    <icon src="https://www.programme-tv.net/imgre/fit/~2~program~87a52a3416945a69.jpeg/630x355/quality/80/antiques-roadshow.jpeg"/>
+  </programme>
+  <programme start="20250530220000 +0200" stop="20250530225000 +0200" channel="MuseumTV">
+    <title>Les plus grands peintres du monde - Beaux-arts</title>
+    <desc>Joan Miró
+Le peintre espagnol Juan Miro collabora au mouvement Dada puis passa par le surréalisme avant de développer hors de tous courants un univers personnel composé de signes variés : astres, ellipses, animaux, qui permettent de reconnaître ses toiles entre toutes.</desc>
+    <icon src="https://www.programme-tv.net/imgre/fit/~2~program~33a518743248972c.jpeg/630x355/quality/80/les-plus-grands-peintres-du-monde.jpeg"/>
+  </programme>
+  <programme start="20250530225000 +0200" stop="20250530225500 +0200" channel="MuseumTV">
+    <title>Art Quiz - Jeu</title>
+    <desc>
+</desc>
+    <icon src="https://www.programme-tv.net/imgre/fit/~2~collection~59c44b21d32a5339.jpeg/630x355/quality/80/art-quiz.jpeg"/>
+  </programme>
+  <programme start="20250530225500 +0200" stop="20250530231000 +0200" channel="MuseumTV">
+    <title>Visite privée - Culture</title>
+    <desc>Calder-Picasso
+Visite privée vous emmène à la découverte de l'exposition \" Chefs-d'œuvre Picasso \" au Musée National Picasso à Paris. Cette exposition raconte comment les œuvres de Picasso sont devenues des œuvres importantes. Picasso s'est lui-même interrogé quant à la notion de \" Chefs-d'œuvre \". Il en a conclu qu'il n'y a pas qu'un seul moyen de faire d'une œuvre un véritable Chefs-d'œuvre. Au cours de cette visite privée vous pourrez découvrir ou redécouvrir quelques-unes de ses œuvres comme \" Les demoiselles d'Avignon \" ou \" les femmes à leur toilettes \".</desc>
+    <icon src="https://www.programme-tv.net/imgre/fit/~2~program~1472ce0250834bc3.jpeg/630x355/quality/80/visite-privee.jpeg"/>
+  </programme>
+  <programme start="20250530231000 +0200" stop="20250530232500 +0200" channel="MuseumTV">
+    <title>Visite privée - Culture</title>
+    <desc>Estampes japonaises modernes, vagues de renouveau à la Fondation Custodia
+Pour célébrer l'année du Japon en France, la Fondation Custodia a accueilli fin 2018 une importante rétrospective représentant les estampes japonaises de la première moitié du XXe siècle.</desc>
+    <icon src="https://www.programme-tv.net/imgre/fit/~2~program~b52a4624d2c4d9af.jpeg/630x355/quality/80/visite-privee.jpeg"/>
+  </programme>
+  <programme start="20250530232500 +0200" stop="20250530234500 +0200" channel="MuseumTV">
+    <title>Within the Frame - Culture</title>
+    <desc>Le Rococo
+A travers quelques oeuvres de Fragonard, Boucher, Watteau (entre autres), voici le courant rococo dont les oeuvres remontent à la fin du XVIIIème siècle. Le thème des fêtes galantes évoque aussi que les revers de l'amour est indissociable de ses plaisirs.</desc>
+    <icon src="https://www.programme-tv.net/imgre/fit/~2~program~d31bbac366b7cc89.jpeg/630x355/quality/80/within-the-frame.jpeg"/>
+  </programme>
+  <programme start="20250530234500 +0200" stop="20250531000000 +0200" channel="MuseumTV">
+    <title>Artist's Workshop - Beaux-arts</title>
+    <desc>Jérôme Zonder
+Diplômé de l'Ecole nationale supérieure des Beaux-Arts, Jérôme Zonder travaille essentiellement à la mine de plomb et au fusain. Dans ses dessins - souvent de très grands formats - voisinent Albrecht Dürer, Robert Crumb, Rembrandt, Charles Burns, Otto Dix et Walt Disney pour composer des récits, souvent cruels.</desc>
+    <icon src="https://www.programme-tv.net/imgre/fit/~2~program~f39b0bbb45871b0f.jpeg/630x355/quality/80/artist-s-workshop.jpeg"/>
   </programme>
   <programme start="20250530000000 +0200" stop="20250530011000 +0200" channel="RTS1">
     <title>Les voyages extraordinaires d'Ella Maillart - Biographie</title>
@@ -8602,12 +9069,6 @@ Le rdv Fight de Sport en France. Dans la bonne humeur, Lucien et Seb reçoivent 
     <title>Sky Sports News - </title>
     <desc>Generic Sky Sports News
 </desc>
-  </programme>
-  <programme start="20250530120000 +0200" stop="20250530123000 +0200" channel="MovistarGolf">
-    <title>Locos por el golf - Otros documentales</title>
-    <desc>
-Un espacio que analiza la evolución de la afición al golf en España y en el resto del mundo con seguimiento especial a los forofos de este deporte.</desc>
-    <icon src="https://cdn.sincroguia.tv/uploads/programs/p/g/a/xpga-tour-grupos-extra-1036466_SPA-71.jpg.pagespeed.ic.eiKrgT73lz.jpg"/>
   </programme>
   <programme start="20250530123000 +0200" stop="20250530133000 +0200" channel="MovistarGolf">
     <title>DP World Tour - Golf</title>
