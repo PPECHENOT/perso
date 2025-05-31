@@ -1,0 +1,149 @@
+#EXTM3U url-tvg="https://xmltv.ch/xmltv/xmltv-complet.xml"
+
+#EXTINF:-1 tvg-id="C192.api.telerama.fr" tvg-logo="https://ppechenot.github.io/perso/logos/tf1.png" group-title="TNT",TF1
+http://platineiptv.pro:8789/play/live.php?mac=00:1A:79:64:7A:8A&stream=13847&extension=ts
+#EXTINF:-1 tvg-id="C4.api.telerama.fr" tvg-logo="https://ppechenot.github.io/perso/logos/france2.png" group-title="TNT",FRANCE 2
+http://platineiptv.pro:8789/play/live.php?mac=00:1A:79:64:7A:8A&stream=13739&extension=ts
+#EXTINF:-1 tvg-id="C80.api.telerama.fr" tvg-logo="https://ppechenot.github.io/perso/logos/france3.png" group-title="TNT",FRANCE 3
+http://platineiptv.pro:8789/play/live.php?mac=00:1A:79:64:7A:8A&stream=13738&extension=ts
+#EXTINF:-1 tvg-id="C78.api.telerama.fr" tvg-logo="https://ppechenot.github.io/perso/logos/france4.png" group-title="TNT",FRANCE 4
+http://platineiptv.pro:8789/play/live.php?mac=00:1A:79:64:7A:8A&stream=13737&extension=ts
+#EXTINF:-1 tvg-id="C47.api.telerama.fr" tvg-logo="https://ppechenot.github.io/perso/logos/france5.png" group-title="TNT",FRANCE 5
+http://platineiptv.pro:8789/play/live.php?mac=00:1A:79:64:7A:8A&stream=139530&extension=ts
+#EXTINF:-1 tvg-id="C118.api.telerama.fr" tvg-logo="https://ppechenot.github.io/perso/logos/m6.png" group-title="TNT",M6 FHD
+http://platineiptv.pro:8789/play/live.php?mac=00:1A:79:64:7A:8A&stream=13726&extension=ts
+#EXTINF:-1 tvg-id="C118.api.telerama.fr" tvg-logo="https://ppechenot.github.io/perso/logos/m6.png" group-title="TNT",M6 HEVC
+http://platineiptv.pro:8789/play/live.php?mac=00:1A:79:64:7A:8A&stream=47479&extension=ts
+#EXTINF:-1 tvg-id="C111.api.telerama.fr" tvg-logo="https://ppechenot.github.io/perso/logos/arte.png" group-title="TNT",ARTE
+http://platineiptv.pro:8789/play/live.php?mac=00:1A:79:64:7A:8A&stream=13788&extension=ts
+#EXTINF:-1 tvg-id="C119.api.telerama.fr" tvg-logo="https://ppechenot.github.io/perso/logos/w9.png" group-title="TNT",W9
+http://platineiptv.pro:8789/play/live.php?mac=00:1A:79:64:7A:8A&stream=47481&extension=ts
+#EXTINF:-1 tvg-id="C195.api.telerama.fr" tvg-logo="https://ppechenot.github.io/perso/logos/tmc.png" group-title="TNT",TMC
+http://platineiptv.pro:8789/play/live.php?mac=00:1A:79:64:7A:8A&stream=13696&extension=ts
+#EXTINF:-1 tvg-id="C446.api.telerama.fr" tvg-logo="https://ppechenot.github.io/perso/logos/tfx.png" group-title="TNT",TFX
+http://platineiptv.pro:8789/play/live.php?mac=00:1A:79:64:7A:8A&stream=47492&extension=ts
+#EXTINF:-1 tvg-id="C458.api.telerama.fr" tvg-logo="https://ppechenot.github.io/perso/logos/cstar.png" group-title="TNT",CSTAR
+http://platineiptv.pro:8789/play/live.php?mac=00:1A:79:64:7A:8A&stream=13749&extension=ts
+#EXTINF:-1 tvg-id="C1404.api.telerama.fr" tvg-logo="https://ppechenot.github.io/perso/logos/tf1_series_films.png" group-title="TNT",TF1 SERIES FILMS
+http://platineiptv.pro:8789/play/live.php?mac=00:1A:79:64:7A:8A&stream=14008&extension=ts
+#EXTINF:-1 tvg-id="C1403.api.telerama.fr" tvg-logo="https://ppechenot.github.io/perso/logos/6ter.png" group-title="TNT",6TER
+http://platineiptv.pro:8789/play/live.php?mac=00:1A:79:64:7A:8A&stream=13793&extension=ts
+#EXTINF:-1 tvg-id="C1402.api.telerama.fr" tvg-logo="https://ppechenot.github.io/perso/logos/rmc_story.png" group-title="TNT",RMC STORY
+http://platineiptv.pro:8789/play/live.php?mac=00:1A:79:64:7A:8A&stream=13997&extension=ts
+#EXTINF:-1 tvg-id="C1399.api.telerama.fr" tvg-logo="https://ppechenot.github.io/perso/logos/cherie25.png" group-title="TNT",CHERIE 25
+http://platineiptv.pro:8789/play/live.php?mac=00:1A:79:64:7A:8A&stream=13760&extension=ts
+#EXTINF:-1 tvg-id="C234.api.telerama.fr" tvg-logo="https://ppechenot.github.io/perso/logos/lcp.png" group-title="TNT",LCP
+http://platineiptv.pro:8789/play/live.php?mac=00:1A:79:08:46:00&stream=13809&extension=ts
+#EXTINF:-1 tvg-id="C482.api.telerama.fr" tvg-logo="https://ppechenot.github.io/perso/logos/gulli.png" group-title="TNT",GULLI
+http://platineiptv.pro:8789/play/live.php?mac=00:1A:79:64:7A:8A&stream=47488&extension=ts
+#EXTINF:-1 tvg-id="C80.api.telerama.fr" tvg-logo="https://ppechenot.github.io/perso/logos/france3.png" group-title="TNT",FRANCE 3 F-C
+http://platineiptv.pro:8789/play/live.php?mac=00:1A:79:64:7A:8A&stream=195833&extension=ts
+
+#EXTINF:-1 tvg-id="C34.api.telerama.fr" tvg-logo="https://ppechenot.github.io/perso/logos/canal+.png" group-title="CINEMA",CANAL+
+http://platineiptv.pro:8789/play/live.php?mac=00:1A:79:64:7A:8A&stream=14151&extension=ts
+#EXTINF:-1 tvg-id="C33.api.telerama.fr" tvg-logo="https://ppechenot.github.io/perso/logos/canal+_cinema(s).png" group-title="CINEMA",CANAL+ CINEMA(S)
+http://platineiptv.pro:8789/play/live.php?mac=00:1A:79:64:7A:8A&stream=13769&extension=ts
+#EXTINF:-1 tvg-id="C3779.api.telerama.fr" tvg-logo="https://ppechenot.github.io/perso/logos/canal+_box_office.png" group-title="CINEMA",CANAL+ BOX OFFICE
+http://platineiptv.pro:8789/play/live.php?mac=00:1A:79:64:7A:8A&stream=265758&extension=ts
+#EXTINF:-1 tvg-id="C3349.api.telerama.fr" tvg-logo="https://ppechenot.github.io/perso/logos/canal+_grand_ecran.png" group-title="CINEMA",CANAL+ GRAND ECRAN
+http://platineiptv.pro:8789/play/live.php?mac=00:1A:79:64:7A:8A&stream=156772&extension=ts
+#EXTINF:-1 tvg-id="C282.api.telerama.fr" tvg-logo="https://ppechenot.github.io/perso/logos/cine+_ocs.png" group-title="CINEMA",CINE+ OCS
+http://platineiptv.pro:8789/play/live.php?mac=00:1A:79:64:7A:8A&stream=13759&extension=ts
+#EXTINF:-1 tvg-id="C284.api.telerama.fr" tvg-logo="https://ppechenot.github.io/perso/logos/cine+_frisson.png" group-title="CINEMA",CINE+ FRISSON
+http://platineiptv.pro:8789/play/live.php?mac=00:1A:79:64:7A:8A&stream=13754&extension=ts
+#EXTINF:-1 tvg-id="C283.api.telerama.fr" tvg-logo="https://ppechenot.github.io/perso/logos/cine+_emotion.png" group-title="CINEMA",CINE+ EMOTION
+http://platineiptv.pro:8789/play/live.php?mac=00:1A:79:64:7A:8A&stream=13756&extension=ts
+#EXTINF:-1 tvg-id="C401.api.telerama.fr" tvg-logo="https://ppechenot.github.io/perso/logos/cine+_family.png" group-title="CINEMA",CINE+ FAMILY
+http://platineiptv.pro:8789/play/live.php?mac=00:1A:79:64:7A:8A&stream=13755&extension=ts
+#EXTINF:-1 tvg-id="C285.api.telerama.fr" tvg-logo="https://ppechenot.github.io/perso/logos/cine+_festival.png" group-title="CINEMA",CINE+ FESTIVAL
+http://platineiptv.pro:8789/play/live.php?mac=00:1A:79:64:7A:8A&stream=47556&extension=ts
+#EXTINF:-1 tvg-id="C287.api.telerama.fr" tvg-logo="https://ppechenot.github.io/perso/logos/cine+_classic.png" group-title="CINEMA",CINE+ CLASSIC
+http://platineiptv.pro:8789/play/live.php?mac=00:1A:79:64:7A:8A&stream=13758&extension=ts
+#EXTINF:-1 tvg-id="C185.api.telerama.fr" tvg-logo="https://ppechenot.github.io/perso/logos/tcm_cinema.png" group-title="CINEMA",TCM CINEMA
+http://platineiptv.pro:8789/play/live.php?mac=00:1A:79:64:7A:8A&stream=13697&extension=ts
+#EXTINF:-1 tvg-id="C1562.api.telerama.fr" tvg-logo="https://ppechenot.github.io/perso/logos/paramount_channel.png" group-title="CINEMA",PARAMOUNT CHANNEL
+http://platineiptv.pro:8789/play/live.php?mac=00:1A:79:64:7A:8A&stream=13713&extension=ts
+#EXTINF:-1 tvg-id="C10.api.telerama.fr" tvg-logo="https://ppechenot.github.io/perso/logos/action.png" group-title="CINEMA",ACTION
+http://platineiptv.pro:8789/play/live.php?mac=00:1A:79:64:7A:8A&stream=13790&extension=ts
+
+#EXTINF:-1 tvg-id="C1563.api.telerama.fr" tvg-logo="https://ppechenot.github.io/perso/logos/canal+_series.png" group-title="SERIES",CANAL+ SERIES
+http://platineiptv.pro:8789/play/live.php?mac=00:1A:79:64:7A:8A&stream=13766&extension=ts
+#EXTINF:-1 tvg-id="C2326.api.telerama.fr" tvg-logo="https://ppechenot.github.io/perso/logos/polar+.png" group-title="SERIES",POLAR+
+http://platineiptv.pro:8789/play/live.php?mac=00:1A:79:64:7A:8A&stream=13763&extension=ts
+#EXTINF:-1 tvg-id="C54.api.telerama.fr" tvg-logo="https://ppechenot.github.io/perso/logos/comedie+.png" group-title="SERIES",COMEDIE+
+http://platineiptv.pro:8789/play/live.php?mac=00:1A:79:64:7A:8A&stream=14019&extension=ts
+#EXTINF:-1 tvg-id="13Rue" tvg-logo="https://ppechenot.github.io/perso/logos/13eme_rue.png" group-title="SERIES",13EME RUE
+http://platineiptv.pro:8789/play/live.php?mac=00:1A:79:64:7A:8A&stream=13794&extension=ts
+#EXTINF:-1 tvg-id="C479.api.telerama.fr" tvg-logo="https://ppechenot.github.io/perso/logos/syfy.png" group-title="SERIES",SYFY
+http://platineiptv.pro:8789/play/live.php?mac=00:1A:79:64:7A:8A&stream=13698&extension=ts
+#EXTINF:-1 tvg-id="C2334.api.telerama.fr" tvg-logo="https://ppechenot.github.io/perso/logos/warner_tv.png" group-title="SERIES",WARNER TV
+http://platineiptv.pro:8789/play/live.php?mac=00:1A:79:64:7A:8A&stream=13784&extension=ts
+#EXTINF:-1 tvg-id="C49.api.telerama.fr" tvg-logo="https://ppechenot.github.io/perso/logos/serieclub.png" group-title="SERIES",SERIECLUB
+http://platineiptv.pro:8789/play/live.php?mac=00:1A:79:64:7A:8A&stream=13830&extension=ts
+#EXTINF:-1 tvg-id="C225.api.telerama.fr" tvg-logo="https://ppechenot.github.io/perso/logos/tvbreizh.png" group-title="SERIES",TV BREIZH
+http://platineiptv.pro:8789/play/live.php?mac=00:1A:79:64:7A:8A&stream=13975&extension=ts
+#EXTINF:-1 tvg-id="C191.api.telerama.fr" tvg-logo="https://ppechenot.github.io/perso/logos/teva.png" group-title="SERIES",TEVA
+http://platineiptv.pro:8789/play/live.php?mac=00:1A:79:64:7A:8A&stream=25039&extension=ts
+#EXTINF:-1 tvg-id="C145.api.telerama.fr" tvg-logo="https://ppechenot.github.io/perso/logos/paris_premiere.png" group-title="SERIES",PARIS PREMIERE
+http://platineiptv.pro:8789/play/live.php?mac=00:1A:79:64:7A:8A&stream=13824x&extension=ts
+#EXTINF:-1 tvg-id="C115.api.telerama.fr" tvg-logo="https://ppechenot.github.io/perso/logos/rtl9.png" group-title="SERIES",RTL9
+http://platineiptv.pro:8789/play/live.php?mac=00:1A:79:64:7A:8A&stream=13707&extension=ts
+
+#EXTINF:-1 tvg-id="C3347.api.telerama.fr" tvg-logo="https://ppechenot.github.io/perso/logos/canal+_docs.png" group-title="CULTURE",CANAL+ DOCS
+http://platineiptv.pro:8789/play/live.php?mac=00:1A:79:64:7A:8A&stream=142059&extension=ts
+#EXTINF:-1 tvg-id="C243.api.telerama.fr" tvg-logo="https://ppechenot.github.io/perso/logos/national_geographic.png" group-title="CULTURE",NATIONAL GEOGRAPHIC
+http://platineiptv.pro:8789/play/live.php?mac=00:1A:79:64:7A:8A&stream=13718&extension=ts
+#EXTINF:-1 tvg-id="C719.api.telerama.fr" tvg-logo="https://ppechenot.github.io/perso/logos/nat_geo_wild.png" group-title="CULTURE",NAT GEO WILD
+http://platineiptv.pro:8789/play/live.php?mac=00:1A:79:64:7A:8A&stream=13719&extension=ts
+#EXTINF:-1 tvg-id="C63.api.telerama.fr" tvg-logo="https://ppechenot.github.io/perso/logos/science_et_vie_tv.png" group-title="CULTURE",SCIENCE & VIE
+http://platineiptv.pro:8789/play/live.php?mac=00:1A:79:64:7A:8A&stream=13704&extension=ts
+#EXTINF:-1 tvg-id="C451.api.telerama.fr" tvg-logo="https://ppechenot.github.io/perso/logos/ushuaia_tv.png" group-title="CULTURE",USHUAIA TV
+http://platineiptv.pro:8789/play/live.php?mac=00:1A:79:64:7A:8A&stream=13692&extension=ts
+#EXTINF:-1 tvg-id="C88.api.telerama.fr" tvg-logo="https://ppechenot.github.io/perso/logos/histoire_tv.png" group-title="CULTURE",HISTOIRE
+http://platineiptv.pro:8789/play/live.php?mac=00:1A:79:64:7A:8A&stream=13731&extension=ts
+#EXTINF:-1 tvg-id="C7.api.telerama.fr" tvg-logo="https://ppechenot.github.io/perso/logos/toute_lhistoire.png" group-title="CULTURE",TOUTE L'HISTOIRE
+http://platineiptv.pro:8789/play/live.php?mac=00:1A:79:64:7A:8A&stream=13832&extension=ts
+#EXTINF:-1 tvg-id="C1072.api.telerama.fr" tvg-logo="https://ppechenot.github.io/perso/logos/museum_tv.png" group-title="CULTURE",MUSEUM TV
+http://platineiptv.pro:8789/play/live.php?mac=00:1A:79:64:7A:8A&stream=13714&extension=ts
+
+#EXTINF:-1 tvg-id="C202.api.telerama.fr" tvg-logo="https://ppechenot.github.io/perso/logos/rts1.png" group-title="EUROPE",RTS 1
+http://platineiptv.pro:8789/play/live.php?mac=00:1A:79:64:7A:8A&stream=13705&extension=ts
+#EXTINF:-1 tvg-id="C183.api.telerama.fr" tvg-logo="https://ppechenot.github.io/perso/logos/rts2.png" group-title="EUROPE",RTS 2
+http://platineiptv.pro:8789/play/live.php?mac=00:1A:79:64:7A:8A&stream=13706&extension=ts
+#EXTINF:-1 tvg-id="C164.api.telerama.fr" tvg-logo="https://ppechenot.github.io/perso/logos/la_une.png" group-title="EUROPE",LA UNE
+http://platineiptv.pro:8789/play/live.php?mac=00:1A:79:64:7A:8A&stream=29821&extension=ts
+#EXTINF:-1 tvg-id="C892.api.telerama.fr" tvg-logo="https://ppechenot.github.io/perso/logos/la_trois.png" group-title="EUROPE",LA TROIS
+http://platineiptv.pro:8789/play/live.php?mac=00:1A:79:64:7A:8A&stream=14148&extension=ts
+
+#EXTINF:-1 tvg-id="C1401.api.telerama.fr" tvg-logo="https://ppechenot.github.io/perso/logos/lequipe.png" group-title="SPORT",L'EQUIPE
+http://platineiptv.pro:8789/play/live.php?mac=00:1A:79:64:7A:8A&stream=359665&extension=ts
+#EXTINF:-1 tvg-id="C35.api.telerama.fr" tvg-logo="https://ppechenot.github.io/perso/logos/canal+_sport.png" group-title="SPORT",CANAL+ SPORT
+http://platineiptv.pro:8789/play/live.php?mac=00:1A:79:64:7A:8A&stream=14156&extension=ts
+#EXTINF:-1 tvg-id="C3504.api.telerama.fr" tvg-logo="https://ppechenot.github.io/perso/logos/canal+_sport_360.png" group-title="SPORT",CANAL+ SPORT 360
+http://platineiptv.pro:8789/play/live.php?mac=00:1A:79:64:7A:8A&stream=180947&extension=ts
+#EXTINF:-1 tvg-id="C76.api.telerama.fr" tvg-logo="https://ppechenot.github.io/perso/logos/eurosport1.png" group-title="SPORT",EUROSPORT 1
+http://platineiptv.pro:8789/play/live.php?mac=00:1A:79:64:7A:8A&stream=13742&extension=ts
+#EXTINF:-1 tvg-id="C439.api.telerama.fr" tvg-logo="https://ppechenot.github.io/perso/logos/eurosport2.png" group-title="SPORT",EUROSPORT 2
+http://platineiptv.pro:8789/play/live.php?mac=00:1A:79:64:7A:8A&stream=13741&extension=ts
+#EXTINF:-1 tvg-id="C1290.api.telerama.fr" tvg-logo="https://ppechenot.github.io/perso/logos/bein_sports1.png" group-title="SPORT",BEIN SPORTS 1
+http://platineiptv.pro:8789/play/live.php?mac=00:1A:79:64:7A:8A&stream=14160&extension=ts
+#EXTINF:-1 tvg-id="C1304.api.telerama.fr" tvg-logo="https://ppechenot.github.io/perso/logos/bein_sports2.png" group-title="SPORT",BEIN SPORTS 2
+http://platineiptv.pro:8789/play/live.php?mac=00:1A:79:64:7A:8A&stream=14153&extension=ts
+#EXTINF:-1 tvg-id="C1335.api.telerama.fr" tvg-logo="https://ppechenot.github.io/perso/logos/bein_sports3.png" group-title="SPORT",BEIN SPORTS 3
+http://platineiptv.pro:8789/play/live.php?mac=00:1A:79:64:7A:8A&stream=14152&extension=ts
+#EXTINF:-1 tvg-id="SportEnFrance" tvg-logo="https://ppechenot.github.io/perso/logos/sport_en_france.png" group-title="SPORT",SPORT EN FRANCE
+http://platineiptv.pro:8789/play/live.php?mac=00:1A:79:64:7A:8A&stream=120240&extension=ts
+#EXTINF:-1 tvg-id="GolfPlus" tvg-logo="https://ppechenot.github.io/perso/logos/golf+.png" group-title="SPORT",GOLF+
+http://platineiptv.pro:8789/play/live.php?mac=00:1A:79:64:7A:8A&stream=13734&extension=ts
+#EXTINF:-1 tvg-id="SkySportsGolf" tvg-logo="https://ppechenot.github.io/perso/logos/sky_sports_golf_uk.png" group-title="SPORT",SKY SPORTS GOLF
+http://platineiptv.pro:8789/play/live.php?mac=00:1A:79:64:7A:8A&stream=215913&extension=ts
+#EXTINF:-1 tvg-id="SkySportsMix" tvg-logo="https://ppechenot.github.io/perso/logos/sky_sports_golf_uk.png" group-title="SPORT",SKY SPORTS MIX
+http://platineiptv.pro:8789/play/live.php?mac=00:1A:79:64:7A:8A&stream=215891&extension=ts
+#EXTINF:-1 tvg-id="SSGolf" tvg-logo="https://ppechenot.github.io/perso/logos/supersport_golf.png" group-title="SPORT",SUPERSPORTS GOLF 
+http://platineiptv.pro:8789/play/live.php?mac=00:1A:79:64:7A:8A&stream=311165&extension=ts
+#EXTINF:-1 tvg-id="VSportGolf" tvg-logo="https://ppechenot.github.io/perso/logos/vsport_golf.png" group-title="SPORT",V SPORT GOLF
+http://platineiptv.pro:8789/play/live.php?mac=00:1A:79:64:7A:8A&stream=283689&extension=ts
+#EXTINF:-1 tvg-id="TheGolfChannel" tvg-logo="https://ppechenot.github.io/perso/logos/nbc_golf_channel.png" group-title="SPORT",NBC GOLF
+http://platineiptv.pro:8789/play/live.php?mac=00:1A:79:64:7A:8A&stream=328805&extension=ts
+#EXTINF:-1 tvg-id="MovistarGolf" tvg-logo="https://ppechenot.github.io/perso/logos/movistar_golf.png" group-title="SPORT",M+ GOLF
+http://platineiptv.pro:8789/play/live.php?mac=00:1A:79:64:7A:8A&stream=14056&extension=ts
