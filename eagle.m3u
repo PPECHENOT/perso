@@ -38,11 +38,11 @@ http://eagle2024.xyz:80/play/live.php?mac=00:1A:79:24:7A:C9&stream=275705&extens
 http://eagle2024.xyz:80/play/live.php?mac=00:1A:79:24:7A:C9&stream=89677&extension=ts
 
 #EXTINF:-1 tvg-id="CanalPlus" tvg-logo="https://ppechenot.github.io/perso/logos/canal+.png" group-title="CINEMA",CANAL+
-http://eagle2024.xyz:80/play/live.php?mac=00:1A:79:24:7A:C9&stream=275682&extension=ts
+http://eagle2024.xyz:80/play/live.php?mac=00:1A:79:24:7A:C9&stream=148474&extension=ts
 #EXTINF:-1 tvg-id="CanalPlusCinema" tvg-logo="https://ppechenot.github.io/perso/logos/canal+_cinema(s).png" group-title="CINEMA",CANAL+ CINEMA(S)
-http://eagle2024.xyz:80/play/live.php?mac=00:1A:79:24:7A:C9&stream=275684&extension=ts
+http://eagle2024.xyz:80/play/live.php?mac=00:1A:79:24:7A:C9&stream=148475&extension=ts
 #EXTINF:-1 tvg-id="CanalPlusBoxOffice" tvg-logo="https://ppechenot.github.io/perso/logos/canal+_box_office.png" group-title="CINEMA",CANAL+ BOX OFFICE
-http://eagle2024.xyz:80/play/live.php?mac=00:1A:79:24:7A:C9&stream=326681&extension=ts
+http://eagle2024.xyz:80/play/live.php?mac=00:1A:79:24:7A:C9&stream=326682&extension=ts
 #EXTINF:-1 tvg-id="CanalPlusGrandEcran" tvg-logo="https://ppechenot.github.io/perso/logos/canal+_grand_ecran.png" group-title="CINEMA",CANAL+ GRAND ECRAN
 http://eagle2024.xyz:80/play/live.php?mac=00:1A:79:24:7A:C9&stream=250640&extension=ts
 #EXTINF:-1 tvg-id="OCS" tvg-logo="https://ppechenot.github.io/perso/logos/cine+_ocs.png" group-title="CINEMA",CINE+ OCS
@@ -65,7 +65,7 @@ http://eagle2024.xyz:80/play/live.php?mac=00:1A:79:24:7A:C9&stream=275757&extens
 http://eagle2024.xyz:80/play/live.php?mac=00:1A:79:24:7A:C9&stream=275752&extension=ts
 
 #EXTINF:-1 tvg-id="CanalPlusSeries" tvg-logo="https://ppechenot.github.io/perso/logos/canal+_series.png" group-title="SERIES",CANAL+ SERIES
-http://eagle2024.xyz:80/play/live.php?mac=00:1A:79:24:7A:C9&stream=275686&extension=ts
+http://eagle2024.xyz:80/play/live.php?mac=00:1A:79:24:7A:C9&stream=148478&extension=ts
 #EXTINF:-1 tvg-id="PolarPlus" tvg-logo="https://ppechenot.github.io/perso/logos/polar+.png" group-title="SERIES",POLAR+
 http://eagle2024.xyz:80/play/live.php?mac=00:1A:79:24:7A:C9&stream=250668&extension=ts
 #EXTINF:-1 tvg-id="ComediePlus" tvg-logo="https://ppechenot.github.io/perso/logos/comedie+.png" group-title="SERIES",COMEDIE+
