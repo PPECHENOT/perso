@@ -1,7 +1,7 @@
 #EXTM3U url-tvg="https://ppechenot.github.io/perso/tivi.xml"
 
 #EXTINF:-1 tvg-id="TF1" tvg-logo="https://ppechenot.github.io/perso/logos/tf1.png" group-title="TNT",TF1
-http://eagle2024.xyz:80/play/live.php?mac=00:1A:79:24:7A:C9&stream=32750&extension=ts
+http://eagle2024.xyz:80/play/live.php?mac=00:1A:79:24:7A:C9&stream=148461&extension=ts
 #EXTINF:-1 tvg-id="France2" tvg-logo="https://ppechenot.github.io/perso/logos/france2.png" group-title="TNT",FRANCE 2
 http://eagle2024.xyz:80/play/live.php?mac=00:1A:79:24:7A:C9&stream=148463&extension=ts
 #EXTINF:-1 tvg-id="France3" tvg-logo="https://ppechenot.github.io/perso/logos/france3.png" group-title="TNT",FRANCE 3
@@ -13,27 +13,27 @@ http://eagle2024.xyz:80/play/live.php?mac=00:1A:79:24:7A:C9&stream=148468&extens
 #EXTINF:-1 tvg-id="M6" tvg-logo="https://ppechenot.github.io/perso/logos/m6.png" group-title="TNT",M6
 http://eagle2024.xyz:80/play/live.php?mac=00:1A:79:24:7A:C9&stream=148462&extension=ts
 #EXTINF:-1 tvg-id="Arte" tvg-logo="https://ppechenot.github.io/perso/logos/arte.png" group-title="TNT",ARTE
-http://eagle2024.xyz:80/play/live.php?mac=00:1A:79:24:7A:C9&stream=275670&extension=ts
+http://eagle2024.xyz:80/play/live.php?mac=00:1A:79:24:7A:C9&stream=32757&extension=ts
 #EXTINF:-1 tvg-id="W9" tvg-logo="https://ppechenot.github.io/perso/logos/w9.png" group-title="TNT",W9
 http://eagle2024.xyz:80/play/live.php?mac=00:1A:79:24:7A:C9&stream=148464&extension=ts
 #EXTINF:-1 tvg-id="TMC" tvg-logo="https://ppechenot.github.io/perso/logos/tmc.png" group-title="TNT",TMC
 http://eagle2024.xyz:80/play/live.php?mac=00:1A:79:24:7A:C9&stream=148470&extension=ts
 #EXTINF:-1 tvg-id="TFX" tvg-logo="https://ppechenot.github.io/perso/logos/tfx.png" group-title="TNT",TFX
-http://eagle2024.xyz:80/play/live.php?mac=00:1A:79:24:7A:C9&stream=250655&extension=ts
+http://eagle2024.xyz:80/play/live.php?mac=00:1A:79:24:7A:C9&stream=32799&extension=ts
 #EXTINF:-1 tvg-id="CStar" tvg-logo="https://ppechenot.github.io/perso/logos/cstar.png" group-title="TNT",CSTAR
-http://eagle2024.xyz:80/play/live.php?mac=00:1A:79:24:7A:C9&stream=250653&extension=ts
+http://eagle2024.xyz:80/play/live.php?mac=00:1A:79:24:7A:C9&stream=32797&extension=ts
 #EXTINF:-1 tvg-id="TF1SeriesFilms" tvg-logo="https://ppechenot.github.io/perso/logos/tf1_series_films.png" group-title="TNT",TF1 SERIES FILMS
 http://eagle2024.xyz:80/play/live.php?mac=00:1A:79:24:7A:C9&stream=148471&extension=ts
 #EXTINF:-1 tvg-id="6ter" tvg-logo="https://ppechenot.github.io/perso/logos/6ter.png" group-title="TNT",6TER
 http://eagle2024.xyz:80/play/live.php?mac=00:1A:79:24:7A:C9&stream=148473&extension=ts
 #EXTINF:-1 tvg-id="RMCStory" tvg-logo="https://ppechenot.github.io/perso/logos/rmc_story.png" group-title="TNT",RMC STORY
-http://eagle2024.xyz:80/play/live.php?mac=00:1A:79:24:7A:C9&stream=275728&extension=ts
+http://eagle2024.xyz:80/play/live.php?mac=00:1A:79:24:7A:C9&stream=32804&extension=ts
 #EXTINF:-1 tvg-id="Cherie25" tvg-logo="https://ppechenot.github.io/perso/logos/cherie25.png" group-title="TNT",CHERIE 25
-http://eagle2024.xyz:80/play/live.php?mac=00:1A:79:24:7A:C9&stream=250652&extension=ts
+http://eagle2024.xyz:80/play/live.php?mac=00:1A:79:24:7A:C9&stream=32801&extension=ts
 #EXTINF:-1 tvg-id="LCP" tvg-logo="https://ppechenot.github.io/perso/logos/lcp.png" group-title="TNT",LCP
-http://eagle2024.xyz:80/play/live.php?mac=00:1A:79:24:7A:C9&stream=275806&extension=ts
+http://eagle2024.xyz:80/play/live.php?mac=00:1A:79:24:7A:C9&stream=32766&extension=ts
 #EXTINF:-1 tvg-id="Gulli" tvg-logo="https://ppechenot.github.io/perso/logos/gulli.png" group-title="TNT",GULLI
-http://eagle2024.xyz:80/play/live.php?mac=00:1A:79:24:7A:C9&stream=275705&extension=ts
+http://eagle2024.xyz:80/play/live.php?mac=00:1A:79:24:7A:C9&stream=148486&extension=ts
 #EXTINF:-1 tvg-id="France3" tvg-logo="https://ppechenot.github.io/perso/logos/france3.png" group-title="TNT",FRANCE 3 F-C
 http://eagle2024.xyz:80/play/live.php?mac=00:1A:79:24:7A:C9&stream=89677&extension=ts
 
@@ -46,23 +46,23 @@ http://eagle2024.xyz:80/play/live.php?mac=00:1A:79:24:7A:C9&stream=326682&extens
 #EXTINF:-1 tvg-id="CanalPlusGrandEcran" tvg-logo="https://ppechenot.github.io/perso/logos/canal+_grand_ecran.png" group-title="CINEMA",CANAL+ GRAND ECRAN
 http://eagle2024.xyz:80/play/live.php?mac=00:1A:79:24:7A:C9&stream=250640&extension=ts
 #EXTINF:-1 tvg-id="OCS" tvg-logo="https://ppechenot.github.io/perso/logos/cine+_ocs.png" group-title="CINEMA",CINE+ OCS
-http://eagle2024.xyz:80/play/live.php?mac=00:1A:79:24:7A:C9&stream=203424&extension=ts
+http://eagle2024.xyz:80/play/live.php?mac=00:1A:79:24:7A:C9&stream=32775&extension=ts
 #EXTINF:-1 tvg-id="CinePlusFrisson" tvg-logo="https://ppechenot.github.io/perso/logos/cine+_frisson.png" group-title="CINEMA",CINE+ FRISSON
-http://eagle2024.xyz:80/play/live.php?mac=00:1A:79:24:7A:C9&stream=275694&extension=ts
+http://eagle2024.xyz:80/play/live.php?mac=00:1A:79:24:7A:C9&stream=32778&extension=ts
 #EXTINF:-1 tvg-id="CinePlusEmotion" tvg-logo="https://ppechenot.github.io/perso/logos/cine+_emotion.png" group-title="CINEMA",CINE+ EMOTION
-http://eagle2024.xyz:80/play/live.php?mac=00:1A:79:24:7A:C9&stream=275796&extension=ts
+http://eagle2024.xyz:80/play/live.php?mac=00:1A:79:24:7A:C9&stream=32776&extension=ts
 #EXTINF:-1 tvg-id="CinePlusFamily" tvg-logo="https://ppechenot.github.io/perso/logos/cine+_family.png" group-title="CINEMA",CINE+ FAMILY
-http://eagle2024.xyz:80/play/live.php?mac=00:1A:79:24:7A:C9&stream=275693&extension=ts
+http://eagle2024.xyz:80/play/live.php?mac=00:1A:79:24:7A:C9&stream=32777&extension=ts
 #EXTINF:-1 tvg-id="CinePlusFestival" tvg-logo="https://ppechenot.github.io/perso/logos/cine+_festival.png" group-title="CINEMA",CINE+ FESTIVAL
-http://eagle2024.xyz:80/play/live.php?mac=00:1A:79:24:7A:C9&stream=275692&extension=ts
+http://eagle2024.xyz:80/play/live.php?mac=00:1A:79:24:7A:C9&stream=32779&extension=ts
 #EXTINF:-1 tvg-id="CinePlusClassic" tvg-logo="https://ppechenot.github.io/perso/logos/cine+_classic.png" group-title="CINEMA",CINE+ CLASSIC
-http://eagle2024.xyz:80/play/live.php?mac=00:1A:79:24:7A:C9&stream=275691&extension=ts
+http://eagle2024.xyz:80/play/live.php?mac=00:1A:79:24:7A:C9&stream=32780&extension=ts
 #EXTINF:-1 tvg-id="TCM" tvg-logo="https://ppechenot.github.io/perso/logos/tcm_cinema.png" group-title="CINEMA",TCM CINEMA
-http://eagle2024.xyz:80/play/live.php?mac=00:1A:79:24:7A:C9&stream=275729&extension=ts
+http://eagle2024.xyz:80/play/live.php?mac=00:1A:79:24:7A:C9&stream=2644&extension=ts
 #EXTINF:-1 tvg-id="ParamountChannel" tvg-logo="https://ppechenot.github.io/perso/logos/paramount_channel.png" group-title="CINEMA",PARAMOUNT CHANNEL
-http://eagle2024.xyz:80/play/live.php?mac=00:1A:79:24:7A:C9&stream=275757&extension=ts
+http://eagle2024.xyz:80/play/live.php?mac=00:1A:79:24:7A:C9&stream=32787&extension=ts
 #EXTINF:-1 tvg-id="Action" tvg-logo="https://ppechenot.github.io/perso/logos/action.png" group-title="CINEMA",ACTION
-http://eagle2024.xyz:80/play/live.php?mac=00:1A:79:24:7A:C9&stream=275752&extension=ts
+http://eagle2024.xyz:80/play/live.php?mac=00:1A:79:24:7A:C9&stream=32785&extension=ts
 
 #EXTINF:-1 tvg-id="CanalPlusSeries" tvg-logo="https://ppechenot.github.io/perso/logos/canal+_series.png" group-title="SERIES",CANAL+ SERIES
 http://eagle2024.xyz:80/play/live.php?mac=00:1A:79:24:7A:C9&stream=148478&extension=ts
@@ -88,41 +88,41 @@ http://eagle2024.xyz:80/play/live.php?mac=00:1A:79:24:7A:C9&stream=250658&extens
 http://eagle2024.xyz:80/play/live.php?mac=00:1A:79:24:7A:C9&stream=275754&extension=ts
 
 #EXTINF:-1 tvg-id="CanalPlusDocs" tvg-logo="https://ppechenot.github.io/perso/logos/canal+_docs.png" group-title="CULTURE",CANAL+ DOCS
-http://eagle2024.xyz:80/play/live.php?mac=00:1A:79:24:7A:C9&stream=275861&extension=ts
+http://eagle2024.xyz:80/play/live.php?mac=00:1A:79:24:7A:C9&stream=274075&extension=ts
 #EXTINF:-1 tvg-id="NationalGeographic" tvg-logo="https://ppechenot.github.io/perso/logos/national_geographic.png" group-title="CULTURE",NATIONAL GEOGRAPHIC
-http://eagle2024.xyz:80/play/live.php?mac=00:1A:79:24:7A:C9&stream=275807&extension=ts
+http://eagle2024.xyz:80/play/live.php?mac=00:1A:79:24:7A:C9&stream=32814&extension=ts
 #EXTINF:-1 tvg-id="NatGeoWild" tvg-logo="https://ppechenot.github.io/perso/logos/nat_geo_wild.png" group-title="CULTURE",NAT GEO WILD
-http://eagle2024.xyz:80/play/live.php?mac=00:1A:79:24:7A:C9&stream=275829&extension=ts
+http://eagle2024.xyz:80/play/live.php?mac=00:1A:79:24:7A:C9&stream=148489&extension=ts
 #EXTINF:-1 tvg-id="ScienceEtVieTV" tvg-logo="https://ppechenot.github.io/perso/logos/science_et_vie_tv.png" group-title="CULTURE",SCIENCE & VIE
-http://eagle2024.xyz:80/play/live.php?mac=00:1A:79:24:7A:C9&stream=2543&extension=ts
+http://eagle2024.xyz:80/play/live.php?mac=00:1A:79:24:7A:C9&stream=32819&extension=ts
 #EXTINF:-1 tvg-id="UshuaiaTV" tvg-logo="https://ppechenot.github.io/perso/logos/ushuaia_tv.png" group-title="CULTURE",USHUAIA TV
-http://eagle2024.xyz:80/play/live.php?mac=00:1A:79:24:7A:C9&stream=275798&extension=ts
+http://eagle2024.xyz:80/play/live.php?mac=00:1A:79:24:7A:C9&stream=32816&extension=ts
 #EXTINF:-1 tvg-id="HistoireTV" tvg-logo="https://ppechenot.github.io/perso/logos/histoire_tv.png" group-title="CULTURE",HISTOIRE
-http://eagle2024.xyz:80/play/live.php?mac=00:1A:79:24:7A:C9&stream=275706&extension=ts
+http://eagle2024.xyz:80/play/live.php?mac=00:1A:79:24:7A:C9&stream=32820&extension=ts
 #EXTINF:-1 tvg-id="TouteHistoire" tvg-logo="https://ppechenot.github.io/perso/logos/toute_lhistoire.png" group-title="CULTURE",TOUTE L'HISTOIRE
-http://eagle2024.xyz:80/play/live.php?mac=00:1A:79:24:7A:C9&stream=275819&extension=ts
+http://eagle2024.xyz:80/play/live.php?mac=00:1A:79:24:7A:C9&stream=32821&extension=ts
 #EXTINF:-1 tvg-id="MuseumTV" tvg-logo="https://ppechenot.github.io/perso/logos/museum_tv.png" group-title="CULTURE",MUSEUM TV
-http://eagle2024.xyz:80/play/live.php?mac=00:1A:79:24:7A:C9&stream=275714&extension=ts
+http://eagle2024.xyz:80/play/live.php?mac=00:1A:79:24:7A:C9&stream=274854&extension=ts
 
 #EXTINF:-1 tvg-id="RTS1" tvg-logo="https://ppechenot.github.io/perso/logos/rts1.png" group-title="EUROPE",RTS 1
 http://eagle2024.xyz:80/play/live.php?mac=00:1A:79:24:7A:C9&stream=43951&extension=ts
 #EXTINF:-1 tvg-id="RTS2" tvg-logo="https://ppechenot.github.io/perso/logos/rts2.png" group-title="EUROPE",RTS 2
 http://eagle2024.xyz:80/play/live.php?mac=00:1A:79:24:7A:C9&stream=43952&extension=ts
 #EXTINF:-1 tvg-id="LaUne" tvg-logo="https://ppechenot.github.io/perso/logos/la_une.png" group-title="EUROPE",LA UNE
-http://eagle2024.xyz:80/play/live.php?mac=00:1A:79:24:7A:C9&stream=1186382&extension=ts
+http://eagle2024.xyz:80/play/live.php?mac=00:1A:79:24:7A:C9&stream=91837&extension=ts
 #EXTINF:-1 tvg-id="LaTrois" tvg-logo="https://ppechenot.github.io/perso/logos/la_trois.png" group-title="EUROPE",LA TROIS
 http://eagle2024.xyz:80/play/live.php?mac=00:1A:79:24:7A:C9&stream=1186395&extension=ts
 
 #EXTINF:-1 tvg-id="LEquipe" tvg-logo="https://ppechenot.github.io/perso/logos/lequipe.png" group-title="SPORT",L'EQUIPE
 http://eagle2024.xyz:80/play/live.php?mac=00:1A:79:24:7A:C9&stream=32841&extension=ts
 #EXTINF:-1 tvg-id="CanalPlusSport" tvg-logo="https://ppechenot.github.io/perso/logos/canal+_sport.png" group-title="SPORT",CANAL+ SPORT
-http://eagle2024.xyz:80/play/live.php?mac=00:1A:79:24:7A:C9&stream=250679&extension=ts
+http://eagle2024.xyz:80/play/live.php?mac=00:1A:79:24:7A:C9&stream=32774&extension=ts
 #EXTINF:-1 tvg-id="CanalPlusSport360" tvg-logo="https://ppechenot.github.io/perso/logos/canal+_sport_360.png" group-title="SPORT",CANAL+ SPORT 360
 http://eagle2024.xyz:80/play/live.php?mac=00:1A:79:24:7A:C9&stream=256628&extension=ts
 #EXTINF:-1 tvg-id="Eurosport1" tvg-logo="https://ppechenot.github.io/perso/logos/eurosport1.png" group-title="SPORT",EUROSPORT 1
-http://eagle2024.xyz:80/play/live.php?mac=00:1A:79:24:7A:C9&stream=250665&extension=ts
+http://eagle2024.xyz:80/play/live.php?mac=00:1A:79:24:7A:C9&stream=32842&extension=ts
 #EXTINF:-1 tvg-id="Eurosport2" tvg-logo="https://ppechenot.github.io/perso/logos/eurosport2.png" group-title="SPORT",EUROSPORT 2
-http://eagle2024.xyz:80/play/live.php?mac=00:1A:79:24:7A:C9&stream=250664&extension=ts
+http://eagle2024.xyz:80/play/live.php?mac=00:1A:79:24:7A:C9&stream=32843&extension=ts
 #EXTINF:-1 tvg-id="BeinSports1" tvg-logo="https://ppechenot.github.io/perso/logos/bein_sports1.png" group-title="SPORT",BEIN SPORTS 1
 http://eagle2024.xyz:80/play/live.php?mac=00:1A:79:24:7A:C9&stream=146116&extension=ts
 #EXTINF:-1 tvg-id="BeinSports2" tvg-logo="https://ppechenot.github.io/perso/logos/bein_sports2.png" group-title="SPORT",BEIN SPORTS 2
@@ -134,10 +134,10 @@ http://eagle2024.xyz:80/play/live.php?mac=00:1A:79:24:7A:C9&stream=92503&extensi
 #EXTINF:-1 tvg-id="GolfPlus" tvg-logo="https://ppechenot.github.io/perso/logos/golf+.png" group-title="SPORT",GOLF+
 http://eagle2024.xyz:80/play/live.php?mac=00:1A:79:24:7A:C9&stream=250662&extension=ts
 #EXTINF:-1 tvg-id="SkySportsGolf" tvg-logo="https://ppechenot.github.io/perso/logos/sky_sports_golf_uk.png" group-title="SPORT",SKY SPORTS GOLF
-http://eagle2024.xyz:80/play/live.php?mac=00:1A:79:24:7A:C9&stream=10515&extension=ts
+http://eagle2024.xyz:80/play/live.php?mac=00:1A:79:24:7A:C9&stream=303267&extension=ts
 #EXTINF:-1 tvg-id="VSportGolf" tvg-logo="https://ppechenot.github.io/perso/logos/vsport_golf.png" group-title="SPORT",V SPORT GOLF
 http://eagle2024.xyz:80/play/live.php?mac=00:1A:79:24:7A:C9&stream=230903&extension=ts
 #EXTINF:-1 tvg-id="TheGolfChannel" tvg-logo="https://ppechenot.github.io/perso/logos/nbc_golf_channel.png" group-title="SPORT",NBC GOLF
 http://eagle2024.xyz:80/play/live.php?mac=00:1A:79:24:7A:C9&stream=76670&extension=ts
 #EXTINF:-1 tvg-id="MovistarGolf" tvg-logo="https://ppechenot.github.io/perso/logos/movistar_golf.png" group-title="SPORT",M+ GOLF
-http://eagle2024.xyz:80/play/live.php?mac=00:1A:79:24:7A:C9&stream=117069&extension=ts
+http://eagle2024.xyz:80/play/live.php?mac=00:1A:79:24:7A:C9&stream=201498&extension=ts
