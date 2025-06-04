@@ -10043,7 +10043,7 @@ Et les guests Ramzy Be</actor>
       <value>2</value>
     </star-rating>
   </programme>
-  <programme start="20250604003000 +0000" stop="20250604022100 +0000" channel="CanalPlusGrandEcran">
+  <programme start="20250604023000 +0000" stop="20250604042100 +0000" channel="CanalPlusGrandEcran">
     <title lang="fr">Les enfants du marais</title>
     <desc lang="fr">Dans la France rurale des années 30. Garris et Riton, deux vieux copains, sont installés sur les bords de la Loire. Le premier, ancien poilu de la Première Guerre mondiale, vit seul, tandis que le second tente, tant bien que mal, de cohabiter avec une femme colérique et trois enfants particulièrement turbulents. Leur vie quotidienne, rythmée par les travaux saisonniers, s'articule autour des rencontres faites en compagnie de leurs deux autres compères, le chauffeur de train local et Amédée, un doux rêveur féru de littérature. Un jour, Garris s'éprend d'une femme de ménage, Marie. Pour l'ancien soldat, c'est une nouvelle vie qui commence...</desc>
     <credits>
@@ -10075,13 +10075,13 @@ Et les guests Ramzy Be</actor>
       <value>3</value>
     </star-rating>
   </programme>
-  <programme start="20250604022100 +0000" stop="20250604044200 +0000" channel="CanalPlusGrandEcran">
+  <programme start="20250604042100 +0000" stop="20250604064200 +0000" channel="CanalPlusGrandEcran">
     <title lang="fr">Fin des programmes</title>
     <sub-title lang="fr">Pause</sub-title>
     <category lang="fr">Emission</category>
     <icon src="https://assets.diverto.tv/media/remote/aHR0cDovL2ltYWdlcy5tZWRpYS1wcmVzcy5jbG91ZC9kZTkyYmYxNThiNWQ0OGZiODBiMDNiZWE0ZmY4YjdlMg==" />
   </programme>
-  <programme start="20250604044200 +0000" stop="20250604045600 +0000" channel="CanalPlusGrandEcran">
+  <programme start="20250604064200 +0000" stop="20250604065600 +0000" channel="CanalPlusGrandEcran">
     <title lang="fr">L'hebd'Hollywood</title>
     <desc lang="fr">Le magazine trace la chronique de la vie à Hollywood, des grands studios aux indépendants, des stars aux étoiles montantes. Entre événements, indiscrétions et exclusivités, le journaliste Didier Allouch propose depuis Los Angeles un décryptage très personnel de l'actualité du cinéma américain. News sur les tournages, tendances, films en salles, stars : la cité des Anges livre tous ses secrets.</desc>
     <credits>
@@ -10094,7 +10094,7 @@ Et les guests Ramzy Be</actor>
       <value>10</value>
     </rating>
   </programme>
-  <programme start="20250604045600 +0000" stop="20250604063000 +0000" channel="CanalPlusGrandEcran">
+  <programme start="20250604065600 +0000" stop="20250604083000 +0000" channel="CanalPlusGrandEcran">
     <title lang="fr">Belphégor, le fantôme du Louvre</title>
     <desc lang="fr">Au Louvre, la découverte d'une momie ancienne captive Glenda Spender, une égyptologue de renom. Lisa, qui habite à proximité, explore avec Martin, un technicien, les souterrains du musée, où elle est envoûtée par ce corps embaumé. Après la mort de sa grand-mère, Lisa se retrouve possédée par l'esprit de la momie, provoquant des événements surnaturels dans le musée. Parallèlement, Belphégor, un fantôme né des pouvoirs maléfiques du défunt égyptien, sème la terreur nocturne et le désordre au Louvre, échappant à la surveillance et dérobant des trésors...</desc>
     <credits>
@@ -10122,7 +10122,7 @@ Et les guests Ramzy Be</actor>
     <icon src="https://assets.diverto.tv/media/remote/aHR0cHM6Ly9pbWFnZS50bWRiLm9yZy90L3AvL29yaWdpbmFsLy81b2l4bGRnY0tVaVQ4MmxJVVMxU3pLdmZaOEYuanBn" />
     <country lang="fr">France</country>
   </programme>
-  <programme start="20250604063000 +0000" stop="20250604080500 +0000" channel="CanalPlusGrandEcran">
+  <programme start="20250604083000 +0000" stop="20250604100500 +0000" channel="CanalPlusGrandEcran">
     <title lang="fr">Men in Black</title>
     <desc lang="fr">Les "Men in Black" sont des agents du gouvernement qui ont une mission secrète bien délicate à remplir. Leur tâche consiste à surveiller les populations extraterrestres sur la Terre et à en assurer l'intégration. La discrétion de leur comportement permet de maintenir de bonnes relations avec les planètes voisines. L'agent K a déjà une longue carrière de M.I.B. derrière lui. Un jour, un engin s'écrase à proximité d'une ferme. Son occupant prend l'apparence d'un paysan, prénommé Edgar. Au même moment, K parvient à convaincre un policier, Edwards, d'intégrer les forces spéciales, sous le nom de l'agent J. Le duo de choc enquête sur les méfaits de l'alien "Edgar"...</desc>
     <credits>
@@ -10161,7 +10161,7 @@ Et les guests Ramzy Be</actor>
       <value>3</value>
     </star-rating>
   </programme>
-  <programme start="20250604080500 +0000" stop="20250604094000 +0000" channel="CanalPlusGrandEcran">
+  <programme start="20250604100500 +0000" stop="20250604114000 +0000" channel="CanalPlusGrandEcran">
     <title lang="fr">OSS 117 : Le Caire, nid d'espions</title>
     <desc lang="fr">En 1955, la ville du Caire est un véritable carrefour stratégique où grouillent les espions du monde entier. Jack, l'agent secret français en poste, a disparu. Le président René Coty décide d'envoyer un remplaçant enquêter sur sa disparition. Hubert Bonisseur de La Bath, nom de code OSS 117, part alors pour l'Egypte. Hubert connaît bien Jack et pour cause : dix ans plus tôt, ils se sont emparés ensemble des secrets de la fusée V2 en éliminant un colonel nazi. Au Caire, il reprend la même couverture que son collègue et se fait passer pour un éleveur de poulets. Aussi beau parleur que sexiste et maladroit, OSS 117 doit mener de front plusieurs enquêtes...</desc>
     <credits>
@@ -10194,7 +10194,7 @@ Et les guests Ramzy Be</actor>
       <value>3</value>
     </star-rating>
   </programme>
-  <programme start="20250604094000 +0000" stop="20250604111900 +0000" channel="CanalPlusGrandEcran">
+  <programme start="20250604114000 +0000" stop="20250604131900 +0000" channel="CanalPlusGrandEcran">
     <title lang="fr">OSS 117 : Rio ne répond plus</title>
     <desc lang="fr">Après une mission à Gstaad, Hubert Bonisseur de La Bath, plus connu sous le nom d'OSS 117, est envoyé à Rio pour y récupérer des microfilms contenant les noms de collaborateurs français. L'ancien nazi Von Zimmel n'accepte de remettre ces microfilms qu'à OSS 117 en personne. Secondé par la jolie Dolorès, un agent du Mossad, les services secrets israéliens, l'espion part à sa recherche. Ils demandent de l'aide à Heinrich, le fils de Von Zimmel, qui vit dans une communauté de hippies. Pendant ce temps, les Chinois ont bien l'intention de se venger d'OSS 117. Ils élaborent un plan pour le neutraliser définitivement...</desc>
     <credits>
@@ -10226,7 +10226,7 @@ Et les guests Ramzy Be</actor>
       <value>3</value>
     </star-rating>
   </programme>
-  <programme start="20250604111900 +0000" stop="20250604130800 +0000" channel="CanalPlusGrandEcran">
+  <programme start="20250604131900 +0000" stop="20250604150800 +0000" channel="CanalPlusGrandEcran">
     <title lang="fr">Edmond</title>
     <desc lang="fr">Décembre 1897, Paris. Edmond Rostand, marié et père de deux enfants, n'a pas écrit une ligne depuis deux ans. La tragédie n'étant plus à la mode, il offre une comédie héroïque au grand Constant Coquelin. Rostand, qui n'est guère inspiré, n'a que quelques semaines pour livrer son oeuvre. Il n'est pas aidé, entre les caprices des actrices, les exigences de ses producteurs corses, la jalousie de sa femme, les histoires de coeur de son meilleur ami. Au fil de ses rencontres et des hasards, il finit par trouver le titre de sa pièce : " Cyrano de Bergerac "...</desc>
     <credits>
@@ -10256,7 +10256,7 @@ Et les guests Ramzy Be</actor>
       <value>3</value>
     </star-rating>
   </programme>
-  <programme start="20250604130800 +0000" stop="20250604145100 +0000" channel="CanalPlusGrandEcran">
+  <programme start="20250604150800 +0000" stop="20250604165100 +0000" channel="CanalPlusGrandEcran">
     <title lang="fr">Le mariage de mon meilleur ami</title>
     <desc lang="fr">Après avoir été jadis amants, Julianne et Michael continuent d'entretenir une sincère amitié. Toutefois, ils se sont promis de s'épouser si les hasards de la vie les conduisaient à rester célibataires jusqu'à l'âge de 28 ans. Or, le jeune homme s'apprête à mettre fin à cette éventualité : Julianne apprend qu'il doit se marier avec une certaine Kimmy dans les trois jours. La jeune femme décide alors de faire tout son possible pour empêcher cette union et pour reconquérir son ami adoré. Après avoir vainement tenté de ridiculiser la charmante Kimmy dans un karaoké, Julianne essaye de réveiller la jalousie supposée de Michael en feignant une liaison avec George, un homosexuel exubérant...</desc>
     <credits>
@@ -10295,7 +10295,7 @@ Et les guests Ramzy Be</actor>
       <value>3</value>
     </star-rating>
   </programme>
-  <programme start="20250604145100 +0000" stop="20250604170400 +0000" channel="CanalPlusGrandEcran">
+  <programme start="20250604165100 +0000" stop="20250604190400 +0000" channel="CanalPlusGrandEcran">
     <title lang="fr">Le grand bleu</title>
     <desc lang="fr">Une île grecque dans les années 60. Deux enfants, Jacques Mayol et Enzo Molinari, passionnés de plongée, se chamaillent pour la possession d'une pièce d'or. Le lendemain, le père de Jacques se noie sous les yeux de son fils. Quelque vingt ans plus tard, Jacques et Enzo, devenus plongeurs professionnels, se retrouvent lors du championnat du monde de plongée en apnée. Liés à la fois par l'amitié et la rivalité, les deux hommes enchaînent plongée sur plongée, battant à chaque fois un nouveau record et se rapprochant insensiblement du seuil fatal des 120 mètres, en-dessous duquel il faut être un poisson pour survivre. L'amour inquiet et protecteur de Johana saura-t-il empêcher Jacques de relever cet ultime défi ?...</desc>
     <credits>
@@ -10327,7 +10327,7 @@ Et les guests Ramzy Be</actor>
       <value>2</value>
     </star-rating>
   </programme>
-  <programme start="20250604170400 +0000" stop="20250604190400 +0000" channel="CanalPlusGrandEcran">
+  <programme start="20250604190400 +0000" stop="20250604210400 +0000" channel="CanalPlusGrandEcran">
     <title lang="fr">De son vivant</title>
     <desc lang="fr">Quadragénaire, Benjamin découvre au détour de simples contrôles qu'il souffre d'un cancer du pancréas. Après divers examens, il constate désemparé que sa maladie le condamne à court terme. Bouleversée, sa mère parvient tout de même à rester digne en apprenant le terrible diagnostic, comprenant tout de suite l'absolue nécessité de faciliter le quotidien d'un fils en route vers son ultime voyage. Malgré les incessants allers-retours à l'hôpital, tous deux parviennent à surmonter la peine et la douleur et à unir leurs forces pour mener de front les affaires courantes, souhaitant se préparer au mieux à subir l'inéluctable et tragique destin...</desc>
     <credits>
@@ -10362,7 +10362,7 @@ Et les guests Ramzy Be</actor>
       <value>2</value>
     </star-rating>
   </programme>
-  <programme start="20250604190400 +0000" stop="20250604214600 +0000" channel="CanalPlusGrandEcran">
+  <programme start="20250604210400 +0000" stop="20250604234600 +0000" channel="CanalPlusGrandEcran">
     <title lang="fr">Carlos</title>
     <desc lang="fr">Ilich Ramírez Sánchez, militant d'origine vénézuélienne qui a combattu auprès des Palestiniens en Jordanie, commet une série d'attentats à Londres. Il s'installe à Paris, où le FPLP (Front populaire de libération de la Palestine) lui assigne la responsabilité de sa branche européenne, sous les ordres d'un militant libanais, Michel Moukharbal, "André". Ilich coordonne plusieurs opérations, en particulier la prise d'otages à l'ambassade de France à La Haye par des militants de l'Armée rouge japonaise. Lorsqu'André est arrêté, les agents français de la DST commencent à s'intéresser à Ilich, qui a adopté le nom de guerre de Carlos. Pour échapper à l'arrestation, Carlos abat trois policiers. Il rejoint alors au Yémen du Sud le chef du FPLP, Wadie Haddad, qui lui confie une mission d'une rare audace...</desc>
     <credits>
@@ -10401,7 +10401,7 @@ Et les guests Ramzy Be</actor>
       <value>3</value>
     </star-rating>
   </programme>
-  <programme start="20250604214600 +0000" stop="20250605003900 +0000" channel="CanalPlusGrandEcran">
+  <programme start="20250604234600 +0000" stop="20250605023900 +0000" channel="CanalPlusGrandEcran">
     <title lang="fr">Le loup de Wall Street</title>
     <desc lang="fr">Au début des années 1990, Jordan Belfort, trader à Wall Street, a à peine 30 ans et a déjà trouvé la botte secrète pour devenir riche très rapidement. Enivré par ses dollars, le golden boy tombe dans tous les pièges de l'argent facile. Amateur de jolies filles, il consomme de la drogue et adore montrer des signes extérieurs de richesse, comme le yacht de Coco Chanel qu'il vient d'acquérir. Il ne cesse de flamber, mais ses activités pas très légales ont attiré l'attention de l'agent du FBI Patrick Denham. Avec Donnie, son complice, Jordan fait tout pour ne pas se faire prendre...</desc>
     <credits>
