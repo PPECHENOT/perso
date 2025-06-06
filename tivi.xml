@@ -84,8 +84,8 @@
     <display-name lang="fr">RTL 9</display-name>
     <icon src="https://ppechenot.github.io/perso/logos/rtl9.png"/>
   </channel>
-  <channel id="France3FC">
-    <display-name lang="fr">FRANCE 3 F-C</display-name>
+  <channel id="France 3 Bourgogne Complete">
+    <display-name lang="fr">France 3 Bourgogne Complete</display-name>
     <icon src=""/>
   </channel>
   <channel id="CanalPlus">
@@ -96,17 +96,9 @@
     <display-name lang="fr">CANAL+ GRAND ECRAN</display-name>
     <icon src="https://ppechenot.github.io/perso/logos/canal+_grand_ecran.png"/>
   </channel>
-  <channel id="CanalPlusCinéma">
-    <display-name lang="fr">CANAL+ CINEMA(S)</display-name>
-    <icon src=""/>
-  </channel>
   <channel id="CanalPlusBoxOffice">
     <display-name lang="fr">CANAL+ BOX OFFICE</display-name>
     <icon src="https://ppechenot.github.io/perso/logos/canal+_box_office.png"/>
-  </channel>
-  <channel id="CanalPlusSeies">
-    <display-name lang="fr">CANAL+ SERIES</display-name>
-    <icon src=""/>
   </channel>
   <channel id="OCS">
     <display-name lang="fr">OCS</display-name>
@@ -615,6 +607,333 @@ Après plus de cinquante ans de carrière et quinze albums studio, Alain Chamfor
     <desc>
 Planète Rap accueille pour cette émission la star du rap Maître Gims. Artiste à succès, il est aujourd'hui une personnalité incontournable de la chanson française depuis ses débuts avec le groupe Sexion d'Assaut. Au côté de Fred Musa, il revient sur sa carrière et la sortie de son EP "Le Nord se souvient" dont il interprète les titres "Spider\.</desc>
     <icon src="https://assets.diverto.tv/media/remote/aHR0cDovL2ltYWdlcy5tZWRpYS1wcmVzcy5jbG91ZC82OTlmZTkxMDZmNDU0MmM2OGM3MTUwOTI4Y2Y0OTE2MA==?w=416&amp;h=260&amp;fit=crop&amp;fm=webp&amp;s=fef8ccc9986ddfadafe698776d66a1d0"/>
+  </programme>
+  <programme start="20250606005000 +0000" stop="20250606014500 +0000" channel="France3">
+    <title>Samedi d'en rire - Divertissement</title>
+    <desc>
+Chaque semaine dans "Samedi d'en rire\.</desc>
+    <icon src="https://assets.diverto.tv/media/remote/aHR0cDovL2ltYWdlcy5tZWRpYS1wcmVzcy5jbG91ZC9lNTAxMDM2M2QzOGM0YmMxYTdiMjZjMTMzZWE0ODcxZA==?w=416&amp;h=260&amp;fit=crop&amp;fm=webp&amp;s=fb38c14a1e1d5f855537cdfeadd48dbe"/>
+  </programme>
+  <programme start="20250606014500 +0000" stop="20250606020000 +0000" channel="France3">
+    <title>Enquêtes de région le mag - Société</title>
+    <desc>
+Chaque semaine, une rédaction régionale propose une enquête, un portrait, une révélation sur la société, l'économie, l'environnement ou la santé, au cœur d'un territoire.</desc>
+    <icon src="https://assets.diverto.tv/media/remote/aHR0cDovL2ltYWdlcy5tZWRpYS1wcmVzcy5jbG91ZC82NmIxNzJiM2JjMjA0NDdmODU4NDA3YWJiZDU2MmE4OA==?w=416&amp;h=260&amp;fit=crop&amp;fm=webp&amp;s=16f055ebdcf4226fe6230630f83680e5"/>
+  </programme>
+  <programme start="20250606020000 +0000" stop="20250606021000 +0000" channel="France3">
+    <title>Les matinales - Musical</title>
+    <desc>
+Programme de musique classique pour se réveiller en douceur.</desc>
+    <icon src="https://assets.diverto.tv/media/remote/aHR0cDovL2ltYWdlcy5tZWRpYS1wcmVzcy5jbG91ZC8wYWYwZjQwNzY2YmQ0ZTM1YTM0OGY2ZmM1ODRhMGY4ZQ==?w=416&amp;h=260&amp;fit=crop&amp;fm=webp&amp;s=3175365291d02266073a42d2f0474254"/>
+  </programme>
+  <programme start="20250606021000 +0000" stop="20250606024000 +0000" channel="France3">
+    <title>Duels en familles - Jeu</title>
+    <desc>
+Les Français connaissent-ils bien leurs régions ? Deux familles de quatre personnes s'opposent pour remporter des sommes pouvant atteindre plusieurs milliers d'euros. Elles devront trouver les réponses aux questions de Cyril Féraud sur des sujets concernant leurs régions respectives.</desc>
+    <icon src="https://assets.diverto.tv/media/remote/aHR0cDovL2ltYWdlcy5tZWRpYS1wcmVzcy5jbG91ZC81YTU2NzQzODllYzg0NWViYmRlOTRlZGViZTFjNWQ3Nw==?w=416&amp;h=260&amp;fit=crop&amp;fm=webp&amp;s=5a56d93c62f28b3b3411408fa3bee1c7"/>
+  </programme>
+  <programme start="20250606024000 +0000" stop="20250606031500 +0000" channel="France3">
+    <title>Slam - Jeu</title>
+    <desc>
+Accessible à tous les publics, "Slam" est un jeu de lettres 100% original qui fait la joie des amoureux des mots, des férus de quiz et des adeptes des mots fléchés, en mixant tous les genres, de la géographie aux mathématiques, en passant par la chimie...et bien sûr le français. Au menu: vivacité d'esprit, humour, vocabulaire, orthographe et bien sûr culture générale!</desc>
+    <icon src="https://assets.diverto.tv/media/remote/aHR0cDovL2ltYWdlcy5tZWRpYS1wcmVzcy5jbG91ZC84NTQwYmVjOWU0YzU0MTdkODdmZDczNjBiZTIzZTczZg==?w=416&amp;h=260&amp;fit=crop&amp;fm=webp&amp;s=1da6fa42930dfcade55c81f0914d0f89"/>
+  </programme>
+  <programme start="20250606031500 +0000" stop="20250606035200 +0000" channel="France3">
+    <title>Questions pour un champion - Jeu</title>
+    <desc>
+Samuel Etienne anime ce jeu emblématique, qui voit chaque soir s'affronter quatre candidats autour de questions de culture générale.</desc>
+    <icon src="https://assets.diverto.tv/media/remote/aHR0cDovL2ltYWdlcy5tZWRpYS1wcmVzcy5jbG91ZC84ZjY4YTRkNGU4MTE0M2Q2YjRmNDM1MDY4YzgxMmQ3Mg==?w=416&amp;h=260&amp;fit=crop&amp;fm=webp&amp;s=df2c3944f44c506bcd5e1527da922c62"/>
+  </programme>
+  <programme start="20250606035200 +0000" stop="20250606040100 +0000" channel="France3">
+    <title>Tennis : Roland-Garros - Tennis</title>
+    <desc>
+Roland-Garros est l'un des plus prestigieux tournois de tennis. Le tournoi de Roland-Garros a été créé en 1925. Avec l'Open d'Australie, Wimbledon et l'US Open, Roland-Garros est l'un des quatre tournois du Grand Chelem et le plus grand tournoi de la saison de tennis sur terre battue.</desc>
+    <icon src="https://assets.diverto.tv/media/remote/aHR0cDovL2ltYWdlcy5tZWRpYS1wcmVzcy5jbG91ZC84MmI4OWFhNDNlMzM0ZGZjYTM3N2YyYTRmZjMwODU3NQ==?w=416&amp;h=260&amp;fit=crop&amp;fm=webp&amp;s=6231b36b0e60220042b9e1850febc061"/>
+  </programme>
+  <programme start="20250606040100 +0000" stop="20250606040100 +0000" channel="France3">
+    <title>Drôle de nature - Animalier</title>
+    <desc>
+Monty le lion part à la recherche d'un oiseau qui vomit pour se protéger de ses potentiels prédateurs. Pendant ce temps, Baz enquête sur un rapport selon lequel l'explosion d'une grange aurait pu être causée par une accumulation de gazs de vache !</desc>
+    <icon src="https://assets.diverto.tv/media/remote/aHR0cDovL2ltYWdlcy5tZWRpYS1wcmVzcy5jbG91ZC8zNzU3NDU1Y2E2MDg0ZmQ1OWFmNjhkNWFjZjc5NjU4MA==?w=416&amp;h=260&amp;fit=crop&amp;fm=webp&amp;s=7657107508a83a46adcf29febd9517f3"/>
+  </programme>
+  <programme start="20250606040100 +0000" stop="20250606042000 +0000" channel="France3">
+    <title>Teen Titans Go ! - Dessin animé</title>
+    <desc>11a. Terra - 11b. Balle au prisonnier (S1 E11)
+"Terra". Changelin a une petite amie. Ou du moins le pense-t-il. Elle s'appelle Terra. Elle est très belle et s'intéresse de très près aux secrets des Teen Titans. Elle obtient toutes les informations qu'elle désire auprès de Changelin, qui est fou d'amour. Ce dernier est d'ailleurs encouragé par tous les Titans, sauf Raven qui se méfie de Terra. - "Balle au prisonnier". Les jeunes Titans arrêtent les Hive Five qui viennent de braquer une banque. Une fois de retour chez eux, ils se préparent pour le championnat de ballon au prisonnier. Ils détiennent le titre et ils espèrent le garder. La victoire semble gagnée d'avance...</desc>
+    <icon src="https://assets.diverto.tv/media/remote/aHR0cDovL2ltYWdlcy5tZWRpYS1wcmVzcy5jbG91ZC83OGM4OWRkYTJjMTM0NjZjYWE5MjU1MWYxODVjYTNhOA==?w=416&amp;h=260&amp;fit=crop&amp;fm=webp&amp;s=507ecf93284e823a3a0b9a0b52c2d2eb"/>
+  </programme>
+  <programme start="20250606042000 +0000" stop="20250606043600 +0000" channel="France3">
+    <title>Les Pyjamasques - Dessin animé</title>
+    <desc>
+Ninjaka en a plus qu'assez de toujours perdre face aux Pyjamasques. Cette fois, il est bel et bien décidé à leur voler leurs Pyja-pouvoirs.</desc>
+    <icon src="https://assets.diverto.tv/media/remote/aHR0cDovL2ltYWdlcy5tZWRpYS1wcmVzcy5jbG91ZC9jNmNlZjQ3Nzg3NzI0NTllOGYzOGE5ZjU4M2MyMWJkMQ==?w=416&amp;h=260&amp;fit=crop&amp;fm=webp&amp;s=69704f9f3ddc8b04ba21a7071b549dca"/>
+  </programme>
+  <programme start="20250606043600 +0000" stop="20250606044800 +0000" channel="France3">
+    <title>Les Pyjamasques - Dessin animé</title>
+    <desc>
+Après avoir été dépouillés de leurs pouvoirs par Ninjaka, les Pyjamasques se rendent à la bibliothèque pour faire des recherches sur le sort que Ninjaka leur a jeté, afin de l'inverser.</desc>
+    <icon src="https://assets.diverto.tv/media/remote/aHR0cDovL2ltYWdlcy5tZWRpYS1wcmVzcy5jbG91ZC9jNmNlZjQ3Nzg3NzI0NTllOGYzOGE5ZjU4M2MyMWJkMQ==?w=416&amp;h=260&amp;fit=crop&amp;fm=webp&amp;s=69704f9f3ddc8b04ba21a7071b549dca"/>
+  </programme>
+  <programme start="20250606044800 +0000" stop="20250606045000 +0000" channel="France3">
+    <title>Les Pyjamasques - Science-fiction</title>
+    <desc>Les pyjamasques et le plan de Sorceline (S5 E3)
+Sorceline fait croire aux Pyjamasques que Motsuki est en danger pour la déposséder de ses pouvoirs.</desc>
+    <icon src="https://assets.diverto.tv/media/remote/aHR0cDovL2ltYWdlcy5tZWRpYS1wcmVzcy5jbG91ZC9jNmNlZjQ3Nzg3NzI0NTllOGYzOGE5ZjU4M2MyMWJkMQ==?w=416&amp;h=260&amp;fit=crop&amp;fm=webp&amp;s=69704f9f3ddc8b04ba21a7071b549dca"/>
+  </programme>
+  <programme start="20250606045000 +0000" stop="20250606051100 +0000" channel="France3">
+    <title>Les Pyjamasques - Science-fiction</title>
+    <desc>Bibou et Olgimini (S5 E4)
+Roméo a inventé ses pouvoirs animaux et défie nos héros. Yoyo ne le prend pas au sérieux et relève le défi sans réfléchir. / Ninjaka piège nos héros et Hector doit tout faire pour les sauver mais il n'a pas l'habitude de travailler en équipe.</desc>
+    <icon src="https://assets.diverto.tv/media/remote/aHR0cDovL2ltYWdlcy5tZWRpYS1wcmVzcy5jbG91ZC9jNmNlZjQ3Nzg3NzI0NTllOGYzOGE5ZjU4M2MyMWJkMQ==?w=416&amp;h=260&amp;fit=crop&amp;fm=webp&amp;s=69704f9f3ddc8b04ba21a7071b549dca"/>
+  </programme>
+  <programme start="20250606051100 +0000" stop="20250606052000 +0000" channel="France3">
+    <title>Les Pyjamasques - Science-fiction</title>
+    <desc>Les pyjamasques et Hector le destructeur (S5 E5)
+Hector Étoile trouve un astéroïde un peu étrange dans l'espace. Mais sur Terre, Sorceline s'en empare et en profite pour transformer notre héros de l'espace en méchant.</desc>
+    <icon src="https://assets.diverto.tv/media/remote/aHR0cDovL2ltYWdlcy5tZWRpYS1wcmVzcy5jbG91ZC8wNzJlYWUyMDBkMzc0ZTk2OTAxM2M3NGZmYzBjYzU1Zg==?w=416&amp;h=260&amp;fit=crop&amp;fm=webp&amp;s=e10242ec16f6c8ec4384c9244c164464"/>
+  </programme>
+  <programme start="20250606052000 +0000" stop="20250606053000 +0000" channel="France3">
+    <title>Shaun le mouton - Comédie</title>
+    <desc>Épisode 15 (S6 E15)
+Shaun le mouton et sa troupe sont de retour pour de nouvelles aventures et catastrophes hilarantes, qu'il s'agit de réparer avant que le fermier s'en s'aperçoive ! Dans cette saison, le fermier tombe amoureux … Le spécial sera sur le thème de Noël.</desc>
+    <icon src="https://assets.diverto.tv/media/remote/aHR0cDovL2ltYWdlcy5tZWRpYS1wcmVzcy5jbG91ZC9lMGFkMDBjYTM3NmE0YWNjYTMwMTIyMmE1NTdkZjkwZg==?w=416&amp;h=260&amp;fit=crop&amp;fm=webp&amp;s=b6da950e3b401661e5ca8d0716907811"/>
+  </programme>
+  <programme start="20250606053000 +0000" stop="20250606053700 +0000" channel="France3">
+    <title>Shaun le mouton - Comédie</title>
+    <desc>Épisode 8 (S6 E8)
+Le fermier a expulsé Shaun et le troupeau de l'étable afin de la louer. Cependant, lorsque les premiers vacanciers arrivent, ils sont bien plus intéressés par la vie en ligne que par celle de la ferme. Shaun et le troupeau peuvent-ils écarter ces nomades numériques et reconquérir leur maison ?</desc>
+    <icon src="https://assets.diverto.tv/media/remote/aHR0cDovL2ltYWdlcy5tZWRpYS1wcmVzcy5jbG91ZC9kODJkODJhYTExMGU0YzM3OTg2YjI5NDI3OWVhNTY5ZQ==?w=416&amp;h=260&amp;fit=crop&amp;fm=webp&amp;s=6b75bd289d0a3c59926ae3db9027029c"/>
+  </programme>
+  <programme start="20250606053700 +0000" stop="20250606054400 +0000" channel="France3">
+    <title>Shaun le mouton - Comédie</title>
+    <desc>Épisode 13 (S6 E13)
+Shaun le mouton et sa troupe sont de retour pour de nouvelles aventures et catastrophes hilarantes, qu'il s'agit de réparer avant que le fermier s'en s'aperçoive ! Dans cette saison, le fermier tombe amoureux … Le spécial sera sur le thème de Noël.</desc>
+    <icon src="https://assets.diverto.tv/media/remote/aHR0cDovL2ltYWdlcy5tZWRpYS1wcmVzcy5jbG91ZC8wZDA5NDYwNjMyMzY0Nzg5Yjc0OTNkMzUyMDY4OWJiNg==?w=416&amp;h=260&amp;fit=crop&amp;fm=webp&amp;s=e2c575c4c76949fe61dae9424c4be02b"/>
+  </programme>
+  <programme start="20250606054400 +0000" stop="20250606055800 +0000" channel="France3">
+    <title>Shaun le mouton - Comédie</title>
+    <desc>Épisode 18 (S6 E18)
+Shaun le mouton et sa troupe sont de retour pour de nouvelles aventures et catastrophes hilarantes, qu'il s'agit de réparer avant que le fermier s'en s'aperçoive ! Dans cette saison, le fermier tombe amoureux … Le spécial sera sur le thème de Noël.</desc>
+    <icon src="https://assets.diverto.tv/media/remote/aHR0cDovL2ltYWdlcy5tZWRpYS1wcmVzcy5jbG91ZC9lNWJhNTViNjQxNzY0ZmUxYjExODhiNjZhZTViZTU5Yg==?w=416&amp;h=260&amp;fit=crop&amp;fm=webp&amp;s=98c8a5469e7fbbbf20230817e8d2317a"/>
+  </programme>
+  <programme start="20250606055800 +0000" stop="20250606060000 +0000" channel="France3">
+    <title>Shaun le mouton - Comédie</title>
+    <desc>Le zoo de Mossy Bottom (S6 E20)
+Shaun le mouton et sa troupe sont de retour pour de nouvelles aventures et catastrophes hilarantes, qu'il s'agit de réparer avant que le fermier s'en s'aperçoive ! Dans cette saison, le fermier tombe amoureux … Le spécial sera sur le thème de Noël.</desc>
+    <icon src="https://assets.diverto.tv/media/remote/aHR0cDovL2ltYWdlcy5tZWRpYS1wcmVzcy5jbG91ZC83OWIyZmRmNjA0MTA0Mjc2ODA0ZjJhMWFkNzBjMDFjMw==?w=416&amp;h=260&amp;fit=crop&amp;fm=webp&amp;s=f60df214147654574824f0f6a6aceb76"/>
+  </programme>
+  <programme start="20250606060000 +0000" stop="20250606061600 +0000" channel="France3">
+    <title>Woolly Woolly - Dessin animé</title>
+    <desc>
+Marco a emprunté la clochette du collier de leur chat pour jouer avec, mais il l'a perdue. Pourtant, il est sûr et certain de l'avoir posée juste là !</desc>
+    <icon src="https://assets.diverto.tv/media/remote/aHR0cDovL2ltYWdlcy5tZWRpYS1wcmVzcy5jbG91ZC9jOTcwZTJiMGY2YTY0ODU0YmNlMDQ0MjAzMDA0MjYxZA==?w=416&amp;h=260&amp;fit=crop&amp;fm=webp&amp;s=ea48b499ba1a437c54e79d18ed7b1346"/>
+  </programme>
+  <programme start="20250606061600 +0000" stop="20250606062000 +0000" channel="France3">
+    <title>Woolly Woolly - Dessin animé</title>
+    <desc>
+Marco a été puni après avoir fait une bêtise, et il trouve cette punition vraiment injuste ! Chez les Woolly, Bibi s'est injustement fait confisquer son nouveau jouet par des Licornes. Josie, très étonnée, veut tirer cette histoire au clair. Les Licornes lui expliquent que Bibi leur a lancé des boules de laine avec sa nouvelle fourchette-catapulte ! Sapristi, ça ne va pas du tout ! Josie décide qu'il est temps d'enseigner à son petit-fils quelques bonnes manières... Mais parfois, une bêtise n'est pas ce qu'on croit, et même les adultes peuvent se tromper !</desc>
+    <icon src="https://assets.diverto.tv/media/remote/aHR0cDovL2ltYWdlcy5tZWRpYS1wcmVzcy5jbG91ZC9jOTcwZTJiMGY2YTY0ODU0YmNlMDQ0MjAzMDA0MjYxZA==?w=416&amp;h=260&amp;fit=crop&amp;fm=webp&amp;s=ea48b499ba1a437c54e79d18ed7b1346"/>
+  </programme>
+  <programme start="20250606062000 +0000" stop="20250606063000 +0000" channel="France3">
+    <title>Un jour, une question - Emission</title>
+    <desc>
+A quoi ça sert ? Ça veut dire quoi ? C'est qui ? Pourquoi c'est comme ça ? Les questions des enfants trouvent quotidiennement une réponse.</desc>
+    <icon src="https://assets.diverto.tv/media/remote/aHR0cDovL2ltYWdlcy5tZWRpYS1wcmVzcy5jbG91ZC85NjNmYWFhMTJlZDk0OTgxYjFkZmYzMmM2YWI3YWFhOA==?w=416&amp;h=260&amp;fit=crop&amp;fm=webp&amp;s=bbd0c7e2170c4c3c85fd38574e30b07f"/>
+  </programme>
+  <programme start="20250606063000 +0000" stop="20250606070500 +0000" channel="France3">
+    <title>Chroniques d'en haut - Découvertes</title>
+    <desc>
+Située dans les Alpes de Haute Provence, le panorama de la montagne de Lure a inspiré l'écrivain Jean Giono.</desc>
+    <icon src="https://assets.diverto.tv/media/remote/aHR0cDovL2ltYWdlcy5tZWRpYS1wcmVzcy5jbG91ZC9lNTA4YTI2ZTI1NzY0MGE3OWI0NWQ3NDYxN2Y2NTFkOA==?w=416&amp;h=260&amp;fit=crop&amp;fm=webp&amp;s=1264d5ce52df37aabab4e40ffbe70658"/>
+  </programme>
+  <programme start="20250606070500 +0000" stop="20250606083000 +0000" channel="France3">
+    <title>ICI dans votre région - Société</title>
+    <desc>
+Des magazines ou documentaires proposés par votre antenne régionale.</desc>
+    <icon src="https://assets.diverto.tv/media/remote/aHR0cDovL2ltYWdlcy5tZWRpYS1wcmVzcy5jbG91ZC84ZDFjZDU5ZTkzNDE0OTVmYWM2MTQ3OTk2Y2M3Y2FhMQ==?w=416&amp;h=260&amp;fit=crop&amp;fm=webp&amp;s=43ba884dabd89d30701a723fe0b9f654"/>
+  </programme>
+  <programme start="20250606083000 +0000" stop="20250606084000 +0000" channel="France3">
+    <title>Consomag - Consommation</title>
+    <desc>
+Le magazine de l'Institut national de la consommation donne à chacun des conseils pratiques pour mieux consommer.</desc>
+    <icon src="https://assets.diverto.tv/media/remote/aHR0cDovL2ltYWdlcy5tZWRpYS1wcmVzcy5jbG91ZC82ZjRhNzhhNmNiNDg0ZGUwOTVjZWM1YzBhY2ZmNDZmNw==?w=416&amp;h=260&amp;fit=crop&amp;fm=webp&amp;s=2d5638465e731aa2a2ddb90974e35bba"/>
+  </programme>
+  <programme start="20250606084000 +0000" stop="20250606091000 +0000" channel="France3">
+    <title>Escales en France - Régional</title>
+    <desc>
+</desc>
+    <icon src="https://assets.diverto.tv/media/remote/aHR0cDovL2ltYWdlcy5tZWRpYS1wcmVzcy5jbG91ZC9jYTNjOGUzYjIxZmI0MmU3YmY2MzcxYjZiNDRjMGYzMA==?w=416&amp;h=260&amp;fit=crop&amp;fm=webp&amp;s=4206bc7c59d61c1cf08f1231d7cf927b"/>
+  </programme>
+  <programme start="20250606091000 +0000" stop="20250606094500 +0000" channel="France3">
+    <title>Homard et cordon bleu - Cuisine</title>
+    <desc>
+Notre chef étoilé Sylvain Guillemot s'invite dans la cuisine d'Héloïse, Bretonne expatriée dans les Yvelines, à Septeuil. Enceinte de huit mois, Héloïse ne peut pas tout se permettre culinairement, mais elle a une envie irrésistible : du poulpe ! Sylvain relève le défi en concoctant un plat savoureux et équilibré : poulpe et encornets poêlés, su...</desc>
+    <icon src="https://assets.diverto.tv/media/remote/aHR0cDovL2ltYWdlcy5tZWRpYS1wcmVzcy5jbG91ZC9kM2Y2MGE2MjhiZjc0MjllOWUzNjA3OGQ5NGIyMjE4ZA==?w=416&amp;h=260&amp;fit=crop&amp;fm=webp&amp;s=210a762d3d593dc688343fa483ee2651"/>
+  </programme>
+  <programme start="20250606094500 +0000" stop="20250606095000 +0000" channel="France3">
+    <title>Météo - Météo</title>
+    <desc>
+Bulletin météorologique du service de presse de France 3-Météo France.</desc>
+    <icon src="https://assets.diverto.tv/media/remote/aHR0cDovL2ltYWdlcy5tZWRpYS1wcmVzcy5jbG91ZC8zZjVmYzRhMTlhZjY0NGViYjIxNmVjYTExMGFkMGQzNg==?w=416&amp;h=260&amp;fit=crop&amp;fm=webp&amp;s=65965a4b78b139c9307209bd2217670b"/>
+  </programme>
+  <programme start="20250606095000 +0000" stop="20250606100000 +0000" channel="France3">
+    <title>Outremer.l'info - Journal</title>
+    <desc>
+L'information ultramarine trouve sa place dans un format de 9 minutes. "Outremer.l'info" permet une couverture plus large et un suivi accru des Ultramarins vivant dans l'Hexagone.</desc>
+    <icon src="https://assets.diverto.tv/media/remote/aHR0cDovL2ltYWdlcy5tZWRpYS1wcmVzcy5jbG91ZC8wNDM1Yjc3MTk4NWQ0OWQzYTU1YTIyZjYxZDhhODEwMA==?w=416&amp;h=260&amp;fit=crop&amp;fm=webp&amp;s=749a44f7477af51626abe6c8bb947500"/>
+  </programme>
+  <programme start="20250606100000 +0000" stop="20250606101500 +0000" channel="France3">
+    <title>Régions d'ici - Journal</title>
+    <desc>
+Savoir ce qui fait l'actualité des territoires et mieux les comprendre : c'est l'idée de "Régions d'ICI\.</desc>
+    <icon src="https://assets.diverto.tv/media/remote/aHR0cDovL2ltYWdlcy5tZWRpYS1wcmVzcy5jbG91ZC8wNWYzY2M4MjkxZDY0ZmQ4YmJlM2RkNDZjODlkZDZhMQ==?w=416&amp;h=260&amp;fit=crop&amp;fm=webp&amp;s=6ca0447c9b1dfe554b5ddaa0dbd3a18b"/>
+  </programme>
+  <programme start="20250606101500 +0000" stop="20250606102500 +0000" channel="France3">
+    <title>La p'tite librairie - Littéraire</title>
+    <desc>
+François Busnel propose chaque jour de découvrir ou redécouvrir une oeuvre française ou étrangère : roman, essai, grand classique ou encore bande dessinée.</desc>
+    <icon src="https://assets.diverto.tv/media/remote/aHR0cDovL2ltYWdlcy5tZWRpYS1wcmVzcy5jbG91ZC8wMTgyZmNhZjVkNzc0ODA2OTEwNTQyOTA5NGU2NDcxZA==?w=416&amp;h=260&amp;fit=crop&amp;fm=webp&amp;s=ea81ac8b95d16b85a48908541206ea8f"/>
+  </programme>
+  <programme start="20250606102500 +0000" stop="20250606102600 +0000" channel="France3">
+    <title>Dans le rétro - Historique</title>
+    <desc>
+"Dans le rétro" propose un voyage dans le temps de trois minutes, grâce aux archives de l'INA.</desc>
+    <icon src="https://assets.diverto.tv/media/remote/aHR0cDovL2ltYWdlcy5tZWRpYS1wcmVzcy5jbG91ZC80Mzg3NmYxZjE0NDQ0MjY1OGY0NGIxODdjOWVlYzE0Nw==?w=416&amp;h=260&amp;fit=crop&amp;fm=webp&amp;s=41a430331e271857f2dd44b9092cec7f"/>
+  </programme>
+  <programme start="20250606102600 +0000" stop="20250606105500 +0000" channel="France3">
+    <title>ICI 12/13 - Journal</title>
+    <desc>
+Le rendez-vous de la mi-journée des 24 rédactions régionales de France Télévisions, avec les journaux locaux, les reportages propres à chaque région, la météo, mais aussi un regard de proximité sur l'actualité nationale et internationale.</desc>
+    <icon src="https://assets.diverto.tv/media/remote/aHR0cDovL2ltYWdlcy5tZWRpYS1wcmVzcy5jbG91ZC8wNWYzY2M4MjkxZDY0ZmQ4YmJlM2RkNDZjODlkZDZhMQ==?w=416&amp;h=260&amp;fit=crop&amp;fm=webp&amp;s=6ca0447c9b1dfe554b5ddaa0dbd3a18b"/>
+  </programme>
+  <programme start="20250606105500 +0000" stop="20250606115500 +0000" channel="France3">
+    <title>Météo à la carte - Découvertes</title>
+    <desc>
+Reportages en régions et rubriques en plateau permettent de mieux comprendre l'impact de la météo sur la santé, la nature, l'histoire et la vie de tous les jours.</desc>
+    <icon src="https://assets.diverto.tv/media/remote/aHR0cDovL2ltYWdlcy5tZWRpYS1wcmVzcy5jbG91ZC8yYjEwMDQ4ODEzYzY0MDliYTBiMWU2MTdmMDNhYzg3NQ==?w=416&amp;h=260&amp;fit=crop&amp;fm=webp&amp;s=edfc7c85ce443a1698cc34d964658b92"/>
+  </programme>
+  <programme start="20250606115500 +0000" stop="20250606122000 +0000" channel="France3">
+    <title>Météo à la carte (la suite) - Société</title>
+    <desc>
+Marine Vignes et Laurent Romejko invitent les téléspectateurs dans un décor plus intimiste pour une une heure d'émission supplémentaire placée sous le signe de l'évasion et du développement durable.</desc>
+    <icon src="https://assets.diverto.tv/media/remote/aHR0cDovL2ltYWdlcy5tZWRpYS1wcmVzcy5jbG91ZC8wNzY2OTQxZWY3OWE0NjA1YjdhNzQ3NTkyMzFhNjM0NA==?w=416&amp;h=260&amp;fit=crop&amp;fm=webp&amp;s=cb9a1ec616222520913dc3f4e913e9d3"/>
+  </programme>
+  <programme start="20250606122000 +0000" stop="20250606130500 +0000" channel="France3">
+    <title>Rex, chien flic - Action</title>
+    <desc>Épisode 1 (S4 E1)
+Acculé à la faillite, le vendeur d'accessoires de voitures Günther Stein ne sait plus à quel saint se vouer. Tout ce qu'il a tenté jusqu'alors pour renflouer son affaire a échoué. C'est maintenant une chose sûre, la faillite l'attend au bout de ce tunnel financier. C'est alors que Stein pense à basculer dans l'illégalité. Il pourrait aisément enlever quelqu'un et demander une rançon qui résoudrait ses problèmes. Il projette alors de kidnapper Isabella, la fille du concessionnaire König. Mais tout le monde ne peut pas s'improviser brigand. Aussi Stein commet-il quelques maladresses...</desc>
+    <icon src="https://assets.diverto.tv/media/remote/aHR0cDovL2ltYWdlcy5tZWRpYS1wcmVzcy5jbG91ZC83ZDAzYTRhNDZjZTk0NjA2OWVlMDA0NDZlYTU3Y2I5NA==?w=416&amp;h=260&amp;fit=crop&amp;fm=webp&amp;s=a731707c32e613e6fd794eb5625301c4"/>
+  </programme>
+  <programme start="20250606130500 +0000" stop="20250606135000 +0000" channel="France3">
+    <title>Rex, chien flic - Action</title>
+    <desc>Épisode 2 (S4 E2)
+Claudia Martin, professeur dans un lycée, a une liaison avec un de ses élèves, Tom. Les deux amants tentent de se montrer discrets mais, malgré toutes leurs précautions, ils sont surpris par Stefan Dorner, un ami de Tom. Stefan, qui a en sa possession des photos compromettantes, fait chanter Claudia. Acculés, les amoureux ne savent pas comment faire face à cette menace qui risque non seulement de les séparer, mais aussi de coûter son travail à Claudia. Un peu plus tard, on retrouve le corps de Stefan, assassiné...</desc>
+    <icon src="https://assets.diverto.tv/media/remote/aHR0cDovL2ltYWdlcy5tZWRpYS1wcmVzcy5jbG91ZC9iMzQxZGRlZmY3OTM0M2EzYjA5ZmZmYzdkOWU2YWRiYg==?w=416&amp;h=260&amp;fit=crop&amp;fm=webp&amp;s=86ae6360f05c436922334d2010d80b45"/>
+  </programme>
+  <programme start="20250606135000 +0000" stop="20250606143500 +0000" channel="France3">
+    <title>Rex, chien flic - Action</title>
+    <desc>Épisode 3 (S4 E3)
+Libéré sur parole, Novak espère trouver un appui auprès de son ex-épouse. Mais cette dernière a refait sa vie avec un convoyeur de fonds qu'elle a épousé. Toutes ces années de prison ont aiguisé la jalousie de Novak, qui décide de rendre une visite imprévue au nouveau ménage. Lorsqu'il se présente à la porte de leur domicile, son ancienne femme refuse de lui ouvrir. Novak s'en prend alors au mari, qu'il menace de mort. Après s'être défoulé verbalement, Novak quitte les lieux. Quelque temps plus tard, l'époux est retrouvé mort. Il semble qu'il soit tombé accidentellement de sa fenêtre. Mais que pensera la police de cette hypothèse, alors qu'un suspect tout trouvé lui est offert ?...</desc>
+    <icon src="https://assets.diverto.tv/media/remote/aHR0cDovL2ltYWdlcy5tZWRpYS1wcmVzcy5jbG91ZC9jZjNjOGM2M2NkMmI0YmViYTJhMTBmMjMyYWFiNDg0YQ==?w=416&amp;h=260&amp;fit=crop&amp;fm=webp&amp;s=da34493881d14acaf143f4617c6fa65f"/>
+  </programme>
+  <programme start="20250606143500 +0000" stop="20250606144500 +0000" channel="France3">
+    <title>La p'tite librairie - Littéraire</title>
+    <desc>
+François Busnel propose chaque jour de découvrir ou redécouvrir une oeuvre française ou étrangère : roman, essai, grand classique ou encore bande dessinée.</desc>
+    <icon src="https://assets.diverto.tv/media/remote/aHR0cDovL2ltYWdlcy5tZWRpYS1wcmVzcy5jbG91ZC8wMTgyZmNhZjVkNzc0ODA2OTEwNTQyOTA5NGU2NDcxZA==?w=416&amp;h=260&amp;fit=crop&amp;fm=webp&amp;s=ea81ac8b95d16b85a48908541206ea8f"/>
+  </programme>
+  <programme start="20250606144500 +0000" stop="20250606152000 +0000" channel="France3">
+    <title>Duels en familles - Jeu</title>
+    <desc>
+Les Français connaissent-ils bien leurs régions ? Deux familles de quatre personnes s'opposent pour remporter des sommes pouvant atteindre plusieurs milliers d'euros. Elles devront trouver les réponses aux questions de Cyril Féraud sur des sujets concernant leurs régions respectives.</desc>
+    <icon src="https://assets.diverto.tv/media/remote/aHR0cDovL2ltYWdlcy5tZWRpYS1wcmVzcy5jbG91ZC81YTU2NzQzODllYzg0NWViYmRlOTRlZGViZTFjNWQ3Nw==?w=416&amp;h=260&amp;fit=crop&amp;fm=webp&amp;s=5a56d93c62f28b3b3411408fa3bee1c7"/>
+  </programme>
+  <programme start="20250606152000 +0000" stop="20250606160500 +0000" channel="France3">
+    <title>Slam - Jeu</title>
+    <desc>
+Accessible à tous les publics, "Slam" est un jeu de lettres 100% original qui fait la joie des amoureux des mots, des férus de quiz et des adeptes des mots fléchés, en mixant tous les genres, de la géographie aux mathématiques, en passant par la chimie...et bien sûr le français. Au menu: vivacité d'esprit, humour, vocabulaire, orthographe et bien sûr culture générale!</desc>
+    <icon src="https://assets.diverto.tv/media/remote/aHR0cDovL2ltYWdlcy5tZWRpYS1wcmVzcy5jbG91ZC84NTQwYmVjOWU0YzU0MTdkODdmZDczNjBiZTIzZTczZg==?w=416&amp;h=260&amp;fit=crop&amp;fm=webp&amp;s=1da6fa42930dfcade55c81f0914d0f89"/>
+  </programme>
+  <programme start="20250606160500 +0000" stop="20250606165000 +0000" channel="France3">
+    <title>Questions pour un champion - Jeu</title>
+    <desc>
+Samuel Etienne anime ce jeu emblématique, qui voit chaque soir s'affronter quatre candidats autour de questions de culture générale.</desc>
+    <icon src="https://assets.diverto.tv/media/remote/aHR0cDovL2ltYWdlcy5tZWRpYS1wcmVzcy5jbG91ZC84ZjY4YTRkNGU4MTE0M2Q2YjRmNDM1MDY4YzgxMmQ3Mg==?w=416&amp;h=260&amp;fit=crop&amp;fm=webp&amp;s=df2c3944f44c506bcd5e1527da922c62"/>
+  </programme>
+  <programme start="20250606165000 +0000" stop="20250606170000 +0000" channel="France3">
+    <title>Journal Météo climat - Météo</title>
+    <desc>
+Un point quotidien sur l'actualité météo et climatique, avec des reportages et des interviews d'experts.</desc>
+    <icon src="https://assets.diverto.tv/media/remote/aHR0cDovL2ltYWdlcy5tZWRpYS1wcmVzcy5jbG91ZC8wMmYxNmI3ODVmYzA0ZDM2ODQwZDMyOGRjYTE2MmE2OA==?w=416&amp;h=260&amp;fit=crop&amp;fm=webp&amp;s=34538a0c4e62473be1466c1c48cdc885"/>
+  </programme>
+  <programme start="20250606170000 +0000" stop="20250606170500 +0000" channel="France3">
+    <title>Consomag - Consommation</title>
+    <desc>
+Le magazine de l'Institut national de la consommation donne à chacun des conseils pratiques pour mieux consommer.</desc>
+    <icon src="https://assets.diverto.tv/media/remote/aHR0cDovL2ltYWdlcy5tZWRpYS1wcmVzcy5jbG91ZC82ZjRhNzhhNmNiNDg0ZGUwOTVjZWM1YzBhY2ZmNDZmNw==?w=416&amp;h=260&amp;fit=crop&amp;fm=webp&amp;s=2d5638465e731aa2a2ddb90974e35bba"/>
+  </programme>
+  <programme start="20250606170500 +0000" stop="20250606171000 +0000" channel="France3">
+    <title>Dans le rétro - Historique</title>
+    <desc>
+"Dans le rétro" propose un voyage dans le temps de trois minutes, grâce aux archives de l'INA.</desc>
+    <icon src="https://assets.diverto.tv/media/remote/aHR0cDovL2ltYWdlcy5tZWRpYS1wcmVzcy5jbG91ZC80Mzg3NmYxZjE0NDQ0MjY1OGY0NGIxODdjOWVlYzE0Nw==?w=416&amp;h=260&amp;fit=crop&amp;fm=webp&amp;s=41a430331e271857f2dd44b9092cec7f"/>
+  </programme>
+  <programme start="20250606171000 +0000" stop="20250606171500 +0000" channel="France3">
+    <title>Hors la ville - Société</title>
+    <desc>
+</desc>
+    <icon src="https://assets.diverto.tv/media/remote/aHR0cDovL2ltYWdlcy5tZWRpYS1wcmVzcy5jbG91ZC9kNmJhZGRiZTNhZjg0YmQ3YTcxZGJhM2FlZWJlN2I3Yw==?w=416&amp;h=260&amp;fit=crop&amp;fm=webp&amp;s=04c1eaf22a8d1fbb791ed4dec4ac5a3c"/>
+  </programme>
+  <programme start="20250606171500 +0000" stop="20250606175000 +0000" channel="France3">
+    <title>ICI 19/20 édition toutes régions - Journal</title>
+    <desc>
+Le rendez-vous vespéral des 24 rédactions régionales de France Télévisions, avec les journaux locaux, les reportages propres à chaque région, la météo, mais aussi un regard de proximité sur l'actualité nationale et internationale.</desc>
+    <icon src="https://assets.diverto.tv/media/remote/aHR0cDovL2ltYWdlcy5tZWRpYS1wcmVzcy5jbG91ZC8wNWYzY2M4MjkxZDY0ZmQ4YmJlM2RkNDZjODlkZDZhMQ==?w=416&amp;h=260&amp;fit=crop&amp;fm=webp&amp;s=6ca0447c9b1dfe554b5ddaa0dbd3a18b"/>
+  </programme>
+  <programme start="20250606175000 +0000" stop="20250606181000 +0000" channel="France3">
+    <title>Tout le sport Roland-Garros - Magazine</title>
+    <desc>
+EN DIRECT Cécile Grès et Claire Vocquier Ficot reviennent sur les grands moments de la journée du tournoi depuis la terrasse de Roland-Garros.</desc>
+  </programme>
+  <programme start="20250606181000 +0000" stop="20250606181100 +0000" channel="France3">
+    <title>Météo régionale - Météo</title>
+    <desc>
+Un bulletin météorologique propre à chaque région.</desc>
+    <icon src="https://assets.diverto.tv/media/remote/aHR0cDovL2ltYWdlcy5tZWRpYS1wcmVzcy5jbG91ZC84YzdlMWEzMjVhMzQ0ZmRhYTA2NzRkY2M1OGQwOGI4Zg==?w=416&amp;h=260&amp;fit=crop&amp;fm=webp&amp;s=601d2cfcc640c1602588c642faf03a6b"/>
+  </programme>
+  <programme start="20250606181100 +0000" stop="20250606182000 +0000" channel="France3">
+    <title>Le journal des talents - Journal</title>
+    <desc>
+Un magazine d'information consacré aux personnes talentueuses et aux héros du quotidien en région.</desc>
+    <icon src="https://assets.diverto.tv/media/remote/aHR0cDovL2ltYWdlcy5tZWRpYS1wcmVzcy5jbG91ZC8yMzEwYzZlNTExNWQ0YmU5YWEzNmQwZmRhMzgwZWE5NQ==?w=416&amp;h=260&amp;fit=crop&amp;fm=webp&amp;s=8722485e3c91c28997937072cf2aa5bc"/>
+  </programme>
+  <programme start="20250606182000 +0000" stop="20250606182100 +0000" channel="France3">
+    <title>Dans le rétro - Historique</title>
+    <desc>
+"Dans le rétro" propose un voyage dans le temps de trois minutes, grâce aux archives de l'INA.</desc>
+    <icon src="https://assets.diverto.tv/media/remote/aHR0cDovL2ltYWdlcy5tZWRpYS1wcmVzcy5jbG91ZC80Mzg3NmYxZjE0NDQ0MjY1OGY0NGIxODdjOWVlYzE0Nw==?w=416&amp;h=260&amp;fit=crop&amp;fm=webp&amp;s=41a430331e271857f2dd44b9092cec7f"/>
+  </programme>
+  <programme start="20250606182100 +0000" stop="20250606184000 +0000" channel="France3">
+    <title>Un si grand soleil - Policier</title>
+    <desc>
+Tandis que chez L. Cosmétiques, la tension grimpe entre Boris et Muriel, Laurine cherche une solution pour sortir Louis de la crise où il se trouve.</desc>
+    <icon src="https://assets.diverto.tv/media/remote/aHR0cDovL2ltYWdlcy5tZWRpYS1wcmVzcy5jbG91ZC80YmEzYjJkYzVjMmM0ZjFmYmU5ZTk5M2NiYTZhMWM4NA==?w=416&amp;h=260&amp;fit=crop&amp;fm=webp&amp;s=a0c19347d7f19867807c5c2b3472b299"/>
+  </programme>
+  <programme start="20250606184000 +0000" stop="20250606190500 +0000" channel="France3">
+    <title>Un si grand soleil - Policier</title>
+    <desc>
+Alors qu'il s'investit dans son affaire, Florent est ciblé par des menaces anonymes. Louis réalise qu'il y a un prix à payer pour éviter de tout perdre.</desc>
+    <icon src="https://assets.diverto.tv/media/remote/aHR0cDovL2ltYWdlcy5tZWRpYS1wcmVzcy5jbG91ZC80YmEzYjJkYzVjMmM0ZjFmYmU5ZTk5M2NiYTZhMWM4NA==?w=416&amp;h=260&amp;fit=crop&amp;fm=webp&amp;s=a0c19347d7f19867807c5c2b3472b299"/>
+  </programme>
+  <programme start="20250606190500 +0000" stop="20250606211500 +0000" channel="France3">
+    <title>La carte aux trésors - Jeu</title>
+    <desc>
+Cyril Féraud et les deux candidats, Claire et Raphaël, se rendent en Saône-et-Loire, où ils évolueront dans une zone de jeu qui s'étendra de Rully jusqu'à Mâcon, en passant par Charolles, Cluny et Tournus. Claire et Raphaël devront résoudre des énigmes pour découvrir le Trésor et s'élancer dans un jeu de piste géant qui les emmènera à la découverte des plus beaux châteaux du département.</desc>
+  </programme>
+  <programme start="20250606211500 +0000" stop="20250606232000 +0000" channel="France3">
+    <title>La carte aux trésors - Jeu</title>
+    <desc>
+Dans les Bouches-du-Rhône, l'équipe de la "La carte aux trésors" est accueillie par les Alphajets de la Patrouille de France. La zone de jeu s'étendra de Saint-Rémy-de-Provence, face aux Alpilles, jusqu'aux Saintes-Maries-de-la-Mer, au sud. Les deux candidats, Pauline et Fabrice, traverseront la Camargue puis partiront sur les traces des artistes célèbres qui ont trouvé l'inspiration en Provence,.</desc>
   </programme>
   <programme start="20250606005500 +0000" stop="20250606022000 +0000" channel="France4">
     <title>Tahnee, l'autre - One man show</title>
@@ -3480,251 +3799,251 @@ A bord du vaisseau "Avalon\.</desc>
 Will Caster est l'un des scientifiques les plus brillants de son temps. Avec son équipe, il tente de concevoir le premier ordinateur doté d'une conscience et capable de prendre des décisions de manière autonome. Un projet révolutionnaire et dangereux selon des terroristes anti-technologies, qui décident d'éliminer le savant. Visé par un attentat, empoisonné par une substance radioactive, Will se sait mourant. Grâce à sa femme, Evelyn, et à son meilleur ami, Max, sa conscience est transférée dans une entité intelligente. Si Max doute de la réussite de l'opération, Evelyn, elle, veut croire qu'elle a bien affaire à Will. Ce dernier, qui s'est répandu sur le réseau Internet, montre pourtant des signes évidents de mégalomanie...</desc>
     <icon src="https://assets.diverto.tv/media/remote/aHR0cHM6Ly9pbWFnZS50bWRiLm9yZy90L3AvL29yaWdpbmFsLy9qaXMwSjlHc3Rqa3JtdGl2b1ZBZFNUYzFwRmkuanBn?w=416&amp;h=260&amp;fit=crop&amp;fm=webp&amp;s=7ea71c39253fa5a16ede951d7896e94d"/>
   </programme>
-  <programme start="20250606005000 +0000" stop="20250606014500 +0000" channel="France3FC">
+  <programme start="20250606005000 +0000" stop="20250606014500 +0000" channel="France 3 Bourgogne Complete">
     <title>Samedi d'en rire - Divertissement</title>
     <desc>
 Chaque semaine dans "Samedi d'en rire\.</desc>
     <icon src="https://assets.diverto.tv/media/remote/aHR0cDovL2ltYWdlcy5tZWRpYS1wcmVzcy5jbG91ZC9lNTAxMDM2M2QzOGM0YmMxYTdiMjZjMTMzZWE0ODcxZA==?w=416&amp;h=260&amp;fit=crop&amp;fm=webp&amp;s=fb38c14a1e1d5f855537cdfeadd48dbe"/>
   </programme>
-  <programme start="20250606014500 +0000" stop="20250606020000 +0000" channel="France3FC">
+  <programme start="20250606014500 +0000" stop="20250606020000 +0000" channel="France 3 Bourgogne Complete">
     <title>Enquêtes de région le mag - Société</title>
     <desc>
 Chaque semaine, une rédaction régionale propose une enquête, un portrait, une révélation sur la société, l'économie, l'environnement ou la santé, au cœur d'un territoire.</desc>
     <icon src="https://assets.diverto.tv/media/remote/aHR0cDovL2ltYWdlcy5tZWRpYS1wcmVzcy5jbG91ZC82NmIxNzJiM2JjMjA0NDdmODU4NDA3YWJiZDU2MmE4OA==?w=416&amp;h=260&amp;fit=crop&amp;fm=webp&amp;s=16f055ebdcf4226fe6230630f83680e5"/>
   </programme>
-  <programme start="20250606020000 +0000" stop="20250606021000 +0000" channel="France3FC">
+  <programme start="20250606020000 +0000" stop="20250606021000 +0000" channel="France 3 Bourgogne Complete">
     <title>Les matinales - Musical</title>
     <desc>
 Programme de musique classique pour se réveiller en douceur.</desc>
     <icon src="https://assets.diverto.tv/media/remote/aHR0cDovL2ltYWdlcy5tZWRpYS1wcmVzcy5jbG91ZC8wYWYwZjQwNzY2YmQ0ZTM1YTM0OGY2ZmM1ODRhMGY4ZQ==?w=416&amp;h=260&amp;fit=crop&amp;fm=webp&amp;s=3175365291d02266073a42d2f0474254"/>
   </programme>
-  <programme start="20250606021000 +0000" stop="20250606024000 +0000" channel="France3FC">
+  <programme start="20250606021000 +0000" stop="20250606024000 +0000" channel="France 3 Bourgogne Complete">
     <title>Duels en familles - Jeu</title>
     <desc>
 Les Français connaissent-ils bien leurs régions ? Deux familles de quatre personnes s'opposent pour remporter des sommes pouvant atteindre plusieurs milliers d'euros. Elles devront trouver les réponses aux questions de Cyril Féraud sur des sujets concernant leurs régions respectives.</desc>
     <icon src="https://assets.diverto.tv/media/remote/aHR0cDovL2ltYWdlcy5tZWRpYS1wcmVzcy5jbG91ZC81YTU2NzQzODllYzg0NWViYmRlOTRlZGViZTFjNWQ3Nw==?w=416&amp;h=260&amp;fit=crop&amp;fm=webp&amp;s=5a56d93c62f28b3b3411408fa3bee1c7"/>
   </programme>
-  <programme start="20250606024000 +0000" stop="20250606031500 +0000" channel="France3FC">
+  <programme start="20250606024000 +0000" stop="20250606031500 +0000" channel="France 3 Bourgogne Complete">
     <title>Slam - Jeu</title>
     <desc>
 Accessible à tous les publics, "Slam" est un jeu de lettres 100% original qui fait la joie des amoureux des mots, des férus de quiz et des adeptes des mots fléchés, en mixant tous les genres, de la géographie aux mathématiques, en passant par la chimie...et bien sûr le français. Au menu: vivacité d'esprit, humour, vocabulaire, orthographe et bien sûr culture générale!</desc>
     <icon src="https://assets.diverto.tv/media/remote/aHR0cDovL2ltYWdlcy5tZWRpYS1wcmVzcy5jbG91ZC84NTQwYmVjOWU0YzU0MTdkODdmZDczNjBiZTIzZTczZg==?w=416&amp;h=260&amp;fit=crop&amp;fm=webp&amp;s=1da6fa42930dfcade55c81f0914d0f89"/>
   </programme>
-  <programme start="20250606031500 +0000" stop="20250606035200 +0000" channel="France3FC">
+  <programme start="20250606031500 +0000" stop="20250606035200 +0000" channel="France 3 Bourgogne Complete">
     <title>Questions pour un champion - Jeu</title>
     <desc>
 Samuel Etienne anime ce jeu emblématique, qui voit chaque soir s'affronter quatre candidats autour de questions de culture générale.</desc>
     <icon src="https://assets.diverto.tv/media/remote/aHR0cDovL2ltYWdlcy5tZWRpYS1wcmVzcy5jbG91ZC84ZjY4YTRkNGU4MTE0M2Q2YjRmNDM1MDY4YzgxMmQ3Mg==?w=416&amp;h=260&amp;fit=crop&amp;fm=webp&amp;s=df2c3944f44c506bcd5e1527da922c62"/>
   </programme>
-  <programme start="20250606035200 +0000" stop="20250606040100 +0000" channel="France3FC">
+  <programme start="20250606035200 +0000" stop="20250606040100 +0000" channel="France 3 Bourgogne Complete">
     <title>Tennis : Roland-Garros - Tennis</title>
     <desc>
 Roland-Garros est l'un des plus prestigieux tournois de tennis. Le tournoi de Roland-Garros a été créé en 1925. Avec l'Open d'Australie, Wimbledon et l'US Open, Roland-Garros est l'un des quatre tournois du Grand Chelem et le plus grand tournoi de la saison de tennis sur terre battue.</desc>
     <icon src="https://assets.diverto.tv/media/remote/aHR0cDovL2ltYWdlcy5tZWRpYS1wcmVzcy5jbG91ZC84MmI4OWFhNDNlMzM0ZGZjYTM3N2YyYTRmZjMwODU3NQ==?w=416&amp;h=260&amp;fit=crop&amp;fm=webp&amp;s=6231b36b0e60220042b9e1850febc061"/>
   </programme>
-  <programme start="20250606040100 +0000" stop="20250606040100 +0000" channel="France3FC">
-    <title>Drôle de nature - Animalier</title>
-    <desc>
-Monty le lion part à la recherche d'un oiseau qui vomit pour se protéger de ses potentiels prédateurs. Pendant ce temps, Baz enquête sur un rapport selon lequel l'explosion d'une grange aurait pu être causée par une accumulation de gazs de vache !</desc>
-    <icon src="https://assets.diverto.tv/media/remote/aHR0cDovL2ltYWdlcy5tZWRpYS1wcmVzcy5jbG91ZC8zNzU3NDU1Y2E2MDg0ZmQ1OWFmNjhkNWFjZjc5NjU4MA==?w=416&amp;h=260&amp;fit=crop&amp;fm=webp&amp;s=7657107508a83a46adcf29febd9517f3"/>
-  </programme>
-  <programme start="20250606040100 +0000" stop="20250606042000 +0000" channel="France3FC">
+  <programme start="20250606040100 +0000" stop="20250606042000 +0000" channel="France 3 Bourgogne Complete">
     <title>Teen Titans Go ! - Dessin animé</title>
     <desc>11a. Terra - 11b. Balle au prisonnier (S1 E11)
 "Terra". Changelin a une petite amie. Ou du moins le pense-t-il. Elle s'appelle Terra. Elle est très belle et s'intéresse de très près aux secrets des Teen Titans. Elle obtient toutes les informations qu'elle désire auprès de Changelin, qui est fou d'amour. Ce dernier est d'ailleurs encouragé par tous les Titans, sauf Raven qui se méfie de Terra. - "Balle au prisonnier". Les jeunes Titans arrêtent les Hive Five qui viennent de braquer une banque. Une fois de retour chez eux, ils se préparent pour le championnat de ballon au prisonnier. Ils détiennent le titre et ils espèrent le garder. La victoire semble gagnée d'avance...</desc>
     <icon src="https://assets.diverto.tv/media/remote/aHR0cDovL2ltYWdlcy5tZWRpYS1wcmVzcy5jbG91ZC83OGM4OWRkYTJjMTM0NjZjYWE5MjU1MWYxODVjYTNhOA==?w=416&amp;h=260&amp;fit=crop&amp;fm=webp&amp;s=507ecf93284e823a3a0b9a0b52c2d2eb"/>
   </programme>
-  <programme start="20250606042000 +0000" stop="20250606070500 +0000" channel="France3FC">
-    <title>ICI Matin - Besançon - Journal</title>
+  <programme start="20250606042000 +0000" stop="20250606070500 +0000" channel="France 3 Bourgogne Complete">
+    <title>ICI Matin - Bourgogne - Journal</title>
     <desc>
-Dès 6h30 du lundi au vendredi, les matinales France Bleu sur France 3, c'est le 1er rdv de la journée avec l'actualité locale, l'info pratique, la bonne humeur et les plus belles images de votre région. La radio s'écoute, elle se regarde également à Besançon.</desc>
-    <icon src="https://assets.diverto.tv/media/remote/aHR0cDovL2ltYWdlcy5tZWRpYS1wcmVzcy5jbG91ZC9hMzllODA2Y2JjZjA0ZTIzYTk1Yjc4ZWU0OGQyMzFkMQ==?w=416&amp;h=260&amp;fit=crop&amp;fm=webp&amp;s=981bf01022df12374aada4a1495efaef"/>
+Dès 6h30 du lundi au vendredi, les matinales France Bleu sur France 3, c'est le 1er rdv de la journée avec l'actualité locale, l'info pratique, la bonne humeur et les plus belles images de votre région. La radio s'écoute, elle se regarde également en Bourgogne.</desc>
+    <icon src="https://assets.diverto.tv/media/remote/aHR0cDovL2ltYWdlcy5tZWRpYS1wcmVzcy5jbG91ZC83YTM5ZmJmNWM1N2I0YTk4YmZhOWExZGZhMjhmMTc1Zg==?w=416&amp;h=260&amp;fit=crop&amp;fm=webp&amp;s=e37c616c6031a95a70fd06b48cb26e23"/>
   </programme>
-  <programme start="20250606070500 +0000" stop="20250606073000 +0000" channel="France3FC">
+  <programme start="20250606070500 +0000" stop="20250606073000 +0000" channel="France 3 Bourgogne Complete">
     <title>Vous êtes formidables - Bourgogne-Franche-Comté - Société</title>
     <desc>
 Un magazine consacré aux initiatives et aux belles idées, afin de mettre en lumière les héros du quotidien.</desc>
     <icon src="https://assets.diverto.tv/media/remote/aHR0cDovL2ltYWdlcy5tZWRpYS1wcmVzcy5jbG91ZC85OWQxYWM0YThkNzU0YzA1OTNkMDUzYWMwNmY3MzI4OA==?w=416&amp;h=260&amp;fit=crop&amp;fm=webp&amp;s=a419d434342967a9e0f63d437630d8b5"/>
   </programme>
-  <programme start="20250606073000 +0000" stop="20250606074500 +0000" channel="France3FC">
+  <programme start="20250606073000 +0000" stop="20250606074500 +0000" channel="France 3 Bourgogne Complete">
     <title>#studio3 Web - Musical</title>
     <desc>
 Pauline Roth est sur le plateau de #studio3 pour proposer ses morceaux influencés par Barbara et Brel. Elle est accompagnée de Léna Migoya au piano et de Marie Bénédicte Rollandau au violoncelle.</desc>
     <icon src="https://assets.diverto.tv/media/remote/aHR0cDovL2ltYWdlcy5tZWRpYS1wcmVzcy5jbG91ZC9mMDI1NDUwZGE2NDg0ZDMyOTY1OTFmOGQ1M2RlMGJiYg==?w=416&amp;h=260&amp;fit=crop&amp;fm=webp&amp;s=f0334760761209c77da830a000c54e58"/>
   </programme>
-  <programme start="20250606074500 +0000" stop="20250606080000 +0000" channel="France3FC">
+  <programme start="20250606074500 +0000" stop="20250606080000 +0000" channel="France 3 Bourgogne Complete">
     <title>#studio3 Web - Musical</title>
     <desc>
 </desc>
     <icon src="https://assets.diverto.tv/media/remote/aHR0cDovL2ltYWdlcy5tZWRpYS1wcmVzcy5jbG91ZC9hZTBjNWFlZjc2MDM0NmM1OTUzNDQwNTAzODcwMWY0MQ==?w=416&amp;h=260&amp;fit=crop&amp;fm=webp&amp;s=a412d3c305e5309e09b9a732baa4f44d"/>
   </programme>
-  <programme start="20250606080000 +0000" stop="20250606083000 +0000" channel="France3FC">
+  <programme start="20250606080000 +0000" stop="20250606083000 +0000" channel="France 3 Bourgogne Complete">
     <title>Cosy, le mag déco - Loisirs</title>
     <desc>
 </desc>
     <icon src="https://assets.diverto.tv/media/remote/aHR0cDovL2ltYWdlcy5tZWRpYS1wcmVzcy5jbG91ZC9mYjk4NGMwNDJlY2I0ZWEyOGMzNWIwZmUyMDdmMDg0MQ==?w=416&amp;h=260&amp;fit=crop&amp;fm=webp&amp;s=0af0b7ee31207ba243fffdc2b8b8e4e7"/>
   </programme>
-  <programme start="20250606083000 +0000" stop="20250606084000 +0000" channel="France3FC">
+  <programme start="20250606083000 +0000" stop="20250606084000 +0000" channel="France 3 Bourgogne Complete">
     <title>Consomag - Consommation</title>
     <desc>
 Le magazine de l'Institut national de la consommation donne à chacun des conseils pratiques pour mieux consommer.</desc>
     <icon src="https://assets.diverto.tv/media/remote/aHR0cDovL2ltYWdlcy5tZWRpYS1wcmVzcy5jbG91ZC82ZjRhNzhhNmNiNDg0ZGUwOTVjZWM1YzBhY2ZmNDZmNw==?w=416&amp;h=260&amp;fit=crop&amp;fm=webp&amp;s=2d5638465e731aa2a2ddb90974e35bba"/>
   </programme>
-  <programme start="20250606084000 +0000" stop="20250606091000 +0000" channel="France3FC">
+  <programme start="20250606084000 +0000" stop="20250606091000 +0000" channel="France 3 Bourgogne Complete">
     <title>Escales en France - Régional</title>
     <desc>
 </desc>
     <icon src="https://assets.diverto.tv/media/remote/aHR0cDovL2ltYWdlcy5tZWRpYS1wcmVzcy5jbG91ZC9jYTNjOGUzYjIxZmI0MmU3YmY2MzcxYjZiNDRjMGYzMA==?w=416&amp;h=260&amp;fit=crop&amp;fm=webp&amp;s=4206bc7c59d61c1cf08f1231d7cf927b"/>
   </programme>
-  <programme start="20250606091000 +0000" stop="20250606094500 +0000" channel="France3FC">
+  <programme start="20250606091000 +0000" stop="20250606094500 +0000" channel="France 3 Bourgogne Complete">
     <title>Homard et cordon bleu - Cuisine</title>
     <desc>
 Notre chef étoilé Sylvain Guillemot s'invite dans la cuisine d'Héloïse, Bretonne expatriée dans les Yvelines, à Septeuil. Enceinte de huit mois, Héloïse ne peut pas tout se permettre culinairement, mais elle a une envie irrésistible : du poulpe ! Sylvain relève le défi en concoctant un plat savoureux et équilibré : poulpe et encornets poêlés, su...</desc>
     <icon src="https://assets.diverto.tv/media/remote/aHR0cDovL2ltYWdlcy5tZWRpYS1wcmVzcy5jbG91ZC9kM2Y2MGE2MjhiZjc0MjllOWUzNjA3OGQ5NGIyMjE4ZA==?w=416&amp;h=260&amp;fit=crop&amp;fm=webp&amp;s=210a762d3d593dc688343fa483ee2651"/>
   </programme>
-  <programme start="20250606094500 +0000" stop="20250606095000 +0000" channel="France3FC">
+  <programme start="20250606094500 +0000" stop="20250606095000 +0000" channel="France 3 Bourgogne Complete">
     <title>Météo - Météo</title>
     <desc>
 Bulletin météorologique du service de presse de France 3-Météo France.</desc>
     <icon src="https://assets.diverto.tv/media/remote/aHR0cDovL2ltYWdlcy5tZWRpYS1wcmVzcy5jbG91ZC8zZjVmYzRhMTlhZjY0NGViYjIxNmVjYTExMGFkMGQzNg==?w=416&amp;h=260&amp;fit=crop&amp;fm=webp&amp;s=65965a4b78b139c9307209bd2217670b"/>
   </programme>
-  <programme start="20250606095000 +0000" stop="20250606100000 +0000" channel="France3FC">
+  <programme start="20250606095000 +0000" stop="20250606100000 +0000" channel="France 3 Bourgogne Complete">
     <title>Outremer.l'info - Journal</title>
     <desc>
 L'information ultramarine trouve sa place dans un format de 9 minutes. "Outremer.l'info" permet une couverture plus large et un suivi accru des Ultramarins vivant dans l'Hexagone.</desc>
     <icon src="https://assets.diverto.tv/media/remote/aHR0cDovL2ltYWdlcy5tZWRpYS1wcmVzcy5jbG91ZC8wNDM1Yjc3MTk4NWQ0OWQzYTU1YTIyZjYxZDhhODEwMA==?w=416&amp;h=260&amp;fit=crop&amp;fm=webp&amp;s=749a44f7477af51626abe6c8bb947500"/>
   </programme>
-  <programme start="20250606100000 +0000" stop="20250606101500 +0000" channel="France3FC">
-    <title>ICI 12/13 - avant JT - Journal</title>
+  <programme start="20250606100000 +0000" stop="20250606101500 +0000" channel="France 3 Bourgogne Complete">
+    <title>Régions d'ici - Journal</title>
     <desc>
-</desc>
-    <icon src="https://assets.diverto.tv/media/remote/aHR0cDovL2ltYWdlcy5tZWRpYS1wcmVzcy5jbG91ZC85NGVlYTQyOTYxMzc0NzVmOTYzNjhkOTE4N2JiMjJjMw==?w=416&amp;h=260&amp;fit=crop&amp;fm=webp&amp;s=ccbdb5ce34868bd00cd8690911aa9ef0"/>
+Savoir ce qui fait l'actualité des territoires et mieux les comprendre : c'est l'idée de "Régions d'ICI\.</desc>
+    <icon src="https://assets.diverto.tv/media/remote/aHR0cDovL2ltYWdlcy5tZWRpYS1wcmVzcy5jbG91ZC8wNWYzY2M4MjkxZDY0ZmQ4YmJlM2RkNDZjODlkZDZhMQ==?w=416&amp;h=260&amp;fit=crop&amp;fm=webp&amp;s=6ca0447c9b1dfe554b5ddaa0dbd3a18b"/>
   </programme>
-  <programme start="20250606101500 +0000" stop="20250606102300 +0000" channel="France3FC">
-    <title>Plein feu - Franche Comté - Magazine</title>
+  <programme start="20250606101500 +0000" stop="20250606102300 +0000" channel="France 3 Bourgogne Complete">
+    <title>Plein feu - Bourgogne - Magazine</title>
     <desc>
-L'indispensable programme culturel de vos sorties et loisirs en Franche-Comté ! Plein Feu, c'est se distraire, se cultiver et s'amuser ! Retrouvez des idées de balades au grand air, des virées dans des lieux insolites, des concerts et spectacles immanquables, des escapades au plus près du patrimoine de notre région.</desc>
+L'indispensable programme culturel de vos sorties et loisirs en Bourgogne ! Plein Feu, c'est se distraire, se cultiver et s'amuser ! Retrouvez des idées de balades au grand air, des virées dans des lieux insolites, des concerts et spectacles immanquables, des escapades au plus près du patrimoine de notre région.</desc>
     <icon src="https://assets.diverto.tv/media/remote/aHR0cDovL2ltYWdlcy5tZWRpYS1wcmVzcy5jbG91ZC80NzI3OWMwODNmODY0ZGU3OGE3MTk3ZDA3ZmZlMjliMQ==?w=416&amp;h=260&amp;fit=crop&amp;fm=webp&amp;s=82cb39f7ed91ecdf5f065612041ce878"/>
   </programme>
-  <programme start="20250606102300 +0000" stop="20250606102500 +0000" channel="France3FC">
-    <title>Météo - Franche-Comté - Météo</title>
+  <programme start="20250606102300 +0000" stop="20250606102500 +0000" channel="France 3 Bourgogne Complete">
+    <title>Météo - Bourgogne - Météo</title>
     <desc>
 </desc>
     <icon src="https://assets.diverto.tv/media/remote/aHR0cDovL2ltYWdlcy5tZWRpYS1wcmVzcy5jbG91ZC8yZmVlZjM2ZjQyYTk0OWRjYmZkYmM2YTlmMzY1YzczYg==?w=416&amp;h=260&amp;fit=crop&amp;fm=webp&amp;s=f3d21902aadd8d5e309817582454924b"/>
   </programme>
-  <programme start="20250606102500 +0000" stop="20250606105500 +0000" channel="France3FC">
-    <title>ICI 12/13 - Franche Comté - Journal</title>
+  <programme start="20250606102500 +0000" stop="20250606105500 +0000" channel="France 3 Bourgogne Complete">
+    <title>ICI 12/13 - Bourgogne - Journal</title>
     <desc>
-Toutes les informations locales, régionales, nationales et internationales de la mi-journée, présentées par la rédaction de France 3 Franche-Comté. Le monde commence ICI, avec une information complète, vérifiée, analysée, décryptée par les journalistes de la rédaction.</desc>
-    <icon src="https://assets.diverto.tv/media/remote/aHR0cDovL2ltYWdlcy5tZWRpYS1wcmVzcy5jbG91ZC8wODhkMzM4Mjg3YzI0Y2JmYjhiMGZiNDBiNTNmYjI1YQ==?w=416&amp;h=260&amp;fit=crop&amp;fm=webp&amp;s=15ae6d87c6b566b4f143359d2cd83928"/>
+Toutes les informations locales, régionales, nationales et internationales de la mi-journée, présentées par la rédaction de France 3 Bourgogne. Le monde commence ICI, avec une information complète, vérifiée, analysée, décryptée par les journalistes de la rédaction.</desc>
+    <icon src="https://assets.diverto.tv/media/remote/aHR0cDovL2ltYWdlcy5tZWRpYS1wcmVzcy5jbG91ZC84MDkxMTcxMmVkYTk0OWJkODcyODMzODYxYTYzZTJlYw==?w=416&amp;h=260&amp;fit=crop&amp;fm=webp&amp;s=4978c9f72a5697d1c893807393ab0815"/>
   </programme>
-  <programme start="20250606105500 +0000" stop="20250606115500 +0000" channel="France3FC">
+  <programme start="20250606105500 +0000" stop="20250606115500 +0000" channel="France 3 Bourgogne Complete">
     <title>Météo à la carte - Découvertes</title>
     <desc>
 Reportages en régions et rubriques en plateau permettent de mieux comprendre l'impact de la météo sur la santé, la nature, l'histoire et la vie de tous les jours.</desc>
     <icon src="https://assets.diverto.tv/media/remote/aHR0cDovL2ltYWdlcy5tZWRpYS1wcmVzcy5jbG91ZC8yYjEwMDQ4ODEzYzY0MDliYTBiMWU2MTdmMDNhYzg3NQ==?w=416&amp;h=260&amp;fit=crop&amp;fm=webp&amp;s=edfc7c85ce443a1698cc34d964658b92"/>
   </programme>
-  <programme start="20250606115500 +0000" stop="20250606122000 +0000" channel="France3FC">
+  <programme start="20250606115500 +0000" stop="20250606122000 +0000" channel="France 3 Bourgogne Complete">
     <title>Météo à la carte (la suite) - Société</title>
     <desc>
 Marine Vignes et Laurent Romejko invitent les téléspectateurs dans un décor plus intimiste pour une une heure d'émission supplémentaire placée sous le signe de l'évasion et du développement durable.</desc>
     <icon src="https://assets.diverto.tv/media/remote/aHR0cDovL2ltYWdlcy5tZWRpYS1wcmVzcy5jbG91ZC8wNzY2OTQxZWY3OWE0NjA1YjdhNzQ3NTkyMzFhNjM0NA==?w=416&amp;h=260&amp;fit=crop&amp;fm=webp&amp;s=cb9a1ec616222520913dc3f4e913e9d3"/>
   </programme>
-  <programme start="20250606122000 +0000" stop="20250606130500 +0000" channel="France3FC">
+  <programme start="20250606122000 +0000" stop="20250606130500 +0000" channel="France 3 Bourgogne Complete">
     <title>Rex, chien flic - Action</title>
     <desc>Épisode 1 (S4 E1)
 Acculé à la faillite, le vendeur d'accessoires de voitures Günther Stein ne sait plus à quel saint se vouer. Tout ce qu'il a tenté jusqu'alors pour renflouer son affaire a échoué. C'est maintenant une chose sûre, la faillite l'attend au bout de ce tunnel financier. C'est alors que Stein pense à basculer dans l'illégalité. Il pourrait aisément enlever quelqu'un et demander une rançon qui résoudrait ses problèmes. Il projette alors de kidnapper Isabella, la fille du concessionnaire König. Mais tout le monde ne peut pas s'improviser brigand. Aussi Stein commet-il quelques maladresses...</desc>
     <icon src="https://assets.diverto.tv/media/remote/aHR0cDovL2ltYWdlcy5tZWRpYS1wcmVzcy5jbG91ZC83ZDAzYTRhNDZjZTk0NjA2OWVlMDA0NDZlYTU3Y2I5NA==?w=416&amp;h=260&amp;fit=crop&amp;fm=webp&amp;s=a731707c32e613e6fd794eb5625301c4"/>
   </programme>
-  <programme start="20250606130500 +0000" stop="20250606135000 +0000" channel="France3FC">
+  <programme start="20250606130500 +0000" stop="20250606135000 +0000" channel="France 3 Bourgogne Complete">
     <title>Rex, chien flic - Action</title>
     <desc>Épisode 2 (S4 E2)
 Claudia Martin, professeur dans un lycée, a une liaison avec un de ses élèves, Tom. Les deux amants tentent de se montrer discrets mais, malgré toutes leurs précautions, ils sont surpris par Stefan Dorner, un ami de Tom. Stefan, qui a en sa possession des photos compromettantes, fait chanter Claudia. Acculés, les amoureux ne savent pas comment faire face à cette menace qui risque non seulement de les séparer, mais aussi de coûter son travail à Claudia. Un peu plus tard, on retrouve le corps de Stefan, assassiné...</desc>
     <icon src="https://assets.diverto.tv/media/remote/aHR0cDovL2ltYWdlcy5tZWRpYS1wcmVzcy5jbG91ZC9iMzQxZGRlZmY3OTM0M2EzYjA5ZmZmYzdkOWU2YWRiYg==?w=416&amp;h=260&amp;fit=crop&amp;fm=webp&amp;s=86ae6360f05c436922334d2010d80b45"/>
   </programme>
-  <programme start="20250606135000 +0000" stop="20250606143500 +0000" channel="France3FC">
+  <programme start="20250606135000 +0000" stop="20250606143500 +0000" channel="France 3 Bourgogne Complete">
     <title>Rex, chien flic - Action</title>
     <desc>Épisode 3 (S4 E3)
 Libéré sur parole, Novak espère trouver un appui auprès de son ex-épouse. Mais cette dernière a refait sa vie avec un convoyeur de fonds qu'elle a épousé. Toutes ces années de prison ont aiguisé la jalousie de Novak, qui décide de rendre une visite imprévue au nouveau ménage. Lorsqu'il se présente à la porte de leur domicile, son ancienne femme refuse de lui ouvrir. Novak s'en prend alors au mari, qu'il menace de mort. Après s'être défoulé verbalement, Novak quitte les lieux. Quelque temps plus tard, l'époux est retrouvé mort. Il semble qu'il soit tombé accidentellement de sa fenêtre. Mais que pensera la police de cette hypothèse, alors qu'un suspect tout trouvé lui est offert ?...</desc>
     <icon src="https://assets.diverto.tv/media/remote/aHR0cDovL2ltYWdlcy5tZWRpYS1wcmVzcy5jbG91ZC9jZjNjOGM2M2NkMmI0YmViYTJhMTBmMjMyYWFiNDg0YQ==?w=416&amp;h=260&amp;fit=crop&amp;fm=webp&amp;s=da34493881d14acaf143f4617c6fa65f"/>
   </programme>
-  <programme start="20250606143500 +0000" stop="20250606144500 +0000" channel="France3FC">
+  <programme start="20250606143500 +0000" stop="20250606144500 +0000" channel="France 3 Bourgogne Complete">
     <title>La p'tite librairie - Littéraire</title>
     <desc>
 François Busnel propose chaque jour de découvrir ou redécouvrir une oeuvre française ou étrangère : roman, essai, grand classique ou encore bande dessinée.</desc>
     <icon src="https://assets.diverto.tv/media/remote/aHR0cDovL2ltYWdlcy5tZWRpYS1wcmVzcy5jbG91ZC8wMTgyZmNhZjVkNzc0ODA2OTEwNTQyOTA5NGU2NDcxZA==?w=416&amp;h=260&amp;fit=crop&amp;fm=webp&amp;s=ea81ac8b95d16b85a48908541206ea8f"/>
   </programme>
-  <programme start="20250606144500 +0000" stop="20250606152000 +0000" channel="France3FC">
+  <programme start="20250606144500 +0000" stop="20250606152000 +0000" channel="France 3 Bourgogne Complete">
     <title>Duels en familles - Jeu</title>
     <desc>
 Les Français connaissent-ils bien leurs régions ? Deux familles de quatre personnes s'opposent pour remporter des sommes pouvant atteindre plusieurs milliers d'euros. Elles devront trouver les réponses aux questions de Cyril Féraud sur des sujets concernant leurs régions respectives.</desc>
     <icon src="https://assets.diverto.tv/media/remote/aHR0cDovL2ltYWdlcy5tZWRpYS1wcmVzcy5jbG91ZC81YTU2NzQzODllYzg0NWViYmRlOTRlZGViZTFjNWQ3Nw==?w=416&amp;h=260&amp;fit=crop&amp;fm=webp&amp;s=5a56d93c62f28b3b3411408fa3bee1c7"/>
   </programme>
-  <programme start="20250606152000 +0000" stop="20250606160500 +0000" channel="France3FC">
+  <programme start="20250606152000 +0000" stop="20250606160500 +0000" channel="France 3 Bourgogne Complete">
     <title>Slam - Jeu</title>
     <desc>
 Accessible à tous les publics, "Slam" est un jeu de lettres 100% original qui fait la joie des amoureux des mots, des férus de quiz et des adeptes des mots fléchés, en mixant tous les genres, de la géographie aux mathématiques, en passant par la chimie...et bien sûr le français. Au menu: vivacité d'esprit, humour, vocabulaire, orthographe et bien sûr culture générale!</desc>
     <icon src="https://assets.diverto.tv/media/remote/aHR0cDovL2ltYWdlcy5tZWRpYS1wcmVzcy5jbG91ZC84NTQwYmVjOWU0YzU0MTdkODdmZDczNjBiZTIzZTczZg==?w=416&amp;h=260&amp;fit=crop&amp;fm=webp&amp;s=1da6fa42930dfcade55c81f0914d0f89"/>
   </programme>
-  <programme start="20250606160500 +0000" stop="20250606165000 +0000" channel="France3FC">
+  <programme start="20250606160500 +0000" stop="20250606165000 +0000" channel="France 3 Bourgogne Complete">
     <title>Questions pour un champion - Jeu</title>
     <desc>
 Samuel Etienne anime ce jeu emblématique, qui voit chaque soir s'affronter quatre candidats autour de questions de culture générale.</desc>
     <icon src="https://assets.diverto.tv/media/remote/aHR0cDovL2ltYWdlcy5tZWRpYS1wcmVzcy5jbG91ZC84ZjY4YTRkNGU4MTE0M2Q2YjRmNDM1MDY4YzgxMmQ3Mg==?w=416&amp;h=260&amp;fit=crop&amp;fm=webp&amp;s=df2c3944f44c506bcd5e1527da922c62"/>
   </programme>
-  <programme start="20250606165000 +0000" stop="20250606170000 +0000" channel="France3FC">
+  <programme start="20250606165000 +0000" stop="20250606170000 +0000" channel="France 3 Bourgogne Complete">
     <title>La minute curieuse de Papy Léandri - Historique</title>
     <desc>
 </desc>
     <icon src="https://assets.diverto.tv/media/remote/aHR0cDovL2ltYWdlcy5tZWRpYS1wcmVzcy5jbG91ZC8wYTg4ZjE2YzUzZDU0NzIyOTNlOWEwOTYwNGVmMmZiMA==?w=416&amp;h=260&amp;fit=crop&amp;fm=webp&amp;s=88b782a7efe523f3194472dce0c603f1"/>
   </programme>
-  <programme start="20250606170000 +0000" stop="20250606171400 +0000" channel="France3FC">
-    <title>Météo - Franche-Comté - Météo</title>
+  <programme start="20250606170000 +0000" stop="20250606170700 +0000" channel="France 3 Bourgogne Complete">
+    <title>Météo - Bourgogne - Météo</title>
     <desc>
 </desc>
     <icon src="https://assets.diverto.tv/media/remote/aHR0cDovL2ltYWdlcy5tZWRpYS1wcmVzcy5jbG91ZC8yZmVlZjM2ZjQyYTk0OWRjYmZkYmM2YTlmMzY1YzczYg==?w=416&amp;h=260&amp;fit=crop&amp;fm=webp&amp;s=f3d21902aadd8d5e309817582454924b"/>
   </programme>
-  <programme start="20250606171400 +0000" stop="20250606175000 +0000" channel="France3FC">
-    <title>ICI 19/20 - Franche Comté - Journal</title>
+  <programme start="20250606170700 +0000" stop="20250606171400 +0000" channel="France 3 Bourgogne Complete">
+    <title>ICI 19/20 - Rendez-vous chez vous - Journal</title>
     <desc>
-L'information vue d'ici. Chaque soir, le grand journal de votre région, avec toute l'info locale, régionale, nationale et internationale. Des reportages, des invités, des analyses, des rubriques telles que Entre ces murs et Esprit d'équipe pour un traitement de l'actualité en prise directe avec la Franche-Comté.</desc>
-    <icon src="https://assets.diverto.tv/media/remote/aHR0cDovL2ltYWdlcy5tZWRpYS1wcmVzcy5jbG91ZC9hMjBkNzIyMmViOTE0ZjZhYmM4ZmFhNTY2YzQwZTA5NQ==?w=416&amp;h=260&amp;fit=crop&amp;fm=webp&amp;s=22b7778969cd7cf4dde546a9348b959c"/>
+Chaque soir de la semaine, les journalistes de France 3 Bourgogne-Franche-Comté vous font découvrir les villes, les villages et les quartiers de la région. Depuis plusieurs années, ils sillonnent les routes à la rencontre de Bourguignons et de Francs-Comtois qui ont des histoires à nous raconter sur les territoires qu'ils habitent et dans lesquels ils s'investissent.</desc>
+    <icon src="https://assets.diverto.tv/media/remote/aHR0cDovL2ltYWdlcy5tZWRpYS1wcmVzcy5jbG91ZC81M2MzOGQ4NDRhNzE0NjdkOTVjZTE3NTQzMmRkZjIwOA==?w=416&amp;h=260&amp;fit=crop&amp;fm=webp&amp;s=d3fc57def4455689b29f8076c23eb764"/>
   </programme>
-  <programme start="20250606175000 +0000" stop="20250606181000 +0000" channel="France3FC">
+  <programme start="20250606171400 +0000" stop="20250606175000 +0000" channel="France 3 Bourgogne Complete">
+    <title>ICI 19/20 - Bourgogne - Journal</title>
+    <desc>
+L'information vue d'ici. Chaque soir, le grand journal de votre région, avec toute l'info locale, régionale, nationale et internationale. Des reportages, des invités, des analyses, des rubriques telles que Ça se passe ici pour un traitement de l'actualité en prise directe avec la Bourgogne.</desc>
+    <icon src="https://assets.diverto.tv/media/remote/aHR0cDovL2ltYWdlcy5tZWRpYS1wcmVzcy5jbG91ZC85ZTVhMTExNjIyNjI0YzdlOTEzY2JlNWIzNDE4MGU0Nw==?w=416&amp;h=260&amp;fit=crop&amp;fm=webp&amp;s=5038d2ae2ac189dd2ed78d7ad77115d2"/>
+  </programme>
+  <programme start="20250606175000 +0000" stop="20250606181000 +0000" channel="France 3 Bourgogne Complete">
     <title>Tout le sport Roland-Garros - Magazine</title>
     <desc>
 EN DIRECT Cécile Grès et Claire Vocquier Ficot reviennent sur les grands moments de la journée du tournoi depuis la terrasse de Roland-Garros.</desc>
   </programme>
-  <programme start="20250606181000 +0000" stop="20250606182000 +0000" channel="France3FC">
-    <title>Météo - Franche-Comté - Météo</title>
+  <programme start="20250606181000 +0000" stop="20250606182000 +0000" channel="France 3 Bourgogne Complete">
+    <title>Météo - Bourgogne - Météo</title>
     <desc>
 </desc>
     <icon src="https://assets.diverto.tv/media/remote/aHR0cDovL2ltYWdlcy5tZWRpYS1wcmVzcy5jbG91ZC8yZmVlZjM2ZjQyYTk0OWRjYmZkYmM2YTlmMzY1YzczYg==?w=416&amp;h=260&amp;fit=crop&amp;fm=webp&amp;s=f3d21902aadd8d5e309817582454924b"/>
   </programme>
-  <programme start="20250606182000 +0000" stop="20250606182100 +0000" channel="France3FC">
+  <programme start="20250606182000 +0000" stop="20250606182100 +0000" channel="France 3 Bourgogne Complete">
     <title>Dans le rétro - Historique</title>
     <desc>
 "Dans le rétro" propose un voyage dans le temps de trois minutes, grâce aux archives de l'INA.</desc>
     <icon src="https://assets.diverto.tv/media/remote/aHR0cDovL2ltYWdlcy5tZWRpYS1wcmVzcy5jbG91ZC80Mzg3NmYxZjE0NDQ0MjY1OGY0NGIxODdjOWVlYzE0Nw==?w=416&amp;h=260&amp;fit=crop&amp;fm=webp&amp;s=41a430331e271857f2dd44b9092cec7f"/>
   </programme>
-  <programme start="20250606182100 +0000" stop="20250606184000 +0000" channel="France3FC">
+  <programme start="20250606182100 +0000" stop="20250606184000 +0000" channel="France 3 Bourgogne Complete">
     <title>Un si grand soleil - Policier</title>
     <desc>
 Tandis que chez L. Cosmétiques, la tension grimpe entre Boris et Muriel, Laurine cherche une solution pour sortir Louis de la crise où il se trouve.</desc>
     <icon src="https://assets.diverto.tv/media/remote/aHR0cDovL2ltYWdlcy5tZWRpYS1wcmVzcy5jbG91ZC80YmEzYjJkYzVjMmM0ZjFmYmU5ZTk5M2NiYTZhMWM4NA==?w=416&amp;h=260&amp;fit=crop&amp;fm=webp&amp;s=a0c19347d7f19867807c5c2b3472b299"/>
   </programme>
-  <programme start="20250606184000 +0000" stop="20250606190500 +0000" channel="France3FC">
+  <programme start="20250606184000 +0000" stop="20250606190500 +0000" channel="France 3 Bourgogne Complete">
     <title>Un si grand soleil - Policier</title>
     <desc>
 Alors qu'il s'investit dans son affaire, Florent est ciblé par des menaces anonymes. Louis réalise qu'il y a un prix à payer pour éviter de tout perdre.</desc>
     <icon src="https://assets.diverto.tv/media/remote/aHR0cDovL2ltYWdlcy5tZWRpYS1wcmVzcy5jbG91ZC80YmEzYjJkYzVjMmM0ZjFmYmU5ZTk5M2NiYTZhMWM4NA==?w=416&amp;h=260&amp;fit=crop&amp;fm=webp&amp;s=a0c19347d7f19867807c5c2b3472b299"/>
   </programme>
-  <programme start="20250606190500 +0000" stop="20250606211500 +0000" channel="France3FC">
+  <programme start="20250606190500 +0000" stop="20250606211500 +0000" channel="France 3 Bourgogne Complete">
     <title>La carte aux trésors - Jeu</title>
     <desc>
 Cyril Féraud et les deux candidats, Claire et Raphaël, se rendent en Saône-et-Loire, où ils évolueront dans une zone de jeu qui s'étendra de Rully jusqu'à Mâcon, en passant par Charolles, Cluny et Tournus. Claire et Raphaël devront résoudre des énigmes pour découvrir le Trésor et s'élancer dans un jeu de piste géant qui les emmènera à la découverte des plus beaux châteaux du département.</desc>
   </programme>
-  <programme start="20250606211500 +0000" stop="20250606232000 +0000" channel="France3FC">
+  <programme start="20250606211500 +0000" stop="20250606232000 +0000" channel="France 3 Bourgogne Complete">
     <title>La carte aux trésors - Jeu</title>
     <desc>
 Dans les Bouches-du-Rhône, l'équipe de la "La carte aux trésors" est accueillie par les Alphajets de la Patrouille de France. La zone de jeu s'étendra de Saint-Rémy-de-Provence, face aux Alpilles, jusqu'aux Saintes-Maries-de-la-Mer, au sud. Les deux candidats, Pauline et Fabrice, traverseront la Camargue puis partiront sur les traces des artistes célèbres qui ont trouvé l'inspiration en Provence,.</desc>
@@ -3941,6 +4260,102 @@ Tessa Quayle, avocate et militante des droits de l'homme, meurt en Afrique dans 
     <desc>De Yann Gozlan avec Pierre Niney, Lou de Laâge, André Dussollier, Sébastien Pouderoux, Olivier Rabourdin
 Après qu'un avion reliant Dubaï à Paris se soit écrasé dans le massif alpin, le bureau d'enquêtes et analyses pour la sécurité de l'aviation civile envoie un de ses meilleurs techniciens, Mathieu Vasseur, pour tenter de percer les mystères de ce drame. Rapidement, le jeune homme s'attaque à l'étude de la boîte noire. Il ne tarde pas à tirer des conclusions, et fait notamment part de ses doutes à ses supérieurs, convaincu que quelqu'un a falsifié les données de l'enregistrement. Le jugeant trop curieux, ces derniers lui ordonnent de stopper son enquête. Mathieu poursuit ses investigations seul, loin des regards indiscrets...</desc>
     <icon src="https://assets.diverto.tv/media/remote/aHR0cHM6Ly9pbWFnZS50bWRiLm9yZy90L3AvL29yaWdpbmFsLy8xS0lXcjgzR1BlTzFaNTRsbmR6czJINE9vQmUuanBn?w=416&amp;h=260&amp;fit=crop&amp;fm=webp&amp;s=f87299581d2e2927ac78b693a31d04ea"/>
+  </programme>
+  <programme start="20250606015000 +0200" stop="20250606031800 +0200" channel="CanalPlusBoxOffice">
+    <title>Survivre - Film de science-fiction (2024)</title>
+    <desc>De Frédéric Jardin avec Emilie Dequenne, Frank, Lisa Delamar, Lucas Ebel, Arben Bajraktaraj
+Alors qu'ils naviguent dans la mer des Caraïbes avec leurs deux enfants, Julia et Tom se retrouvent soudain pris au milieu d'une violente tempête. Pris de court, ils luttent contre les gigantesques vagues tout en appelant les secours à l'aide par radio. Une fois le calme revenu, le couple constate avec stupéfaction que l'océan a disparu. Ils apprennent bientôt la raison de ce chaos : les pôles magnétiques de la Terre se sont inversés. Les océans ont anéanti les continents, laissant derrière eux un vaste désert. Livrés à eux-mêmes, ils doivent faire face à d'inquiétantes créatures qui surgissent des profondeurs...</desc>
+    <icon src="https://www.programme-tv.net/imgre/fit/https.3A.2F.2Fs1.2Edmcdn.2Enet.2Fv.2FY4SHu1dsN0uLkappF/640x360/crop-from/top/quality/80/survivre.jpg"/>
+  </programme>
+  <programme start="20250606031800 +0200" stop="20250606044100 +0200" channel="CanalPlusBoxOffice">
+    <title>Colocs de choc ⭐️⭐️️ - Comédie (2024)</title>
+    <desc>De Elodie Lélu avec Fantine Harduin, Hélène Vincent, Olivier Gourmet, Emilie Dequenne, Rita Benmannana
+Yvonne Blain, une avocate à la retraite, a été retrouvée errante dans un supermarché en pleine nuit. Son gendre, Laurent Grenelle est aussitôt averti et, accompagné de sa fille Manon, il emmène la septuagénaire à un rendez-vous chez une neurologue. Après quelques examens, le résultat est clair : Yvonne est atteinte de la maladie d'Alzheimer et va nécessiter une surveillance permanente. Afin qu'Yvonne ne soit pas hospitalisée, Laurent et Manin acceptent de venir vivre chez elle, au moins pour un temps. Mais Yvonne, féministe et engagée, a beaucoup de choses à reprocher au comportement passé de Laurent.</desc>
+    <icon src="https://www.programme-tv.net/imgre/fit/~2~backoffice~program~99a2064c94cd999e64a9f85260c11fda.jpg/630x355/focus-point/796,511/quality/80/colocs-de-choc.jpg"/>
+  </programme>
+  <programme start="20250606044100 +0200" stop="20250606075800 +0200" channel="CanalPlusBoxOffice">
+    <title>Fin des programmes - Fin</title>
+    <desc>
+Nos programmes se terminent pour cette journée, en attendant ceux de demain.</desc>
+    <icon src="https://www.programme-tv.net/imgre/fit/~2~program~6d4618b157c53b35.jpeg/630x355/quality/80/fin-des-programmes.jpeg"/>
+  </programme>
+  <programme start="20250606075800 +0200" stop="20250606082200 +0200" channel="CanalPlusBoxOffice">
+    <title>Tchi tcha - Magazine du cinéma</title>
+    <desc>
+TCHI TCHA traite de tous les cinémas avec curiosité à travers des sujets, des entretiens et quelques pépites !</desc>
+    <icon src="https://www.programme-tv.net/imgre/fit/~2~program~e526f7966e031f5c.jpeg/630x355/quality/80/tchi-tcha.jpeg"/>
+  </programme>
+  <programme start="20250606082200 +0200" stop="20250606095600 +0200" channel="CanalPlusBoxOffice">
+    <title>Au fil des saisons - Court métrage d'animation</title>
+    <desc>
+Programme de cinq courts métrages d'animation. «Le journal d’Ochibi». Une petite fille se promène au fil des saisons avec des objets du quotidien. - «Vol au vent». Un petit garçon s’efforce de faire voler aussi longtemps et aussi haut que possible son cerf-volant en papier. - «Hee Hee Hatty». Un petit garçon, Hitty, vit une folle aventure avec son chapeau en papier, Hatty. - «Novembre». Alors que l’automne vient de commencer, des petits animaux s’activent pour préparer la grande saison hivernale. - «Petit Frère Hiver». Un petit garçon tente de trouver sa place alors que sa grande soeur et ses amis refusent de s’amuser avec lui et lui jouent de mauvais tours...</desc>
+    <icon src="https://www.programme-tv.net/imgre/fit/https.3A.2F.2Fs2.2Edmcdn.2Enet.2Fv.2FXwwSA1dkAOTF4fy3B/640x360/crop-from/top/quality/80/au-fil-des-saisons.jpg"/>
+  </programme>
+  <programme start="20250606095600 +0200" stop="20250606113000 +0200" channel="CanalPlusBoxOffice">
+    <title>Une affaire de principe - Drame (2024)</title>
+    <desc>De Antoine Raimbault avec Bouli Lanners, Thomas VDB, Céleste Brunnquell, Lisa Loven Kongsli, Lisa Karlström
+A Bruxelles, en 2012. John Dalli, homme politique maltais et commissaire européen chargé de la santé et de la politique des consommateurs, est limogé du jour au lendemain, dans la plus grande opacité. Surpris, José Bové, lui-même député européen, et ses assistants parlementaires décident de mener leur propre enquête, déterminés à découvrir les tenants et les aboutissants de cette décision aussi inattendue que controversée. Rapidement, leurs investigations mettent au jour un complot ourdi par la puissante industrie du tabac, un coup monté de toutes pièces qui menace de déstabiliser les instances européennes jusqu'à leur sommet...</desc>
+    <icon src="https://www.programme-tv.net/imgre/fit/https.3A.2F.2Fs2.2Edmcdn.2Enet.2Fv.2FY00VQ1do6udpKvwoL/640x360/crop-from/top/quality/80/une-affaire-de-principe.jpg"/>
+  </programme>
+  <programme start="20250606113000 +0200" stop="20250606130200 +0200" channel="CanalPlusBoxOffice">
+    <title>Neuilly-Poissy - Comédie (2024)</title>
+    <desc>De Grégory Boutboul avec Max Boublil, Mélanie Bernier, Claudia Tagbo, Steve Tientcheu, Malik Amraoui
+Daniel Abissera, à la tête de d'une chaine de restaurants, mène une vie prospère avec son épouse Lisa et leur fils. Mais cette existence de rêve bascule quand la police l'arrête avant de perquisitionner chez lui. En plus d'une importante somme d'argent dissimulée au fisc, les forces de l'ordre découvrent que Daniel emploie plusieurs clandestins dans ses établissements. Après un rapide passage dans le bureau du juge, Daniel est aussitôt envoyé en prison. Là, il découvre tout de suite un environnement particulièrement hostile, où il doit apprendre à survivre.</desc>
+    <icon src="https://www.programme-tv.net/imgre/fit/https.3A.2F.2Fs1.2Edmcdn.2Enet.2Fv.2FXhq5S1dYGlO3vmku-/640x360/crop-from/top/quality/80/neuilly-poissy.jpg"/>
+  </programme>
+  <programme start="20250606130200 +0200" stop="20250606131400 +0200" channel="CanalPlusBoxOffice">
+    <title>L'hebd'Hollywood - Magazine du cinéma</title>
+    <desc>
+Entre événements, indiscrétions et exclusivités, le journaliste Didier Allouch propose chaque semaine, depuis Los Angeles, un décryptage très personnel de l'actualité du cinéma américain. News sur les tournages, tendances, films en salles, stars : la cité des Anges livre tous ses secrets. Invité sur les tournages des films, L'Hebd'Hollywood dévoile les projets les plus excitants de la saison. Le magazine trace ainsi au jour le jour la chronique de la vie à Hollywood, des grands studios aux indépendants, des stars aux étoiles montantes.</desc>
+    <icon src="https://www.programme-tv.net/imgre/fit/~2~program~9c4d880980efc811.jpeg/630x355/quality/80/l-hebd-hollywood.jpeg"/>
+  </programme>
+  <programme start="20250606131400 +0200" stop="20250606144600 +0200" channel="CanalPlusBoxOffice">
+    <title>Old Guy ⭐️️ - Thriller (2024)</title>
+    <desc>De Simon West avec Christoph Waltz, Lucy Liu, Cooper Hoffman, Desmond Eastwood, Ryan McParland
+Danny Dolinski se remet tout doucement d'une douleur à l'avant-bras, liée à une arthrite qui ne lui laisse plus de répit. Le tueur à gages vieillissant mais à la longue expérience apprend en même temps de sa patronne, Opal, qu'il ne sera plus envoyé en mission que pour accompagner Wihlborg, un jeune tueur, qui doit encore faire ses preuves. Consterné par cette décision, mais comprenant qu'il n'a pas d'autre choix, Dolinski accepte d'accompagner Wihlborg pour une mission en Irlande du Nord. Très rapidement, le vétéran comprend qu'il n'a pas d'affinités avec la jeune recrue.</desc>
+    <icon src="https://www.programme-tv.net/imgre/fit/https.3A.2F.2Fs2.2Edmcdn.2Enet.2Fv.2FYA7kK1dxL9THrWNng/640x360/crop-from/top/quality/80/old-guy.jpg"/>
+  </programme>
+  <programme start="20250606144600 +0200" stop="20250606161500 +0200" channel="CanalPlusBoxOffice">
+    <title>Royal hôtel ⭐️⭐️️ - Thriller (2023)</title>
+    <desc>De Kitty Green avec Julia Garner, Jessica Henwick, Herbert Nordrum, Ursula Yovich, Hugo Weaving
+Hanna et Liv, deux touristes américaines, sont en train de faire la fête dans un club en vue de Sydney, quand elles s'aperçoivent qu'elles n'ont plus de fonds pour financer la suite de leur séjour en Australie. Les deux jeunes femmes se rendent aussitôt dans une agence d'intérim où on leur propose un poste de serveuses au Royal Hotel, un pub situé en plein coeur de l'Outback australien. Après un long voyage en car, les deux touristes découvrent les lieux et les deux actuelles serveuses, deux britanniques, qui vont bientôt leur céder leur place. Elles découvrent la clientèle du bar, majoritairement constituée d'hommes frustes et alcoolisés.</desc>
+    <icon src="https://www.programme-tv.net/imgre/fit/https.3A.2F.2Fs2.2Edmcdn.2Enet.2Fv.2FXs5B61dh7xd-TDbbU/640x360/crop-from/top/quality/80/royal-hotel.jpg"/>
+  </programme>
+  <programme start="20250606161500 +0200" stop="20250606174700 +0200" channel="CanalPlusBoxOffice">
+    <title>Berlin Nobody - Thriller (2024)</title>
+    <desc>De Jordan Scott avec Eric Bana, Sylvia Hoeks, Sadie Sink, Jonas Dassler, Sophie Rois
+Ben Monroe, expatrié américain et psychologue social, emménage à Berlin pour approfondir ses recherches sur les mentalités sectaires, notamment quand elles poussent les adeptes à se livrer à des suicides collectifs. Alors qu'il parvient à infiltrer une secte allemande, Mazzy, sa fille adolescente en pleine phase de rébellion, se lie avec un garçon mystérieux et énigmatique. Alors que ces deux mondes entrent en collision, Mazzy se retrouve en grand danger et Ben devra se livrer à une véritable course contre la montre pour sauver sa fille...</desc>
+    <icon src="https://www.programme-tv.net/imgre/fit/https.3A.2F.2Fs2.2Edmcdn.2Enet.2Fv.2FXeglk1dVR4jI2odwh/640x360/crop-from/top/quality/80/berlin-nobody.jpg"/>
+  </programme>
+  <programme start="20250606174700 +0200" stop="20250606194200 +0200" channel="CanalPlusBoxOffice">
+    <title>Les rois de la piste ⭐️⭐️️ - Comédie dramatique (2023)</title>
+    <desc>De Thierry Klifa avec Fanny Ardant, Mathieu Kassovitz, Laetitia Dosch, Nicolas Duvauchelle, Ben Attal
+Rachel Zimmerman est à la tête d'une étrange famille. Alors qu'elle trouve des postes de domestique dans des appartements très bourgeois, ses fils Sam et Jérémie et son petit-fils Nathan en profitent pour dévaliser discrètement les invités des dîners qu'ils donnent. Mais un soir, rien ne se passe comme prévu et Nathan est arrêté par la police. Quelques années plus tard, Nathan sort de prison et la famille Zimmerman est totalement désunie. Jérémie a disparu et Sam, le père de Nathan, est devenu agent de sécurité dans un casino. C'est dans un établissement d'Enghien qu'il croise le chemin de Nelly.</desc>
+    <icon src="https://www.programme-tv.net/imgre/fit/https.3A.2F.2Fs1.2Edmcdn.2Enet.2Fv.2FY8TbK1dvc-0vOHNXR/640x360/crop-from/top/quality/80/les-rois-de-la-piste.jpg"/>
+  </programme>
+  <programme start="20250606194200 +0200" stop="20250606210000 +0200" channel="CanalPlusBoxOffice">
+    <title>Le deuxième acte ⭐️⭐️⭐️⭐️ - Comédie noire (2024)</title>
+    <desc>De Quentin Dupieux avec Léa Seydoux, Louis Garrel, Vincent Lindon, Raphaël Quenard, Manuel Guillot
+David et son ami Willy cheminent vers un restaurant, Le deuxième acte, en pleine campagne. David est embarrassé par la passion que semble lui vouer Florence, qui ne lui plait pas, et demande à Willy de l'accompagner afin qu'il la séduise. Dans le même temps, Florence est en voiture avec son père, Guillaume, qu'elle souhaite présenter à David. Mais l'homme se demande si sa fille ne s'est pas encore une fois entichée d'un homme qui ne s'intéresse pas à elle. Tous ces personnages, tandis qu'ils évoluent vers le lieu où ils vont se rencontrer, s'adressent parfois à la caméra, car un film est en train d'être réalisé.</desc>
+    <icon src="https://www.programme-tv.net/imgre/fit/~2~backoffice~program~8adb287d76b128d9beba0a0808d5e229.jpg/630x355/focus-point/960,540/quality/80/le-deuxieme-acte.jpg"/>
+  </programme>
+  <programme start="20250606210000 +0200" stop="20250606222800 +0200" channel="CanalPlusBoxOffice">
+    <title>L'Heureuse élue ⭐️⭐️️ - Comédie (2024)</title>
+    <desc>De Frank Bellocq avec Camille Lellouche, Lionel Erdogan, Michèle Laroque, Gérard Darmon, Amaury de Crayencour
+Dans la comédie &lt;i&gt;L'Heureuse élue,&lt;/i&gt; réalisée en 2024, Benoît (Lionel Erdogan) se trouve embarqué dans une situation pour le moins périlleuse. En effet, &lt;b&gt;il doit rapidement rembourser une dette de 100 000 euros à Ange, un criminel au tempérament impitoyable, qui n'hésitera pas à recourir à la violence pour récupérer son argent.&lt;/b&gt; Paniqué, Benoît décide de contacter sa mère, Solange (Michèle Laroque), qui est actuellement en vacances à Marrakech avec son mari, Roland (Gérard Darmon). Il espère alors obtenir de l'aide financière, mais à sa grande déception, Solange lui annonce qu'elle a tiré un trait sur ses prêts d'argent, lassée par les mésaventures financières de son fils.&lt;div&gt;&lt;br&gt;.</desc>
+    <icon src="https://www.programme-tv.net/imgre/fit/https.3A.2F.2Fs1.2Edmcdn.2Enet.2Fv.2FYTceW1eD9A-enSiyv/640x360/crop-from/top/quality/80/l-heureuse-elue.jpg"/>
+  </programme>
+  <programme start="20250606222800 +0200" stop="20250606235800 +0200" channel="CanalPlusBoxOffice">
+    <title>Ici et là-bas - Comédie (2024)</title>
+    <desc>De Ludovic Bernard avec Ahmed Sylla, Hakim Jemili, Hugo Becker, Luiza Benaïssa, Annelise Hesme
+Alors qu'il vit paisiblement au Sénégal depuis une quinzaine d'années aux côtés d'Aminata, son épouse, Adrien se voit soudain contraint de plier bagages et de rentrer temporairement en France en raison d'un problème administratif. A Paris, il est hébergé par Sékou, un cousin de sa femme. Celui-ci, un commercial, est chargé par son employeuse d'une mission inhabituelle pour lui : se rendre aux quatre coins de la France pour y rencontrer des clients. Les enjeux sont élevés pour Sékou. En effet, son avenir dans l'entreprise dépend de sa réussite sur un terrain, la province, qu'il ne connaît pas. Il n'a pas d'autre choix que d'embarquer Adrien dans un périple qui s'annonce imprévisible...</desc>
+    <icon src="https://www.programme-tv.net/imgre/fit/https.3A.2F.2Fs2.2Edmcdn.2Enet.2Fv.2FXhq8g1dYGoTRwBC_q/640x360/crop-from/top/quality/80/ici-et-la-bas.jpg"/>
+  </programme>
+  <programme start="20250606235800 +0200" stop="20250607013100 +0200" channel="CanalPlusBoxOffice">
+    <title>Les pistolets en plastique ⭐️⭐️️ - Comédie (2024)</title>
+    <desc>De Jean-Christophe Meurisse avec Laurent Stocker, Delphine Baril, Charlotte Laemmel, Gaëtan Peau, Anthony Paliotti
+John et Johnny, médecins légistes, évoquent l'admiration qu'ils portent à Zavatta, redoutable profileur doublé d'un restaurateur et d'un talentueux musiciens. Ce même Zavatta est justement à l'aéroport, sur le point de partir en vacances au Mexique avec sa femme Lucille et leurs deux enfants. C'est alors que dans les toilettes, il aperçoit un homme qui pourrait bien être Paul Bernardin, un homme recherché par toutes les polices pour avoir tué sa femme et ses trois enfants avant de disparaître sans laisser de traces. Pendant ce temps, Léa Blanchard et Christine Valet-Dubreuil, enquêtrices non professionnelles, tentent par tous les moyens de retrouver le même Paul Bernardin.</desc>
+    <icon src="https://www.programme-tv.net/imgre/fit/https.3A.2F.2Fs2.2Edmcdn.2Enet.2Fv.2FXoDeO1deDRQcaTzsG/640x360/crop-from/top/quality/80/les-pistolets-en-plastique.jpg"/>
   </programme>
   <programme start="20250606012000 +0000" stop="20250606030800 +0000" channel="OCS">
     <title>Black Tea - Romance (2024)</title>
@@ -4833,6 +5248,210 @@ Sherlock Holmes et le fidèle docteur Watson ont réussi à faire arrêter lord 
     <desc>De Harald Zwart avec Lily Collins, Jamie Campbell Bower, Robert Sheehan, Kevin Zegers, Lena Headey
 Clarissa "Clary" Fray, 15 ans, est une jeune et intrépide adolescente qui vit à New York. Lors d'une soirée dans un club, le Charivari, elle découvre un spectacle effrayant et plusieurs personnes vêtues de noir qu'elle seule peut apercevoir. Quand sa mère disparaît, capturée par d'étranges créatures, Clary découvre le monde des Chasseurs d'ombres et des Créatures obscures comme les vampires, les loups-garous et les démons. Accompagnée de Jace et d'autres Chasseurs d'ombres, Clary va explorer ce monde particulier et dangereux, et prendre tous les risques pour tenter de sauver sa mère...</desc>
     <icon src="https://assets.diverto.tv/media/remote/aHR0cHM6Ly9pbWFnZS50bWRiLm9yZy90L3AvL29yaWdpbmFsLy96NG5LZVpwUENyVGlmUzZwenpLOHZObGVBRGwuanBn?w=416&amp;h=260&amp;fit=crop&amp;fm=webp&amp;s=c4014e85e72aa4143a0d3928a3b27cb1"/>
+  </programme>
+  <programme start="20250606002600 +0000" stop="20250606002700 +0000" channel="ComediePlus">
+    <title>Le Luron en campagne - Culture</title>
+    <desc>
+Trublion de la classe politique, Thierry Le Luron a brocardé, imité, voire caricaturé, à la perfection les hommes politiques de son temps, à commencer par Valery Giscard d'Estaing, François Mitterrand, et Jacques Chirac. Certains l'ont accepté avec le sourire, d'autres l'ont très mal pris, et lui ont même parfois envoyé les contrôleurs du fisc... Observer l'air de son temps lui a permis d'en interpréter beaucoup d'autres : des airs devenus des succès grâce à des chanteuses et des chanteurs illustres, de Dalida à Julien Clerc en passant par Charles Aznavour et Line Renaud. Il les a interprétés avec la voix de leur créateur, sur des paroles, souvent féroces, inspirées de l'actualité. Il a ainsi ouvert la voie aux imitateurs d'aujourd'hui...</desc>
+    <icon src="https://assets.diverto.tv/media/remote/aHR0cDovL2ltYWdlcy5tZWRpYS1wcmVzcy5jbG91ZC80MGNhODJhOGM0MTM0NWVjOThiOTg0MGFjZGU3MWFiMQ==?w=416&amp;h=260&amp;fit=crop&amp;fm=webp&amp;s=5d0b05387f225e4d9e6f8277a6b0ddf6"/>
+  </programme>
+  <programme start="20250606002700 +0000" stop="20250606035900 +0000" channel="ComediePlus">
+    <title>Programmes de la nuit - Indéterminé</title>
+    <desc>
+A suivre, des rediffusions des émissions de la chaîne, ainsi que des documentaires et autres reportages destinés à divertir les couche-tard comme les lève-tôt.</desc>
+    <icon src="https://assets.diverto.tv/media/remote/aHR0cDovL2ltYWdlcy5tZWRpYS1wcmVzcy5jbG91ZC9iMzg1Nzk3MTk3Y2Q0NGQzOTdkMmYwYTBhNWRlYjNlOA==?w=416&amp;h=260&amp;fit=crop&amp;fm=webp&amp;s=62190386b136f94f031f72e8491eb977"/>
+  </programme>
+  <programme start="20250606035900 +0000" stop="20250606041700 +0000" channel="ComediePlus">
+    <title>Génération Guignols - Divertissement</title>
+    <desc>
+Edouard Balladur, Jacques Toubon et Jean-Louis Debré en rois mages, Johnny Hallyday au pied du sapin, Thierry Roland et Jean-Michel Larqué dans un chalet enneigé avec leurs amis footballeurs, et comme il se doit Jacques Chirac en père Noël : ce sont les fêtes de fin d'année vues par les Guignols.</desc>
+    <icon src="https://assets.diverto.tv/media/remote/aHR0cDovL2ltYWdlcy5tZWRpYS1wcmVzcy5jbG91ZC85ZmQxZjNlMWIwMDY0ZjljYTAzODI5OGVkMzFkZWNhYQ==?w=416&amp;h=260&amp;fit=crop&amp;fm=webp&amp;s=f78481c6260e190ab05f9ec1ca4d79ca"/>
+  </programme>
+  <programme start="20250606041700 +0000" stop="20250606042500 +0000" channel="ComediePlus">
+    <title>Génération Guignols - Divertissement</title>
+    <desc>
+Edouard Balladur, Jacques Toubon et Jean-Louis Debré en rois mages, Johnny Hallyday au pied du sapin, Thierry Roland et Jean-Michel Larqué dans un chalet enneigé avec leurs amis footballeurs, et comme il se doit Jacques Chirac en père Noël : ce sont les fêtes de fin d'année vues par les Guignols.</desc>
+    <icon src="https://assets.diverto.tv/media/remote/aHR0cDovL2ltYWdlcy5tZWRpYS1wcmVzcy5jbG91ZC85ZmQxZjNlMWIwMDY0ZjljYTAzODI5OGVkMzFkZWNhYQ==?w=416&amp;h=260&amp;fit=crop&amp;fm=webp&amp;s=f78481c6260e190ab05f9ec1ca4d79ca"/>
+  </programme>
+  <programme start="20250606042500 +0000" stop="20250606044200 +0000" channel="ComediePlus">
+    <title>Génération Guignols - Divertissement</title>
+    <desc>
+Les élections législatives sont l'occasion de rebattre les cartes. Pour les Guignols, c'est surtout l'occasion de débats mémorables entre caciques des différents partis politiques, sous l'oeil atterré de PPD. Au temps où les campagnes étaient disputées, cela donnait lieu à quelques joutes , dont certaines sont restées dans les mémoires.</desc>
+    <icon src="https://assets.diverto.tv/media/remote/aHR0cDovL2ltYWdlcy5tZWRpYS1wcmVzcy5jbG91ZC8zZGMzODY0NGM4MjI0MTgzOTAyYTM1NjhiNGQyNzUzMw==?w=416&amp;h=260&amp;fit=crop&amp;fm=webp&amp;s=7a04ed9e5bb137926846b2c728e60f00"/>
+  </programme>
+  <programme start="20250606044200 +0000" stop="20250606044900 +0000" channel="ComediePlus">
+    <title>Génération Guignols - Divertissement</title>
+    <desc>
+Les élections législatives sont l'occasion de rebattre les cartes. Pour les Guignols, c'est surtout l'occasion de débats mémorables entre caciques des différents partis politiques, sous l'oeil atterré de PPD. Au temps où les campagnes étaient disputées, cela donnait lieu à quelques joutes , dont certaines sont restées dans les mémoires.</desc>
+    <icon src="https://assets.diverto.tv/media/remote/aHR0cDovL2ltYWdlcy5tZWRpYS1wcmVzcy5jbG91ZC8zZGMzODY0NGM4MjI0MTgzOTAyYTM1NjhiNGQyNzUzMw==?w=416&amp;h=260&amp;fit=crop&amp;fm=webp&amp;s=7a04ed9e5bb137926846b2c728e60f00"/>
+  </programme>
+  <programme start="20250606044900 +0000" stop="20250606050500 +0000" channel="ComediePlus">
+    <title>Génération Guignols - Divertissement</title>
+    <desc>
+La musique tient une place considérable au sein de la culture. Les musiciens sont de vrais influenceurs. Aussi, c'est souvent en chanson que les Guignols ont fait passer certains de leurs messages : et pas seulement Francis Cabrel et Florent Pagny. Magie des Guignols, les grands de ce monde s'y sont mis aussi : Merkel et Macron, Poutine et Trump, et même Kim.</desc>
+    <icon src="https://assets.diverto.tv/media/remote/aHR0cDovL2ltYWdlcy5tZWRpYS1wcmVzcy5jbG91ZC8zM2ViMzFmOTE2Y2Y0ZTI3YmFkZTlhNGE1YzkwODljNQ==?w=416&amp;h=260&amp;fit=crop&amp;fm=webp&amp;s=605dcb52e16558ff052b42037d3975ef"/>
+  </programme>
+  <programme start="20250606050500 +0000" stop="20250606051600 +0000" channel="ComediePlus">
+    <title>Génération Guignols - Divertissement</title>
+    <desc>
+La musique tient une place considérable au sein de la culture. Les musiciens sont de vrais influenceurs. Aussi, c'est souvent en chanson que les Guignols ont fait passer certains de leurs messages : et pas seulement Francis Cabrel et Florent Pagny. Magie des Guignols, les grands de ce monde s'y sont mis aussi : Merkel et Macron, Poutine et Trump, et même Kim.</desc>
+    <icon src="https://assets.diverto.tv/media/remote/aHR0cDovL2ltYWdlcy5tZWRpYS1wcmVzcy5jbG91ZC8zM2ViMzFmOTE2Y2Y0ZTI3YmFkZTlhNGE1YzkwODljNQ==?w=416&amp;h=260&amp;fit=crop&amp;fm=webp&amp;s=605dcb52e16558ff052b42037d3975ef"/>
+  </programme>
+  <programme start="20250606051600 +0000" stop="20250606053200 +0000" channel="ComediePlus">
+    <title>Génération Guignols - Divertissement</title>
+    <desc>
+De Michel Rocard en 1991 à Edouard Philippe en 2017, les Guignols font un tour d'horizon d'une fonction ingrate, Premier ministre, qui a vu valser les Balladur, les Raffarin, les Jospin et les Fillon. Et qui se souvient encore du passage remarqué du si charismatique Jean-Marc Ayrault à Matignon ?</desc>
+    <icon src="https://assets.diverto.tv/media/remote/aHR0cDovL2ltYWdlcy5tZWRpYS1wcmVzcy5jbG91ZC9kYTk0MzFkZmM0MWQ0OGMyYjAxODkzZTVhMTFkMzU3YQ==?w=416&amp;h=260&amp;fit=crop&amp;fm=webp&amp;s=7341dfb80c74937925142ce6e482b46b"/>
+  </programme>
+  <programme start="20250606053200 +0000" stop="20250606054400 +0000" channel="ComediePlus">
+    <title>Génération Guignols - Divertissement</title>
+    <desc>
+De Michel Rocard en 1991 à Edouard Philippe en 2017, les Guignols font un tour d'horizon d'une fonction ingrate, Premier ministre, qui a vu valser les Balladur, les Raffarin, les Jospin et les Fillon. Et qui se souvient encore du passage remarqué du si charismatique Jean-Marc Ayrault à Matignon ?</desc>
+    <icon src="https://assets.diverto.tv/media/remote/aHR0cDovL2ltYWdlcy5tZWRpYS1wcmVzcy5jbG91ZC9kYTk0MzFkZmM0MWQ0OGMyYjAxODkzZTVhMTFkMzU3YQ==?w=416&amp;h=260&amp;fit=crop&amp;fm=webp&amp;s=7341dfb80c74937925142ce6e482b46b"/>
+  </programme>
+  <programme start="20250606054400 +0000" stop="20250606060000 +0000" channel="ComediePlus">
+    <title>Le zap - Divertissement</title>
+    <desc>
+Ce zapping est dédié à la génération qui a grandi avec une télécommande à portée de main : vidéos amateurs, people, passages télé... Sur Internet on retrouve de séquences toutes plus drôles et plus insolites les unes que les autres. LE ZAP a ainsi découvert les plus belles chutes, des fous rires mémorables, des performances étonnantes.</desc>
+    <icon src="https://assets.diverto.tv/media/remote/aHR0cDovL2ltYWdlcy5tZWRpYS1wcmVzcy5jbG91ZC9kZGYxZGU2M2VkNzU0NmU2YTBmMGMxNGE4OGYzNzM0Mg==?w=416&amp;h=260&amp;fit=crop&amp;fm=webp&amp;s=6fcd235d1999c86e0f75c22ff5326cca"/>
+  </programme>
+  <programme start="20250606060000 +0000" stop="20250606070800 +0000" channel="ComediePlus">
+    <title>Le zap - Divertissement</title>
+    <desc>
+Ce zapping est dédié à la génération qui a grandi avec une télécommande à portée de main : vidéos amateurs, people, passages télé... Sur Internet on retrouve de séquences toutes plus drôles et plus insolites les unes que les autres. LE ZAP a ainsi découvert les plus belles chutes, des fous rires mémorables, des performances étonnantes.</desc>
+    <icon src="https://assets.diverto.tv/media/remote/aHR0cDovL2ltYWdlcy5tZWRpYS1wcmVzcy5jbG91ZC9kZGYxZGU2M2VkNzU0NmU2YTBmMGMxNGE4OGYzNzM0Mg==?w=416&amp;h=260&amp;fit=crop&amp;fm=webp&amp;s=6fcd235d1999c86e0f75c22ff5326cca"/>
+  </programme>
+  <programme start="20250606070800 +0000" stop="20250606072300 +0000" channel="ComediePlus">
+    <title>Le zap - Divertissement</title>
+    <desc>
+Ce zapping est dédié à la génération qui a grandi avec une télécommande à portée de main : vidéos amateurs, people, passages télé... Sur Internet on retrouve de séquences toutes plus drôles et plus insolites les unes que les autres. LE ZAP a ainsi découvert les plus belles chutes, des fous rires mémorables, des performances étonnantes.</desc>
+    <icon src="https://assets.diverto.tv/media/remote/aHR0cDovL2ltYWdlcy5tZWRpYS1wcmVzcy5jbG91ZC9kZGYxZGU2M2VkNzU0NmU2YTBmMGMxNGE4OGYzNzM0Mg==?w=416&amp;h=260&amp;fit=crop&amp;fm=webp&amp;s=6fcd235d1999c86e0f75c22ff5326cca"/>
+  </programme>
+  <programme start="20250606072300 +0000" stop="20250606083100 +0000" channel="ComediePlus">
+    <title>Le zap - Divertissement</title>
+    <desc>
+Ce zapping est dédié à la génération qui a grandi avec une télécommande à portée de main : vidéos amateurs, people, passages télé... Sur Internet on retrouve de séquences toutes plus drôles et plus insolites les unes que les autres. LE ZAP a ainsi découvert les plus belles chutes, des fous rires mémorables, des performances étonnantes.</desc>
+    <icon src="https://assets.diverto.tv/media/remote/aHR0cDovL2ltYWdlcy5tZWRpYS1wcmVzcy5jbG91ZC9kZGYxZGU2M2VkNzU0NmU2YTBmMGMxNGE4OGYzNzM0Mg==?w=416&amp;h=260&amp;fit=crop&amp;fm=webp&amp;s=6fcd235d1999c86e0f75c22ff5326cca"/>
+  </programme>
+  <programme start="20250606083100 +0000" stop="20250606084600 +0000" channel="ComediePlus">
+    <title>Le zap - Divertissement</title>
+    <desc>
+Ce zapping est dédié à la génération qui a grandi avec une télécommande à portée de main : vidéos amateurs, people, passages télé... Sur Internet on retrouve de séquences toutes plus drôles et plus insolites les unes que les autres. LE ZAP a ainsi découvert les plus belles chutes, des fous rires mémorables, des performances étonnantes.</desc>
+    <icon src="https://assets.diverto.tv/media/remote/aHR0cDovL2ltYWdlcy5tZWRpYS1wcmVzcy5jbG91ZC9kZGYxZGU2M2VkNzU0NmU2YTBmMGMxNGE4OGYzNzM0Mg==?w=416&amp;h=260&amp;fit=crop&amp;fm=webp&amp;s=6fcd235d1999c86e0f75c22ff5326cca"/>
+  </programme>
+  <programme start="20250606084600 +0000" stop="20250606095700 +0000" channel="ComediePlus">
+    <title>Le zap - Divertissement</title>
+    <desc>
+Ce zapping est dédié à la génération qui a grandi avec une télécommande à portée de main : vidéos amateurs, people, passages télé... Sur Internet on retrouve de séquences toutes plus drôles et plus insolites les unes que les autres. LE ZAP a ainsi découvert les plus belles chutes, des fous rires mémorables, des performances étonnantes.</desc>
+    <icon src="https://assets.diverto.tv/media/remote/aHR0cDovL2ltYWdlcy5tZWRpYS1wcmVzcy5jbG91ZC9kZGYxZGU2M2VkNzU0NmU2YTBmMGMxNGE4OGYzNzM0Mg==?w=416&amp;h=260&amp;fit=crop&amp;fm=webp&amp;s=6fcd235d1999c86e0f75c22ff5326cca"/>
+  </programme>
+  <programme start="20250606095700 +0000" stop="20250606100900 +0000" channel="ComediePlus">
+    <title>H - Comédie</title>
+    <desc>Une histoire d'obsession (S4 E10)
+Aymé a mûri : il s'est juré de rester fidèle à Jessica, envers et contre tous. Cette noble ambition implique évidemment des renoncements, donc des frustrations, qu'il compense par une boulimie féroce. Les tentations étant fréquentes à l'hôpital, le don juan assagi passe désormais le plus clair de son temps à manger et, inévitablement, à grossir. De leur côté, Sabri, Jamel et Clara ont décidé de se présenter aux sélections du jeu "Qui veut gagner des euros ?". Une fois n'est pas coutume, l'ignorance crasse de Sabri fait de lui un candidat exceptionnel...</desc>
+    <icon src="https://assets.diverto.tv/media/remote/aHR0cDovL2ltYWdlcy5tZWRpYS1wcmVzcy5jbG91ZC84MmVmNWI2MzhmNzc0MzE5YjE0NjI5Mzc4ZGVkOGEzNg==?w=416&amp;h=260&amp;fit=crop&amp;fm=webp&amp;s=0303def1f06fedd609935cde111e95c5"/>
+  </programme>
+  <programme start="20250606100900 +0000" stop="20250606102000 +0000" channel="ComediePlus">
+    <title>H - Comédie</title>
+    <desc>Une histoire d'obsession (S4 E10)
+Aymé a mûri : il s'est juré de rester fidèle à Jessica, envers et contre tous. Cette noble ambition implique évidemment des renoncements, donc des frustrations, qu'il compense par une boulimie féroce. Les tentations étant fréquentes à l'hôpital, le don juan assagi passe désormais le plus clair de son temps à manger et, inévitablement, à grossir. De leur côté, Sabri, Jamel et Clara ont décidé de se présenter aux sélections du jeu "Qui veut gagner des euros ?". Une fois n'est pas coutume, l'ignorance crasse de Sabri fait de lui un candidat exceptionnel...</desc>
+    <icon src="https://assets.diverto.tv/media/remote/aHR0cDovL2ltYWdlcy5tZWRpYS1wcmVzcy5jbG91ZC84MmVmNWI2MzhmNzc0MzE5YjE0NjI5Mzc4ZGVkOGEzNg==?w=416&amp;h=260&amp;fit=crop&amp;fm=webp&amp;s=0303def1f06fedd609935cde111e95c5"/>
+  </programme>
+  <programme start="20250606102000 +0000" stop="20250606103200 +0000" channel="ComediePlus">
+    <title>H - Comédie</title>
+    <desc>Une histoire de compétence (S4 E3)
+Le doyen des hôpitaux doit être opéré d'un genou par le professeur Strauss. Voilà qui ouvre des perspectives successorales au directeur de l'hôpital, qui se prend à rêver d'un accident du destin. Mais le professeur vient à manquer, au grand désespoir du directeur, qui voit en Sabri la solution à ses affres. Il le bombarde illico au rang de prodige de la chirurgie orthopédique. Pendant ce temps, Aymé, prévenu de la visite surprise d'un cousin plus qu'envahissant, demande à Jamel de lui annoncer, dès que ledit cousin sera là, que sa mère a fait une tentative de suicide. Mais c'est une ravissante jeune femme qui se présente et Aymé n'a plus envie d'écourter la visite...</desc>
+    <icon src="https://assets.diverto.tv/media/remote/aHR0cDovL2ltYWdlcy5tZWRpYS1wcmVzcy5jbG91ZC8wNDc2MmNlOTZiYmE0ZjQxOWQ3MGVlZDBmYTUwZjViMA==?w=416&amp;h=260&amp;fit=crop&amp;fm=webp&amp;s=70defee5852e139cff5a0444758c22ea"/>
+  </programme>
+  <programme start="20250606103200 +0000" stop="20250606105000 +0000" channel="ComediePlus">
+    <title>H - Comédie</title>
+    <desc>Une histoire de compétence (S4 E3)
+Le doyen des hôpitaux doit être opéré d'un genou par le professeur Strauss. Voilà qui ouvre des perspectives successorales au directeur de l'hôpital, qui se prend à rêver d'un accident du destin. Mais le professeur vient à manquer, au grand désespoir du directeur, qui voit en Sabri la solution à ses affres. Il le bombarde illico au rang de prodige de la chirurgie orthopédique. Pendant ce temps, Aymé, prévenu de la visite surprise d'un cousin plus qu'envahissant, demande à Jamel de lui annoncer, dès que ledit cousin sera là, que sa mère a fait une tentative de suicide. Mais c'est une ravissante jeune femme qui se présente et Aymé n'a plus envie d'écourter la visite...</desc>
+    <icon src="https://assets.diverto.tv/media/remote/aHR0cDovL2ltYWdlcy5tZWRpYS1wcmVzcy5jbG91ZC8wNDc2MmNlOTZiYmE0ZjQxOWQ3MGVlZDBmYTUwZjViMA==?w=416&amp;h=260&amp;fit=crop&amp;fm=webp&amp;s=70defee5852e139cff5a0444758c22ea"/>
+  </programme>
+  <programme start="20250606105000 +0000" stop="20250606110000 +0000" channel="ComediePlus">
+    <title>H - Comédie</title>
+    <desc>Une histoire de curé (S4 E4)
+En cette période de fêtes de fin d'année, Jamel, déguisé en Père Noël, anime la crèche vivante de l'hôpital. Lorsqu'il s'aperçoit que Sabine, une charmante infirmière, le prend réellement pour l'homme à la barbe blanche, il décide aussitôt de se hisser à la hauteur de son personnage pour séduire la belle. Quant à Aymé, irrésistiblement attiré par une jeune patiente de confession catholique et désireux d'en savoir plus sur elle, il demande à Sabri de se déguiser en prêtre et de la confesser. Mais le faux abbé, un peu trop sensible aux charmes de sa victime, semble quelque peu oublier sa mission initiale...</desc>
+    <icon src="https://assets.diverto.tv/media/remote/aHR0cDovL2ltYWdlcy5tZWRpYS1wcmVzcy5jbG91ZC83MTFhYmI3NGUyYzc0ODUzYjhjOWY0NGJiYmViODA3Zg==?w=416&amp;h=260&amp;fit=crop&amp;fm=webp&amp;s=46d0bde401996fdd7454029973dadfc3"/>
+  </programme>
+  <programme start="20250606110000 +0000" stop="20250606111400 +0000" channel="ComediePlus">
+    <title>H - Comédie</title>
+    <desc>Une histoire de curé (S4 E4)
+En cette période de fêtes de fin d'année, Jamel, déguisé en Père Noël, anime la crèche vivante de l'hôpital. Lorsqu'il s'aperçoit que Sabine, une charmante infirmière, le prend réellement pour l'homme à la barbe blanche, il décide aussitôt de se hisser à la hauteur de son personnage pour séduire la belle. Quant à Aymé, irrésistiblement attiré par une jeune patiente de confession catholique et désireux d'en savoir plus sur elle, il demande à Sabri de se déguiser en prêtre et de la confesser. Mais le faux abbé, un peu trop sensible aux charmes de sa victime, semble quelque peu oublier sa mission initiale...</desc>
+    <icon src="https://assets.diverto.tv/media/remote/aHR0cDovL2ltYWdlcy5tZWRpYS1wcmVzcy5jbG91ZC83MTFhYmI3NGUyYzc0ODUzYjhjOWY0NGJiYmViODA3Zg==?w=416&amp;h=260&amp;fit=crop&amp;fm=webp&amp;s=46d0bde401996fdd7454029973dadfc3"/>
+  </programme>
+  <programme start="20250606111400 +0000" stop="20250606112300 +0000" channel="ComediePlus">
+    <title>H - Comédie</title>
+    <desc>Une histoire de dentiste (S4 E1)
+Aymé souffre des dents, mais sa peur du dentiste le retient de consulter. Le professeur Strauss lui propose de le soigner lui-même, mais cette consultation convainc Aymé de prendre un rendez-vous chez un vrai dentiste, d'autant que l'assistante du praticien est une ancienne conquête. De son côté, Sabri se plaint du mauvais état du train qu'il a pris pendant le week-end. Jamel lui conseille d'attaquer la SNCF en justice et se propose pour assurer sa défense. Au tribunal, il découvre, mais un peu tard, que le train en question était en fait une attraction de Disneyland...</desc>
+    <icon src="https://assets.diverto.tv/media/remote/aHR0cDovL2ltYWdlcy5tZWRpYS1wcmVzcy5jbG91ZC9iZDYyMGQ2YjcxYmE0NzFhODNkNThiYmRhMjQ3ODgzMQ==?w=416&amp;h=260&amp;fit=crop&amp;fm=webp&amp;s=04cee211e14b0701623fd04608f13e54"/>
+  </programme>
+  <programme start="20250606112300 +0000" stop="20250606114400 +0000" channel="ComediePlus">
+    <title>H - Comédie</title>
+    <desc>Une histoire de dentiste (S4 E1)
+Aymé souffre des dents, mais sa peur du dentiste le retient de consulter. Le professeur Strauss lui propose de le soigner lui-même, mais cette consultation convainc Aymé de prendre un rendez-vous chez un vrai dentiste, d'autant que l'assistante du praticien est une ancienne conquête. De son côté, Sabri se plaint du mauvais état du train qu'il a pris pendant le week-end. Jamel lui conseille d'attaquer la SNCF en justice et se propose pour assurer sa défense. Au tribunal, il découvre, mais un peu tard, que le train en question était en fait une attraction de Disneyland...</desc>
+    <icon src="https://assets.diverto.tv/media/remote/aHR0cDovL2ltYWdlcy5tZWRpYS1wcmVzcy5jbG91ZC9iZDYyMGQ2YjcxYmE0NzFhODNkNThiYmRhMjQ3ODgzMQ==?w=416&amp;h=260&amp;fit=crop&amp;fm=webp&amp;s=04cee211e14b0701623fd04608f13e54"/>
+  </programme>
+  <programme start="20250606114400 +0000" stop="20250606130900 +0000" channel="ComediePlus">
+    <title>Alex Ramirès : Sensiblement viril - Humoristique</title>
+    <desc>
+Le jeune humoriste Alex Ramirès joue son spectacle "Sensiblement Viril" mis en scène par Alexandra Bialy dans lequel il explore sous bien des forme certains aspects de l'homme moderne qui s'assume dans tous les cas, des petits travers en passant par ses choix les plus forts.</desc>
+    <icon src="https://assets.diverto.tv/media/remote/aHR0cDovL2ltYWdlcy5tZWRpYS1wcmVzcy5jbG91ZC84MDQzZDE5NDVmMTY0NWM0YWY4MjNjMzVjM2FhOTU0NQ==?w=416&amp;h=260&amp;fit=crop&amp;fm=webp&amp;s=13217bd746b9d854d413ffa7cd8fb8f1"/>
+  </programme>
+  <programme start="20250606130900 +0000" stop="20250606144700 +0000" channel="ComediePlus">
+    <title>Camille Chamoux : Le temps de vivre - Humoristique</title>
+    <desc>
+Camille Chamoux nous raconte une époque où tout va trop vite. Avec son nouveau spectacle, co-écrit avec Camille Cottin, l'humoriste se livre à une réflexion sur le temps, un thème particulièrement mis à l'épreuve pendant le confinement. Camille Chamoux déroule un "exposé sur la finitude" - le sous-titre de son spectacle, qui débute par Proust et finit par un gros mot, à la manière de Virginie Despentes. En observatrice de son époque, elle fait feu de tout bois pour croquer l'hystérisation d'une société obnubilée par le temps.</desc>
+    <icon src="https://assets.diverto.tv/media/remote/aHR0cDovL2ltYWdlcy5tZWRpYS1wcmVzcy5jbG91ZC84Yzg3Njc4ODg0ZmQ0N2M0OTdlNTY2NTk1NGQ3NzRlNA==?w=416&amp;h=260&amp;fit=crop&amp;fm=webp&amp;s=31543c2246aaf4350abf7f47b2c0048e"/>
+  </programme>
+  <programme start="20250606144700 +0000" stop="20250606164200 +0000" channel="ComediePlus">
+    <title>Les Coquettes : Merci Francis - Humoristique</title>
+    <desc>
+Les Coquettes ressortent les strass, les paillettes, les textes acides et les chansons rugueuses dans un spectacle tout en dérapages humoristiques contrôlés. De l'amour à la peur de vieillir, du machisme au harcèlement, de la discrimination à l'égalité des droits, tous les grands sujets qui fâchent la trentenaire féministe sont abordés.</desc>
+    <icon src="https://assets.diverto.tv/media/remote/aHR0cDovL2ltYWdlcy5tZWRpYS1wcmVzcy5jbG91ZC8xY2NjZmIzODFmZDQ0MTU0YmZkNWM3MzAxN2I4ODZjMw==?w=416&amp;h=260&amp;fit=crop&amp;fm=webp&amp;s=b53acd44461104e8fbc65087c578ce1b"/>
+  </programme>
+  <programme start="20250606164200 +0000" stop="20250606171200 +0000" channel="ComediePlus">
+    <title>H - Comédie</title>
+    <desc>No clowning (S1 E6)
+Un groupe d'enfants, hospitalisé à la suite d'un accident de car, s'ennuie ferme. Pour distraire les turbulents bambins, Clara fait venir un clown spécialisé. Sabri, qui se pique de devenir un jour comédien, est vexé de ne pas avoir été choisi. Il découvre que le professionnel du rire est en réalité un personnage odieux et raciste. Il tente de clamer la vérité, mais tous mettent ses révélations sur le compte de sa jalousie. De son côté, Aymé emménage dans son nouveau duplex, en pleine campagne. Un endroit idéal, si ce n'était le voisinage, pour le moins hostile...</desc>
+    <icon src="https://assets.diverto.tv/media/remote/aHR0cDovL2ltYWdlcy5tZWRpYS1wcmVzcy5jbG91ZC84NTAyMGQzZTQ0MWU0ZGZlYjEzN2E2ZGY0YWVmNWJhNA==?w=416&amp;h=260&amp;fit=crop&amp;fm=webp&amp;s=a19b2119c14345dbe521c33e4b351514"/>
+  </programme>
+  <programme start="20250606171200 +0000" stop="20250606173700 +0000" channel="ComediePlus">
+    <title>H - Comédie</title>
+    <desc>Une thérapie de couple (S1 E7)
+Une championne d'Europe de judo est hospitalisée après sa dernière compétition. En découvrant ses nombreux hématomes, Clara s'imagine que c'est son mari qui lui a infligé un tel traitement. Cette idée la perturbe, au point qu'elle décide d'en parler à la psychologue de l'hôpital. Celle-ci pose son diagnostic : elle voit dans ce fantasme l'expression d'une relation violente entre Jamel et Clara...</desc>
+    <icon src="https://assets.diverto.tv/media/remote/aHR0cDovL2ltYWdlcy5tZWRpYS1wcmVzcy5jbG91ZC83NThkODU5ODY3OTc0NTBjYjBmNDQ3NzUyMWFkMTY4Yw==?w=416&amp;h=260&amp;fit=crop&amp;fm=webp&amp;s=0a96fba1021f968da7263953f42c5e06"/>
+  </programme>
+  <programme start="20250606173700 +0000" stop="20250606180700 +0000" channel="ComediePlus">
+    <title>H - Comédie</title>
+    <desc>Une belle maman (S1 E8)
+La mère de Clara pense qu'Aymé est le fiancé secret de sa fille. Elle le trouve d'ailleurs plutôt séduisant et prévenant, et ne tarde pas à flirter avec lui, au grand dam de Clara. Cette situation semble, en revanche, beaucoup amuser Aymé. Sabri, de son côté, devient végétarien pour les beaux yeux d'une infirmière fanatique de bio. Mais, en combinant sport intensif et régime hypocalorique, ne va-t-il pas s'attirer des ennuis ? Béa, quant à elle, découvre en Jamel des talents de tribun. Elle le convainc rapidement de mener un véritable combat syndical au sein de l'hôpital...</desc>
+    <icon src="https://assets.diverto.tv/media/remote/aHR0cDovL2ltYWdlcy5tZWRpYS1wcmVzcy5jbG91ZC81ZGY3YjcyOGFlMjc0OTY2OWRiNzBmMzBlOTNkOTUyZQ==?w=416&amp;h=260&amp;fit=crop&amp;fm=webp&amp;s=54ce2075666df52a08a9e00f0f0933ba"/>
+  </programme>
+  <programme start="20250606180700 +0000" stop="20250606183300 +0000" channel="ComediePlus">
+    <title>H - Comédie</title>
+    <desc>Une promesse (S1 E9)
+Farida, la soeur de Jamel, a réussi à décrocher un stage dans le service. Jamel, en frère soucieux de préserver l'innocence encore intacte de sa soeur, interdit formellement à Aymé de l'approcher. Sabri, croyant dur comme fer à la réincarnation, commence à avoir un comportement pour le moins curieux : il se prend pour un chat. Le professeur Strauss, quant à lui, tente par tous les moyens de faire revenir sa femme, dont l'absence lui pèse cruellement...</desc>
+    <icon src="https://assets.diverto.tv/media/remote/aHR0cDovL2ltYWdlcy5tZWRpYS1wcmVzcy5jbG91ZC8wOTQ5NTM0ZDIwNTE0MWI0OWJmMmMyYjNhY2JmMzMwYw==?w=416&amp;h=260&amp;fit=crop&amp;fm=webp&amp;s=e16bec722e9ed5b6ac9bef54b2c31f1a"/>
+  </programme>
+  <programme start="20250606183300 +0000" stop="20250606191100 +0000" channel="ComediePlus">
+    <title>H - Comédie</title>
+    <desc>Une vie de chien (S1 E10)
+Le service orthopédique du docteur Strauss a maille à partir avec la gent canine. En effet, tandis que le professeur lui-même ne parvient pas à se consoler de la mort de Youpi, son caniche, toujours si joyeux, Jamel tente d'acclimater aux couloirs de l'hôpital son nouveau chien, Jean-Pierre, un molosse. Celui-ci s'adapte assez facilement. En revanche, les collègues de Jamel ont quelque mal à s'habituer aux facéties destructrices du cabot. De son côté, Sabri est enchanté. Il vient enfin de décrocher un rôle. Manifestement, il n'a pas compris qu'il allait devoir jouer un personnage homosexuel. Aymé, plus futé, ne se prive pas de multiplier les plaisanteries à ce sujet...</desc>
+    <icon src="https://assets.diverto.tv/media/remote/aHR0cDovL2ltYWdlcy5tZWRpYS1wcmVzcy5jbG91ZC81ODMwZDgyZTlhNDE0N2FjYWVlODUxNTI2ZjY4OTcwMw==?w=416&amp;h=260&amp;fit=crop&amp;fm=webp&amp;s=89fab4144eb939465c358c83fd9f7bf3"/>
+  </programme>
+  <programme start="20250606191100 +0000" stop="20250606204500 +0000" channel="ComediePlus">
+    <title>Patrick Sébastien : découvreur de talents - Culture</title>
+    <desc>Patrick Sébastien : découvreur de talents vol. 1
+Entre images d'archive inédites et témoignages exclusifs, l'humoriste, chanteur et présentateur Patrick Sébastien décrit son rôle de découvreur de talents et la manière dont il a aidé des jeunes humoristes à lancer leur carrière en les accueillant dans ses émissions aussi bien sur France 2 que sur TF1. Parmi les artistes qu'il a révélé au public ou produit, on compte notamment Jeff Panacloc, Dany Boon, Raphaël Mezrahi, les Nous C Nous, Shirley &amp; Dino ou encore Nicolas Canteloup.</desc>
+    <icon src="https://assets.diverto.tv/media/remote/aHR0cDovL2ltYWdlcy5tZWRpYS1wcmVzcy5jbG91ZC9mMzBlNmVhYjc4NDQ0N2Q0YTA1MWJjOGI4MmNkODNlZA==?w=416&amp;h=260&amp;fit=crop&amp;fm=webp&amp;s=c3b04ff0d34cd5533af2adb0bf929a2e"/>
+  </programme>
+  <programme start="20250606204500 +0000" stop="20250606221900 +0000" channel="ComediePlus">
+    <title>Le Grand Bluff : 30 ans déjà ! - Culture</title>
+    <desc>
+"Le Grand Bluff" est l'émission de divertissement qui a rassemblé le plus grand nombre de téléspectateurs dans l'histoire de la télévision française. Patrick Sébastien s'y déguisait pour piéger ses collègues animateurs sur le plateau de leurs propres émissions. Pour les trente ans du "Grand Bluff\.</desc>
+    <icon src="https://assets.diverto.tv/media/remote/aHR0cDovL2ltYWdlcy5tZWRpYS1wcmVzcy5jbG91ZC8zZjU5ZDgzZDI2NGM0OTUwYTkyZTU1ODE2YWMyOWMwMg==?w=416&amp;h=260&amp;fit=crop&amp;fm=webp&amp;s=201d8bb43a7328b62a8cd818a18f2dec"/>
   </programme>
   <programme start="20250606011000 +0000" stop="20250606034700 +0000" channel="PolarPlus">
     <title>Interruption des programmes - Emission</title>
@@ -9203,6 +9822,12 @@ Dans ce nouvel Esprit Sport, découvrez le Lacrosse, un nouvelle discipline qui 
     <desc>Generic Sky Sports News
 </desc>
   </programme>
+  <programme start="20250606090000 +0200" stop="20250606093000 +0200" channel="MovistarGolf">
+    <title>HotelPlanner Tour Series - Golf</title>
+    <desc>
+Programa de reportajes sobre lo sucedido en la temporada del European Challenge Tour.</desc>
+    <icon src="https://cdn.sincroguia.tv/uploads/programs/l/a/r/xlara-academy-1129377_SPA-10.jpg.pagespeed.ic.waHgwCRIi7.jpg"/>
+  </programme>
   <programme start="20250606093000 +0200" stop="20250606123000 +0200" channel="MovistarGolf">
     <title>Ladies European Tour - Golf</title>
     <desc>
@@ -9437,23 +10062,11 @@ Liv Golf arranca en su cuarta edición con un total 14 torneos, 12 regulares y l
 'DP World Tour Highlights - KLM Open Day 1'. From The International - Amsterdam, Netherlands.</desc>
     <icon src="https://supersport.com/_next/image?url=https://03mcdecdnimagerepository.blob.core.windows.net/epguideimage/img/390225_S_PS_GOL_DPWT_KLM_LBG_19_80.png&amp;w=1080&amp;q=75"/>
   </programme>
-  <programme start="20250606090000 +0200" stop="20250606113500 +0200" channel="SSGolf">
+  <programme start="20250606090000 +0200" stop="20250606120000 +0200" channel="SSGolf">
     <title>PGA 24/25 RBC Canadian D1 - Sports</title>
     <desc>
 'PGA Tour - RBC Canadian Open Day 1'. From TPC Toronto at Osprey Valley (North Course) - Toronto, Canada.</desc>
     <icon src="https://supersport.com/_next/image?url=https://03mcdecdnimagerepository.blob.core.windows.net/epguideimage/img/439611_RBCHeritage_LBG_19_80.png&amp;w=1080&amp;q=75"/>
-  </programme>
-  <programme start="20250606113500 +0200" stop="20250606115000 +0200" channel="SSGolf">
-    <title>ST HL 25/26 Gary &amp; Vivienne Challenge - Sports</title>
-    <desc>
-'Sunshine Tour Event Highlights - Gary &amp; Vivienne Player Challenge'. From Lost City Golf Course - Sun City Resort, South Africa.</desc>
-    <icon src="https://supersport.com/_next/image?url=https://03mcdecdnimagerepository.blob.core.windows.net/epguideimage/img/345538_Gary&amp;ViviennePlayerChallenge.png&amp;w=1080&amp;q=75"/>
-  </programme>
-  <programme start="20250606115000 +0200" stop="20250606120000 +0200" channel="SSGolf">
-    <title>Golf Feature - Sports</title>
-    <desc>
-'S25/E28 of 40'. Nestled in Kwa-Zulu Natal Midlands, Nottingham Road offers outdoor activities and the stunning Gowrie Farm 18-hole golf course. A bucket list destination and a delight to play.</desc>
-    <icon src="https://supersport.com/_next/image?url=https://03mcdecdnimagerepository.blob.core.windows.net/epguideimage/img/323414_GenericGolfFeature.png&amp;w=1080&amp;q=75"/>
   </programme>
   <programme start="20250606120000 +0200" stop="20250606130000 +0200" channel="SSGolf">
     <title>DP World HL 24/25 KLM Open D1 - Sports</title>
@@ -9461,23 +10074,17 @@ Liv Golf arranca en su cuarta edición con un total 14 torneos, 12 regulares y l
 'DP World Tour Highlights - KLM Open Day 1'. From The International - Amsterdam, Netherlands.</desc>
     <icon src="https://supersport.com/_next/image?url=https://03mcdecdnimagerepository.blob.core.windows.net/epguideimage/img/390225_S_PS_GOL_DPWT_KLM_LBG_19_80.png&amp;w=1080&amp;q=75"/>
   </programme>
-  <programme start="20250606130000 +0200" stop="20250606180000 +0200" channel="SSGolf">
+  <programme start="20250606130000 +0200" stop="20250606170500 +0200" channel="SSGolf">
     <title>DP World 24/25 KLM Open D2 ⚡ - Sports</title>
     <desc>
 'DP World Tour - KLM Open Day 2'. LIVE From The International - Amsterdam, Netherlands.</desc>
     <icon src="https://supersport.com/_next/image?url=https://03mcdecdnimagerepository.blob.core.windows.net/epguideimage/img/390219_S_PS_GOL_DPWT_KLM_LBG_19_80.png&amp;w=1080&amp;q=75"/>
   </programme>
-  <programme start="20250606180000 +0200" stop="20250606210000 +0200" channel="SSGolf">
+  <programme start="20250606170500 +0200" stop="20250607000000 +0200" channel="SSGolf">
     <title>LIV Golf '25 Washington DC D1 ⚡ - Sports</title>
     <desc>
 Washington DC Day 1. LIVE From Robert Trent Jones Golf Club - Gainesville, USA.</desc>
     <icon src="https://supersport.com/_next/image?url=https://03mcdecdnimagerepository.blob.core.windows.net/epguideimage/img/336598_LIVGolf.png&amp;w=1080&amp;q=75"/>
-  </programme>
-  <programme start="20250606210000 +0200" stop="20250607000000 +0200" channel="SSGolf">
-    <title>PGA 24/25 RBC Canadian D2 ⚡ - Sports</title>
-    <desc>
-'PGA Tour - RBC Canadian Open Day 2'. LIVE From TPC Toronto at Osprey Valley (North Course) - Toronto, Canada.</desc>
-    <icon src="https://supersport.com/_next/image?url=https://03mcdecdnimagerepository.blob.core.windows.net/epguideimage/img/439613_RBCHeritage_LBG_19_80.png&amp;w=1080&amp;q=75"/>
   </programme>
   <programme start="20250606060000 +0000" stop="20250606110000 +0000" channel="VSportGolf">
     <title>DP World Tour - Sport</title>
