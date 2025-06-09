@@ -19,7 +19,7 @@ http://eagle2024.xyz:80/play/live.php?mac=00:1A:79:24:7A:C9&stream=148464&extens
 #EXTINF:-1 tvg-id="TMC" tvg-logo="https://ppechenot.github.io/perso/logos/tmc.png" group-title="TNT",TMC
 http://eagle2024.xyz:80/play/live.php?mac=00:1A:79:24:7A:C9&stream=148470&extension=ts
 #EXTINF:-1 tvg-id="TFX" tvg-logo="https://ppechenot.github.io/perso/logos/tfx.png" group-title="TNT",TFX
-http://eagle2024.xyz:80/play/live.php?mac=00:1A:79:24:7A:C9&stream=32799&extension=ts
+http://eagle2024.xyz:80/play/live.php?mac=00:1A:79:24:7A:C9&stream=250655&extension=ts
 #EXTINF:-1 tvg-id="CStar" tvg-logo="https://ppechenot.github.io/perso/logos/cstar.png" group-title="TNT",CSTAR
 http://eagle2024.xyz:80/play/live.php?mac=00:1A:79:24:7A:C9&stream=32797&extension=ts
 #EXTINF:-1 tvg-id="TF1SeriesFilms" tvg-logo="https://ppechenot.github.io/perso/logos/tf1_series_films.png" group-title="TNT",TF1 SERIES FILMS
@@ -67,25 +67,25 @@ http://eagle2024.xyz:80/play/live.php?mac=00:1A:79:24:7A:C9&stream=32785&extensi
 #EXTINF:-1 tvg-id="CanalPlusSeries" tvg-logo="https://ppechenot.github.io/perso/logos/canal+_series.png" group-title="SERIES",CANAL+ SERIES
 http://eagle2024.xyz:80/play/live.php?mac=00:1A:79:24:7A:C9&stream=148478&extension=ts
 #EXTINF:-1 tvg-id="PolarPlus" tvg-logo="https://ppechenot.github.io/perso/logos/polar+.png" group-title="SERIES",POLAR+
-http://eagle2024.xyz:80/play/live.php?mac=00:1A:79:24:7A:C9&stream=250668&extension=ts
+http://eagle2024.xyz:80/play/live.php?mac=00:1A:79:24:7A:C9&stream=116319&extension=ts
 #EXTINF:-1 tvg-id="ComediePlus" tvg-logo="https://ppechenot.github.io/perso/logos/comedie+.png" group-title="SERIES",COMEDIE+
-http://eagle2024.xyz:80/play/live.php?mac=00:1A:79:24:7A:C9&stream=275825&extension=ts
+http://eagle2024.xyz:80/play/live.php?mac=00:1A:79:24:7A:C9&stream=250660&extension=ts
 #EXTINF:-1 tvg-id="13Rue" tvg-logo="https://ppechenot.github.io/perso/logos/13eme_rue.png" group-title="SERIES",13EME RUE
-http://eagle2024.xyz:80/play/live.php?mac=00:1A:79:24:7A:C9&stream=275668&extension=ts
+http://eagle2024.xyz:80/play/live.php?mac=00:1A:79:24:7A:C9&stream=32790&extension=ts
 #EXTINF:-1 tvg-id="Syfy" tvg-logo="https://ppechenot.github.io/perso/logos/syfy.png" group-title="SERIES",SYFY
 http://eagle2024.xyz:80/play/live.php?mac=00:1A:79:24:7A:C9&stream=32817&extension=ts
 #EXTINF:-1 tvg-id="WarnerTV" tvg-logo="https://ppechenot.github.io/perso/logos/warner_tv.png" group-title="SERIES",WARNER TV
-http://eagle2024.xyz:80/play/live.php?mac=00:1A:79:24:7A:C9&stream=275833&extension=ts
+http://eagle2024.xyz:80/play/live.php?mac=00:1A:79:24:7A:C9&stream=35530&extension=ts
 #EXTINF:-1 tvg-id="SerieClub" tvg-logo="https://ppechenot.github.io/perso/logos/serieclub.png" group-title="SERIES",SERIECLUB
 http://eagle2024.xyz:80/play/live.php?mac=00:1A:79:24:7A:C9&stream=250666&extension=ts
 #EXTINF:-1 tvg-id="TvBreizh" tvg-logo="https://ppechenot.github.io/perso/logos/tvbreizh.png" group-title="SERIES",TV BREIZH
-http://eagle2024.xyz:80/play/live.php?mac=00:1A:79:24:7A:C9&stream=32803&extension=ts
+http://eagle2024.xyz:80/play/live.php?mac=00:1A:79:24:7A:C9&stream=323&extension=ts
 #EXTINF:-1 tvg-id="Teva" tvg-logo="https://ppechenot.github.io/perso/logos/teva.png" group-title="SERIES",TEVA
-http://eagle2024.xyz:80/play/live.php?mac=00:1A:79:24:7A:C9&stream=275732&extension=ts
+http://eagle2024.xyz:80/play/live.php?mac=00:1A:79:24:7A:C9&stream=250657&extension=ts
 #EXTINF:-1 tvg-id="ParisPremiere" tvg-logo="https://ppechenot.github.io/perso/logos/paris_premiere.png" group-title="SERIES",PARIS PREMIERE
 http://eagle2024.xyz:80/play/live.php?mac=00:1A:79:24:7A:C9&stream=250658&extension=ts
 #EXTINF:-1 tvg-id="RTL9" tvg-logo="https://ppechenot.github.io/perso/logos/rtl9.png" group-title="SERIES",RTL9
-http://eagle2024.xyz:80/play/live.php?mac=00:1A:79:24:7A:C9&stream=275754&extension=ts
+http://eagle2024.xyz:80/play/live.php?mac=00:1A:79:24:7A:C9&stream=273&extension=ts
 
 #EXTINF:-1 tvg-id="CanalPlusDocs" tvg-logo="https://ppechenot.github.io/perso/logos/canal+_docs.png" group-title="CULTURE",CANAL+ DOCS
 http://eagle2024.xyz:80/play/live.php?mac=00:1A:79:24:7A:C9&stream=274075&extension=ts
