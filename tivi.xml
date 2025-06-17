@@ -285,7 +285,7 @@
     <icon src="https://tvguide.vg.no/backend/api/images/simplytv/6202649644002445063"/>
   </channel>
   <channel id="GolfChannel">
-    <display-name lang="en">The Golf Channel</display-name>
+    <display-name lang="fr">The Golf Channel</display-name>
     <icon src="https://ppechenot.github.io/perso/logos/nbc_golf_channel.png"/>
   </channel>
   <programme start="20250617004000 +0000" stop="20250617040000 +0000" channel="TF1">
