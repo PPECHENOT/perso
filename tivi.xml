@@ -285,8 +285,8 @@
     <icon src="https://tvguide.vg.no/backend/api/images/simplytv/6202649644002445063"/>
   </channel>
   <channel id="GolfChannel">
-    <display-name lang="en">Golf Channel (IP)</display-name>
-    <icon src="https://d60d34ithxz8n.cloudfront.net/us-logos/432a99fc3a92427a7c19963766d9682a.png?k=YuF2DwEskK9RDtJWAxeJbpo7YUB7VdYQ4hnktyMqup9hklnV5sxy2V%2F5EGY3kuoDXGAONW6MZWjh5HoJ4eR8ti6EKt6LkW93oTejRAgqJn0%3D"/>
+    <display-name lang="en">The Golf Channel</display-name>
+    <icon src="https://ppechenot.github.io/perso/logos/nbc_golf_channel.png"/>
   </channel>
   <programme start="20250617004000 +0000" stop="20250617040000 +0000" channel="TF1">
     <title>Programmes de la nuit - Indéterminé</title>
@@ -11208,87 +11208,82 @@ Golf Masters.</desc>
 </desc>
     <icon src="https://tvguide.vg.no/backend/api/images/simplytv/14101410729390865268?aspect_ratio=16:9&amp;w=630&amp;q=80"/>
   </programme>
-  <programme start="20250617000000 -0300" stop="20250617000000 -0300" channel="GolfChannel">
+  <programme start="20250617010000 +0000" stop="20250617060000 +0000" channel="GolfChannel">
     <title>U.S. Open Golf - Pro</title>
     <desc>Final Round at Oakmont
 Final-round play in the 125th U.S. Open, from Oakmont Country Club outside of Pittsburgh, Pa. The winning scores at the last two U.S. Opens here were 4-under-par (2016) and 5-over-par (2009). A two-hole aggregate-score playoff is used if there's a tie after 72 holes, which last occurred in 2008 (Woods/Mediate at Torrey Pines). Rory McIlroy and Scottie Scheffler won this year's first two majors.</desc>
   </programme>
-  <programme start="20250617000000 -0300" stop="20250617000000 -0300" channel="GolfChannel">
+  <programme start="20250617060000 +0000" stop="20250617070000 +0000" channel="GolfChannel">
     <title>Golf Central - Sports Stuff</title>
     <desc>06-16-2025 (S2025 E63)
 The latest golf tournament highlights and analysis, plus interviews and industry discussion.</desc>
   </programme>
-  <programme start="20250617000000 -0300" stop="20250617000000 -0300" channel="GolfChannel">
+  <programme start="20250617070000 +0000" stop="20250617080000 +0000" channel="GolfChannel">
     <title>Golf Central - Sports Stuff</title>
     <desc>06-16-2025 (S2025 E63)
 The latest golf tournament highlights and analysis, plus interviews and industry discussion.</desc>
   </programme>
-  <programme start="20250617000000 -0300" stop="20250617000000 -0300" channel="GolfChannel">
+  <programme start="20250617080000 +0000" stop="20250617090000 +0000" channel="GolfChannel">
     <title>Golf Central - Sports Stuff</title>
     <desc>06-16-2025 (S2025 E63)
 The latest golf tournament highlights and analysis, plus interviews and industry discussion.</desc>
   </programme>
-  <programme start="20250617000000 -0300" stop="20250617000000 -0300" channel="GolfChannel">
+  <programme start="20250617090000 +0000" stop="20250617100000 +0000" channel="GolfChannel">
     <title>Golf Central - Sports Stuff</title>
     <desc>06-16-2025 (S2025 E63)
 The latest golf tournament highlights and analysis, plus interviews and industry discussion.</desc>
   </programme>
-  <programme start="20250617000000 -0300" stop="20250617000000 -0300" channel="GolfChannel">
+  <programme start="20250617100000 +0000" stop="20250617120000 +0000" channel="GolfChannel">
     <title>Ladies European Tour Golf - Pro</title>
     <desc>Tenerife Women's Open
 Tenerife Women's Open third-round play.</desc>
   </programme>
-  <programme start="20250617000000 -0300" stop="20250617000000 -0300" channel="GolfChannel">
+  <programme start="20250617120000 +0000" stop="20250617130000 +0000" channel="GolfChannel">
     <title>Five Clubs Podcast with Gary Williams - Talk</title>
     <desc>06-17-2025
 Host Gary Williams and guests discuss topics that matter most to golf fans.</desc>
   </programme>
-  <programme start="20250617000000 -0300" stop="20250617000000 -0300" channel="GolfChannel">
+  <programme start="20250617130000 +0000" stop="20250617140000 +0000" channel="GolfChannel">
     <title>Fairways of Life with Matt Adams - Sports Stuff</title>
     <desc>
 Author and Golf Channel host Matt Adams brings you inside the ropes for exclusive interviews with all of golf's stars; equipment updates; instruction for your game; the latest headlines and more.</desc>
   </programme>
-  <programme start="20250617000000 -0300" stop="20250617000000 -0300" channel="GolfChannel">
+  <programme start="20250617140000 +0000" stop="20250617160000 +0000" channel="GolfChannel">
     <title>Ladies European Tour Golf - Pro</title>
     <desc>Tenerife Women's Open
 Tenerife Women's Open final-round play.</desc>
   </programme>
-  <programme start="20250617000000 -0300" stop="20250617000000 -0300" channel="GolfChannel">
+  <programme start="20250617160000 +0000" stop="20250617200000 +0000" channel="GolfChannel">
     <title>Golf Central - Sports Stuff</title>
     <desc>06-17-2025 (S2025 E64)
 The latest golf tournament highlights and analysis, plus interviews and industry discussion.</desc>
   </programme>
-  <programme start="20250617000000 -0300" stop="20250617000000 -0300" channel="GolfChannel">
+  <programme start="20250617200000 +0000" stop="20250617210000 +0000" channel="GolfChannel">
     <title>Golf Central - Sports Stuff</title>
     <desc>06-17-2025 -2 (S2025 E65)
 The latest golf tournament highlights and analysis, plus interviews and industry discussion.</desc>
   </programme>
-  <programme start="20250617000000 -0300" stop="20250617000000 -0300" channel="GolfChannel">
+  <programme start="20250617210000 +0000" stop="20250617213000 +0000" channel="GolfChannel">
     <title>PGA Tour: The Drop - Sports Stuff</title>
     <desc>06-16-2025
 PGA Tour player profiles and features mixed with event highlights and previews.</desc>
   </programme>
-  <programme start="20250617000000 -0300" stop="20250617000000 -0300" channel="GolfChannel">
+  <programme start="20250617213000 +0000" stop="20250617220000 +0000" channel="GolfChannel">
     <title>School of Golf - Golf</title>
     <desc>Chapter 21: Copy That Pro
 Golfers learn key swing techniques from top players. The show covers drills for distance and tips to improve footwork. Each episode focuses on enhancing skills.</desc>
   </programme>
-  <programme start="20250617000000 -0300" stop="20250617000000 -0300" channel="GolfChannel">
+  <programme start="20250617220000 +0000" stop="20250617230000 +0000" channel="GolfChannel">
     <title>Golf Central - Sports Stuff</title>
     <desc>06-17-2025 -2 (S2025 E65)
 The latest golf tournament highlights and analysis, plus interviews and industry discussion.</desc>
   </programme>
-  <programme start="20250617000000 -0300" stop="20250617000000 -0300" channel="GolfChannel">
+  <programme start="20250617230000 +0000" stop="20250618000000 +0000" channel="GolfChannel">
     <title>Cobbs Creek Rising: Headwaters to Horizons - Golf</title>
     <desc>Part I: Headwaters (S1 E1)
 Leaders of the Cobbs Creek Foundation, who are executing the expansive project in the city of Philadelphia, share insight about the formation of the Cobbs Creek Foundation and how the project has evolved to become one of the largest revitalization projects in the city's history and within the national municipal golf landscape.</desc>
   </programme>
-  <programme start="20250617000000 -0300" stop="20250617000000 -0300" channel="GolfChannel">
-    <title>Golf's Greatest Rounds - Open Championship - Classic Sports</title>
-    <desc>The Open - 2017 - Jordan Spieth at Royal Birkdale
-Reliving the 2017 Open Championship final round with Jordan Spieth and Matt Kuchar at Royal Birkdale.</desc>
-  </programme>
-  <programme start="20250617000000 -0300" stop="20250617000000 -0300" channel="GolfChannel">
+  <programme start="20250618000000 +0000" stop="20250618023000 +0000" channel="GolfChannel">
     <title>Golf's Greatest Rounds - Open Championship - Classic Sports</title>
     <desc>The Open - 2017 - Jordan Spieth at Royal Birkdale
 Reliving the 2017 Open Championship final round with Jordan Spieth and Matt Kuchar at Royal Birkdale.</desc>
