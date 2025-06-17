@@ -140,7 +140,7 @@ http://platineiptv.pro:8789/play/live.php?mac=00:1A:79:64:7A:8A&stream=215913&ex
 #EXTINF:-1 tvg-id="SkySportsMix" tvg-logo="https://ppechenot.github.io/perso/logos/sky_sports_golf_uk.png" group-title="SPORT",SKY SPORTS MIX
 http://platineiptv.pro:8789/play/live.php?mac=00:1A:79:64:7A:8A&stream=215891&extension=ts
 #EXTINF:-1 tvg-id="SSGolf" tvg-logo="https://ppechenot.github.io/perso/logos/supersport_golf.png" group-title="SPORT",SUPERSPORTS GOLF 
-http://platineiptv.pro:8789/play/live.php?mac=00:1A:79:64:7A:8A&stream=311165&extension=ts
+http://platineiptv.pro:8789/play/live.php?mac=00:1A:79:64:7A:8A&stream=314196&extension=ts
 #EXTINF:-1 tvg-id="VSportGolf" tvg-logo="https://ppechenot.github.io/perso/logos/vsport_golf.png" group-title="SPORT",V SPORT GOLF
 http://platineiptv.pro:8789/play/live.php?mac=00:1A:79:64:7A:8A&stream=283689&extension=ts
 #EXTINF:-1 tvg-id="TheGolfChannel" tvg-logo="https://ppechenot.github.io/perso/logos/nbc_golf_channel.png" group-title="SPORT",NBC GOLF
