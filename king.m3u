@@ -134,11 +134,9 @@ http://king365-tv.com:2103/play/live.php?mac=00:1A:79:C1:BF:05&stream=37196&exte
 #EXTINF:-1 tvg-id="GolfPlus" tvg-logo="https://ppechenot.github.io/perso/logos/golf+.png" group-title="SPORT",GOLF+
 http://king365-tv.com:2103/play/live.php?mac=00:1A:79:C1:BF:05&stream=19740&extension=ts
 #EXTINF:-1 tvg-id="SkySportsGolf" tvg-logo="https://ppechenot.github.io/perso/logos/sky_sports_golf_uk.png" group-title="SPORT",SKY SPORTS GOLF
-http://king365-tv.com:2103/play/live.php?mac=00:1A:79:C1:BF:05&stream=94020&extension=ts
+http://king365-tv.com:2103/play/live.php?mac=00:1A:79:C1:BF:05&stream=2393&extension=ts
 #EXTINF:-1 tvg-id="SkySportsMix" tvg-logo="https://ppechenot.github.io/perso/logos/sky_sports_golf_uk.png" group-title="SPORT",SKY SPORTS MIX
 http://king365-tv.com:2103/play/live.php?mac=00:1A:79:C1:BF:05&stream=669&extension=ts
-#EXTINF:-1 tvg-id="SSGolf" tvg-logo="https://ppechenot.github.io/perso/logos/supersport_golf.png" group-title="SPORT",SUPERSPORTS GOLF 
-http://king365-tv.com:2103/play/live.php?mac=00:1A:79:C1:BF:05&stream=113595&extension=ts
 #EXTINF:-1 tvg-id="VSportGolf" tvg-logo="https://ppechenot.github.io/perso/logos/vsport_golf.png" group-title="SPORT",V SPORT GOLF
 http://king365-tv.com:2103/play/live.php?mac=00:1A:79:C1:BF:05&stream=19688&extension=ts
 #EXTINF:-1 tvg-id="TheGolfChannel" tvg-logo="https://ppechenot.github.io/perso/logos/nbc_golf_channel.png" group-title="SPORT",NBC GOLF
