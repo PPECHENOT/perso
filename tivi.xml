@@ -10981,117 +10981,22 @@ Kaskáda Golf Challenge. From Kaskáda Golf Resort - Brno, Czech Republic.</desc
 Day 4. From Oakmont Country Club - Oakmont, USA.</desc>
     <icon src="https://supersport.com/_next/image?url=https://03mcdecdnimagerepository.blob.core.windows.net/epguideimage/img/439542_US_Open_Golf1.png&amp;w=1080&amp;q=75"/>
   </programme>
-  <programme start="20250618070000 +0000" stop="20250618150000 +0000" channel="VSportGolf">
+  <programme start="20250618070000 +0000" stop="20250618150000 +0000" channel="GolfChannel">
     <title>U.S. Open - Sport</title>
     <desc>
 Golf Masters.</desc>
     <icon src="https://tvguide.vg.no/backend/api/images/simplytv/8016709165173765873?aspect_ratio=16:9&amp;w=630&amp;q=80"/>
   </programme>
-  <programme start="20250618150000 +0000" stop="20250618160000 +0000" channel="VSportGolf">
+  <programme start="20250618150000 +0000" stop="20250618160000 +0000" channel="GolfChannel">
     <title>Golf Central - Sport</title>
     <desc>
 Gled deg til alt det beste fra golfens verden, når du inviteres inn i studio til masser av nyheter og de feteste intervjuer med spillere og eksperter.</desc>
     <icon src="https://tvguide.vg.no/backend/api/images/simplytv/9690504802183271236?aspect_ratio=16:9&amp;w=630&amp;q=80"/>
   </programme>
-  <programme start="20250618160000 +0000" stop="20250619000000 +0000" channel="VSportGolf">
+  <programme start="20250618160000 +0000" stop="20250619000000 +0000" channel="GolfChannel">
     <title>U.S. Open - Sport</title>
     <desc>
 Golf Masters.</desc>
     <icon src="https://tvguide.vg.no/backend/api/images/simplytv/8016709165173765873?aspect_ratio=16:9&amp;w=630&amp;q=80"/>
-  </programme>
-  <programme start="20250618050000 +0000" stop="20250618060000 +0000" channel="GolfChannel">
-    <title>Golf Central - Sports Stuff</title>
-    <desc>06-17-2025 -2 (S2025 E65)
-The latest golf tournament highlights and analysis, plus interviews and industry discussion.</desc>
-  </programme>
-  <programme start="20250618060000 +0000" stop="20250618063000 +0000" channel="GolfChannel">
-    <title>PGA Tour: The Drop - Sports Stuff</title>
-    <desc>06-16-2025
-PGA Tour player profiles and features mixed with event highlights and previews.</desc>
-  </programme>
-  <programme start="20250618063000 +0000" stop="20250618070000 +0000" channel="GolfChannel">
-    <title>School of Golf - Golf</title>
-    <desc>Chapter 22: Need For Speed
-How to increase club head speed, ball speed, and other key areas where speed is needed for more distance. Martin Hall brings in one of the worldwide leaders in golf biomechanics for a cutting-edge lesson on practicing at the correct speed.</desc>
-  </programme>
-  <programme start="20250618070000 +0000" stop="20250618080000 +0000" channel="GolfChannel">
-    <title>Golf Central - Sports Stuff</title>
-    <desc>06-17-2025 -2 (S2025 E65)
-The latest golf tournament highlights and analysis, plus interviews and industry discussion.</desc>
-  </programme>
-  <programme start="20250618080000 +0000" stop="20250618090000 +0000" channel="GolfChannel">
-    <title>Golf Central - Sports Stuff</title>
-    <desc>06-17-2025 -2 (S2025 E65)
-The latest golf tournament highlights and analysis, plus interviews and industry discussion.</desc>
-  </programme>
-  <programme start="20250618090000 +0000" stop="20250618100000 +0000" channel="GolfChannel">
-    <title>Golf Central - Sports Stuff</title>
-    <desc>06-17-2025 -2 (S2025 E65)
-The latest golf tournament highlights and analysis, plus interviews and industry discussion.</desc>
-  </programme>
-  <programme start="20250618100000 +0000" stop="20250618110000 +0000" channel="GolfChannel">
-    <title>Golf Central - Sports Stuff</title>
-    <desc>06-17-2025 -2 (S2025 E65)
-The latest golf tournament highlights and analysis, plus interviews and industry discussion.</desc>
-  </programme>
-  <programme start="20250618110000 +0000" stop="20250618113000 +0000" channel="GolfChannel">
-    <title>School of Golf - Golf</title>
-    <desc>Chapter 22: Need For Speed
-How to increase club head speed, ball speed, and other key areas where speed is needed for more distance. Martin Hall brings in one of the worldwide leaders in golf biomechanics for a cutting-edge lesson on practicing at the correct speed.</desc>
-  </programme>
-  <programme start="20250618113000 +0000" stop="20250618120000 +0000" channel="GolfChannel">
-    <title>Challenge Tour Golf Highlights - Sport</title>
-    <desc>Challenge de Cadiz Highlights
-Recapping the Challenge de Cadiz in Spain.</desc>
-  </programme>
-  <programme start="20250618120000 +0000" stop="20250618130000 +0000" channel="GolfChannel">
-    <title>Five Clubs Podcast with Gary Williams - Talk</title>
-    <desc>06-18-2025
-Host Gary Williams and guests discuss topics that matter most to golf fans.</desc>
-  </programme>
-  <programme start="20250618130000 +0000" stop="20250618140000 +0000" channel="GolfChannel">
-    <title>Five Clubs Podcast with Gary Williams - Talk</title>
-    <desc>06-18-2025
-Host Gary Williams and guests discuss topics that matter most to golf fans.</desc>
-  </programme>
-  <programme start="20250618140000 +0000" stop="20250618143000 +0000" channel="GolfChannel">
-    <title>PGA Tour: The Drop - Sports Stuff</title>
-    <desc>06-16-2025
-PGA Tour player profiles and features mixed with event highlights and previews.</desc>
-  </programme>
-  <programme start="20250618143000 +0000" stop="20250618160000 +0000" channel="GolfChannel">
-    <title>On the Range - Sports Stuff</title>
-    <desc>Travelers Championship
-Interviews, swing analysis and more previewing the Travelers Championship at TPC Connecticut outside of Hartford.</desc>
-  </programme>
-  <programme start="20250618160000 +0000" stop="20250618200000 +0000" channel="GolfChannel">
-    <title>Golf Central - Sports Stuff</title>
-    <desc>06-18-2025 (S2025 E66)
-The latest golf tournament highlights and analysis, plus interviews and industry discussion.</desc>
-  </programme>
-  <programme start="20250618200000 +0000" stop="20250618210000 +0000" channel="GolfChannel">
-    <title>Golf Central - Sports Stuff</title>
-    <desc>06-18-2025 -2 (S2025 E67)
-The latest golf tournament highlights and analysis, plus interviews and industry discussion.</desc>
-  </programme>
-  <programme start="20250618210000 +0000" stop="20250618220000 +0000" channel="GolfChannel">
-    <title>R&amp;A Golf Highlights - Highlights</title>
-    <desc>G4D Open
-Highlights of the 2025 G4D Open from Woburn, England, for golfers with disabilities.</desc>
-  </programme>
-  <programme start="20250618220000 +0000" stop="20250618230000 +0000" channel="GolfChannel">
-    <title>Golf Central - Sports Stuff</title>
-    <desc>06-18-2025 -2 (S2025 E67)
-The latest golf tournament highlights and analysis, plus interviews and industry discussion.</desc>
-  </programme>
-  <programme start="20250618230000 +0000" stop="20250619020000 +0000" channel="GolfChannel">
-    <title>Golf's Greatest Rounds - Open Championship - Classic Sports</title>
-    <desc>2014: The Open
-Replaying the final round of Rory McIlroy's Open Championship triumph at Royal Liverpool.</desc>
-  </programme>
-  <programme start="20250619020000 +0000" stop="20250619030000 +0000" channel="GolfChannel">
-    <title>Golf Central - Sports Stuff</title>
-    <desc>06-18-2025 -2 (S2025 E67)
-The latest golf tournament highlights and analysis, plus interviews and industry discussion.</desc>
   </programme>
 </tv>
