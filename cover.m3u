@@ -106,10 +106,6 @@ http://pro.ipcover.lol:8080/AnthoBocq4914/Yxcvy2YhfmCc/241386
 
 #EXTINF:-1 tvg-id="LEquipe" tvg-logo="https://ppechenot.github.io/perso/logos/lequipe.png" group-title="SPORT",L'EQUIPE
 http://pro.ipcover.lol:8080/AnthoBocq4914/Yxcvy2YhfmCc/298401
-#EXTINF:-1 tvg-id="" tvg-logo="https://ppechenot.github.io/perso/logos/lequipelive1.png" group-title="SPORT",L'EQUIPE LIVE 1
-http://pro.ipcover.lol:8080/AnthoBocq4914/Yxcvy2YhfmCc/298402
-#EXTINF:-1 tvg-id="" tvg-logo="https://ppechenot.github.io/perso/logos/lequipelive2.png" group-title="SPORT",L'EQUIPE LIVE 2
-http://pro.ipcover.lol:8080/AnthoBocq4914/Yxcvy2YhfmCc/298403
 #EXTINF:-1 tvg-id="CanalPlusSport" tvg-logo="https://ppechenot.github.io/perso/logos/canal+_sport.png" group-title="SPORT",CANAL+ SPORT
 http://pro.ipcover.lol:8080/AnthoBocq4914/Yxcvy2YhfmCc/298373
 #EXTINF:-1 tvg-id="CanalPlusSport360" tvg-logo="https://ppechenot.github.io/perso/logos/canal+_sport_360.png" group-title="SPORT",CANAL+ SPORT 360
@@ -128,8 +124,6 @@ http://pro.ipcover.lol:8080/AnthoBocq4914/Yxcvy2YhfmCc/298288
 http://pro.ipcover.lol:8080/AnthoBocq4914/Yxcvy2YhfmCc/298450
 #EXTINF:-1 tvg-id="GolfPlus" tvg-logo="https://ppechenot.github.io/perso/logos/golf+.png" group-title="SPORT",GOLF+
 http://pro.ipcover.lol:8080/AnthoBocq4914/Yxcvy2YhfmCc/298410
-#EXTINF:-1 tvg-id="JournalDuGolf" tvg-logo="https://ppechenot.github.io/perso/logos/journal_du_golf.png" group-title="SPORT",Journal du Golf
-http://pro.ipcover.lol:8080/AnthoBocq4914/Yxcvy2YhfmCc/298413
 
 #EXTINF:-1 tvg-id="GolfChannel" tvg-logo="https://ppechenot.github.io/perso/logos/nbc_golf_channel.png" group-title="SPORT",NBC GOLF
 http://pro.ipcover.lol:8080/AnthoBocq4914/Yxcvy2YhfmCc/328829
