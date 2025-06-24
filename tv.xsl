@@ -346,7 +346,7 @@
 						<xsl:if test="($Length &gt; 69) and (number($RatingRounded) &gt;= number($HighlightMovies))">
 							Goodmovie
 						</xsl:if> 
-						<xsl:if test="$HighlightClickable and ($Categ='Ciné' or $Categ='Film' or $Categ='Acti' or $Categ='Horr' or $Categ='Guer' or $Categ='Espi' or $Categ='Anti' or $Categ='Poli' or $Categ='Anim' or $Categ='Cata' or $Categ='Hist' or $Categ='Aven' or $Categ='Scie' or $Categ='Fant' or $Categ='Pepl' or $Categ='Dram' or $Categ='Comé' or $Categ='Mélo' or $Categ='West' or $Categ='Thri' or $Categ='Biog' and $OnClick='IMDB' or ($OnClick='URL' and url))">
+						<xsl:if test="$HighlightClickable and ($Categ='Ciné' or $Categ='Film' or $Categ='Acti' or $Categ='Musi' or $Categ='Horr' or $Categ='Guer' or $Categ='Espi' or $Categ='Anti' or $Categ='Poli' or $Categ='Anim' or $Categ='Cata' or $Categ='Hist' or $Categ='Aven' or $Categ='Scie' or $Categ='Fant' or $Categ='Pepl' or $Categ='Dram' or $Categ='Comé' or $Categ='Mélo' or $Categ='West' or $Categ='Thri' or $Categ='Biog' and $OnClick='IMDB' or ($OnClick='URL' and url))">
 							Clickable
 						</xsl:if>
 						<xsl:if test="$HighlightNew and string-length(date) = 8">
@@ -546,7 +546,7 @@ PP-->
 			  </xsl:if>
       </xsl:if>
 			<xsl:choose>
-				<xsl:when test="$OnClick='IMDB' and ($Categ='Ciné' or $Categ='Film' or $Categ='Acti' or $Categ='Horr' or $Categ='Guer' or $Categ='Espi' or $Categ='Anti' or $Categ='Poli' or $Categ='Anim' or $Categ='Cata' or $Categ='Hist' or $Categ='Aven' or $Categ='Scie' or $Categ='Fant' or $Categ='Pepl' or $Categ='Dram' or $Categ='Comé' or $Categ='Mélo' or $Categ='West' or $Categ='Thri' or $Categ='Biog')">
+				<xsl:when test="$OnClick='IMDB' and ($Categ='Ciné' or $Categ='Film' or $Categ='Acti' or $Categ='Musi' or $Categ='Horr' or $Categ='Guer' or $Categ='Espi' or $Categ='Anti' or $Categ='Poli' or $Categ='Anim' or $Categ='Cata' or $Categ='Hist' or $Categ='Aven' or $Categ='Scie' or $Categ='Fant' or $Categ='Pepl' or $Categ='Dram' or $Categ='Comé' or $Categ='Mélo' or $Categ='West' or $Categ='Thri' or $Categ='Biog')">
           <xsl:element name="a">
 					<xsl:attribute name="href">
               <xsl:text>http://www.themoviedb.org/search/movie?query=</xsl:text>
@@ -652,7 +652,8 @@ PP-->
 -->
 			<xsl:value-of select="title" />
 <!--PP je vais checher review rempli via MDB car date pas renseignée avec TéléCableSat-->
-			<xsl:if test="date or string-length(review) = 4">    
+<!--			<xsl:if test="date or string-length(review) = 4">    -->
+	<xsl:if test="$Categ='Ciné' or $Categ='Film' or $Categ='Acti' or $Categ='Musi' or $Categ='Horr' or $Categ='Guer' or $Categ='Espi' or $Categ='Anti' or $Categ='Poli' or $Categ='Anim' or $Categ='Cata' or $Categ='Hist' or $Categ='Aven' or $Categ='Scie' or $Categ='Fant' or $Categ='Pepl' or $Categ='Cine' or $Categ='Dram' or $Categ='Comé' or $Categ='Mélo' or $Categ='West' or $Categ='Thri' or $Categ='Biog'">
 <!--c'est donc un film, j'affiche la catégorie !-->
       - 
                 <xsl:for-each select="category[position() &lt;= 6]">
