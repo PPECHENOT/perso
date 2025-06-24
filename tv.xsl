@@ -651,8 +651,6 @@ PP-->
 <xsl:attribute name="href">#</xsl:attribute>
 -->
 			<xsl:value-of select="title" />
-<!--PP je vais checher review rempli via MDB car date pas renseignée avec TéléCableSat-->
-<!--			<xsl:if test="date or string-length(review) = 4">    -->
 	<xsl:if test="$Categ='Ciné' or $Categ='Film' or $Categ='Acti' or $Categ='Musi' or $Categ='Horr' or $Categ='Guer' or $Categ='Espi' or $Categ='Anti' or $Categ='Poli' or $Categ='Anim' or $Categ='Cata' or $Categ='Hist' or $Categ='Aven' or $Categ='Scie' or $Categ='Fant' or $Categ='Pepl' or $Categ='Cine' or $Categ='Dram' or $Categ='Comé' or $Categ='Mélo' or $Categ='West' or $Categ='Thri' or $Categ='Biog'">
 <!--c'est donc un film, j'affiche la catégorie !-->
       - 
@@ -665,7 +663,7 @@ PP-->
 			               (<xsl:value-of select="date"/>)
 	                  </xsl:when>
 	                  <xsl:otherwise>
-                			<xsl:if test="string-length(review) = 4">    <!--PP je vais checher review rempli via MDB car date pas renseignée SUR UN FILM avec TéléCableSat-->
+                			<xsl:if test="string-length(review) = 4">
 		  		            (<xsl:value-of select="review"/>)
 			               </xsl:if>
 	                  </xsl:otherwise>
