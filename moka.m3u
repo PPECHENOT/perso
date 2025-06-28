@@ -1,35 +1,35 @@
 #EXTM3U url-tvg="https://ppechenot.github.io/perso/tivi.xml"
 
 #EXTINF:-1 tvg-id="TF1" tvg-logo="https://ppechenot.github.io/perso/logos/tf1.png" group-title="TNT",TF1
-http://mokatv.site:8080/mokaa123/554444/318765
+http://mokatv.site:8080/mokaa123/554444/186888
 #EXTINF:-1 tvg-id="France2" tvg-logo="https://ppechenot.github.io/perso/logos/france2.png" group-title="TNT",FRANCE 2
-http://mokatv.site:8080/mokaa123/554444/318766
+http://mokatv.site:8080/mokaa123/554444/186894
 #EXTINF:-1 tvg-id="France3" tvg-logo="https://ppechenot.github.io/perso/logos/france3.png" group-title="TNT",FRANCE 3
-http://mokatv.site:8080/mokaa123/554444/318767
+http://mokatv.site:8080/mokaa123/554444/186897
 #EXTINF:-1 tvg-id="France4" tvg-logo="https://ppechenot.github.io/perso/logos/france4.png" group-title="TNT",FRANCE 4
-http://mokatv.site:8080/mokaa123/554444/318768
+http://mokatv.site:8080/mokaa123/554444/186898
 #EXTINF:-1 tvg-id="France5" tvg-logo="https://ppechenot.github.io/perso/logos/france5.png" group-title="TNT",FRANCE 5
-http://mokatv.site:8080/mokaa123/554444/318769
+http://mokatv.site:8080/mokaa123/554444/186901
 #EXTINF:-1 tvg-id="M6" tvg-logo="https://ppechenot.github.io/perso/logos/m6.png" group-title="TNT",M6
-http://mokatv.site:8080/mokaa123/554444/318771
+http://mokatv.site:8080/mokaa123/554444/186889
 #EXTINF:-1 tvg-id="Arte" tvg-logo="https://ppechenot.github.io/perso/logos/arte.png" group-title="TNT",ARTE
-http://mokatv.site:8080/mokaa123/554444/318770
+http://mokatv.site:8080/mokaa123/554444/186891
 #EXTINF:-1 tvg-id="W9" tvg-logo="https://ppechenot.github.io/perso/logos/w9.png" group-title="TNT",W9
-http://vocotv.live/live/robert/robert2023/723481.ts
+http://mokatv.site:8080/mokaa123/554444/186890
 #EXTINF:-1 tvg-id="TMC" tvg-logo="https://ppechenot.github.io/perso/logos/tmc.png" group-title="TNT",TMC
-http://vocotv.live/live/robert/robert2023/723457.ts
+http://mokatv.site:8080/mokaa123/554444/186904
 #EXTINF:-1 tvg-id="TFX" tvg-logo="https://ppechenot.github.io/perso/logos/tfx.png" group-title="TNT",TFX
-http://vocotv.live/live/robert/robert2023/723469.ts
+http://mokatv.site:8080/mokaa123/554444/186902
 #EXTINF:-1 tvg-id="CStar" tvg-logo="https://ppechenot.github.io/perso/logos/cstar.png" group-title="TNT",CSTAR
-http://vocotv.live/live/robert/robert2023/723461.ts
+http://mokatv.site:8080/mokaa123/554444/186970
 #EXTINF:-1 tvg-id="TF1SeriesFilms" tvg-logo="https://ppechenot.github.io/perso/logos/tf1_series_films.png" group-title="TNT",TF1 SERIES FILMS
-http://vocotv.live/live/robert/robert2023/723451.ts
+http://mokatv.site:8080/mokaa123/554444/319155
 #EXTINF:-1 tvg-id="6ter" tvg-logo="https://ppechenot.github.io/perso/logos/6ter.png" group-title="TNT",6TER
-http://vocotv.live/live/robert/robert2023/723485.ts
+http://mokatv.site:8080/mokaa123/554444/186967
 #EXTINF:-1 tvg-id="RMCStory" tvg-logo="https://ppechenot.github.io/perso/logos/rmc_story.png" group-title="TNT",RMC STORY
 http://vocotv.live/live/robert/robert2023/723443.ts
 #EXTINF:-1 tvg-id="Cherie25" tvg-logo="https://ppechenot.github.io/perso/logos/cherie25.png" group-title="TNT",CHERIE 25
-http://vocotv.live/live/robert/robert2023/723439.ts
+http://mokatv.site:8080/mokaa123/554444/186964
 #EXTINF:-1 tvg-id="LCP" tvg-logo="https://ppechenot.github.io/perso/logos/lcp.png" group-title="TNT",LCP
 http://vocotv.live/live/robert/robert2023/723312.ts
 #EXTINF:-1 tvg-id="Gulli" tvg-logo="https://ppechenot.github.io/perso/logos/gulli.png" group-title="TNT",GULLI
@@ -38,56 +38,54 @@ http://vocotv.live/live/robert/robert2023/724104.ts
 http://vocotv.live/live/robert/robert2023/723292.ts
 
 #EXTINF:-1 tvg-id="CanalPlus" tvg-logo="https://ppechenot.github.io/perso/logos/canal+.png" group-title="CINEMA",CANAL+
-http://vocotv.live/live/robert/robert2023/723448.ts
+http://mokatv.site:8080/mokaa123/554444/186878
 #EXTINF:-1 tvg-id="CanalPlusCinema" tvg-logo="https://ppechenot.github.io/perso/logos/canal+_cinema(s).png" group-title="CINEMA",CANAL+ CINEMA(S)
-http://vocotv.live/live/robert/robert2023/724077.ts
+http://mokatv.site:8080/mokaa123/554444/186880
 #EXTINF:-1 tvg-id="CanalPlusBoxOffice" tvg-logo="https://ppechenot.github.io/perso/logos/canal+_box_office.png" group-title="CINEMA",CANAL+ BOX OFFICE
 http://vocotv.live/live/robert/robert2023/724079.ts
 #EXTINF:-1 tvg-id="CanalPlusGrandEcran" tvg-logo="https://ppechenot.github.io/perso/logos/canal+_grand_ecran.png" group-title="CINEMA",CANAL+ GRAND ECRAN
 http://vocotv.live/live/robert/robert2023/724068.ts
 #EXTINF:-1 tvg-id="OCS" tvg-logo="https://ppechenot.github.io/perso/logos/cine+_ocs.png" group-title="CINEMA",CINE+ OCS
-http://vocotv.live/live/robert/robert2023/724060.ts
+http://mokatv.site:8080/mokaa123/554444/186942
 #EXTINF:-1 tvg-id="CinePlusFrisson" tvg-logo="https://ppechenot.github.io/perso/logos/cine+_frisson.png" group-title="CINEMA",CINE+ FRISSON
-http://vocotv.live/live/robert/robert2023/724056.ts
+http://mokatv.site:8080/mokaa123/554444/186943
 #EXTINF:-1 tvg-id="CinePlusEmotion" tvg-logo="https://ppechenot.github.io/perso/logos/cine+_emotion.png" group-title="CINEMA",CINE+ EMOTION
-http://vocotv.live/live/robert/robert2023/724048.ts
+http://mokatv.site:8080/mokaa123/554444/186885
 #EXTINF:-1 tvg-id="CinePlusFamily" tvg-logo="https://ppechenot.github.io/perso/logos/cine+_family.png" group-title="CINEMA",CINE+ FAMILY
-http://vocotv.live/live/robert/robert2023/724052.ts
+http://mokatv.site:8080/mokaa123/554444/186886
 #EXTINF:-1 tvg-id="CinePlusFestival" tvg-logo="https://ppechenot.github.io/perso/logos/cine+_festival.png" group-title="CINEMA",CINE+ FESTIVAL
-http://vocotv.live/live/robert/robert2023/724044.ts
+http://mokatv.site:8080/mokaa123/554444/186945
 #EXTINF:-1 tvg-id="CinePlusClassic" tvg-logo="https://ppechenot.github.io/perso/logos/cine+_classic.png" group-title="CINEMA",CINE+ CLASSIC
 http://vocotv.live/live/robert/robert2023/724039.ts
 #EXTINF:-1 tvg-id="TCM" tvg-logo="https://ppechenot.github.io/perso/logos/tcm_cinema.png" group-title="CINEMA",TCM CINEMA
-http://vocotv.live/live/robert/robert2023/724006.ts
+http://mokatv.site:8080/mokaa123/554444/186947
 #EXTINF:-1 tvg-id="ParamountChannel" tvg-logo="https://ppechenot.github.io/perso/logos/paramount_channel.png" group-title="CINEMA",PARAMOUNT CHANNEL
-http://vocotv.live/live/robert/robert2023/724001.ts
+http://mokatv.site:8080/mokaa123/554444/186946
 #EXTINF:-1 tvg-id="Action" tvg-logo="https://ppechenot.github.io/perso/logos/action.png" group-title="CINEMA",ACTION
-http://vocotv.live/live/robert/robert2023/724023.ts
+http://mokatv.site:8080/mokaa123/554444/186948
 
 #EXTINF:-1 tvg-id="CanalPlusSeries" tvg-logo="https://ppechenot.github.io/perso/logos/canal+_series.png" group-title="SERIES",CANAL+ SERIES
-http://vocotv.live/live/robert/robert2023/724073.ts
+http://mokatv.site:8080/mokaa123/554444/186882
 #EXTINF:-1 tvg-id="PolarPlus" tvg-logo="https://ppechenot.github.io/perso/logos/polar+.png" group-title="SERIES",POLAR+
-http://vocotv.live/live/robert/robert2023/724015.ts
+http://mokatv.site:8080/mokaa123/554444/186887
 #EXTINF:-1 tvg-id="ComediePlus" tvg-logo="https://ppechenot.github.io/perso/logos/comedie+.png" group-title="SERIES",COMEDIE+
-http://vocotv.live/live/robert/robert2023/724011.ts
+http://mokatv.site:8080/mokaa123/554444/186952
 #EXTINF:-1 tvg-id="13Rue" tvg-logo="https://ppechenot.github.io/perso/logos/13eme_rue.png" group-title="SERIES",13EME RUE
-http://vocotv.live/live/robert/robert2023/723416.ts
+http://mokatv.site:8080/mokaa123/554444/186959
 #EXTINF:-1 tvg-id="Syfy" tvg-logo="https://ppechenot.github.io/perso/logos/syfy.png" group-title="SERIES",SYFY
-http://vocotv.live/live/robert/robert2023/733418.ts
+http://mokatv.site:8080/mokaa123/554444/186953
 #EXTINF:-1 tvg-id="WarnerTV" tvg-logo="https://ppechenot.github.io/perso/logos/warner_tv.png" group-title="SERIES",WARNER TV
 http://vocotv.live/live/robert/robert2023/724019.ts
 #EXTINF:-1 tvg-id="SerieClub" tvg-logo="https://ppechenot.github.io/perso/logos/serieclub.png" group-title="SERIES",SERIECLUB
-http://vocotv.live/live/robert/robert2023/723400.ts
+http://mokatv.site:8080/mokaa123/554444/186958
 #EXTINF:-1 tvg-id="TvBreizh" tvg-logo="https://ppechenot.github.io/perso/logos/tvbreizh.png" group-title="SERIES",TV BREIZH
-http://vocotv.live/live/robert/robert2023/723391.ts
+http://mokatv.site:8080/mokaa123/554444/186955
 #EXTINF:-1 tvg-id="Teva" tvg-logo="https://ppechenot.github.io/perso/logos/teva.png" group-title="SERIES",TEVA
-http://vocotv.live/live/robert/robert2023/723412.ts
+http://mokatv.site:8080/mokaa123/554444/186957
 #EXTINF:-1 tvg-id="ParisPremiere" tvg-logo="https://ppechenot.github.io/perso/logos/paris_premiere.png" group-title="SERIES",PARIS PREMIERE
-http://vocotv.live/live/robert/robert2023/723396.ts
+http://mokatv.site:8080/mokaa123/554444/186954
 #EXTINF:-1 tvg-id="RTL9" tvg-logo="https://ppechenot.github.io/perso/logos/rtl9.png" group-title="SERIES",RTL9
-http://vocotv.live/live/robert/robert2023/723407.ts
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/cbcIKCT.png" group-title="SERIES",France TV Séries
-http://vocotv.live/live/robert/robert2023/724035.ts
+http://mokatv.site:8080/mokaa123/554444/186956
 
 #EXTINF:-1 tvg-id="CanalPlusDocs" tvg-logo="https://ppechenot.github.io/perso/logos/canal+_docs.png" group-title="CULTURE",CANAL+ DOCS
 http://vocotv.live/live/robert/robert2023/723602.ts
@@ -111,7 +109,7 @@ http://vocotv.live/live/robert/robert2023/684375.ts
 #EXTINF:-1 tvg-id="RTS1" tvg-logo="https://ppechenot.github.io/perso/logos/rts1.png" group-title="EUROPE",RTS 1
 http://vocotv.live/live/robert/robert2023/723434.ts
 #EXTINF:-1 tvg-id="RTS2" tvg-logo="https://ppechenot.github.io/perso/logos/rts2.png" group-title="EUROPE",RTS 2
-http://vocotv.live/live/robert/robert2023/723433.ts
+http://mokatv.site:8080/mokaa123/554444/186966
 #EXTINF:-1 tvg-id="LaUne" tvg-logo="http://2p2m.lescigales.org/logos/la_une.png" group-title="EUROPE",LA UNE
 http://vocotv.live/live/robert/robert2023/689293.ts
 #EXTINF:-1 tvg-id="LaTrois" tvg-logo="http://2p2m.lescigales.org/logos/la_trois.png" group-title="EUROPE",LA TROIS
