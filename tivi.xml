@@ -1298,12 +1298,6 @@ Bulletin météorologique du service de presse de France 3-Météo France.</desc
 L'information ultramarine trouve sa place dans un format de 9 minutes. "Outremer.l'info" permet une couverture plus large et un suivi accru des Ultramarins vivant dans l'Hexagone.</desc>
     <icon src="https://assets.diverto.tv/media/remote/aHR0cDovL2ltYWdlcy5tZWRpYS1wcmVzcy5jbG91ZC8wNDM1Yjc3MTk4NWQ0OWQzYTU1YTIyZjYxZDhhODEwMA==?w=416&amp;h=260&amp;fit=crop&amp;fm=webp&amp;s=749a44f7477af51626abe6c8bb947500"/>
   </programme>
-  <programme start="20250709100000 +0000" stop="20250709100000 +0000" channel="France3FC">
-    <title>ICI 12/13 - avant JT</title>
-    <desc>
-Diverto le média d'information consacré aux divertissements, incluant la télévision, les plateformes de streaming et la pop culture.</desc>
-    <icon src="https://assets.diverto.tv/media/remote/aHR0cDovL2ltYWdlcy5tZWRpYS1wcmVzcy5jbG91ZC9kOTI3OGFhYzgzYjY0ZTc2OWJhMjY1NmZiOGYxODZhMg==?w=416&amp;h=260&amp;fit=crop&amp;fm=webp&amp;s=6560ff3a1d460dffc8285e08b67884fd"/>
-  </programme>
   <programme start="20250709100000 +0000" stop="20250709102000 +0000" channel="France3FC">
     <title>Régions d'ici</title>
     <desc>
