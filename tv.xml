@@ -2302,13 +2302,6 @@
     <category lang="fr">Journal</category>
     <icon src="https://assets.diverto.tv/media/remote/aHR0cDovL2ltYWdlcy5tZWRpYS1wcmVzcy5jbG91ZC84NjVhYTczNzI3OTA0YTMyYWY5NTMyNGI5NjViNzQ2ZQ==?w=416&amp;h=260&amp;fit=crop&amp;fm=webp&amp;s=fc38858038b643f5a9a61561529e5d71" />
   </programme>
-  <programme start="20250714120000 +0000" stop="20250714120000 +0000" channel="France3FC">
-    <title lang="fr">ICI 12/13 - avant JT</title>
-    <desc lang="fr">Diverto le média d'information consacré aux divertissements, incluant la télévision, les plateformes de streaming et la pop culture.</desc>
-    <category lang="fr">Emission</category>
-    <category lang="fr">Journal</category>
-    <icon src="https://assets.diverto.tv/media/remote/aHR0cDovL2ltYWdlcy5tZWRpYS1wcmVzcy5jbG91ZC9kOTI3OGFhYzgzYjY0ZTc2OWJhMjY1NmZiOGYxODZhMg==?w=416&amp;h=260&amp;fit=crop&amp;fm=webp&amp;s=6560ff3a1d460dffc8285e08b67884fd" />
-  </programme>
   <programme start="20250714120000 +0000" stop="20250714122000 +0000" channel="France3FC">
     <title lang="fr">Régions d'ici</title>
     <desc lang="fr">Savoir ce qui fait l'actualité des territoires et mieux les comprendre : c'est l'idée de "Régions d'ICI", le rendez-vous des antennes régionales de France 3.</desc>
