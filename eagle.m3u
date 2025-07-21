@@ -114,7 +114,7 @@ http://eag23.ddns.net:80/play/live.php?mac=00:1A:79:CD:E0:3F&stream=91837&extens
 http://eag23.ddns.net:80/play/live.php?mac=00:1A:79:CD:E0:3F&stream=1186395&extension=ts
 
 #EXTINF:-1 tvg-id="LEquipe" tvg-logo="https://ppechenot.github.io/perso/logos/lequipe.png" group-title="SPORT",L'EQUIPE
-http://eag23.ddns.net:80/play/live.php?mac=00:1A:79:CD:E0:3F&stream=32841&extension=ts
+http://eag23.ddns.net:80/play/live.php?mac=00:1A:79:CD:E0:3F&stream=250661&extension=ts
 #EXTINF:-1 tvg-id="CanalPlusSport" tvg-logo="https://ppechenot.github.io/perso/logos/canal+_sport.png" group-title="SPORT",CANAL+ SPORT
 http://eag23.ddns.net:80/play/live.php?mac=00:1A:79:CD:E0:3F&stream=32774&extension=ts
 #EXTINF:-1 tvg-id="CanalPlusSport360" tvg-logo="https://ppechenot.github.io/perso/logos/canal+_sport_360.png" group-title="SPORT",CANAL+ SPORT 360
