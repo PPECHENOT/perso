@@ -122,7 +122,7 @@ http://eag23.ddns.net:80/play/live.php?mac=00:1A:79:CD:E0:3F&stream=256628&exten
 #EXTINF:-1 tvg-id="Eurosport1" tvg-logo="https://ppechenot.github.io/perso/logos/eurosport1.png" group-title="SPORT",EUROSPORT 1
 http://eag23.ddns.net:80/play/live.php?mac=00:1A:79:CD:E0:3F&stream=32842&extension=ts
 #EXTINF:-1 tvg-id="Eurosport2" tvg-logo="https://ppechenot.github.io/perso/logos/eurosport2.png" group-title="SPORT",EUROSPORT 2
-http://eag23.ddns.net:80/play/live.php?mac=00:1A:79:CD:E0:3F&stream=32843&extension=ts
+http://eag23.ddns.net:80/play/live.php?mac=00:1A:79:CD:E0:3F&stream=250664&extension=ts
 #EXTINF:-1 tvg-id="BeinSports1" tvg-logo="https://ppechenot.github.io/perso/logos/bein_sports1.png" group-title="SPORT",BEIN SPORTS 1
 http://eag23.ddns.net:80/play/live.php?mac=00:1A:79:CD:E0:3F&stream=35522&extension=ts
 #EXTINF:-1 tvg-id="BeinSports2" tvg-logo="https://ppechenot.github.io/perso/logos/bein_sports2.png" group-title="SPORT",BEIN SPORTS 2
