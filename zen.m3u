@@ -1,0 +1,215 @@
+#EXTM3U url-tvg="https://2p2m.infinityfree.me/tivi.xml"
+
+#EXTINF:-1 tvg-id="TF1" tvg-logo="https://2p2m.infinityfree.me/logos/tf1.png" group-title="TNT",TF1
+http://apk.zentv4k.me/play/live.php?mac=00:1A:79:7B:D8:EE&stream=1544258&extension=ts
+#EXTINF:-1 tvg-id="France2" tvg-logo="https://2p2m.infinityfree.me/logos/france2.png" group-title="TNT",FRANCE 2
+http://apk.zentv4k.me/play/live.php?mac=00:1A:79:7B:D8:EE&stream=1537515&extension=ts
+#EXTINF:-1 tvg-id="France3" tvg-logo="https://2p2m.infinityfree.me/logos/france3.png" group-title="TNT",FRANCE 3
+http://apk.zentv4k.me/play/live.php?mac=00:1A:79:7B:D8:EE&stream=1537514&extension=ts
+#EXTINF:-1 tvg-id="France4" tvg-logo="https://2p2m.infinityfree.me/logos/france4.png" group-title="TNT",FRANCE 4
+http://apk.zentv4k.me/play/live.php?mac=00:1A:79:7B:D8:EE&stream=1537513&extension=ts
+#EXTINF:-1 tvg-id="France5" tvg-logo="https://2p2m.infinityfree.me/logos/france5.png" group-title="TNT",FRANCE 5
+http://apk.zentv4k.me/play/live.php?mac=00:1A:79:7B:D8:EE&stream=1537512&extension=ts
+#EXTINF:-1 tvg-id="France5" tvg-logo="https://2p2m.infinityfree.me/logos/france5.png" group-title="TNT",FRANCE 5 [france.tv]
+https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/francetv/france-5.m3u8
+#EXTINF:-1 tvg-id="M6" tvg-logo="https://2p2m.infinityfree.me/logos/m6.png" group-title="TNT",M6
+http://apk.zentv4k.me/play/live.php?mac=00:1A:79:7B:D8:EE&stream=425605&extension=ts
+
+#EXTINF:-1 tvg-id="Arte" tvg-logo="https://2p2m.infinityfree.me/logos/arte.png" group-title="TNT",ARTE
+http://apk.zentv4k.me/play/live.php?mac=00:1A:79:7B:D8:EE&stream=425565&extension=ts
+#EXTINF:-1 tvg-id="LCP" tvg-logo="https://2p2m.infinityfree.me/logos/lcp.png" group-title="TNT",LCP
+http://apk.zentv4k.me/play/live.php?mac=00:1A:79:7B:D8:EE&stream=207252&extension=ts
+#EXTINF:-1 tvg-id="W9" tvg-logo="https://2p2m.infinityfree.me/logos/w9.png" group-title="TNT",W9
+http://apk.zentv4k.me/play/live.php?mac=00:1A:79:7B:D8:EE&stream=1687220&extension=ts
+#EXTINF:-1 tvg-id="TMC" tvg-logo="https://2p2m.infinityfree.me/logos/tmc.png" group-title="TNT",TMC
+http://apk.zentv4k.me/play/live.php?mac=00:1A:79:7B:D8:EE&stream=425586&extension=ts
+#EXTINF:-1 tvg-id="TFX" tvg-logo="https://2p2m.infinityfree.me/logos/tfx.png" group-title="TNT",TFX
+http://apk.zentv4k.me/play/live.php?mac=00:1A:79:7B:D8:EE&stream=425585&extension=ts
+#EXTINF:-1 tvg-id="CStar" tvg-logo="https://2p2m.infinityfree.me/logos/cstar.png" group-title="TNT",CSTAR
+http://apk.zentv4k.me/play/live.php?mac=00:1A:79:7B:D8:EE&stream=425563&extension=ts
+#EXTINF:-1 tvg-id="TF1SeriesFilms" tvg-logo="https://2p2m.infinityfree.me/logos/tf1_series_films.png" group-title="TNT",TF1 SERIES FILMS
+http://apk.zentv4k.me/play/live.php?mac=00:1A:79:7B:D8:EE&stream=425517&extension=ts
+#EXTINF:-1 tvg-id="6ter" tvg-logo="https://2p2m.infinityfree.me/logos/6ter.png" group-title="TNT",6TER
+http://apk.zentv4k.me/play/live.php?mac=00:1A:79:7B:D8:EE&stream=425566&extension=ts
+#EXTINF:-1 tvg-id="RMCStory" tvg-logo="https://2p2m.infinityfree.me/logos/rmc_story.png" group-title="TNT",RMC STORY
+http://apk.zentv4k.me/play/live.php?mac=00:1A:79:7B:D8:EE&stream=165078&extension=ts
+#EXTINF:-1 tvg-id="RMCLife" tvg-logo="https://2p2m.infinityfree.me/logos/rmc_life.png" group-title="TNT",RMC LIFE
+http://apk.zentv4k.me/play/live.php?mac=00:1A:79:7B:D8:EE&stream=1687031&extension=ts
+#EXTINF:-1 tvg-id="Gulli" tvg-logo="https://2p2m.infinityfree.me/logos/gulli.png" group-title="TNT",GULLI
+http://apk.zentv4k.me/play/live.php?mac=00:1A:79:7B:D8:EE&stream=425558&extension=ts
+
+#EXTINF:-1 tvg-id="CanalPlus" tvg-logo="https://2p2m.infinityfree.me/logos/canal+.png" group-title="CINEMA",CANAL+
+http://apk.zentv4k.me/play/live.php?mac=00:1A:79:7B:D8:EE&stream=425573&extension=ts
+#EXTINF:-1 tvg-id="CanalPlusCinema" tvg-logo="https://2p2m.infinityfree.me/logos/canal+_cinema(s).png" group-title="CINEMA",CANAL+ CINEMA(S)
+http://apk.zentv4k.me/play/live.php?mac=00:1A:79:7B:D8:EE&stream=106908&extension=ts
+#EXTINF:-1 tvg-id="CanalPlusBoxOffice" tvg-logo="https://2p2m.infinityfree.me/logos/canal+_box_office.png" group-title="CINEMA",CANAL+ BOX OFFICE
+http://apk.zentv4k.me/play/live.php?mac=00:1A:79:7B:D8:EE&stream=569466&extension=ts
+#EXTINF:-1 tvg-id="CanalPlusGrandEcran" tvg-logo="https://2p2m.infinityfree.me/logos/canal+_grand_ecran.png" group-title="CINEMA",CANAL+ GRAND ECRAN
+http://apk.zentv4k.me/play/live.php?mac=00:1A:79:7B:D8:EE&stream=425578&extension=ts
+#EXTINF:-1 tvg-id="OCS" tvg-logo="https://2p2m.infinityfree.me/logos/cine+_ocs.png" group-title="CINEMA",CINE+ OCS
+http://apk.zentv4k.me/play/live.php?mac=00:1A:79:7B:D8:EE&stream=1537506&extension=ts
+#EXTINF:-1 tvg-id="CinePlusFrisson" tvg-logo="https://2p2m.infinityfree.me/logos/cine+_frisson.png" group-title="CINEMA",CINE+ FRISSON
+http://apk.zentv4k.me/play/live.php?mac=00:1A:79:7B:D8:EE&stream=1537525&extension=ts
+#EXTINF:-1 tvg-id="CinePlusEmotion" tvg-logo="https://2p2m.infinityfree.me/logos/cine+_emotion.png" group-title="CINEMA",CINE+ EMOTION
+http://apk.zentv4k.me/play/live.php?mac=00:1A:79:7B:D8:EE&stream=1537528&extension=ts
+#EXTINF:-1 tvg-id="CinePlusFamily" tvg-logo="https://2p2m.infinityfree.me/logos/cine+_family.png" group-title="CINEMA",CINE+ FAMILY
+http://apk.zentv4k.me/play/live.php?mac=00:1A:79:7B:D8:EE&stream=1537527&extension=ts
+#EXTINF:-1 tvg-id="CinePlusFestival" tvg-logo="https://2p2m.infinityfree.me/logos/cine+_festival.png" group-title="CINEMA",CINE+ FESTIVAL
+http://apk.zentv4k.me/play/live.php?mac=00:1A:79:7B:D8:EE&stream=1537526&extension=ts
+#EXTINF:-1 tvg-id="CinePlusClassic" tvg-logo="https://2p2m.infinityfree.me/logos/cine+_classic.png" group-title="CINEMA",CINE+ CLASSIC
+http://apk.zentv4k.me/play/live.php?mac=00:1A:79:7B:D8:EE&stream=1537529&extension=ts
+#EXTINF:-1 tvg-id="TCM" tvg-logo="https://2p2m.infinityfree.me/logos/tcm_cinema.png" group-title="CINEMA",TCM CINEMA
+http://apk.zentv4k.me/play/live.php?mac=00:1A:79:7B:D8:EE&stream=1537501&extension=ts
+#EXTINF:-1 tvg-id="Action" tvg-logo="https://2p2m.infinityfree.me/logos/action.png" group-title="CINEMA",ACTION
+http://apk.zentv4k.me/play/live.php?mac=00:1A:79:7B:D8:EE&stream=1537536&extension=ts
+
+#EXTINF:-1 tvg-id="PolarPlus" tvg-logo="https://2p2m.infinityfree.me/logos/polar+.png" group-title="SERIES",POLAR+
+http://apk.zentv4k.me/play/live.php?mac=00:1A:79:7B:D8:EE&stream=1687061&extension=ts
+#EXTINF:-1 tvg-id="ComediePlus" tvg-logo="https://2p2m.infinityfree.me/logos/comedie+.png" group-title="SERIES",COMEDIE+
+http://apk.zentv4k.me/play/live.php?mac=00:1A:79:7B:D8:EE&stream=1687028&extension=ts
+#EXTINF:-1 tvg-id="13Rue" tvg-logo="https://2p2m.infinityfree.me/logos/13eme_rue.png" group-title="SERIES",13EME RUE
+http://apk.zentv4k.me/play/live.php?mac=00:1A:79:7B:D8:EE&stream=1687030&extension=ts
+#EXTINF:-1 tvg-id="Syfy" tvg-logo="https://2p2m.infinityfree.me/logos/syfy.png" group-title="SERIES",SYFY
+http://apk.zentv4k.me/play/live.php?mac=00:1A:79:7B:D8:EE&stream=425595&extension=ts
+#EXTINF:-1 tvg-id="WarnerTV" tvg-logo="https://2p2m.infinityfree.me/logos/warner_tv.png" group-title="SERIES",WARNER TV
+http://apk.zentv4k.me/play/live.php?mac=00:1A:79:7B:D8:EE&stream=1687111&extension=ts
+#EXTINF:-1 tvg-id="SerieClub" tvg-logo="https://2p2m.infinityfree.me/logos/serieclub.png" group-title="SERIES",SERIECLUB
+http://apk.zentv4k.me/play/live.php?mac=00:1A:79:7B:D8:EE&stream=207171&extension=ts
+#EXTINF:-1 tvg-id="TvBreizh" tvg-logo="https://2p2m.infinityfree.me/logos/tvbreizh.png" group-title="SERIES",TV BREIZH
+http://apk.zentv4k.me/play/live.php?mac=00:1A:79:7B:D8:EE&stream=425589&extension=ts
+#EXTINF:-1 tvg-id="Teva" tvg-logo="https://2p2m.infinityfree.me/logos/teva.png" group-title="SERIES",TEVA
+http://apk.zentv4k.me/play/live.php?mac=00:1A:79:7B:D8:EE&stream=425584&extension=ts
+#EXTINF:-1 tvg-id="ParisPremiere" tvg-logo="https://2p2m.infinityfree.me/logos/paris_premiere.png" group-title="SERIES",PARIS PREMIERE
+http://apk.zentv4k.me/play/live.php?mac=00:1A:79:7B:D8:EE&stream=207182&extension=ts
+#EXTINF:-1 tvg-id="RTL9" tvg-logo="https://2p2m.infinityfree.me/logos/rtl9.png" group-title="SERIES",RTL9
+http://apk.zentv4k.me/play/live.php?mac=00:1A:79:7B:D8:EE&stream=106924&extension=ts
+
+#EXTINF:-1 tvg-id="CanalPlusDocs" tvg-logo="https://2p2m.infinityfree.me/logos/canal+_docs.png" group-title="CULTURE",CANAL+ DOCS
+http://apk.zentv4k.me/play/live.php?mac=00:1A:79:7B:D8:EE&stream=1687074&extension=ts
+#EXTINF:-1 tvg-id="NationalGeographic" tvg-logo="https://2p2m.infinityfree.me/logos/national_geographic.png" group-title="CULTURE",NATIONAL GEOGRAPHIC
+http://apk.zentv4k.me/play/live.php?mac=00:1A:79:7B:D8:EE&stream=425532&extension=ts
+#EXTINF:-1 tvg-id="NatGeoWild" tvg-logo="https://2p2m.infinityfree.me/logos/nat_geo_wild.png" group-title="CULTURE",NAT GEO WILD
+http://apk.zentv4k.me/play/live.php?mac=00:1A:79:7B:D8:EE&stream=207196&extension=ts
+#EXTINF:-1 tvg-id="ScienceEtVieTV" tvg-logo="https://2p2m.infinityfree.me/logos/science_et_vie_tv.png" group-title="CULTURE",SCIENCE & VIE
+http://apk.zentv4k.me/play/live.php?mac=00:1A:79:7B:D8:EE&stream=1537503&extension=ts
+#EXTINF:-1 tvg-id="UshuaiaTV" tvg-logo="https://2p2m.infinityfree.me/logos/ushuaia_tv.png" group-title="CULTURE",USHUAIA TV
+http://apk.zentv4k.me/play/live.php?mac=00:1A:79:7B:D8:EE&stream=425580&extension=ts
+#EXTINF:-1 tvg-id="HistoireTV" tvg-logo="https://2p2m.infinityfree.me/logos/histoire_tv.png" group-title="CULTURE",HISTOIRE
+http://apk.zentv4k.me/play/live.php?mac=00:1A:79:7B:D8:EE&stream=425557&extension=ts
+#EXTINF:-1 tvg-id="TouteHistoire" tvg-logo="https://2p2m.infinityfree.me/logos/toute_lhistoire.png" group-title="CULTURE",TOUTE L'HISTOIRE
+http://apk.zentv4k.me/play/live.php?mac=00:1A:79:7B:D8:EE&stream=1537498&extension=ts
+#EXTINF:-1 tvg-id="MuseumTV" tvg-logo="https://2p2m.infinityfree.me/logos/museum_tv.png" group-title="CULTURE",MUSEUM TV
+http://apk.zentv4k.me/play/live.php?mac=00:1A:79:7B:D8:EE&stream=220869&extension=ts
+
+#EXTINF:-1 tvg-id="RTS1" tvg-logo="https://2p2m.infinityfree.me/logos/rts1.png" group-title="EUROPE",RTS 1
+http://apk.zentv4k.me/play/live.php?mac=00:1A:79:7B:D8:EE&stream=386559&extension=ts
+#EXTINF:-1 tvg-id="RTS2" tvg-logo="https://2p2m.infinityfree.me/logos/rts2.png" group-title="EUROPE",RTS 2
+http://apk.zentv4k.me/play/live.php?mac=00:1A:79:7B:D8:EE&stream=386547&extension=ts
+#EXTINF:-1 tvg-id="LaUne" tvg-logo="https://2p2m.infinityfree.me/logos/la_une.png" group-title="EUROPE",LA UNE
+http://apk.zentv4k.me/play/live.php?mac=00:1A:79:7B:D8:EE&stream=368587&extension=ts
+#EXTINF:-1 tvg-id="LaTrois" tvg-logo="https://2p2m.infinityfree.me/logos/la_trois.png" group-title="EUROPE",LA TROIS
+http://apk.zentv4k.me/play/live.php?mac=00:1A:79:7B:D8:EE&stream=985191&extension=ts
+
+#EXTINF:-1 tvg-id="LEquipe" tvg-logo="https://2p2m.infinityfree.me/logos/lequipe.png" group-title="SPORT",L'Equipe [1080p-samsungtvplus]
+https://jmp2.uk/stvp-FR200016Y5
+#EXTINF:-1 tvg-id="LEquipe" tvg-logo="https://2p2m.infinityfree.me/logos/lequipe.png" group-title="SPORT",L EQUIPE [FR-NETPLUS.TV]
+https://viamotionhsi.netplus.ch/live/eds/lequipe21/browser-HLS8/lequipe21.m3u8
+#EXTINF:-1 tvg-id="LEquipe" tvg-logo="https://2p2m.infinityfree.me/logos/lequipe.png" group-title="SPORT",L'EQUIPE
+http://apk.zentv4k.me/play/live.php?mac=00:1A:79:7B:D8:EE&stream=425555&extension=ts
+#EXTINF:-1 tvg-id="LEquipeLive1" tvg-logo="https://2p2m.infinityfree.me/logos/lequipelive1.png" group-title="SPORT",L'EQUIPE LIVE 1
+http://apk.zentv4k.me/play/live.php?mac=00:1A:79:7B:D8:EE&stream=879026&extension=ts
+#EXTINF:-1 tvg-id="LEquipeLive2" tvg-logo="https://2p2m.infinityfree.me/logos/lequipelive2.png" group-title="SPORT",L'EQUIPE LIVE 2
+http://apk.zentv4k.me/play/live.php?mac=00:1A:79:7B:D8:EE&stream=879025&extension=ts
+#EXTINF:-1 tvg-id="CanalPlusSport" tvg-logo="https://2p2m.infinityfree.me/logos/canal+_sport.png" group-title="SPORT",CANAL+ SPORT
+http://apk.zentv4k.me/play/live.php?mac=00:1A:79:7B:D8:EE&stream=1686912&extension=ts
+#EXTINF:-1 tvg-id="CanalPlusSport360" tvg-logo="https://2p2m.infinityfree.me/logos/canal+_sport_360.png" group-title="SPORT",CANAL+ SPORT 360
+http://apk.zentv4k.me/play/live.php?mac=00:1A:79:7B:D8:EE&stream=1686961&extension=ts
+#EXTINF:-1 tvg-id="Eurosport1" tvg-logo="https://2p2m.infinityfree.me/logos/eurosport1.png" group-title="SPORT",EUROSPORT 1
+http://apk.zentv4k.me/play/live.php?mac=00:1A:79:7B:D8:EE&stream=1537517&extension=ts
+#EXTINF:-1 tvg-id="Eurosport2" tvg-logo="https://2p2m.infinityfree.me/logos/eurosport2.png" group-title="SPORT",EUROSPORT 2
+http://apk.zentv4k.me/play/live.php?mac=00:1A:79:7B:D8:EE&stream=1537516&extension=ts
+#EXTINF:-1 tvg-id="BeinSports1" tvg-logo="https://2p2m.infinityfree.me/logos/bein_sports1.png" group-title="SPORT",BEIN SPORTS 1
+http://apk.zentv4k.me/play/live.php?mac=00:1A:79:7B:D8:EE&stream=107005&extension=ts
+#EXTINF:-1 tvg-id="BeinSports2" tvg-logo="https://2p2m.infinityfree.me/logos/bein_sports2.png" group-title="SPORT",BEIN SPORTS 2
+http://apk.zentv4k.me/play/live.php?mac=00:1A:79:7B:D8:EE&stream=107006&extension=ts
+#EXTINF:-1 tvg-id="BeinSports3" tvg-logo="https://2p2m.infinityfree.me/logos/bein_sports3.png" group-title="SPORT",BEIN SPORTS 3
+http://apk.zentv4k.me/play/live.php?mac=00:1A:79:7B:D8:EE&stream=107007&extension=ts
+#EXTINF:-1 tvg-id="GolfPlus" tvg-logo="https://2p2m.infinityfree.me/logos/golf+.png" group-title="SPORT",GOLF+ HEVC
+http://apk.zentv4k.me/play/live.php?mac=00:1A:79:7B:D8:EE&stream=425559&extension=ts
+#EXTINF:-1 tvg-id="GolfPlus" tvg-logo="https://2p2m.infinityfree.me/logos/golf+.png" group-title="SPORT",GOLF Channel HD
+http://apk.zentv4k.me/play/live.php?mac=00:1A:79:7B:D8:EE&stream=220896&extension=ts
+#EXTINF:-1 tvg-id="GolfPlus" tvg-logo="https://2p2m.infinityfree.me/logos/golf+.png" group-title="SPORT",GOLF Plus HD
+http://apk.zentv4k.me/play/live.php?mac=00:1A:79:7B:D8:EE&stream=220937&extension=ts
+#EXTINF:-1 tvg-id="GolfPlus" tvg-logo="https://2p2m.infinityfree.me/logos/golf+.png" group-title="SPORT",GOLF+ 4K
+http://apk.zentv4k.me/play/live.php?mac=00:1A:79:7B:D8:EE&stream=106949&extension=ts
+#EXTINF:-1 tvg-id="GolfPlus" tvg-logo="https://2p2m.infinityfree.me/logos/golf+.png" group-title="SPORT",GOLF+ HD
+http://apk.zentv4k.me/play/live.php?mac=00:1A:79:7B:D8:EE&stream=207257&extension=ts
+#EXTINF:-1 tvg-id="SkySportsGolf" tvg-logo="https://2p2m.infinityfree.me/logos/sky_sports_golf_uk.png" group-title="SPORT",SKY SPORTS GOLF
+http://apk.zentv4k.me/play/live.php?mac=00:1A:79:7B:D8:EE&stream=1527623&extension=ts
+#EXTINF:-1 tvg-id="SkySportsMix" tvg-logo="https://2p2m.infinityfree.me/logos/sky_sports_golf_uk.png" group-title="SPORT",SKY SPORTS MIX
+http://apk.zentv4k.me/play/live.php?mac=00:1A:79:7B:D8:EE&stream=588038&extension=ts
+#EXTINF:-1 tvg-id="MovistarGolf" tvg-logo="https://2p2m.infinityfree.me/logos/movistar_golf.png" group-title="SPORT",M+ GOLF
+http://apk.zentv4k.me/play/live.php?mac=00:1A:79:7B:D8:EE&stream=839913&extension=ts
+#EXTINF:-1 tvg-id="VSportGolf" tvg-logo="https://2p2m.infinityfree.me/logos/vsport_golf.png" group-title="SPORT",V SPORT GOLF
+http://apk.zentv4k.me/play/live.php?mac=00:1A:79:7B:D8:EE&stream=302272&extension=ts
+#EXTINF:-1 tvg-id="GolfChannel" tvg-logo="https://2p2m.infinityfree.me/logos/nbc_golf_channel.png" group-title="SPORT",NBC GOLF
+http://apk.zentv4k.me/play/live.php?mac=00:1A:79:7B:D8:EE&stream=325001&extension=ts
+
+#EXTINF:-1 tvg-id="France2" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/13797.png?ver=39230" group-title="PRIME",PRIME: FRANCE 2
+http://apk.zentv4k.me:80/play/live.php?mac=00:1A:79:7B:D8:EE&stream=1537515&extension=ts&play_token=LXScVyzNgo
+#EXTINF:-1 tvg-id="France3" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/13797.png?ver=39230" group-title="PRIME",PRIME: FRANCE 3
+http://apk.zentv4k.me:80/play/live.php?mac=00:1A:79:7B:D8:EE&stream=1537514&extension=ts&play_token=oGHff9OkXx
+#EXTINF:-1 tvg-id="France4" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/13797.png?ver=39230" group-title="PRIME",PRIME: FRANCE 4
+http://apk.zentv4k.me:80/play/live.php?mac=00:1A:79:7B:D8:EE&stream=1537513&extension=ts&play_token=st5KBSDpZa
+#EXTINF:-1 tvg-id="France5" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/13797.png?ver=39230" group-title="PRIME",PRIME: FRANCE 5
+http://apk.zentv4k.me:80/play/live.php?mac=00:1A:79:7B:D8:EE&stream=1537512&extension=ts&play_token=Hwb5I1EFvF
+#EXTINF:-1 tvg-id="Eurosport1" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/13797.png?ver=39230" group-title="PRIME",PRIME: EUROSPORT 1
+http://apk.zentv4k.me:80/play/live.php?mac=00:1A:79:7B:D8:EE&stream=1537517&extension=ts&play_token=moiYzKtC8t
+#EXTINF:-1 tvg-id="Eurosport2" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/13797.png?ver=39230" group-title="PRIME",PRIME: EUROSPORT 2
+http://apk.zentv4k.me:80/play/live.php?mac=00:1A:79:7B:D8:EE&stream=1537516&extension=ts&play_token=wgXi7qGPf1
+#EXTINF:-1 tvg-id="13Rue" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/13797.png?ver=39230" group-title="PRIME",PRIME: 13EME RUE
+http://apk.zentv4k.me:80/play/live.php?mac=00:1A:79:7B:D8:EE&stream=1537538&extension=ts&play_token=428oCdkZAf
+#EXTINF:-1 tvg-id="Syfy" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/13797.png?ver=39230" group-title="PRIME",PRIME: SYFY
+http://apk.zentv4k.me:80/play/live.php?mac=00:1A:79:7B:D8:EE&stream=1537502&extension=ts&play_token=67QP61e9Gy
+#EXTINF:-1 tvg-id="OCS" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/13797.png?ver=39230" group-title="PRIME",PRIME: OCS
+http://apk.zentv4k.me:80/play/live.php?mac=00:1A:79:7B:D8:EE&stream=1537506&extension=ts&play_token=UgTwQYlSab
+#EXTINF:-1 tvg-id="CinePlusClassic" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/13797.png?ver=39230" group-title="PRIME",PRIME: CINE+ CLASSIC
+http://apk.zentv4k.me:80/play/live.php?mac=00:1A:79:7B:D8:EE&stream=1537529&extension=ts&play_token=cISCnxnSwi
+#EXTINF:-1 tvg-id="CinePlusEmotion" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/13797.png?ver=39230" group-title="PRIME",PRIME: CINE+ EMOTION
+http://apk.zentv4k.me:80/play/live.php?mac=00:1A:79:7B:D8:EE&stream=1537528&extension=ts&play_token=TLRdvzQ8ua
+#EXTINF:-1 tvg-id="CinePlusFamily" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/13797.png?ver=39230" group-title="PRIME",PRIME: CINE+ FAMILY
+http://apk.zentv4k.me:80/play/live.php?mac=00:1A:79:7B:D8:EE&stream=1537527&extension=ts&play_token=KpMH9vlbxI
+#EXTINF:-1 tvg-id="CinePlusFestival" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/13797.png?ver=39230" group-title="PRIME",PRIME: CINE+ FESTIVAL
+http://apk.zentv4k.me:80/play/live.php?mac=00:1A:79:7B:D8:EE&stream=1537526&extension=ts&play_token=4BYmWitad0
+#EXTINF:-1 tvg-id="CinePlusFrisson" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/13797.png?ver=39230" group-title="PRIME",PRIME: CINE+ FRISSON
+http://apk.zentv4k.me:80/play/live.php?mac=00:1A:79:7B:D8:EE&stream=1537525&extension=ts&play_token=mr5PNcXGau
+#EXTINF:-1 tvg-id="TCM" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/13797.png?ver=39230" group-title="PRIME",PRIME: TCM CINÉMA
+http://apk.zentv4k.me:80/play/live.php?mac=00:1A:79:7B:D8:EE&stream=1537501&extension=ts&play_token=vYOqlOIVA1
+#EXTINF:-1 tvg-id="WarnerTV" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/13797.png?ver=39230" group-title="PRIME",PRIME: WARNER TV
+http://apk.zentv4k.me:80/play/live.php?mac=00:1A:79:7B:D8:EE&stream=1537497&extension=ts&play_token=94vsVXpsgQ
+#EXTINF:-1 tvg-id="" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/13797.png?ver=39230" group-title="PRIME",PRIME: WARNER TV NEXT
+http://apk.zentv4k.me:80/play/live.php?mac=00:1A:79:7B:D8:EE&stream=1537496&extension=ts&play_token=wZZSV1X1Rj
+#EXTINF:-1 tvg-id="" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/13797.png?ver=39230" group-title="PRIME",PRIME: WARNER TV NEXT
+http://apk.zentv4k.me:80/play/live.php?mac=00:1A:79:7B:D8:EE&stream=1537495&extension=ts&play_token=I6owjlmrll
+#EXTINF:-1 tvg-id="" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/13797.png?ver=39230" group-title="PRIME",PRIME: DISCOVERY CHANNEL
+http://apk.zentv4k.me:80/play/live.php?mac=00:1A:79:7B:D8:EE&stream=1537522&extension=ts&play_token=tXPFjtQWRp
+#EXTINF:-1 tvg-id="" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/13797.png?ver=39230" group-title="PRIME",PRIME: DISCOVERY INVESTIGATION
+http://apk.zentv4k.me:80/play/live.php?mac=00:1A:79:7B:D8:EE&stream=1537521&extension=ts&play_token=ZguF2SDaDE
+#EXTINF:-1 tvg-id="ScienceEtVieTV" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/13797.png?ver=39230" group-title="PRIME",PRIME: SCIENCE ET VIE TV
+http://apk.zentv4k.me:80/play/live.php?mac=00:1A:79:7B:D8:EE&stream=1537503&extension=ts&play_token=0GVqYeIVpe
+#EXTINF:-1 tvg-id="TouteHistoire" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/13797.png?ver=39230" group-title="PRIME",PRIME: TOUTE L'HISTOIRE
+http://apk.zentv4k.me:80/play/live.php?mac=00:1A:79:7B:D8:EE&stream=1537498&extension=ts&play_token=9h4DjnkhIt
+#EXTINF:-1 tvg-id="" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/13797.png?ver=39230" group-title="PRIME",PRIME: DREAMWORKS
+http://apk.zentv4k.me:80/play/live.php?mac=00:1A:79:7B:D8:EE&stream=1537520&extension=ts&play_token=PggGWQn2mi
+#EXTINF:-1 tvg-id="" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/13797.png?ver=39230" group-title="PRIME",PRIME: E!
+http://apk.zentv4k.me:80/play/live.php?mac=00:1A:79:7B:D8:EE&stream=1537519&extension=ts&play_token=SrlVYTulKg
+#EXTINF:-1 tvg-id="" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/13797.png?ver=39230" group-title="PRIME",PRIME: ES1 CHANNEL
+http://apk.zentv4k.me:80/play/live.php?mac=00:1A:79:7B:D8:EE&stream=1537518&extension=ts&play_token=3lzXpqTGRH
+#EXTINF:-1 tvg-id="" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/13797.png?ver=39230" group-title="PRIME",PRIME: FRANCEINFO
+http://apk.zentv4k.me:80/play/live.php?mac=00:1A:79:7B:D8:EE&stream=1537511&extension=ts&play_token=OkWf4WzTaY
+#EXTINF:-1 tvg-id="" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/13797.png?ver=39230" group-title="PRIME",PRIME: MEZZO
+http://apk.zentv4k.me:80/play/live.php?mac=00:1A:79:7B:D8:EE&stream=1537509&extension=ts&play_token=Yjsbk7aezj
+#EXTINF:-1 tvg-id="" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/13797.png?ver=39230" group-title="PRIME",PRIME: MEZZO LIVE
+http://apk.zentv4k.me:80/play/live.php?mac=00:1A:79:7B:D8:EE&stream=1537508&extension=ts&play_token=7oZM5bMM5s
+#EXTINF:-1 tvg-id="" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/13797.png?ver=39230" group-title="PRIME",PRIME: TLC
+http://apk.zentv4k.me:80/play/live.php?mac=00:1A:79:7B:D8:EE&stream=1537499&extension=ts&play_token=9k8ekFAZzm
