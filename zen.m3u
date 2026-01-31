@@ -17,9 +17,7 @@ http://apk.zentv4k.me/play/live.php?mac=00:1A:79:7B:D8:EE&stream=425605&extensio
 #EXTINF:-1 tvg-id="M6" tvg-logo="https://ppechenot.github.io/perso/logos/m6.png" group-title="TNT",M6 VIP RAW
 http://apk.zentv4k.me:80/play/live.php?mac=00:1A:79:7B:D8:EE&stream=1687219&extension=ts
 #EXTINF:-1 tvg-id="M6" tvg-logo="https://ppechenot.github.io/perso/logos/m6.png" group-title="TNT",M6 VIP HD
-http://apk.zentv4k.me:80/play/live.php?mac=00:1A:79:7B:D8:EE&stream=1687188&extensiion=ts
-#EXTINF:-1 tvg-id="M6" tvg-logo="https://ppechenot.github.io/perso/logos/m6.png" group-title="TNT",M6 4K
-http://apk.zentv4k.me:80/play/live.php?mac=00:1A:79:7B:D8:EE&stream=106954&extension=ts
+http://apk.zentv4k.me:80/play/live.php?mac=00:1A:79:7B:D8:EE&stream=1687188&extension=ts
 #EXTINF:-1 tvg-id="M6" tvg-logo="https://ppechenot.github.io/perso/logos/m6.png" group-title="TNT",M6 UHD
 http://apk.zentv4k.me:80/play/live.php?mac=00:1A:79:7B:D8:EE&stream=220808&extension=ts
 #EXTINF:-1 tvg-id="M6" tvg-logo="https://ppechenot.github.io/perso/logos/m6.png" group-title="TNT",M6 HD
