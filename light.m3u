@@ -120,7 +120,7 @@ http://main.light-ott.net:80/play/live.php?mac=00:1A:79:00:94:F8&stream=941411&e
 #EXTINF:-1 tvg-id="Eurosport1" tvg-logo="https://ppechenot.github.io/perso/logos/eurosport1.png" group-title="SPORT",EUROSPORT 1
 http://main.light-ott.net:80/play/live.php?mac=00:1A:79:00:94:F8&stream=941596&extension=ts
 #EXTINF:-1 tvg-id="Eurosport2" tvg-logo="https://ppechenot.github.io/perso/logos/eurosport2.png" group-title="SPORT",EUROSPORT 2
-http://main.light-ott.net:80/play/live.php?mac=00:1A:79:00:94:F8&stream=941597&extension=ts
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:00:94:F8&stream=941601&extension=ts
 #EXTINF:-1 tvg-id="BeinSports1" tvg-logo="https://ppechenot.github.io/perso/logos/bein_sports1.png" group-title="SPORT",BEIN SPORTS 1
 http://main.light-ott.net:80/play/live.php?mac=00:1A:79:00:94:F8&stream=941417&extension=ts
 #EXTINF:-1 tvg-id="BeinSports2" tvg-logo="https://ppechenot.github.io/perso/logos/bein_sports2.png" group-title="SPORT",BEIN SPORTS 2
