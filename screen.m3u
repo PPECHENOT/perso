@@ -101,13 +101,13 @@ http://1screen2.com:8000/live/mag00:1A:79:44:16:3B/6o5ouAxZ45/2046.ts
 http://1screen2.com:8000/live/mag00:1A:79:44:16:3B/6o5ouAxZ45/2053.ts
 
 #EXTINF:-1 tvg-id="RTS1" tvg-logo="https://ppechenot.github.io/perso/logos/rts1.png" group-title="EUROPE",RTS 1
-http://1screen2.com:8000/live/mag00%3A1A%3A79%3AB2%3A26%3ACE/qhPMjis5Ra/b1dad88a-b2fb-4d91-b1d0-d27b0fda624d.ts
+http://1screen2.com:8000/live/mag00:1A:79:6A:9E:6F/7ZWEAgJMPn/2692.ts
 #EXTINF:-1 tvg-id="RTS2" tvg-logo="https://ppechenot.github.io/perso/logos/rts2.png" group-title="EUROPE",RTS 2
-http://1screen2.com:8000/live/mag00%3A1A%3A79%3AB2%3A26%3ACE/qhPMjis5Ra/7f241e71-5601-4273-8362-b7ee16ac607d.ts
+http://1screen2.com:8000/live/mag00:1A:79:6A:9E:6F/7ZWEAgJMPn/2693.ts
 #EXTINF:-1 tvg-id="LaUne" tvg-logo="https://ppechenot.github.io/perso/logos/la_une.png" group-title="EUROPE",LA UNE
-http://1screen2.com:8000/live/mag00%3A1A%3A79%3AB2%3A26%3ACE/qhPMjis5Ra/8e7de78e-5805-4bd7-94c9-2eba718952b0.ts
+http://1screen2.com:8000/live/mag00:1A:79:6A:9E:6F/7ZWEAgJMPn/4.ts
 #EXTINF:-1 tvg-id="LaTrois" tvg-logo="https://ppechenot.github.io/perso/logos/la_trois.png" group-title="EUROPE",LA TROIS
-http://1screen2.com:8000/live/mag00%3A1A%3A79%3AB2%3A26%3ACE/qhPMjis5Ra/91c5a423-fd67-4e2f-abdd-ee4be3b17a77.ts
+http://1screen2.com:8000/live/mag00:1A:79:6A:9E:6F/7ZWEAgJMPn/8.ts
 
 #EXTINF:-1 tvg-id="LEquipe" tvg-logo="https://ppechenot.github.io/perso/logos/lequipe.png" group-title="SPORT",L'EQUIPE
 http://1screen2.com:8000/live/mag00:1A:79:44:16:3B/6o5ouAxZ45/1610.ts
@@ -134,6 +134,4 @@ http://1screen2.com:8000/live/mag00:1A:79:44:16:3B/6o5ouAxZ45/540988.ts
 #EXTINF:-1 tvg-id="GolfPlus" tvg-logo="https://ppechenot.github.io/perso/logos/golf+.png" group-title="SPORT",GOLF+
 http://1screen2.com:8000/live/mag00:1A:79:44:16:3B/6o5ouAxZ45/1616.ts
 #EXTINF:-1 tvg-id="SkySportsGolf" tvg-logo="https://ppechenot.github.io/perso/logos/sky_sports_golf_uk.png" group-title="SPORT",SKY SPORTS GOLF
-http://1screen2.com:8000/live/mag00%3A1A%3A79%3AB2%3A26%3ACE/qhPMjis5Ra/7b182de3-3fbd-43c3-af48-95290e2bb376.ts
-#EXTINF:-1 tvg-id="SkySportsMix" tvg-logo="https://ppechenot.github.io/perso/logos/sky_sports_golf_uk.png" group-title="SPORT",SKY SPORTS MIX
-http://1screen2.com:8000/live/mag00%3A1A%3A79%3AB2%3A26%3ACE/qhPMjis5Ra/0ec0f6eb-0d07-46ae-a7c2-fa7b4942d3fe.ts
+http://1screen2.com:8000/live/mag00:1A:79:6A:9E:6F/7ZWEAgJMPn/171502.ts
