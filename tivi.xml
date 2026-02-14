@@ -112,7 +112,7 @@
     <display-name lang="fr">SYFY</display-name>
     <icon src="https://ppechenot.github.io/perso/logos/syfy.png"/>
   </channel>
-  <channel id="serie-club">
+  <channel id="SerieClub">
     <display-name lang="fr">SERIE CLUB</display-name>
     <icon src=""/>
   </channel>
@@ -5124,103 +5124,103 @@ Fidèle à l'image d'Epinal du savant fou, Sebastian Caine travaille sans relâc
 A Seattle, un éminent scientifique, le docteur Devin Villiers, meurt dans des circonstances mystérieuses. Son assistante, Maggie Dalton, demande au détective Frank Turner et à son assistante, Lisa Martinez, de la protéger. Peu après, Lisa est tuée à son tour. Frank presse alors Maggie de lui dire toute la vérité. Celle-ci lui révèle qu'à la demande de la Sécurité nationale, un soldat très expérimenté, Michael Griffin, a été soumis à une expérience inédite : créer un soldat parfaitement invisible et indétectable. Mais l'expérience a mal tourné et Michael, devenu psychopathe, profite de son invisibilité pour éliminer tous ses ennemis...</desc>
     <icon src="https://assets.diverto.tv/media/remote/aHR0cDovL2ltYWdlcy5tZWRpYS1wcmVzcy5jbG91ZC8yYzhkMDNjZGE2YTM0ODk1YmY2ZTIzZDg3NWM5NDZhMA==?w=416&amp;h=260&amp;fit=crop&amp;fm=webp&amp;s=c4d04eb0e1c51f722d4fa085f1ef8282"/>
   </programme>
-  <programme start="20260214060000 +0000" stop="20260214075500 +0000" channel="serie-club">
+  <programme start="20260214060000 +0000" stop="20260214075500 +0000" channel="SerieClub">
     <title>Caméra café 2 : La boîte du dessus</title>
     <desc>
 Hervé Dumont et Jean-Claude Convenant ne sont pas les seuls à comploter devant la machine à café. Leurs voisins du dessus, les insupportables employés de l'entreprise Digix, ont droit eux aussi à leur espace détente. Franck Gaillard et Rémy Bourgoin sont les éléments perturbateurs de la boîte...</desc>
     <icon src="https://thumb.canalplus.pro/http/unsafe/256x143/filters:quality(80)/img-hapi.canalplus.pro:80/ServiceImage/ImageID/110920528"/>
   </programme>
-  <programme start="20260214075500 +0000" stop="20260214093500 +0000" channel="serie-club">
+  <programme start="20260214075500 +0000" stop="20260214093500 +0000" channel="SerieClub">
     <title>Joséphine, ange gardien - Serie Drame</title>
     <desc>Suivez Le Guide (S13 E3)
 Sur le qui-vive, Joséphine doit jongler entre une guerre de majorettes, une trahison, un héritage familial conflictuel, une lutte agricole et un jeune scientifique méprisé.</desc>
     <icon src="https://thumb.canalplus.pro/http/unsafe/256x143/filters:quality(80)/img-hapi.canalplus.pro:80/ServiceImage/ImageID/102170497"/>
   </programme>
-  <programme start="20260214093500 +0000" stop="20260214111000 +0000" channel="serie-club">
+  <programme start="20260214093500 +0000" stop="20260214111000 +0000" channel="SerieClub">
     <title>Joséphine, ange gardien - Serie Drame</title>
     <desc>Un Bébé Tombé Du Ciel (S12 E12)
 Entre un chef cuisinier en crise, un couple confronté à un trafic d'enfants, un père dévasté ou un policier en dépression, de nouvelles missions attendent l'ange gardien.</desc>
     <icon src="https://thumb.canalplus.pro/http/unsafe/256x143/filters:quality(80)/img-hapi.canalplus.pro:80/ServiceImage/ImageID/102170497"/>
   </programme>
-  <programme start="20260214111000 +0000" stop="20260214125500 +0000" channel="serie-club">
+  <programme start="20260214111000 +0000" stop="20260214125500 +0000" channel="SerieClub">
     <title>Joséphine, ange gardien - Serie Drame</title>
     <desc>Une Prof (S13 E4)
 Sur le qui-vive, Joséphine doit jongler entre une guerre de majorettes, une trahison, un héritage familial conflictuel, une lutte agricole et un jeune scientifique méprisé.</desc>
     <icon src="https://thumb.canalplus.pro/http/unsafe/256x143/filters:quality(80)/img-hapi.canalplus.pro:80/ServiceImage/ImageID/102170497"/>
   </programme>
-  <programme start="20260214125500 +0000" stop="20260214134000 +0000" channel="serie-club">
+  <programme start="20260214125500 +0000" stop="20260214134000 +0000" channel="SerieClub">
     <title>The Rookie : le flic de Los Angeles - Serie Policiere</title>
     <desc>Sabotage (S3 E4)
 A un tournant de sa vie, John Nolan, la quarantaine, saisit cette occasion pour réaliser son rêve de devenir policier au sein d'une brigade à Los Angeles.</desc>
     <icon src="https://thumb.canalplus.pro/http/unsafe/256x143/filters:quality(80)/img-hapi.canalplus.pro:80/ServiceImage/ImageID/122414327"/>
   </programme>
-  <programme start="20260214134000 +0000" stop="20260214143000 +0000" channel="serie-club">
+  <programme start="20260214134000 +0000" stop="20260214143000 +0000" channel="SerieClub">
     <title>The Rookie : le flic de Los Angeles - Serie Policiere</title>
     <desc>Nouvelles Recrues (S3 E11)
 A un tournant de sa vie, John Nolan, la quarantaine, saisit cette occasion pour réaliser son rêve de devenir policier au sein d'une brigade à Los Angeles.</desc>
     <icon src="https://thumb.canalplus.pro/http/unsafe/256x143/filters:quality(80)/img-hapi.canalplus.pro:80/ServiceImage/ImageID/122414327"/>
   </programme>
-  <programme start="20260214143000 +0000" stop="20260214152000 +0000" channel="serie-club">
+  <programme start="20260214143000 +0000" stop="20260214152000 +0000" channel="SerieClub">
     <title>The Rookie : le flic de Los Angeles - Serie Policiere</title>
     <desc>A Coeur Vaillant.. (S3 E12)
 A un tournant de sa vie, John Nolan, la quarantaine, saisit cette occasion pour réaliser son rêve de devenir policier au sein d'une brigade à Los Angeles.</desc>
     <icon src="https://thumb.canalplus.pro/http/unsafe/256x143/filters:quality(80)/img-hapi.canalplus.pro:80/ServiceImage/ImageID/122414327"/>
   </programme>
-  <programme start="20260214152000 +0000" stop="20260214160500 +0000" channel="serie-club">
+  <programme start="20260214152000 +0000" stop="20260214160500 +0000" channel="SerieClub">
     <title>The Rookie : le flic de Los Angeles - Serie Policiere</title>
     <desc>La Vie Et La Mort (S4 E1)
 A un tournant de sa vie, John Nolan, la quarantaine, saisit cette occasion pour réaliser son rêve de devenir policier au sein d'une brigade à Los Angeles.</desc>
     <icon src="https://thumb.canalplus.pro/http/unsafe/256x143/filters:quality(80)/img-hapi.canalplus.pro:80/ServiceImage/ImageID/122402380"/>
   </programme>
-  <programme start="20260214160500 +0000" stop="20260214165000 +0000" channel="serie-club">
+  <programme start="20260214160500 +0000" stop="20260214165000 +0000" channel="SerieClub">
     <title>The Rookie : le flic de Los Angeles - Serie Policiere</title>
     <desc>Cinq Minutes (S4 E2)
 A un tournant de sa vie, John Nolan, la quarantaine, saisit cette occasion pour réaliser son rêve de devenir policier au sein d'une brigade à Los Angeles.</desc>
     <icon src="https://thumb.canalplus.pro/http/unsafe/256x143/filters:quality(80)/img-hapi.canalplus.pro:80/ServiceImage/ImageID/122402380"/>
   </programme>
-  <programme start="20260214165000 +0000" stop="20260214173500 +0000" channel="serie-club">
+  <programme start="20260214165000 +0000" stop="20260214173500 +0000" channel="SerieClub">
     <title>The Rookie : le flic de Los Angeles - Serie Policiere</title>
     <desc>Dans La Ligne De Feu (S4 E3)
 A un tournant de sa vie, John Nolan, la quarantaine, saisit cette occasion pour réaliser son rêve de devenir policier au sein d'une brigade à Los Angeles.</desc>
     <icon src="https://thumb.canalplus.pro/http/unsafe/256x143/filters:quality(80)/img-hapi.canalplus.pro:80/ServiceImage/ImageID/122402380"/>
   </programme>
-  <programme start="20260214173500 +0000" stop="20260214182000 +0000" channel="serie-club">
+  <programme start="20260214173500 +0000" stop="20260214182000 +0000" channel="SerieClub">
     <title>The Rookie : le flic de Los Angeles - Serie Policiere</title>
     <desc>Chaud Bouillant (S4 E4)
 A un tournant de sa vie, John Nolan, la quarantaine, saisit cette occasion pour réaliser son rêve de devenir policier au sein d'une brigade à Los Angeles.</desc>
     <icon src="https://thumb.canalplus.pro/http/unsafe/256x143/filters:quality(80)/img-hapi.canalplus.pro:80/ServiceImage/ImageID/122402380"/>
   </programme>
-  <programme start="20260214182000 +0000" stop="20260214190500 +0000" channel="serie-club">
+  <programme start="20260214182000 +0000" stop="20260214190500 +0000" channel="SerieClub">
     <title>The Rookie : le flic de Los Angeles - Serie Policiere</title>
     <desc>Acétylcholine (S4 E5)
 A un tournant de sa vie, John Nolan, la quarantaine, saisit cette occasion pour réaliser son rêve de devenir policier au sein d'une brigade à Los Angeles.</desc>
     <icon src="https://thumb.canalplus.pro/http/unsafe/256x143/filters:quality(80)/img-hapi.canalplus.pro:80/ServiceImage/ImageID/122402380"/>
   </programme>
-  <programme start="20260214190500 +0000" stop="20260214200000 +0000" channel="serie-club">
+  <programme start="20260214190500 +0000" stop="20260214200000 +0000" channel="SerieClub">
     <title>The Rookie : le flic de Los Angeles - Serie Policiere</title>
     <desc>Chasse Au Trésor (S4 E6)
 A un tournant de sa vie, John Nolan, la quarantaine, saisit cette occasion pour réaliser son rêve de devenir policier au sein d'une brigade à Los Angeles.</desc>
     <icon src="https://thumb.canalplus.pro/http/unsafe/256x143/filters:quality(80)/img-hapi.canalplus.pro:80/ServiceImage/ImageID/122402380"/>
   </programme>
-  <programme start="20260214200000 +0000" stop="20260214213000 +0000" channel="serie-club">
+  <programme start="20260214200000 +0000" stop="20260214213000 +0000" channel="SerieClub">
     <title>Jesse Stone : une ville trop tranquille</title>
     <desc>Téléfilm Policier
 En raison de son alcoolisme, Jesse Stone, ancien inspecteur à Santa Monica, a été affecté dans la petite ville de Paradise. Il remplace officiellement le chef Lou Carson, assassiné peu de temps après son départ en retraite. L'enquête de Jesse et du procureur Abby Taylor soulève bientôt nombre de mystères...</desc>
     <icon src="https://thumb.canalplus.pro/http/unsafe/256x143/filters:quality(80)/img-hapi.canalplus.pro:80/ServiceImage/ImageID/101387406"/>
   </programme>
-  <programme start="20260214213000 +0000" stop="20260214230500 +0000" channel="serie-club">
+  <programme start="20260214213000 +0000" stop="20260214230500 +0000" channel="SerieClub">
     <title>Jesse Stone : en l'absence de preuve</title>
     <desc>Téléfilm Policier
 Le shérif Jesse Stone coule des jours paisibles, essayant d'oublier son vieux démon : l'alcool. C'est alors qu'une série de meurtres odieux vient bouleverser cet équilibre fragile. Bien décidé à retrouver l'assassin malgré la lâcheté de ses supérieurs, il met tout en oeuvre pour remonter sa piste...</desc>
     <icon src="https://thumb.canalplus.pro/http/unsafe/256x143/filters:quality(80)/img-hapi.canalplus.pro:80/ServiceImage/ImageID/101387397"/>
   </programme>
-  <programme start="20260214230500 +0000" stop="20260214235000 +0000" channel="serie-club">
+  <programme start="20260214230500 +0000" stop="20260214235000 +0000" channel="SerieClub">
     <title>Accused - Serie Judiciaire</title>
     <desc>L'histoire De Marcus (S2 E3)
 Tour à tour, Mo, Stephen, Tracie et Tina se retrouvent accusés d'un crime. Comment ces quatre personnes a priori sans histoires en sont-elles arrivées là ?</desc>
     <icon src="https://thumb.canalplus.pro/http/unsafe/256x143/filters:quality(80)/img-hapi.canalplus.pro:80/ServiceImage/ImageID/113200307"/>
   </programme>
-  <programme start="20260214235000 +0000" stop="20260215004000 +0000" channel="serie-club">
+  <programme start="20260214235000 +0000" stop="20260215004000 +0000" channel="SerieClub">
     <title>Accused - Serie Judiciaire</title>
     <desc>L'histoire De Margot (S2 E4)
 Tour à tour, Mo, Stephen, Tracie et Tina se retrouvent accusés d'un crime. Comment ces quatre personnes a priori sans histoires en sont-elles arrivées là ?</desc>
