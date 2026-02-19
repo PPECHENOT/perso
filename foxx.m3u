@@ -11,29 +11,29 @@ http://300300.org/play/live.php?mac=00:1A:79:00:00:24&stream=43903&extension=ts
 #EXTINF:-1 tvg-id="France5" tvg-logo="https://ppechenot.github.io/perso/logos/france5.png" group-title="TNT",FRANCE 5
 http://300300.org/play/live.php?mac=00:1A:79:00:00:24&stream=43905&extension=ts
 #EXTINF:-1 tvg-id="M6" tvg-logo="https://ppechenot.github.io/perso/logos/m6.png" group-title="TNT",M6
-http://main.light-ott.net:80/play/live.php?mac=00:1A:79:0C:01:51&stream=936775&extension=ts
+http://300300.org/play/live.php?mac=00:1A:79:00:00:24&stream=43909&extension=ts
 #EXTINF:-1 tvg-id="Arte" tvg-logo="https://ppechenot.github.io/perso/logos/arte.png" group-title="TNT",ARTE
-http://main.light-ott.net:80/play/live.php?mac=00:1A:79:0C:01:51&stream=936802&extension=ts
+http://300300.org/play/live.php?mac=00:1A:79:00:00:24&stream=43935&extension=ts
 #EXTINF:-1 tvg-id="LCP" tvg-logo="https://ppechenot.github.io/perso/logos/lcp.png" group-title="TNT",LCP
-http://main.light-ott.net:80/play/live.php?mac=00:1A:79:0C:01:51&stream=941779&extension=ts
+http://300300.org/play/live.php?mac=00:1A:79:00:00:24&stream=44105&extension=ts
 #EXTINF:-1 tvg-id="W9" tvg-logo="https://ppechenot.github.io/perso/logos/w9.png" group-title="TNT",W9
-http://main.light-ott.net:80/play/live.php?mac=00:1A:79:0C:01:51&stream=936799&extension=ts
+http://300300.org/play/live.php?mac=00:1A:79:00:00:24&stream=43924&extension=ts
 #EXTINF:-1 tvg-id="TMC" tvg-logo="https://ppechenot.github.io/perso/logos/tmc.png" group-title="TNT",TMC
-http://main.light-ott.net:80/play/live.php?mac=00:1A:79:0C:01:51&stream=936791&extension=ts
+http://300300.org/play/live.php?mac=00:1A:79:00:00:24&stream=43913&extension=ts
 #EXTINF:-1 tvg-id="TFX" tvg-logo="https://ppechenot.github.io/perso/logos/tfx.png" group-title="TNT",TFX
-http://main.light-ott.net:80/play/live.php?mac=00:1A:79:0C:01:51&stream=936782&extension=ts
+http://300300.org/play/live.php?mac=00:1A:79:00:00:24&stream=43916&extension=ts
 #EXTINF:-1 tvg-id="CStar" tvg-logo="https://ppechenot.github.io/perso/logos/cstar.png" group-title="TNT",CSTAR
-http://main.light-ott.net:80/play/live.php?mac=00:1A:79:0C:01:51&stream=936808&extension=ts
+http://300300.org/play/live.php?mac=00:1A:79:00:00:24&stream=43928&extension=ts
 #EXTINF:-1 tvg-id="TF1SeriesFilms" tvg-logo="https://ppechenot.github.io/perso/logos/tf1_series_films.png" group-title="TNT",TF1 SERIES FILMS
-http://main.light-ott.net:80/play/live.php?mac=00:1A:79:0C:01:51&stream=936779&extension=ts
+http://300300.org/play/live.php?mac=00:1A:79:00:00:24&stream=43918&extension=ts
 #EXTINF:-1 tvg-id="6ter" tvg-logo="https://ppechenot.github.io/perso/logos/6ter.png" group-title="TNT",6TER
-http://main.light-ott.net:80/play/live.php?mac=00:1A:79:0C:01:51&stream=936772&extension=ts
+http://300300.org/play/live.php?mac=00:1A:79:00:00:24&stream=43911&extension=ts
 #EXTINF:-1 tvg-id="RMCStory" tvg-logo="https://ppechenot.github.io/perso/logos/rmc_story.png" group-title="TNT",RMC STORY
-http://main.light-ott.net:80/play/live.php?mac=00:1A:79:0C:01:51&stream=936917&extension=ts
+http://300300.org/play/live.php?mac=00:1A:79:00:00:24&stream=302061&extension=ts
 #EXTINF:-1 tvg-id="RMCLife" tvg-logo="https://ppechenot.github.io/perso/logos/rmc_life.png" group-title="TNT",RMC LIFE
-http://main.light-ott.net:80/play/live.php?mac=00:1A:79:0C:01:51&stream=936920&extension=ts
+http://300300.org/play/live.php?mac=00:1A:79:00:00:24&stream=43952&extension=ts
 #EXTINF:-1 tvg-id="Gulli" tvg-logo="https://ppechenot.github.io/perso/logos/gulli.png" group-title="TNT",GULLI
-http://main.light-ott.net:80/play/live.php?mac=00:1A:79:0C:01:51&stream=941735&extension=ts
+http://300300.org/play/live.php?mac=00:1A:79:00:00:24&stream=44022&extension=ts
 
 #EXTINF:-1 tvg-id="CanalPlus" tvg-logo="https://ppechenot.github.io/perso/logos/canal+.png" group-title="CINEMA",CANAL+
 http://main.light-ott.net:80/play/live.php?mac=00:1A:79:0C:01:51&stream=936869&extension=ts
