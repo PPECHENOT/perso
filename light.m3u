@@ -1,7 +1,7 @@
 #EXTM3U url-tvg="https://ppechenot.github.io/perso/tivi.xml"
 
 #EXTINF:-1 tvg-id="TF1" tvg-logo="https://ppechenot.github.io/perso/logos/tf1.png" group-title="TNT",TF1
-http://main.light-ott.net:80/play/live.php?mac=00:1A:79:0C:01:51&stream=936753&extension=ts
+http://300300.org/play/live.php?mac=00:1A:79:00:00:24&stream=43895&extension=ts
 #EXTINF:-1 tvg-id="France2" tvg-logo="https://ppechenot.github.io/perso/logos/france2.png" group-title="TNT",FRANCE 2
 http://main.light-ott.net:80/play/live.php?mac=00:1A:79:0C:01:51&stream=936756&extension=ts
 #EXTINF:-1 tvg-id="France3" tvg-logo="https://ppechenot.github.io/perso/logos/france3.png" group-title="TNT",FRANCE 3
