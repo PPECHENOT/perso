@@ -263,11 +263,11 @@
 			<xsl:choose>
 				<xsl:when test="@stop">
 					<xsl:choose>
-						<xsl:when test="((number(substring(@stop,9,2))*60)+((1-number(substring(@start,17,2)))*60)+number(substring(@stop,11,2))) > ((number(substring(@start,9,2))*60)+((1-number(substring(@start,17,2)))*60)+number(substring(@start,11,2)))">
-							<xsl:value-of select="(((number(substring(@stop,9,2))*60)+((1-number(substring(@start,17,2)))*60)+number(substring(@stop,11,2)))-((number(substring(@start,9,2))*60)+((1-number(substring(@start,17,2)))*60)+number(substring(@start,11,2))))"/>
+						<xsl:when test="((number(substring(@stop,9,2))*60)+((1-number(substring(@stop,17,2)))*60)+number(substring(@stop,11,2))) > ((number(substring(@start,9,2))*60)+((1-number(substring(@start,17,2)))*60)+number(substring(@start,11,2)))">
+							<xsl:value-of select="(((number(substring(@stop,9,2))*60)+((1-number(substring(@stop,17,2)))*60)+number(substring(@stop,11,2)))-((number(substring(@start,9,2))*60)+((1-number(substring(@start,17,2)))*60)+number(substring(@start,11,2))))"/>
 						</xsl:when>
 						<xsl:otherwise> <!--otherwise it must be concluding tomorrow, so the result will be negative. Add the number of minutes in a day. -->
-							<xsl:value-of select="(((number(substring(@stop,9,2))*60)+((1-number(substring(@start,17,2)))*60)+number(substring(@stop,11,2)))-((number(substring(@start,9,2))*60)+((1-number(substring(@start,17,2)))*60)+number(substring(@start,11,2)))) + 1440"/>
+							<xsl:value-of select="(((number(substring(@stop,9,2))*60)+((1-number(substring(@stop,17,2)))*60)+number(substring(@stop,11,2)))-((number(substring(@start,9,2))*60)+((1-number(substring(@start,17,2)))*60)+number(substring(@start,11,2)))) + 1440"/>
 						</xsl:otherwise>
 					</xsl:choose>
 				</xsl:when>
@@ -369,7 +369,7 @@
 			<xsl:if test="$PopupTimes or ($PopupRating and rating) or ($PopupSubtitle and sub-title) or ($PopupDescription and desc or credits) or ($PopupDate and date) or ($PopupCategories and category) or ($PopupStarRating and $RatingRounded)">
   			<xsl:if test="$PopupTimes">
 	     		<span class="popuptimes">
-					<xsl:value-of select="number(number(substring(@start,9,2))+(1-number(substring(@start,17,2))))"/>:<xsl:value-of select="substring(@start,11,2)"/> - <xsl:choose><xsl:when test="@stop"><xsl:value-of select="number(substring(@stop,9,2))"/>:<xsl:value-of select="substring(@stop,11,2)"/></xsl:when><xsl:otherwise>???</xsl:otherwise></xsl:choose>
+					<xsl:value-of select="number(number(substring(@start,9,2))+(1-number(substring(@start,17,2))))"/>:<xsl:value-of select="substring(@start,11,2)"/> - <xsl:choose><xsl:when test="@stop"><xsl:value-of select="number(number(substring(@stop,9,2))+(1-number(substring(@stop,17,2))))"/>:<xsl:value-of select="substring(@stop,11,2)"/></xsl:when><xsl:otherwise>???</xsl:otherwise></xsl:choose>
 					</span>
         </xsl:if>
 <!--
