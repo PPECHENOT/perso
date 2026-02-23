@@ -235,7 +235,7 @@
 					<xsl:value-of select="(number((number(substring(@start,9,2))*60)+number(substring(@start,11,2)))) - 1440"/>
 				</xsl:when>
 				<xsl:otherwise> <!--otherwise it must be starting tomorrow ... Add the number of minutes in a day. -->
-					<xsl:value-of select="number((number(substring(@start,9,2)*60)+number(substring(@start,11,2)))"/>
+					<xsl:value-of select="number((number(substring(@start,9,2)*60)+number(substring(@start,11,2))))"/>
 				</xsl:otherwise>
 			</xsl:choose>
 		</xsl:variable>
