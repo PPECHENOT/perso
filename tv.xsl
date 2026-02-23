@@ -369,7 +369,7 @@
 			<xsl:if test="$PopupTimes or ($PopupRating and rating) or ($PopupSubtitle and sub-title) or ($PopupDescription and desc or credits) or ($PopupDate and date) or ($PopupCategories and category) or ($PopupStarRating and $RatingRounded)">
   			<xsl:if test="$PopupTimes">
 	     		<span class="popuptimes">
-					<xsl:value-of select="number(substring(@start,9,2))"/>:<xsl:value-of select="substring(@start,11,2)"/> - <xsl:choose><xsl:when test="@stop"><xsl:value-of select="number(substring(@stop,9,2))"/>:<xsl:value-of select="substring(@stop,11,2)"/></xsl:when><xsl:otherwise>???</xsl:otherwise></xsl:choose>
+					<xsl:value-of select="number(number(substring(@start,9,2))+(1-number(substring(@start,17,2))))"/>:<xsl:value-of select="substring(@start,11,2)"/> - <xsl:choose><xsl:when test="@stop"><xsl:value-of select="number(substring(@stop,9,2))"/>:<xsl:value-of select="substring(@stop,11,2)"/></xsl:when><xsl:otherwise>???</xsl:otherwise></xsl:choose>
 					</span>
         </xsl:if>
 <!--
