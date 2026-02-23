@@ -229,13 +229,13 @@
 		<xsl:variable name="StartTime">
 			<xsl:choose>
 				<xsl:when test="number(substring($StartTimeString,1,8)) &lt; number(substring(@start,1,8))">  <!--it must be starting tomorrow ... Add the number of minutes in a day. -->
-					<xsl:value-of select="(number((number(substring(@start,9,2))*60)+number(substring(@start,11,2)))) + 1440"/>
+					<xsl:value-of select="(number((number(substring(@start,9,2))*60)+(1-number(substring(@start,17,2))*60)+number(substring(@start,11,2)))) + 1440"/>
 				</xsl:when>
 				<xsl:when test="number(substring($StartTimeString,1,8)) &gt; number(substring(@start,1,8))">  <!--it have started yesterday ... Subtract the number of minutes in a day. -->
-					<xsl:value-of select="(number((number(substring(@start,9,2))*60)+number(substring(@start,11,2)))) - 1440"/>
+					<xsl:value-of select="(number((number(substring(@start,9,2))*60)+(1-number(substring(@start,17,2))*60)+number(substring(@start,11,2)))) - 1440"/>
 				</xsl:when>
 				<xsl:otherwise> <!--otherwise it must be starting tomorrow ... Add the number of minutes in a day. -->
-					<xsl:value-of select="number((number(substring(@start,9,2)*60)+number(substring(@start,11,2))))"/>
+					<xsl:value-of select="number((number(substring(@start,9,2)*60)+(1-number(substring(@start,17,2))*60)+number(substring(@start,11,2))))"/>
 				</xsl:otherwise>
 			</xsl:choose>
 		</xsl:variable>
@@ -244,13 +244,13 @@
 				<xsl:when test="$FixGaps">
 						<xsl:choose>
 							<xsl:when test="number(substring($StartTimeString,1,8)) &lt; number(substring(following::programme[1]/@start,1,8))">
-								<xsl:value-of select="(number((number(substring(following::programme[1]/@start,9,2))*60)+number(substring(following::programme[1]/@start,11,2)))) + 1440"/>
+								<xsl:value-of select="(number((number(substring(following::programme[1]/@start,9,2))*60)+(1-number(substring(following::programme[1]/@start,17,2))*60)+number(substring(following::programme[1]/@start,11,2)))) + 1440"/>
 							</xsl:when>
 							<xsl:when test="number(substring($StartTimeString,1,8)) &gt; number(substring(following::programme[1]/@start,1,8))">
-								<xsl:value-of select="(number((number(substring(following::programme[1]/@start,9,2))*60)+number(substring(following::programme[1]/@start,11,2)))) - 1440"/>
+								<xsl:value-of select="(number((number(substring(following::programme[1]/@start,9,2))*60)+(1-number(substring(following::programme[1]/@start,17,2))*60)+number(substring(following::programme[1]/@start,11,2)))) - 1440"/>
 							</xsl:when>
 							<xsl:otherwise>
-								<xsl:value-of select="number((number(substring(following::programme[1]/@start,9,2))*60)+number(substring(following::programme[1]/@start,11,2)))"/>
+								<xsl:value-of select="number((number(substring(following::programme[1]/@start,9,2))*60)+(1-number(substring(following::programme[1]/@start,17,2))*60)+number(substring(following::programme[1]/@start,11,2)))"/>
 							</xsl:otherwise>
 						</xsl:choose>
 				</xsl:when>
