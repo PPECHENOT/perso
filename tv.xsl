@@ -65,9 +65,10 @@
 <xsl:variable name="StopTimeString" select="concat($StopYear, format-number($StopMonth,'00'), format-number($StopDay,'00'), format-number($StopHour,'00'), '00')" /> <!-- These are for selecting the appropriate programmes -->
 <!-- ATTENTION : cherche les programmes correspondants dans le temps horaire à afficher mais ne tient pas compte du décalage
 <xsl:variable name="programmes" select="tv/programme[((substring(@stop,1,12) &gt; $StartTimeString and substring(@stop,1,12) &lt;= $StopTimeString) or (substring(@start,1,12) &gt;= $StartTimeString and substring(@start,1,12) &lt; $StopTimeString) or (substring(@start,1,12) &lt;= $StartTimeString and substring(@stop,1,12) &gt;= $StopTimeString))]"/>
-<xsl:variable name="programmes" select="tv/programme[((number(substring(@stop,1,8))+(1-number(substring(@stop,17,2))) &gt; number($StartTimeString) and substring(@stop,1,12) &lt;= $StopTimeString)        or (substring(@start,1,12) &gt;= $StartTimeString and substring(@start,1,12) &lt; $StopTimeString) or (substring(@start,1,12) &lt;= $StartTimeString and substring(@stop,1,12) &gt;= $StopTimeString))]"/>
--->
+presque...
 <xsl:variable name="programmes" select="tv/programme[((substring(@stop,1,8) &gt; substring($StartTimeString,1,8) and substring(@stop,1,8) &lt;= substring($StopTimeString,1,8)) or (substring(@start,1,8) &gt;= substring($StartTimeString,1,8) and substring(@start,1,8) &lt; substring($StopTimeString,1,8)) or (substring(@start,1,8) &lt;= substring($StartTimeString,1,8) and substring(@stop,1,8) &gt;= substring($StopTimeString,1,8)))]"/>
+-->
+<xsl:variable name="programmes" select="tv/programme[(((number(substring(@stop,1,10)+(1-number(substring(@stop,17,2)))) &gt; number(substring($StartTimeString,1,10))) and (number(substring(@stop,1,10)+(1-number(substring(@stop,17,2)))) &lt;= number(substring($StopTimeString,1,10))) or (number(substring(@start,1,10)+(1-number(substring(@start,17,2)))) &gt;= number(substring($StartTimeString,1,10))) and number(substring(@start,1,10)+(1-number(substring(@start,17,2)))) &lt; number(substring($StopTimeString,1,10))) or (number(substring(@start,1,10)+(1-number(substring(@start,17,2)))) &lt;= number(substring($StartTimeString,1,10)) and number(substring(@stop,1,10)+(1-number(substring(@stop,17,2)))) &gt;= number(substring($StopTimeString,1,10))))]"/>
 
 <table id="listings">
 
