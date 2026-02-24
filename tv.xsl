@@ -225,16 +225,17 @@
 		<xsl:variable name="theseprogrammes" select="$programmes[@channel=current()/@id]"/>
 		<xsl:for-each select="$theseprogrammes">                                           <!--Program Stop Time is after Display Start   and Program Stop Time is before Display End......or...Program Start Time is after Display Start and Program Start Time is before Display End........or  Program Start Time is before Display Start and Program Stop Time is after Display End. -->
 		<xsl:sort select="@start"/>
+		<!-- On prend l'heure début et on passe tout en minutes (multiplication par 60) -->
 		<xsl:variable name="StartTime">
 			<xsl:choose>
 				<xsl:when test="number(substring($StartTimeString,1,8)) &lt; number(substring(@start,1,8))">  <!--it must be starting tomorrow ... Add the number of minutes in a day. -->
-					<xsl:value-of select="(number((number(substring(@start,9,2))*60)+number(substring(@start,11,2)))) + 1440"/>
+					<xsl:value-of select="(number((number(substring(@start,9,2))*60)+((1-number(substring(@start,17,2)))*60)+number(substring(@start,11,2)))) + 1440"/>
 				</xsl:when>
 				<xsl:when test="number(substring($StartTimeString,1,8)) &gt; number(substring(@start,1,8))">  <!--it have started yesterday ... Subtract the number of minutes in a day. -->
-					<xsl:value-of select="(number((number(substring(@start,9,2))*60)+number(substring(@start,11,2)))) - 1440"/>
+					<xsl:value-of select="(number((number(substring(@start,9,2))*60)+((1-number(substring(@start,17,2)))*60)+number(substring(@start,11,2)))) - 1440"/>
 				</xsl:when>
 				<xsl:otherwise> <!--otherwise it must be starting tomorrow ... Add the number of minutes in a day. -->
-					<xsl:value-of select="number((number(substring(@start,9,2))*60)+number(substring(@start,11,2)))"/>
+					<xsl:value-of select="number((number(substring(@start,9,2)*60)+((1-number(substring(@start,17,2)))*60)+number(substring(@start,11,2))))"/>
 				</xsl:otherwise>
 			</xsl:choose>
 		</xsl:variable>
@@ -243,13 +244,13 @@
 				<xsl:when test="$FixGaps">
 						<xsl:choose>
 							<xsl:when test="number(substring($StartTimeString,1,8)) &lt; number(substring(following::programme[1]/@start,1,8))">
-								<xsl:value-of select="(number((number(substring(following::programme[1]/@start,9,2))*60)+number(substring(following::programme[1]/@start,11,2)))) + 1440"/>
+								<xsl:value-of select="(number((number(substring(following::programme[1]/@start,9,2))*60)+((1-number(substring(following::programme[1]/@start,17,2)))*60)+number(substring(following::programme[1]/@start,11,2)))) + 1440"/>
 							</xsl:when>
 							<xsl:when test="number(substring($StartTimeString,1,8)) &gt; number(substring(following::programme[1]/@start,1,8))">
-								<xsl:value-of select="(number((number(substring(following::programme[1]/@start,9,2))*60)+number(substring(following::programme[1]/@start,11,2)))) - 1440"/>
+								<xsl:value-of select="(number((number(substring(following::programme[1]/@start,9,2))*60)+((1-number(substring(following::programme[1]/@start,17,2)))*60)+number(substring(following::programme[1]/@start,11,2)))) - 1440"/>
 							</xsl:when>
 							<xsl:otherwise>
-								<xsl:value-of select="number((number(substring(following::programme[1]/@start,9,2))*60)+number(substring(following::programme[1]/@start,11,2)))"/>
+								<xsl:value-of select="(number((number(substring(following::programme[1]/@start,9,2))*60)+((1-number(substring(following::programme[1]/@start,17,2)))*60)+number(substring(following::programme[1]/@start,11,2))))"/>
 							</xsl:otherwise>
 						</xsl:choose>
 				</xsl:when>
@@ -262,11 +263,11 @@
 			<xsl:choose>
 				<xsl:when test="@stop">
 					<xsl:choose>
-						<xsl:when test="((number(substring(@stop,9,2))*60)+number(substring(@stop,11,2))) > ((number(substring(@start,9,2))*60)+number(substring(@start,11,2)))">
-							<xsl:value-of select="(((number(substring(@stop,9,2))*60)+number(substring(@stop,11,2)))-((number(substring(@start,9,2))*60)+number(substring(@start,11,2))))"/>
+						<xsl:when test="((number(substring(@stop,9,2))*60)+((1-number(substring(@stop,17,2)))*60)+number(substring(@stop,11,2))) > ((number(substring(@start,9,2))*60)+((1-number(substring(@start,17,2)))*60)+number(substring(@start,11,2)))">
+							<xsl:value-of select="(((number(substring(@stop,9,2))*60)+((1-number(substring(@stop,17,2)))*60)+number(substring(@stop,11,2)))-((number(substring(@start,9,2))*60)+((1-number(substring(@start,17,2)))*60)+number(substring(@start,11,2))))"/>
 						</xsl:when>
 						<xsl:otherwise> <!--otherwise it must be concluding tomorrow, so the result will be negative. Add the number of minutes in a day. -->
-							<xsl:value-of select="(((number(substring(@stop,9,2))*60)+number(substring(@stop,11,2)))-((number(substring(@start,9,2))*60)+number(substring(@start,11,2)))) + 1440"/>
+							<xsl:value-of select="(((number(substring(@stop,9,2))*60)+((1-number(substring(@stop,17,2)))*60)+number(substring(@stop,11,2)))-((number(substring(@start,9,2))*60)+((1-number(substring(@start,17,2)))*60)+number(substring(@start,11,2)))) + 1440"/>
 						</xsl:otherwise>
 					</xsl:choose>
 				</xsl:when>
@@ -368,7 +369,7 @@
 			<xsl:if test="$PopupTimes or ($PopupRating and rating) or ($PopupSubtitle and sub-title) or ($PopupDescription and desc or credits) or ($PopupDate and date) or ($PopupCategories and category) or ($PopupStarRating and $RatingRounded)">
   			<xsl:if test="$PopupTimes">
 	     		<span class="popuptimes">
-					<xsl:value-of select="number(substring(@start,9,2))"/>:<xsl:value-of select="substring(@start,11,2)"/> - <xsl:choose><xsl:when test="@stop"><xsl:value-of select="number(substring(@stop,9,2))"/>:<xsl:value-of select="substring(@stop,11,2)"/></xsl:when><xsl:otherwise>???</xsl:otherwise></xsl:choose>
+					<xsl:value-of select="number(number(substring(@start,9,2))+(1-number(substring(@start,17,2))))"/>:<xsl:value-of select="substring(@start,11,2)"/> - <xsl:choose><xsl:when test="@stop"><xsl:value-of select="number(number(substring(@stop,9,2))+(1-number(substring(@stop,17,2))))"/>:<xsl:value-of select="substring(@stop,11,2)"/></xsl:when><xsl:otherwise>???</xsl:otherwise></xsl:choose>
 					</span>
         </xsl:if>
 <!--
