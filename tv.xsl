@@ -70,7 +70,7 @@ presque...
 <xsl:variable name="programmes" select="tv/programme[(((number(number(substring(@stop,1,10)+(1-number(substring(@stop,17,2))))*100) &gt; $StartTimeString) and (number(number(substring(@stop,1,10)+(1-number(substring(@stop,17,2))))*100) &lt;= $StopTimeString)) 
 											       or ((number(number(substring(@start,1,10)+(1-number(substring(@start,17,2))))*100) &gt;= $StartTimeString) and (number(number(substring(@start,1,10)+(1-number(substring(@start,17,2))))*100) &lt; $StopTimeString))
 											       or ((number(number(substring(@start,1,10)+(1-number(substring(@start,17,2))))*100) &lt;= $StartTimeString) and (number(number(substring(@stop,1,10)+(1-number(substring(@stop,17,2))))*100) &gt;= $StopTimeString)))]"/>
-      <xsl:message terminate="yes">
+      <xsl:message terminate="no">
         Error: Artist is an empty string!
       </xsl:message>
 
