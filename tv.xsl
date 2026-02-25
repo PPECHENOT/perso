@@ -73,7 +73,7 @@ presque...
 <xsl:variable name="Fin">
 <xsl:value-of select="number((number(substring(@stop,1,10))+((1-number(substring(@stop,17,2))))+number(substring(@stop,11,2))))"/>
 </xsl:variable>
-<xsl:variable name="programmes" select="tv/programme[(($Fin &gt; $StartTimeString and $Fin &lt;= $StopTimeString) or ($Debut &gt;= $StartTimeString and $Debut &lt; $StopTimeString) or ($Debut &lt;= $StartTimeString and $Fin &gt;= $StopTimeString))]"/>
+<xsl:variable name="programmes" select="tv/programme[((number((number(substring(@stop,1,10))+((1-number(substring(@stop,17,2))))+number(substring(@stop,11,2)))) &gt; $StartTimeString and number((number(substring(@stop,1,10))+((1-number(substring(@stop,17,2))))+number(substring(@stop,11,2)))) &lt;= $StopTimeString) or (number((number(substring(@start,1,10))+((1-number(substring(@start,17,2))))+number(substring(@start,11,2)))) &gt;= $StartTimeString and number((number(substring(@start,1,10))+((1-number(substring(@start,17,2))))+number(substring(@start,11,2)))) &lt; $StopTimeString) or (number((number(substring(@start,1,10))+((1-number(substring(@start,17,2))))+number(substring(@start,11,2)))) &lt;= $StartTimeString and number((number(substring(@stop,1,10))+((1-number(substring(@stop,17,2))))+number(substring(@stop,11,2)))) &gt;= $StopTimeString))]"/>
 
 <table id="listings">
 <xsl:for-each select="/tv/channel">
