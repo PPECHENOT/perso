@@ -67,15 +67,15 @@
 <xsl:variable name="programmes" select="tv/programme[((substring(@stop,1,12) &gt; $StartTimeString and substring(@stop,1,12) &lt;= $StopTimeString) or (substring(@start,1,12) &gt;= $StartTimeString and substring(@start,1,12) &lt; $StopTimeString) or (substring(@start,1,12) &lt;= $StartTimeString and substring(@stop,1,12) &gt;= $StopTimeString))]"/>
 presque...
 -->
-<xsl:variable name="programmes" select="tv/programme[(((number(number(substring(@stop,1,10)+(1-number(substring(@stop,17,2))))*100) &gt; $StartTimeString) and (number(number(substring(@stop,1,10)+(1-number(substring(@stop,17,2))))*100) &lt;= $StopTimeString)) 
-											       or ((number(number(substring(@start,1,10)+(1-number(substring(@start,17,2))))*100) &gt;= $StartTimeString) and (number(number(substring(@start,1,10)+(1-number(substring(@start,17,2))))*100) &lt; $StopTimeString))
-											       or ((number(number(substring(@start,1,10)+(1-number(substring(@start,17,2))))*100) &lt;= $StartTimeString) and (number(number(substring(@stop,1,10)+(1-number(substring(@stop,17,2))))*100) &gt;= $StopTimeString)))]"/>
-      <xsl:message terminate="no">
-        Error: Artist is an empty string!
-      </xsl:message>
+<xsl:variable name="Debut">
+<xsl:value-of select="number((number(substring(@start,1,10))+((1-number(substring(@start,17,2))))+number(substring(@start,11,2))))"/>
+</xsl:variable>
+<xsl:variable name="Fin">
+<xsl:value-of select="number((number(substring(@stop,1,10))+((1-number(substring(@stop,17,2))))+number(substring(@stop,11,2))))"/>
+</xsl:variable>
+<xsl:variable name="programmes" select="tv/programme[(($Fin &gt; $StartTimeString and $Fin &lt;= $StopTimeString) or ($Debut &gt;= $StartTimeString and $Debut &lt; $StopTimeString) or ($Debut &lt;= $StartTimeString and $Fin &gt;= $StopTimeString))]"/>
 
 <table id="listings">
-
 <xsl:for-each select="/tv/channel">
 <xsl:sort select="display-name[3]" data-type="number"></xsl:sort>
 
