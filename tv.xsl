@@ -66,10 +66,11 @@
 <!-- ATTENTION : cherche les programmes correspondants dans le temps horaire à afficher mais ne tient pas compte du décalage
 <xsl:variable name="programmes" select="tv/programme[((substring(@stop,1,12) &gt; $StartTimeString and substring(@stop,1,12) &lt;= $StopTimeString) or (substring(@start,1,12) &gt;= $StartTimeString and substring(@start,1,12) &lt; $StopTimeString) or (substring(@start,1,12) &lt;= $StartTimeString and substring(@stop,1,12) &gt;= $StopTimeString))]"/>
 presque...
--->
 <xsl:variable name="programmes" select="tv/programme[( ( ( (number((number(substring(@stop,1,10))+((1-number(substring(@stop,17,2))))+number(substring(@stop,11,2))))) &gt; $StartTimeString ) and ( (number((number(substring(@stop,1,10))+((1-number(substring(@stop,17,2))))+number(substring(@stop,11,2))))) &lt;= $StopTimeString ) )
 												    or (( (number((number(substring(@start,1,10))+((1-number(substring(@start,17,2))))+number(substring(@start,11,2))))) &gt;= $StartTimeString ) and ( (number((number(substring(@start,1,10))+((1-number(substring(@start,17,2))))+number(substring(@start,11,2))))) &lt; $StopTimeString ) )
 												   or  (( (number((number(substring(@start,1,10))+((1-number(substring(@start,17,2))))+number(substring(@start,11,2))))) &lt;= $StartTimeString ) and ( (number((number(substring(@stop,1,10))+((1-number(substring(@stop,17,2))))+number(substring(@stop,11,2))))) &gt;= $StopTimeString) ) )]"/>
+-->
+<xsl:variable name="programmes" select="tv/programme[((substring(@stop,1,12) &gt; $StartTimeString and substring(@stop,1,12) &lt;= $StopTimeString) or (substring(@start,1,12) &gt;= $StartTimeString and substring(@start,1,12) &lt; $StopTimeString) or (substring(@start,1,12) &lt;= $StartTimeString and substring(@stop,1,12) &gt;= $StopTimeString))]"/>
 
 <table id="listings">
 <xsl:for-each select="/tv/channel">
