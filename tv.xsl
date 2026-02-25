@@ -67,10 +67,11 @@
 <xsl:variable name="programmes" select="tv/programme[((substring(@stop,1,12) &gt; $StartTimeString and substring(@stop,1,12) &lt;= $StopTimeString) or (substring(@start,1,12) &gt;= $StartTimeString and substring(@start,1,12) &lt; $StopTimeString) or (substring(@start,1,12) &lt;= $StartTimeString and substring(@stop,1,12) &gt;= $StopTimeString))]"/>
 presque...
 <xsl:variable name="programmes" select="tv/programme[((substring(@stop,1,8) &gt; substring($StartTimeString,1,8) and substring(@stop,1,8) &lt;= substring($StopTimeString,1,8)) or (substring(@start,1,8) &gt;= substring($StartTimeString,1,8) and substring(@start,1,8) &lt; substring($StopTimeString,1,8)) or (substring(@start,1,8) &lt;= substring($StartTimeString,1,8) and substring(@stop,1,8) &gt;= substring($StopTimeString,1,8)))]"/>
--->
 <xsl:variable name="programmes" select="tv/programme[(((number(number(substring(@stop,1,10)+(1-number(substring(@stop,17,2))))*100) &gt; (number($StartTimeString))) and (number(number(substring(@stop,1,10)+(1-number(substring(@stop,17,2))))*100) &lt;= (number($StopTimeString)))) 
 											       or ((number(number(substring(@start,1,10)+(1-number(substring(@start,17,2))))*100) &gt;= (number($StartTimeString))) and (number(number(substring(@start,1,10)+(1-number(substring(@start,17,2))))*100) &lt; (number($StopTimeString))))
 											       or ((number(number(substring(@start,1,10)+(1-number(substring(@start,17,2))))*100) &lt;= (number($StartTimeString))) and (number(number(substring(@stop,1,10)+(1-number(substring(@stop,17,2))))*100) &gt;= (number($StopTimeString)))))]"/>
+-->
+<xsl:variable name="programmes" select="tv/programme[((substring(@stop,1,12) &gt; $StartTimeString and substring(@stop,1,12) &lt;= $StopTimeString) or (substring(@start,1,12) &gt;= $StartTimeString and substring(@start,1,12) &lt; $StopTimeString) or (substring(@start,1,12) &lt;= $StartTimeString and substring(@stop,1,12) &gt;= $StopTimeString))]"/>
 
 <table id="listings">
 
