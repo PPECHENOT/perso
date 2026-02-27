@@ -65,13 +65,12 @@
 <xsl:variable name="StopTimeString" select="concat($StopYear, format-number($StopMonth,'00'), format-number($StopDay,'00'), format-number($StopHour,'00'), '00')" /> <!-- These are for selecting the appropriate programmes -->
 <!-- ATTENTION : cherche les programmes correspondants dans le temps horaire à afficher mais ne tient pas compte du décalage
 <xsl:variable name="programmes" select="tv/programme[((substring(@stop,1,12) &gt; $StartTimeString and substring(@stop,1,12) &lt;= $StopTimeString) or (substring(@start,1,12) &gt;= $StartTimeString and substring(@start,1,12) &lt; $StopTimeString) or (substring(@start,1,12) &lt;= $StartTimeString and substring(@stop,1,12) &gt;= $StopTimeString))]"/>
-presque...
+CALCUL : (((number(substring(@stop,1,10)) + (1 - number(substring(@stop,17,2)))) * 100) + number(substring(@stop,11,2)))
 -->
 <xsl:variable name="programmes" select="tv/programme[( ( ( (((number(substring(@stop,1,10)) + (1 - number(substring(@stop,17,2)))) * 100) + number(substring(@stop,11,2))) &gt; $StartTimeString ) and ( (((number(substring(@stop,1,10)) + (1 - number(substring(@stop,17,2)))) * 100) + number(substring(@stop,11,2))) &lt;= $StopTimeString ) )
 													or ( ( (((number(substring(@start,1,10)) + (1 - number(substring(@start,17,2)))) * 100) + number(substring(@start,11,2))) &gt;= $StartTimeString ) and ( (((number(substring(@start,1,10)) + (1 - number(substring(@start,17,2)))) * 100) + number(substring(@start,11,2))) &lt; $StopTimeString ) )
 												    or ( ( (((number(substring(@start,1,10)) + (1 - number(substring(@start,17,2)))) * 100) + number(substring(@start,11,2))) &lt;= $StartTimeString ) and ( (((number(substring(@stop,1,10)) + (1 - number(substring(@stop,17,2)))) * 100) + number(substring(@stop,11,2))) &gt;= $StopTimeString ) ) )]"/>
 
-<!-- CALCUL : (((number(substring(@stop,1,10)) + (1 - number(substring(@stop,17,2)))) * 100) + number(substring(@stop,11,2))) -->
 
 <table id="listings">
 <xsl:for-each select="/tv/channel">
