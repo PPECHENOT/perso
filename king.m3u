@@ -64,8 +64,6 @@ http://elvis.tvott.net:2103/play/live.php?mac=00:1A:79:BE:5F:B6&stream=1962&exte
 #EXTINF:-1 tvg-id="Action" tvg-logo="https://ppechenot.github.io/perso/logos/action.png" group-title="CINEMA",ACTION
 http://elvis.tvott.net:2103/play/live.php?mac=00:1A:79:BE:5F:B6&stream=2548&extension=ts
 
-#EXTINF:-1 tvg-id="CanalPlusSeries" tvg-logo="https://ppechenot.github.io/perso/logos/canal+_series.png" group-title="SERIES",CANAL+ SERIES
-http://elvis.tvott.net:2103/play/live.php?mac=00:1A:79:BE:5F:B6&stream=37170&extension=ts
 #EXTINF:-1 tvg-id="PolarPlus" tvg-logo="https://ppechenot.github.io/perso/logos/polar+.png" group-title="SERIES",POLAR+
 http://elvis.tvott.net:2103/play/live.php?mac=00:1A:79:BE:5F:B6&stream=1807&extension=ts
 #EXTINF:-1 tvg-id="ComediePlus" tvg-logo="https://ppechenot.github.io/perso/logos/comedie+.png" group-title="SERIES",COMEDIE+
