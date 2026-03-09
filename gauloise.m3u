@@ -1,25 +1,25 @@
 #EXTM3U url-tvg="https://ppechenot.github.io/perso/tivi.xml"
 
 #EXTINF:-1 tvg-id="TF1" tvg-logo="https://ppechenot.github.io/perso/logos/tf1.png" group-title="TNT",TF1
-http://elvis.tvott.net:2103/play/live.php?mac=00:1A:79:BE:5F:B6&stream=1149&extension=ts
+http://4cms.cc:8080/VShBbrxnJCNFCvvjtuZkkd/obtbcyNoKO/ 327070
 #EXTINF:-1 tvg-id="France2" tvg-logo="https://ppechenot.github.io/perso/logos/france2.png" group-title="TNT",FRANCE 2
-http://4cms.cc:8080/VShBbrxnJCNFCvvjtuZkkd/obtbcyNoKO/26629
+http://4cms.cc:8080/VShBbrxnJCNFCvvjtuZkkd/obtbcyNoKO/26386
 #EXTINF:-1 tvg-id="France3" tvg-logo="https://ppechenot.github.io/perso/logos/france3.png" group-title="TNT",FRANCE 3
-http://4cms.cc:8080/VShBbrxnJCNFCvvjtuZkkd/obtbcyNoKO/26628
+http://4cms.cc:8080/VShBbrxnJCNFCvvjtuZkkd/obtbcyNoKO/26385
 #EXTINF:-1 tvg-id="France4" tvg-logo="https://ppechenot.github.io/perso/logos/france4.png" group-title="TNT",FRANCE 4
-http://4cms.cc:8080/VShBbrxnJCNFCvvjtuZkkd/obtbcyNoKO/26627
+http://4cms.cc:8080/VShBbrxnJCNFCvvjtuZkkd/obtbcyNoKO/26384
 #EXTINF:-1 tvg-id="France5" tvg-logo="https://ppechenot.github.io/perso/logos/france5.png" group-title="TNT",FRANCE 5
-http://4cms.cc:8080/VShBbrxnJCNFCvvjtuZkkd/obtbcyNoKO/26626
+http://4cms.cc:8080/VShBbrxnJCNFCvvjtuZkkd/obtbcyNoKO/26383
 #EXTINF:-1 tvg-id="M6" tvg-logo="https://ppechenot.github.io/perso/logos/m6.png" group-title="TNT",M6
-http://elvis.tvott.net:2103/play/live.php?mac=00:1A:79:BE:5F:B6&stream=1154&extension=ts
+http://4cms.cc:8080/VShBbrxnJCNFCvvjtuZkkd/obtbcyNoKO/327072
 #EXTINF:-1 tvg-id="Arte" tvg-logo="https://ppechenot.github.io/perso/logos/arte.png" group-title="TNT",ARTE
-http://elvis.tvott.net:2103/play/live.php?mac=00:1A:79:BE:5F:B6&stream=37159&extension=ts
+http://4cms.cc:8080/VShBbrxnJCNFCvvjtuZkkd/obtbcyNoKO/423854
 #EXTINF:-1 tvg-id="LCP" tvg-logo="https://ppechenot.github.io/perso/logos/lcp.png" group-title="TNT",LCP
-http://elvis.tvott.net:2103/play/live.php?mac=00:1A:79:BE:5F:B6&stream=1148&extension=ts
+http://4cms.cc:8080/VShBbrxnJCNFCvvjtuZkkd/obtbcyNoKO/36761
 #EXTINF:-1 tvg-id="W9" tvg-logo="https://ppechenot.github.io/perso/logos/w9.png" group-title="TNT",W9
-http://elvis.tvott.net:2103/play/live.php?mac=00:1A:79:BE:5F:B6&stream=1128&extension=ts
+http://4cms.cc:8080/VShBbrxnJCNFCvvjtuZkkd/obtbcyNoKO/26375
 #EXTINF:-1 tvg-id="TMC" tvg-logo="https://ppechenot.github.io/perso/logos/tmc.png" group-title="TNT",TMC
-http://elvis.tvott.net:2103/play/live.php?mac=00:1A:79:BE:5F:B6&stream=1639&extension=ts
+http://4cms.cc:8080/VShBbrxnJCNFCvvjtuZkkd/obtbcyNoKO/26597
 #EXTINF:-1 tvg-id="TFX" tvg-logo="https://ppechenot.github.io/perso/logos/tfx.png" group-title="TNT",TFX
 http://elvis.tvott.net:2103/play/live.php?mac=00:1A:79:BE:5F:B6&stream=1636&extension=ts
 #EXTINF:-1 tvg-id="CStar" tvg-logo="https://ppechenot.github.io/perso/logos/cstar.png" group-title="TNT",CSTAR
@@ -118,9 +118,9 @@ http://elvis.tvott.net:2103/play/live.php?mac=00:1A:79:BE:5F:B6&stream=12785&ext
 #EXTINF:-1 tvg-id="CanalPlusSport360" tvg-logo="https://ppechenot.github.io/perso/logos/canal+_sport_360.png" group-title="SPORT",CANAL+ SPORT 360
 http://elvis.tvott.net:2103/play/live.php?mac=00:1A:79:BE:5F:B6&stream=8720&extension=ts
 #EXTINF:-1 tvg-id="Eurosport1" tvg-logo="https://ppechenot.github.io/perso/logos/eurosport1.png" group-title="SPORT",EUROSPORT 1
-http://elvis.tvott.net:2103/play/live.php?mac=00:1A:79:BE:5F:B6&stream=1846&extension=ts
+http://4cms.cc:8080/VShBbrxnJCNFCvvjtuZkkd/obtbcyNoKO/419558
 #EXTINF:-1 tvg-id="Eurosport2" tvg-logo="https://ppechenot.github.io/perso/logos/eurosport2.png" group-title="SPORT",EUROSPORT 2
-http://elvis.tvott.net:2103/play/live.php?mac=00:1A:79:BE:5F:B6&stream=1847&extension=ts
+http://4cms.cc:8080/VShBbrxnJCNFCvvjtuZkkd/obtbcyNoKO/419556
 #EXTINF:-1 tvg-id="BeinSports1" tvg-logo="https://ppechenot.github.io/perso/logos/bein_sports1.png" group-title="SPORT",BEIN SPORTS 1
 http://elvis.tvott.net:2103/play/live.php?mac=00:1A:79:BE:5F:B6&stream=1287&extension=ts
 #EXTINF:-1 tvg-id="BeinSports2" tvg-logo="https://ppechenot.github.io/perso/logos/bein_sports2.png" group-title="SPORT",BEIN SPORTS 2
