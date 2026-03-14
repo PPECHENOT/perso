@@ -134,7 +134,7 @@ http://platineiptv.live:80/play/live.php?mac=00:1A:79:08:45:FA&stream=14152&exte
 #EXTINF:-1 tvg-id="SportEnFrance" tvg-logo="https://ppechenot.github.io/perso/logos/sport_en_france.png" group-title="SPORT",SPORT EN FRANCE
 http://platineiptv.live:80/play/live.php?mac=00:1A:79:08:45:FA&stream=120240&extension=ts
 #EXTINF:-1 tvg-id="GolfPlus" tvg-logo="https://ppechenot.github.io/perso/logos/golf+.png" group-title="SPORT",GOLF+
-http://platineiptv.live:80/play/live.php?mac=00:1A:79:08:45:FA&stream=13734&extension=ts
+http://platineiptv.live:80/play/live.php?mac=00:1A:79:08:45:FA&stream=117003&extension=ts
 #EXTINF:-1 tvg-id="SkySportsGolf" tvg-logo="https://ppechenot.github.io/perso/logos/sky_sports_golf_uk.png" group-title="SPORT",SKY SPORTS GOLF
 http://platineiptv.live:80/play/live.php?mac=00:1A:79:08:45:FA&stream=215913&extension=ts
 #EXTINF:-1 tvg-id="SkySportsMix" tvg-logo="https://ppechenot.github.io/perso/logos/sky_sports_golf_uk.png" group-title="SPORT",SKY SPORTS MIX
