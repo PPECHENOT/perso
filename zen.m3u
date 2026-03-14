@@ -160,12 +160,8 @@ http://apk.zentv4k.me/play/live.php?mac=00:1A:79:7B:D8:EE&stream=588038&extensio
 http://apk.zentv4k.me/play/live.php?mac=00:1A:79:7B:D8:EE&stream=839913&extension=ts
 #EXTINF:-1 tvg-id="VSportGolf" tvg-logo="https://ppechenot.github.io/perso/logos/vsport_golf.png" group-title="SPORT",V SPORT GOLF
 http://apk.zentv4k.me/play/live.php?mac=00:1A:79:7B:D8:EE&stream=302272&extension=ts
-#EXTINF:-1 tvg-id="GolfChannel" tvg-logo="https://ppechenot.github.io/perso/logos/nbc_golf_channel.png" group-title="SPORT",NBC GOLF
-http://apk.zentv4k.me/play/live.php?mac=00:1A:79:7B:D8:EE&stream=325001&extension=ts
-#EXTINF:-1 tvg-logo="https://icon-tmdb.com/stalker_portal/misc/logos/320/14619.PNG?ver=97781" group-title="SPORT",SLING: GOLF CHANNEL ᴿᴬᵂ
-http://apk.zentv4k.me:80/play/live.php?mac=00:1A:79:7B:D8:EE&stream=1624300&extension=ts&play_token=hAvUKRt8Ab
-#EXTINF:-1 tvg-logo="https://icon-tmdb.com/stalker_portal/misc/logos/320/14545.PNG?ver=52669" group-title="SPORT",GO: GOLF CHANNEL
-http://apk.zentv4k.me:80/play/live.php?mac=00:1A:79:7B:D8:EE&stream=1568762&extension=ts&play_token=uoZ3HSepAx
+#EXTINF:-1 tvg-id="GolfChannel" tvg-logo="https://ppechenot.github.io/perso/logos/golf_channel.png" group-title="SPORT",GOLF CHANNEL
+http://apk.zentv4k.me:80/play/live.php?mac=00:1A:79:7B:D8:EE&stream=1624300&extension=ts
 
 #EXTINF:-1 tvg-id="France2" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/13797.png?ver=39230" group-title="PRIME",PRIME: FRANCE 2
 http://apk.zentv4k.me:80/play/live.php?mac=00:1A:79:7B:D8:EE&stream=1537515&extension=ts&play_token=LXScVyzNgo
